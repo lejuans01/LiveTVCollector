@@ -1351,7 +1351,7 @@ https://www.tbn24.com/api/video/4029_0.m3u8
 https://www.tbn24.com/api/video/4032_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsRRMM8r/images-4.jpg" group-title="Bangladesh",STAR PLUS HD
 https://www.tbn24.com/api/video/4039_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GN8TVjX/images-2.png" group-title="Bangladesh",DISNEP
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GN8TVjX/images-2.png" group-title="Bangladesh",DISNEP CHANNEL
 http://38.96.178.201/live/Disney/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q3870F8P/images.png" group-title="Bangladesh",NATIONAL
 http://88.212.15.19/live/test_ngc/playlist.m3u8

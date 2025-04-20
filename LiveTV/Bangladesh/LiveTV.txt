@@ -507,7 +507,7 @@ URL: https://www.tbn24.com/api/video/4039_0.m3u8
 Logo: https://i.ibb.co.com/dsRRMM8r/images-4.jpg
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
-Name: DISNEP
+Name: DISNEP CHANNEL
 URL: http://38.96.178.201/live/Disney/index.m3u8
 Logo: https://i.ibb.co.com/GN8TVjX/images-2.png
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u

@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-20 13:52:59",
+  "date": "2025-04-20 21:52:30",
   "channels": {
     "BANGLA": [
       {
@@ -4815,7 +4815,7 @@
         "url": "https://www.tbn24.com/api/video/4039_0.m3u8"
       },
       {
-        "name": "DISNEP",
+        "name": "DISNEP CHANNEL",
         "logo": "https://i.ibb.co.com/GN8TVjX/images-2.png",
         "group": "Bangladesh",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
