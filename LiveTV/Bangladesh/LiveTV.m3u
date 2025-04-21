@@ -92,7 +92,7 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",DesheBideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaYfLX3eac9kK8nvEp6i3NGUs4RP8D1jvHw&s" group-title="BANGLA",COLORS BANGLA CINEMA
-http://38.96.178.201/live/AkashAath/index.m3u8
+http://tv.bdiptv.store/live/restream/restreamxpxpxp/238.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg" group-title="English News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="English News",BBC News
@@ -278,7 +278,7 @@ http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T-Sports [2]
 https://www.tbn24.com/api/video/4031_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T-Sports [3]
-https://cdn.hoichoi24.com/LIVE/video.m3u8
+https://tvs2.aynaott.com/tsportshd/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 https://www.tbn24.com/api/video/4028_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
@@ -1316,7 +1316,7 @@ http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d0fWLPZR/1677040358634-BTVogo.png" group-title="Bangladesh",BTV HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zHGC2gbF/BTV-News-Logo.png" group-title="Bangladesh",BTV NEWS
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+http://xott.live/live/259862/259861/388459.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zTgqxTzv/somoy-tv-logo-png-seeklogo-536972.png" group-title="Bangladesh",SOMOY TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Hpddjjy4/channels4-profile.jpg" group-title="Bangladesh",INDEPNDENT HD
@@ -1351,8 +1351,10 @@ https://www.tbn24.com/api/video/4029_0.m3u8
 https://www.tbn24.com/api/video/4032_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsRRMM8r/images-4.jpg" group-title="Bangladesh",STAR PLUS HD
 https://www.tbn24.com/api/video/4039_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bj6skF3M/images-3.jpg" group-title="Bangladesh",HUNGAMA
+http://xott.live/live/259862/259861/307079.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GN8TVjX/images-2.png" group-title="Bangladesh",DISNEP CHANNEL
-http://38.96.178.201/live/Disney/index.m3u8
+http://xott.live/live/259862/259861/311373.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q3870F8P/images.png" group-title="Bangladesh",NATIONAL
 http://88.212.15.19/live/test_ngc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1Gny5NSv/images-1.jpg" group-title="Bangladesh",WILD

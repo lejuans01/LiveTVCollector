@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-21 13:58:01",
+  "date": "2025-04-21 21:54:58",
   "channels": {
     "BANGLA": [
       {
@@ -329,7 +329,7 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaYfLX3eac9kK8nvEp6i3NGUs4RP8D1jvHw&s",
         "group": "BANGLA",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
-        "url": "http://38.96.178.201/live/AkashAath/index.m3u8"
+        "url": "http://tv.bdiptv.store/live/restream/restreamxpxpxp/238.m3u8"
       }
     ],
     "English News": [
@@ -998,7 +998,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://cdn.hoichoi24.com/LIVE/video.m3u8"
+        "url": "https://tvs2.aynaott.com/tsportshd/tracks-v1/index.fmp4.m3u8"
       },
       {
         "name": "Star Sports 1",
@@ -4693,7 +4693,7 @@
         "logo": "https://i.ibb.co.com/zHGC2gbF/BTV-News-Logo.png",
         "group": "Bangladesh",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
-        "url": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8"
+        "url": "http://xott.live/live/259862/259861/388459.ts"
       },
       {
         "name": "SOMOY TV",
@@ -4815,11 +4815,18 @@
         "url": "https://www.tbn24.com/api/video/4039_0.m3u8"
       },
       {
+        "name": "HUNGAMA",
+        "logo": "https://i.ibb.co.com/bj6skF3M/images-3.jpg",
+        "group": "Bangladesh",
+        "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
+        "url": "http://xott.live/live/259862/259861/307079.ts"
+      },
+      {
         "name": "DISNEP CHANNEL",
         "logo": "https://i.ibb.co.com/GN8TVjX/images-2.png",
         "group": "Bangladesh",
         "source": "https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u",
-        "url": "http://38.96.178.201/live/Disney/index.m3u8"
+        "url": "http://xott.live/live/259862/259861/311373.ts"
       },
       {
         "name": "NATIONAL",

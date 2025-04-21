@@ -382,7 +382,7 @@ Logo: https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.j
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
 Name: COLORS BANGLA CINEMA
-URL: http://38.96.178.201/live/AkashAath/index.m3u8
+URL: http://tv.bdiptv.store/live/restream/restreamxpxpxp/238.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaYfLX3eac9kK8nvEp6i3NGUs4RP8D1jvHw&s
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
@@ -418,7 +418,7 @@ Logo: https://i.ibb.co.com/d0fWLPZR/1677040358634-BTVogo.png
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 Name: BTV NEWS
-URL: https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+URL: http://xott.live/live/259862/259861/388459.ts
 Logo: https://i.ibb.co.com/zHGC2gbF/BTV-News-Logo.png
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
@@ -507,8 +507,13 @@ URL: https://www.tbn24.com/api/video/4039_0.m3u8
 Logo: https://i.ibb.co.com/dsRRMM8r/images-4.jpg
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
+Name: HUNGAMA
+URL: http://xott.live/live/259862/259861/307079.ts
+Logo: https://i.ibb.co.com/bj6skF3M/images-3.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
 Name: DISNEP CHANNEL
-URL: http://38.96.178.201/live/Disney/index.m3u8
+URL: http://xott.live/live/259862/259861/311373.ts
 Logo: https://i.ibb.co.com/GN8TVjX/images-2.png
 Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
@@ -2064,7 +2069,7 @@ Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: T-Sports [3]
-URL: https://cdn.hoichoi24.com/LIVE/video.m3u8
+URL: https://tvs2.aynaott.com/tsportshd/tracks-v1/index.fmp4.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------

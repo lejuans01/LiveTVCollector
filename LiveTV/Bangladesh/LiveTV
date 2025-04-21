@@ -278,7 +278,7 @@
   {
     "name": "COLORS BANGLA CINEMA",
     "type": "BANGLA",
-    "url": "http://38.96.178.201/live/AkashAath/index.m3u8",
+    "url": "http://tv.bdiptv.store/live/restream/restreamxpxpxp/238.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaYfLX3eac9kK8nvEp6i3NGUs4RP8D1jvHw&s"
   },
   {
@@ -836,7 +836,7 @@
   {
     "name": "T-Sports [3]",
     "type": "SPORTS",
-    "url": "https://cdn.hoichoi24.com/LIVE/video.m3u8",
+    "url": "https://tvs2.aynaott.com/tsportshd/tracks-v1/index.fmp4.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
   },
   {
@@ -3950,7 +3950,7 @@
   {
     "name": "BTV NEWS",
     "type": "Bangladesh",
-    "url": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
+    "url": "http://xott.live/live/259862/259861/388459.ts",
     "img": "https://i.ibb.co.com/zHGC2gbF/BTV-News-Logo.png"
   },
   {
@@ -4056,9 +4056,15 @@
     "img": "https://i.ibb.co.com/dsRRMM8r/images-4.jpg"
   },
   {
+    "name": "HUNGAMA",
+    "type": "Bangladesh",
+    "url": "http://xott.live/live/259862/259861/307079.ts",
+    "img": "https://i.ibb.co.com/bj6skF3M/images-3.jpg"
+  },
+  {
     "name": "DISNEP CHANNEL",
     "type": "Bangladesh",
-    "url": "http://38.96.178.201/live/Disney/index.m3u8",
+    "url": "http://xott.live/live/259862/259861/311373.ts",
     "img": "https://i.ibb.co.com/GN8TVjX/images-2.png"
   },
   {
