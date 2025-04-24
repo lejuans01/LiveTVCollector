@@ -1406,8 +1406,32 @@
   {
     "name": "Champions TV 1",
     "type": "Sports",
-    "url": "https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17938",
+    "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash",
     "img": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest?cb=20200428062800"
+  },
+  {
+    "name": "Champions TV 2",
+    "type": "Sports",
+    "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17939&type=dash",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png/revision/latest/scale-to-width-down/1200?cb=20210823120818"
+  },
+  {
+    "name": "Champions TV 3",
+    "type": "Sports",
+    "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123"
+  },
+  {
+    "name": "Champions TV 5",
+    "type": "Sports",
+    "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash",
+    "img": "https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1710399597-.png"
+  },
+  {
+    "name": "Champions TV 6",
+    "type": "Sports",
+    "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash",
+    "img": "https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343"
   },
   {
     "name": "Astro Premier League",
@@ -1508,13 +1532,13 @@
   {
     "name": "Bein Sport 4",
     "type": "Sports",
-    "url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd",
+    "url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd|Referer=https://www.visionplus.id",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVDC4F7SLB9KmrusTyTUoycs5HMYTeFiFRX-oG1-WcQa57OWPoSVNwtk0TrQJdXFE9XXH0ZOEB5rRH8zMhyFtjTYPxnbaQ7dcHMixZ1QAxAf6r0sOo9giCfuCZIXQvTLt8Jm9jTfgr0Py5iiS84tg3d6o1n_f-pqTzFVebI9BZQzvlUiQ4sS1VA9_XXRc7/s700/BEIN%20SPORTS%204%20ID.png"
   },
   {
     "name": "Bein Sport 5",
     "type": "Sports",
-    "url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd",
+    "url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd|Referer=https://www.visionplus.id",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ53Z0TTaBPc8fkuVDpdRd1tMwRmNNhUvVqo-jT6Pm9BE01MQiw2gsTnyWLIJTF7QM5HovelMByw7Jr0aLgwhRyNXQLc2qpIZaTeGrZoioJFNe-xYG9oFugueUtnhgMeHDKpwSYO3PbS5lxlKCIn5tDXRqg_Lc6Lpgom315Kh6yx4rDCPzM3f0NE8T6P65/s700/BEIN%20SPORTS%205%20ID.png"
   },
   {
@@ -3566,19 +3590,19 @@
   {
     "name": "INDOSIAR 1",
     "type": "TV Nasional Indonesia",
-    "url": "http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts",
+    "url": "http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8",
     "img": "http://amstv.my.id/icon/indosiar.png"
   },
   {
     "name": "RCTI",
     "type": "TV Nasional Indonesia",
-    "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd",
+    "url": "https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_80.png"
   },
   {
     "name": "GTV",
     "type": "TV Nasional Indonesia",
-    "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd",
+    "url": "https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_81.png"
   },
   {
@@ -3620,7 +3644,7 @@
   {
     "name": "TV ONE HD",
     "type": "TV Nasional Indonesia",
-    "url": "http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8",
+    "url": "https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd",
     "img": "https://i.imgur.com/Ys0M82m.jpeg"
   },
   {
@@ -3632,7 +3656,7 @@
   {
     "name": "RTV",
     "type": "TV Nasional Indonesia",
-    "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8",
     "img": "https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png"
   },
   {
@@ -3650,7 +3674,7 @@
   {
     "name": "SindoNews",
     "type": "TV Nasional Indonesia",
-    "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd",
+    "url": "https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_84.png"
   },
   {
@@ -4923,6 +4947,12 @@
     "name": "INDOSIAR (Bola) 1",
     "type": "NASIONAL",
     "url": "http://www.geocities.ws/wahyuiptv/IndosiarHD.m3u8",
+    "img": "https://i.imgur.com/bjNCrmL.jpeg"
+  },
+  {
+    "name": "INDOSIAR (Bola)2",
+    "type": "NASIONAL",
+    "url": "http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts",
     "img": "https://i.imgur.com/bjNCrmL.jpeg"
   },
   {
@@ -7254,22 +7284,10 @@
     "img": "https://alkhalifitv.github.io/TV/big/indosiar.png"
   },
   {
-    "name": "RCTI HD",
-    "type": "LOKAL",
-    "url": "https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd",
-    "img": "http://alkhalifitv.github.io/TV/big/rcti.png"
-  },
-  {
     "name": "SCTV HD",
     "type": "LOKAL",
     "url": "https://cdn10jtedge.indihometv.com/atm/DASH/sctv/playlist.mpd",
     "img": "https://alkhalifitv.github.io/TV/big/sctv.png"
-  },
-  {
-    "name": "GTV HD",
-    "type": "LOKAL",
-    "url": "https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd",
-    "img": "https://alkhalifitv.github.io/TV/big/gtv.png"
   },
   {
     "name": "GTV",

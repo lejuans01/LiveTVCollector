@@ -3011,19 +3011,9 @@ URL: https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/playlist.mpd
 Logo: https://alkhalifitv.github.io/TV/big/indosiar.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
-Name: RCTI HD
-URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
-Logo: http://alkhalifitv.github.io/TV/big/rcti.png
-Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
---------------------------------------------------
 Name: SCTV HD
 URL: https://cdn10jtedge.indihometv.com/atm/DASH/sctv/playlist.mpd
 Logo: https://alkhalifitv.github.io/TV/big/sctv.png
-Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
---------------------------------------------------
-Name: GTV HD
-URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
-Logo: https://alkhalifitv.github.io/TV/big/gtv.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
 Name: GTV
@@ -4278,6 +4268,11 @@ URL: http://www.geocities.ws/wahyuiptv/IndosiarHD.m3u8
 Logo: https://i.imgur.com/bjNCrmL.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
+Name: INDOSIAR (Bola)2
+URL: http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
+Logo: https://i.imgur.com/bjNCrmL.jpeg
+Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
+--------------------------------------------------
 Name: INDOSIAR (Bola) 3
 URL: http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
 Logo: https://i.imgur.com/bjNCrmL.jpeg
@@ -5524,8 +5519,28 @@ Logo: https://images.indihometv.com/assets/1719765786_88-SPOTV-2.png
 Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
 --------------------------------------------------
 Name: Champions TV 1
-URL: https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17938
+URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 Logo: https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest?cb=20200428062800
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Champions TV 2
+URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17939&type=dash
+Logo: https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png/revision/latest/scale-to-width-down/1200?cb=20210823120818
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Champions TV 3
+URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
+Logo: https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Champions TV 5
+URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+Logo: https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1710399597-.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Champions TV 6
+URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+Logo: https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Astro Premier League
@@ -5609,12 +5624,12 @@ Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8PTewlflhO6Nct
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Bein Sport 4
-URL: https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+URL: https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd|Referer=https://www.visionplus.id
 Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVDC4F7SLB9KmrusTyTUoycs5HMYTeFiFRX-oG1-WcQa57OWPoSVNwtk0TrQJdXFE9XXH0ZOEB5rRH8zMhyFtjTYPxnbaQ7dcHMixZ1QAxAf6r0sOo9giCfuCZIXQvTLt8Jm9jTfgr0Py5iiS84tg3d6o1n_f-pqTzFVebI9BZQzvlUiQ4sS1VA9_XXRc7/s700/BEIN%20SPORTS%204%20ID.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Bein Sport 5
-URL: https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+URL: https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd|Referer=https://www.visionplus.id
 Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ53Z0TTaBPc8fkuVDpdRd1tMwRmNNhUvVqo-jT6Pm9BE01MQiw2gsTnyWLIJTF7QM5HovelMByw7Jr0aLgwhRyNXQLc2qpIZaTeGrZoioJFNe-xYG9oFugueUtnhgMeHDKpwSYO3PbS5lxlKCIn5tDXRqg_Lc6Lpgom315Kh6yx4rDCPzM3f0NE8T6P65/s700/BEIN%20SPORTS%205%20ID.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -5952,17 +5967,17 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 
 Group: TV Nasional Indonesia
 Name: INDOSIAR 1
-URL: http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
+URL: http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 Logo: http://amstv.my.id/icon/indosiar.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: RCTI
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_80.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: GTV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_81.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -5997,7 +6012,7 @@ Logo: https://www.mncvision.id/userfiles/image/channel/channel_110.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: TV ONE HD
-URL: http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
+URL: https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 Logo: https://i.imgur.com/Ys0M82m.jpeg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -6007,7 +6022,7 @@ Logo: https://www.mncvision.id/userfiles/image/channel/metro_tv.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: RTV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
+URL: https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 Logo: https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -6022,7 +6037,7 @@ Logo: https://www.mncvision.id/userfiles/image/channel/channel_118.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: SindoNews
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+URL: https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_84.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
