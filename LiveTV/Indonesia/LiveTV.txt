@@ -134,32 +134,32 @@ Logo: https://www.mncvision.id/userfiles/image/channel/baby_tv.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Besmart
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/BeSmart/sa_dash/BeSmart.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/BeSmart/sa_dash/BeSmart.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_112.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: CBeebies
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Cbeebies/sa_dash/Cbeebies.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash/Cbeebies.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Kids TV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/KidsChannel/sa_dash/KidsChannel.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/KidsChannel/sa_dash/KidsChannel.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_46.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Miao Mi
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/MiaoMi/sa_dash/MiaoMi.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/MiaoMi/sa_dash/MiaoMi.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/miawme150x150.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Nick Jr
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd|Referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd|Referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/nickjr.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Nickelodeon
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd|Referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.netlive/eds/Nickelodeon/sa_dash/Nickelodeon.mpd|Referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/nickelodeon.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -184,7 +184,7 @@ Logo: https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Moonbug Kids
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd
 Logo: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012020/moonbug_kids_on_white.png?N15F03k4i.bbYpm4vkwIU0HwhRsSA4YX&itok=zAZIL7t_
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -1252,21 +1252,6 @@ URL: https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
 Logo: https://i.imgur.com/SR1YPbD.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
-Name: Hits
-URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/HITS/sa_dash/HITS.mpd
-Logo: https://alkhalifitv.github.io/TV/big/hits.png
-Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
---------------------------------------------------
-Name: HITS Movies
-URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
-Logo: https://alkhalifitv.github.io/TV/big/hitsmovies.png
-Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
---------------------------------------------------
-Name: ZEE BIOSKOP
-URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
-Logo: http://alkhalifitv.github.io/TV/big/zbioskop.png
-Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
---------------------------------------------------
 Name: Celestial Movies Indonesia
 URL: http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
 Logo: https://alkhalifitv.github.io/TV/big/cm.png
@@ -1604,7 +1589,7 @@ Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playl
 
 Group: Hiburan & Gaya Hidup
 Name: ABC Australia
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
 Logo: https://i.imgur.com/kHM0jUd.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -1619,7 +1604,7 @@ Logo: https://dl.dropboxusercontent.com/s/fldtbe5kvdc3k75/axstvnow.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Celebrities tv
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
 Logo: https://dl.dropbox.com/scl/fi/ok3b4qfubkwf8k7z1fppv/Celebrities-tv.jpg?rlkey=f9sdv1x4pdmws9qsm4o3i0sod&dl=0
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -1669,12 +1654,12 @@ Logo: https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainmen
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Anhui TV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/AnhuiTV/sa_dash/AnhuiTV.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/AnhuiTV/sa_dash/AnhuiTV.mpd
 Logo: https://www.lyngsat.com/logo/tv/aa/anhui_tv_cn.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Arirang World
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Arirang/sa_dash/Arirang.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Arirang/sa_dash/Arirang.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_351.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -1689,12 +1674,12 @@ Logo: https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Hunan TV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/HunanTV/sa_dash/HunanTV.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/HunanTV/sa_dash/HunanTV.mpd|referer=https://www.visionplus.id
 Logo: https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Jiangsu TV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd|referer=https://www.visionplus.id
 Logo: https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -1704,12 +1689,12 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Korean_Broadcast
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: okezone tv
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_90.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Lifetime Asia
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Lifetime/sa_dash/Lifetime.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Lifetime/sa_dash/Lifetime.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_167.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -1719,27 +1704,27 @@ Logo: https://dl.dropbox.com/scl/fi/bz8bai6mmi4qamxuqvqgm/Maxstream.jpg?rlkey=w9
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: M Shop Signature
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/MNCShop/sa_dash/MNCShop.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCShop/sa_dash/MNCShop.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_79.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: MNC Infotainment
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_96.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: OK TV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/OKTV/sa_dash/OKTV.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/OKTV/sa_dash/OKTV.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_95.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: ONE
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/SetOne/sa_dash/SetOne.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/SetOne/sa_dash/SetOne.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_164.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Dragon TV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd|referer=https://www.visionplus.id
 Logo: https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -1749,7 +1734,7 @@ Logo: https://w7.pngwing.com/pngs/573/795/png-transparent-france-tv5monde-televi
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Vision Prime
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/VisionPrime/sa_dash/VisionPrime.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/VisionPrime/sa_dash/VisionPrime.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_94.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -3990,28 +3975,23 @@ URL: https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/873.m3u8
 Logo: https://vmp-cms.telkomsel.com/sites/default/files/entry/0_t4w6p88r/landscape_carousel_xxhdpi.jpg
 Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
 --------------------------------------------------
-Name: ,TV 5 Monde
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/TV5/sa_dash/TV5.mpd
-Logo: https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20TV5%20Monde.jpg
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
 Name: Nadoo Korean
 URL: https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 Logo: https://iptv.urfan.web.id/logo/nadoo.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: AXN East Asia
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/AXN/sa_dash/AXN.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Celestial Classic Movies
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/CelestialClassic/sa_dash/CelestialClassic.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialClassic/sa_dash/CelestialClassic.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_22.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Celestial Movies Indonesia
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/CelestialMovie/sa_dash/CelestialMovie.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialMovie/sa_dash/CelestialMovie.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/celestial.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -4021,17 +4001,17 @@ Logo: http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e6
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: FMN
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/FMN/sa_dash/FMN.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/FMN/sa_dash/FMN.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/150x150fmn.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: HITS
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/HITS/sa_dash/HITS.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/HITS/sa_dash/HITS.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_160.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: HITS Movies
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_169.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -4041,7 +4021,7 @@ Logo: https://www.visionplus.id/images/repository/001/50001-SNAPSHOT-l.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Thrill
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Thrill/sa_dash/Thrill.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -4051,17 +4031,17 @@ Logo: https://www.mncvision.id/userfiles/image/channel/channel_109.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Zee Bioskop
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_23.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Galaxy
-URL: http://cempedak-cdn-fly.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_13.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Galaxy Premium
-URL: http://cempedak-cdn-fly.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_12.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -4076,38 +4056,38 @@ Logo: https://github.com/Qingtvnew/test/raw/main/one.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Indonesia Movie Channels
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_14.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Paramount
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Paramount/sa_dash/Paramount.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Paramount/sa_dash/Paramount.mpd
 Logo: https://i.ibb.co/zrxvFLV/images-6-modified.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Cinemachi
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
-Logo: https://www.visionplus.id/images/repository/604/604-LOGO-m.png
+Name: Originals
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
+Logo: https://github.com/eepunx/logo/raw/refs/heads/main/originals.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Cinemachi Action
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
-Logo: https://www.visionplus.id/images/repository/608/608-LOGO-m.png
+Name: group-title="Movies",Cineedge
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
+Logo: https://github.com/eepunx/logo/raw/refs/heads/main/cineedge.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Cinemachi Max
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
-Logo: https://www.visionplus.id/images/repository/607/607-LOGO-m.png
+Name: Superrix
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
+Logo: https://github.com/eepunx/logo/raw/refs/heads/main/superrix.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Cinemachi Extra
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
-Logo: https://www.visionplus.id/images/repository/606/606-LOGO-m.png
+Name: Uniques
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
+Logo: https://github.com/eepunx/logo/raw/refs/heads/main/Uniques.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Cinemachi Kids
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
-Logo: https://www.visionplus.id/images/repository/605/605-LOGO-m.png
+Name: Buddy Star
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
+Logo: https://github.com/eepunx/logo/raw/refs/heads/main/buddystar.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Cinemax
@@ -4915,17 +4895,17 @@ Logo: https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icon
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: BBC Earth
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: CGTN Documentary
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_205.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Crime + Investigation
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigation.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigation.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -4960,12 +4940,17 @@ Logo: https://www.mncvision.id/userfiles/image/channel/channel_206.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Outdor
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/NatGeoChannel/sa_dash/NatGeoChannel.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/NatGeoChannel/sa_dash/NatGeoChannel.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_202.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
+Name: Love Nature
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/NatGeoWild/sa_dash/NatGeoWild.mpd|referer=https://www.visionplus.id
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_463.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
 Name: Global Trekker
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd|Referer=https://www.visionplus.id/
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd|Referer=https://www.visionplus.id/
 Logo: https://dl.dropbox.com/scl/fi/qb2yulbwkwllxm7skeiu4/Global-trekker.jpeg?rlkey=qavgisctg9kzup3vv8shzx2x6&dl=0
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -5117,7 +5102,7 @@ Logo: https://iptv.urfan.web.id/logo/wesaltv.png
 Source: https://raw.githubusercontent.com/djonyttnt/mytvnet/refs/heads/main/nonton
 --------------------------------------------------
 Name: MAKKAH TV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/AlQuranAlKareem/sa_dash/AlQuranAlKareem.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/AlQuranAlKareem/sa_dash/AlQuranAlKareem.mpd|referer=https://www.visionplus.id
 Logo: https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -5132,37 +5117,37 @@ Logo: http://www.dens.tv/images/channel-logo/21.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: LIFE
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Life/sa_dash/Life.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Life/sa_dash/Life.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_91.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: TV Mu
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/TVMuhammadiyah/sa_dash/TVMuhammadiyah.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/TVMuhammadiyah/sa_dash/TVMuhammadiyah.mpd|referer=https://www.visionplus.id
 Logo: https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Muslim TV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_92.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Quran TV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/AlQuranAlKareem/sa_dashAlQuranAlKareem.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/AlQuranAlKareem/sa_dashAlQuranAlKareem.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_93.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Reformed 21
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/Reformed21/sa_dash/Reformed21.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Reformed21/sa_dash/Reformed21.mpd|referer=https://www.visionplus.id
 Logo: https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Tawaf TV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/TawafTV/sa_dash/TawafTV.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/TawafTV/sa_dash/TawafTV.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_105.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: TV 9 Nusantara
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/TV9/sa_dash/TV9.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/TV9/sa_dash/TV9.mpd|referer=https://www.visionplus.id
 Logo: https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -5766,7 +5751,7 @@ Logo: https://www.mncvision.id/userfiles/image/channel/channel_103.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: MNC News
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd|referer=https://www.visionplus.id
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_84.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -5776,7 +5761,7 @@ Logo: https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: SEA Today
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
 Logo: https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -5808,7 +5793,7 @@ Logo: https://w7.pngwing.com/pngs/494/982/png-transparent-united-states-voice-of
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Aljazeera English
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/aljazeera.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -5818,7 +5803,7 @@ Logo: https://www.mncvision.id/userfiles/image/channel/bloomberg.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: CGTN
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/CGTN/sa_dash/CGTN.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN/sa_dash/CGTN.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_353.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -5828,54 +5813,54 @@ Logo: https://static.mncnow.id/images/channel/f36bdbf0/d7d8_r32.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: CNBC Asia-Pacific
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/CNBC/sa_dash/CNBC.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/CNBC/sa_dash/CNBC.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/cnbc.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: DW English
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/DW/sa_dash/DW.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/DW/sa_dash/DW.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_357.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: EuroNews English
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/EuroNews/sa_dash/EuroNews.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/EuroNews/sa_dash/EuroNews.mpd
 Logo: https://www.lyngsat.com/logo/tv/ee/euronews_fr.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Fox News Channel
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/FoxNews/sa_dash/FoxNews.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/FoxNews/sa_dash/FoxNews.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: France 24 English
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/France24/sa_dash/France24.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/France24/sa_dash/France24.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/france_150px.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: NHK World Japan
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/NHKWorldTV/sa_dash/NHKWorldTV.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/NHKWorldTV/sa_dash/NHKWorldTV.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: NHK World Premium
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/nhk_150.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: RT English
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
 Logo: https://www.lyngsat.com/logo/tv/rr/rt_ru_english.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: TRT World
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/TRTWorld/sa_dash/TRTWorld.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/TRTWorld/sa_dash/TRTWorld.mpd
 Logo: https://www.lyngsat.com/logo/tv/tt/trt_world_tr.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 
 Group: TV Local Indonesia
 Name: Da Ai TV Indonesia
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/DAAITV/sa_dash/DAAITV.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/DAAITV/sa_dash/DAAITV.mpd
 Logo: https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -5930,12 +5915,12 @@ Logo: https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Bali TV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/BaliTV/sa_dash/BaliTV.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/BaliTV/sa_dash/BaliTV.mpd
 Logo: https://static.mncnow.id/images/channel/cda6a457/7e41_r32.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: JTV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/JTV/sa_dash/JTV.mpd
 Logo: https://www.lyngsat.com/logo/tv/jj/jtv_id.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -6051,11 +6036,6 @@ URL: https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 Logo: https://images.indihometv.com/logo_ochannel_ver1.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Seru! Channel
-URL: https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-SeruChannel.m3u8
-Logo: https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Channel%20Seru!.jpg
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
 
 Group: UFC
 Name: Unifi Sports 1 HD
@@ -6066,7 +6046,7 @@ Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 
 Group: Uncategorized
 Name: Jak TV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/JakTV/sa_dash/JakTV.mpd
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/JakTV/sa_dash/JakTV.mpd
 Logo: https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Jak%20tv.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -6116,7 +6096,7 @@ Logo: https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Du
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Music TV
-URL: https://cempedak-cdn-fly.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd|referer=https://www.visionplus.id
+URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/MusicChannel/sa_dash/MusicChannel.mpd|referer=https://www.visionplus.id
 Logo: https://i.imgur.com/nUVl7tS.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
