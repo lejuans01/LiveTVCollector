@@ -9,6 +9,8 @@ https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Bu
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/somoy_tv2.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/ekattor_tv.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV-2
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/ekattor_tv2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLA",Ekon tv
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/ekon_tv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",Channel 24
@@ -17,6 +19,8 @@ https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Bu
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/independent_tv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/jamuna_tv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png" group-title="BANGLA",Nexus TV HD
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/nexus_tv_hd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/dbc_news.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS [BD]
@@ -85,5 +89,3 @@ https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Bu
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/al_jazeera.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="English News",BBC News
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/bbc_news.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="English News",CNN
-https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/cnn.m3u8
