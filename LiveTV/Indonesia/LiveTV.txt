@@ -597,6 +597,16 @@ Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
 
 Group: Business
+Name: Bloomberg TV Asia (720p)
+URL: https://bloomberg.com/media-manifest/streams/asia.m3u8
+Logo: https://i.imgur.com/OuogLHx.png
+Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
+Name: Bloomberg TV Asia Live Event (720p)
+URL: https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+Logo: https://i.imgur.com/OuogLHx.png
+Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
 Name: CNBC Asia HD (720p) [Geo-blocked]
 URL: https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
 Logo: https://i.imgur.com/Mn8Rsup.png
@@ -2897,6 +2907,11 @@ URL: http://210.210.155.37/uq2663/h/h191/index.m3u8
 Logo: https://i.imgur.com/qzZFU6d.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
+Name: Nickelodeon Asia (720p)
+URL: http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8
+Logo: https://i.imgur.com/E84jnP8.png
+Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
 
 Group: Knowledge
 Name: Animal Planet
@@ -4507,6 +4522,11 @@ URL: https://cdn10jtedge.indihometv.com/atm/DASH/TVBS_NEWS/manifest.mpd
 Logo: https://images.indihometv.com/logo_tvbsnews_small.png
 Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
 --------------------------------------------------
+Name: BBC News Asia Pacific (720p)
+URL: https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+Logo: https://i.imgur.com/vSz2WEp.png
+Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
 Name: Huma Betang TV (720p) [Not 24/7]
 URL: https://v3.siar.us/humabetangtv/live/playlist.m3u8
 Logo: https://i.imgur.com/xBTqOEu.png
@@ -5193,6 +5213,11 @@ Group: Religious
 Name: Al-Iman TV (720p)
 URL: https://tv.aliman.id/aliman/live.m3u8
 Logo: https://i.imgur.com/Qj1EFf1.png
+Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
+Name: Angel TV Far East (720p)
+URL: https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
+Logo: https://i.imgur.com/qKLEGU7.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 Name: Citra Muslim [Geo-blocked]

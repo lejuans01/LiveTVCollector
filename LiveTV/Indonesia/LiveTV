@@ -2214,6 +2214,12 @@
     "img": "https://i.imgur.com/qzZFU6d.png"
   },
   {
+    "name": "Nickelodeon Asia (720p)",
+    "type": "Kids",
+    "url": "http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8",
+    "img": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
     "name": "MTV LIVE (V+)",
     "type": "MUSIC",
     "url": "https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd",
@@ -3178,6 +3184,12 @@
     "type": "News",
     "url": "https://cdn10jtedge.indihometv.com/atm/DASH/TVBS_NEWS/manifest.mpd",
     "img": "https://images.indihometv.com/logo_tvbsnews_small.png"
+  },
+  {
+    "name": "BBC News Asia Pacific (720p)",
+    "type": "News",
+    "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8",
+    "img": "https://i.imgur.com/vSz2WEp.png"
   },
   {
     "name": "Huma Betang TV (720p) [Not 24/7]",
@@ -7416,6 +7428,12 @@
     "img": "https://i.imgur.com/Qj1EFf1.png"
   },
   {
+    "name": "Angel TV Far East (720p)",
+    "type": "Religious",
+    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8",
+    "img": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
     "name": "Citra Muslim [Geo-blocked]",
     "type": "Religious",
     "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8",
@@ -7806,10 +7824,16 @@
     "img": "https://i.imgur.com/Xl7MJnd.png"
   },
   {
-    "name": "Citra Drama (720p) [Geo-blocked]",
-    "type": "Series",
-    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8",
-    "img": "https://i.imgur.com/lXhXwx7.png"
+    "name": "Bloomberg TV Asia (720p)",
+    "type": "Business",
+    "url": "https://bloomberg.com/media-manifest/streams/asia.m3u8",
+    "img": "https://i.imgur.com/OuogLHx.png"
+  },
+  {
+    "name": "Bloomberg TV Asia Live Event (720p)",
+    "type": "Business",
+    "url": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8",
+    "img": "https://i.imgur.com/OuogLHx.png"
   },
   {
     "name": "CNBC Asia HD (720p) [Geo-blocked]",
@@ -7822,6 +7846,12 @@
     "type": "Business",
     "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8",
     "img": "https://i.imgur.com/xPvrcsr.png"
+  },
+  {
+    "name": "Citra Drama (720p) [Geo-blocked]",
+    "type": "Series",
+    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8",
+    "img": "https://i.imgur.com/lXhXwx7.png"
   },
   {
     "name": "iBerkah (1080p)",
