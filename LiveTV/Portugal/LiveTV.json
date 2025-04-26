@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-26 13:41:52",
+  "date": "2025-04-26 21:40:07",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDg6Nzo0NCBBTSZoYXNoX3ZhbHVlPThnK1Vrc0hIK2FrRStqOFZPU0tQMEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03YjQwOTRjYy1hOGJkLTRlMDYtYjQyZC1iOTY5ZTk2ZDU4YTk=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDQ6Njo0MSBQTSZoYXNoX3ZhbHVlPWlNeVRkTDZpbmNhYllqRE05KzBkcXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wYzk1YmY4Yy0wYTQ5LTQyZjAtYjk5MS0yNGM2YWJlZWE5YTU=/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDg6Nzo0NCBBTSZoYXNoX3ZhbHVlPWhHUHZmZDI1WGNQOFRSSUdkbGozVFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04N2RiYmY4Zi1kZGMxLTQwMGItOThjMi0wZTYxOWU4N2U2YzA=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDQ6Njo0MiBQTSZoYXNoX3ZhbHVlPUozWnltMklRNklwUHNHelgvLzlXR0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mNGU1YjljYS1lNTlhLTQxYmItYjhlMS01ZDdlMTQ0MjM5YmY=/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDg6Nzo0NSBBTSZoYXNoX3ZhbHVlPS9NK3VIM0grT2RWSVloVCtIQ2VRZXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zMzdiYjFiZi0xNzQ0LTQyOTctODY3ZS04MTNiMTRmMTFmMGU=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDQ6Njo0MyBQTSZoYXNoX3ZhbHVlPVluRnJjb2ptMGpzc04yazk3VTQrVVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03YWFmM2VlMS0zMGIyLTQxNTEtYjQxZS00MTMzN2Y5YzUyMzY=/"
       },
       {
         "name": "TVI África",
@@ -6718,7 +6718,7 @@
         "logo": "https://logo.iptveditor.com/tviinternacional.png",
         "group": "🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDQ6NDA6NDQgQU0maGFzaF92YWx1ZT03N1NOLytqNUhzbU5lRDFBZnJvMXB3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDhkYTJmMjQtZDViNy00NzY3LWE2NWYtYjEzYmVmMGY5NGEz/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjU1OjcgUE0maGFzaF92YWx1ZT0zekY1dkhXelhnWHFIUm5xZHVXU05nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2QzNjlhOWEtODFlMy00MGIxLWE0MDItYWNmZGZhZDM0N2Fk/"
       },
       {
         "name": "TVI 🇵🇹 (𝓑𝙮: thomraider12)",
@@ -6732,14 +6732,7 @@
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",
         "group": "🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDQ6NDA6NDMgQU0maGFzaF92YWx1ZT13K3lDOHk2QURvK2phSW9qaDZoMW93PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmY5NDRmOWEtOWU4ZS00M2U0LWI1ZGMtZTRiOWJlYjQ3OTFl/"
-      },
-      {
-        "name": "Onetoro 🇪🇸",
-        "logo": "https://onetoro.tv/assets/icon/favicon.ico",
-        "group": "🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://github.com/inspirationlinks/m3u/raw/live/Streams/Onetoro.m3u8"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjU1OjUgUE0maGFzaF92YWx1ZT0wNzZOWWthZWVMV0RkMEY3WlNCQUt3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODE1MzljOGUtMjkxMC00NDk2LWI2Y2UtZDA4YWQ5MDk3MDIw/"
       },
       {
         "name": "Caça & Pesca 🇵🇹🇪🇸",
@@ -6747,6 +6740,13 @@
         "group": "🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://github.com/inspirationlinks/m3u/raw/live/Streams/c%26p.m3u8"
+      },
+      {
+        "name": "Onetoro 🇪🇸",
+        "logo": "https://onetoro.tv/assets/icon/favicon.ico",
+        "group": "🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://github.com/inspirationlinks/m3u/raw/live/Streams/Onetoro.m3u8"
       },
       {
         "name": "Teledifusão de Macau 🇲🇴🇵🇹",
@@ -6779,6 +6779,13 @@
         "url": "https://github.com/inspirationlinks/m3u/raw/live/Streams/rtp3.m3u8"
       },
       {
+        "name": "RTP 3 🇵🇹",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png",
+        "group": "🌈🆁™News 🇵🇹🇧🇷",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/manifest.mpd"
+      },
+      {
         "name": "like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41\" tvg-logo=\"https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png\" group-title=\"🌈🆁™News 🇵🇹🇧🇷\",SIC Noticias 🇵🇹",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-noticias-pt.png",
         "group": "🌈🆁™News 🇵🇹🇧🇷",
@@ -6804,7 +6811,7 @@
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp",
         "group": "🌈🆁™News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDQ6NDA6NDMgQU0maGFzaF92YWx1ZT14WEtRUUorQkJ4Y3RQN0Z0Z1JLS0F3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTA3Nzk3Y2QtODFkNi00NGU4LWIzNzctNjM0NTI4ZWY5NWZj/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjU1OjYgUE0maGFzaF92YWx1ZT1mSzdaUkV4R1kycEk0RFo5UnFEZ1J3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzRmMjE4NDYtNjQyMC00M2UwLWExNGQtYWE4NjFiYmM5NzM2/"
       },
       {
         "name": "Euronews 🇵🇹",
@@ -8353,13 +8360,6 @@
         "url": "http://tv.trexiptv.com/play/live.php?mac=00:1A:79:A8:F4:F9&stream=59225&extension=ts"
       },
       {
-        "name": "HBO+ 🇧🇷",
-        "logo": "https://logo.iptveditor.com/hboplus.png",
-        "group": "🌈🆁™Brasil 🇧🇷",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://s2.100mundial.icu/fontes/nossoplayer/hboplus.m3u8"
-      },
-      {
         "name": "HBO Pop",
         "logo": "https://logo.iptveditor.com/hbopop.png",
         "group": "🌈🆁™Brasil 🇧🇷",
@@ -8414,13 +8414,6 @@
         "group": "🌈🆁™Brasil 🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "http://15.235.50.112:14195/HBOMundiSD"
-      },
-      {
-        "name": "TNT 🇧🇷 ⚽️",
-        "logo": "https://logo.iptveditor.com/tnt.png",
-        "group": "🌈🆁™Brasil 🇧🇷",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://new.ejaculacaoretardada.site/tnt/index.m3u8"
       },
       {
         "name": "TNT 🇧🇷 ⚽️",
@@ -10470,7 +10463,7 @@
         "logo": "https://i.postimg.cc/rwQGRGhB/imag.png",
         "group": "🌈🆁™English 🇬🇧🇺🇸🇨🇦",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://tvpass.org/live/TCMEast/sd"
+        "url": "http://143.244.60.30/TCM/index.m3u8"
       },
       {
         "name": "TV Land Eastern",
@@ -10566,13 +10559,6 @@
         "url": "http://gratuittv.free.fr/Files/parispremier/live/playlist.m3u8"
       },
       {
-        "name": "Paris Premiere 🇫🇷",
-        "logo": "https://logo.iptveditor.com/parispremiere.png",
-        "group": "🌈🆁™France 🇫🇷",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/PaPremiere.m3u8"
-      },
-      {
         "name": "Emotion'L 🇫🇷",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20220323T075813SQUARE.png_20220323075816.png",
         "group": "🌈🆁™France 🇫🇷",
@@ -10580,22 +10566,15 @@
         "url": "https://diqx5lyj19frh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Emotionelle-FR-prod/master.m3u8"
       },
       {
-        "name": "Emotion'L 🇫🇷 [ʀᴀkυᴛᴇɴ]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20220323T075813SQUARE.png_20220323075816.png",
-        "group": "🌈🆁™France 🇫🇷",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8"
-      },
-      {
         "name": "Ciné Nanar 🇫🇷 [ʀᴀkυᴛᴇɴ]",
-        "logo": "https://umsousercontent.com/lib_CQIHzphjEKuSMtLz/qtcdrdjayh84u5xb.jpg",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB39000020C_20241015T035854SQUARE.png",
         "group": "🌈🆁™France 🇫🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8"
       },
       {
-        "name": "Ciné Western 🇫🇷",
-        "logo": "https://umsousercontent.com/lib_CQIHzphjEKuSMtLz/ehh164dvtaq61hwb.jpg",
+        "name": "Ciné Western 🇫🇷 [ʀᴀkυᴛᴇɴ]",
+        "logo": "https://png.pngtree.com/png-vector/20240608/ourmid/pngtree-gaucho-sunset-silhouette-free-png-image_12650499.png",
         "group": "🌈🆁™France 🇫🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8"
@@ -10678,25 +10657,11 @@
         "url": "https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/tfx.m3u8"
       },
       {
-        "name": "TFX 🇫🇷",
-        "logo": "https://logo.iptveditor.com/tfx.png",
-        "group": "🌈🆁™France 🇫🇷",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8"
-      },
-      {
         "name": "TMC 🇫🇷",
         "logo": "https://logo.iptveditor.com/tmc.png",
         "group": "🌈🆁™France 🇫🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8"
-      },
-      {
-        "name": "TMC 🇫🇷",
-        "logo": "https://logo.iptveditor.com/tmc.png",
-        "group": "🌈🆁™France 🇫🇷",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/tmc.m3u8"
       },
       {
         "name": "RTL be 🇫🇷",
@@ -10725,6 +10690,13 @@
         "group": "🌈🆁™France 🇫🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "http://gratuittv.free.fr/Files/rtl9/live/playlist.m3u8"
+      },
+      {
+        "name": "Cine Max 🇫🇷",
+        "logo": "https://moviaz.com/upload/S%C3%A9rie%20Max.jpg",
+        "group": "🌈🆁™France 🇫🇷",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"
       },
       {
         "name": "CSTAR",
@@ -10767,13 +10739,6 @@
         "group": "🌈🆁™France 🇫🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d19baroazz7jh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz6iuw13jnx7c/Faitesentrerlaccuse_FR.m3u8"
-      },
-      {
-        "name": "LCP AN",
-        "logo": "https://logo.iptveditor.com/lcp.png",
-        "group": "🌈🆁™France 🇫🇷",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8"
       },
       {
         "name": "LCP AN",
@@ -11479,7 +11444,14 @@
         "logo": "https://logo.iptveditor.com/espn.png",
         "group": "🌈🆁™Liga Betclic 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://new.ejaculacaoretardada.site/espn/index.m3u8"
+        "url": "https://new.m3u8.one/espn/index.m3u8"
+      },
+      {
+        "name": "ESPN 🇧🇷",
+        "logo": "https://logo.iptveditor.com/espn.png",
+        "group": "🌈🆁™Liga Betclic 🌍",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://onplaytv.net/espn/video.m3u8"
       },
       {
         "name": "ESPN 2 🇧🇷",
@@ -11493,7 +11465,7 @@
         "logo": "https://logo.iptveditor.com/espn2.png",
         "group": "🌈🆁™Liga Betclic 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://new.ejaculacaoretardada.site/espn2/index.m3u8"
+        "url": "https://onplaytv.net/espn2/video.m3u8"
       },
       {
         "name": "ESPN 3 🇧🇷",
@@ -11507,35 +11479,35 @@
         "logo": "https://logo.iptveditor.com/espn3.png",
         "group": "🌈🆁™Liga Betclic 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://s2.100mundial.icu/fontes/nossoplayer/espn3.m3u8"
+        "url": "https://onplaytv.net/espn3/video.m3u8"
       },
       {
         "name": "ESPN 4 🇧🇷",
         "logo": "https://logo.iptveditor.com/espn4.png",
         "group": "🌈🆁™Liga Betclic 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://new.ejaculacaoretardada.site/espn4/index.m3u8"
+        "url": "https://new.m3u8.one/espn4/index.m3u8"
       },
       {
         "name": "ESPN 4 🇧🇷",
         "logo": "https://logo.iptveditor.com/espn4.png",
         "group": "🌈🆁™Liga Betclic 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://s2.100mundial.icu/fontes/nossoplayer/espn4.m3u8"
+        "url": "https://onplaytv.net/espn4/video.m3u8"
       },
       {
         "name": "ESPN 5 🇧🇷",
         "logo": "https://logo.iptveditor.com/espn5.png",
         "group": "🌈🆁™Liga Betclic 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96369.m3u8"
+        "url": "https://onplaytv.net/espn5/video.m3u8"
       },
       {
         "name": "ESPN 6 🇧🇷",
         "logo": "https://logo.iptveditor.com/espn6.png",
         "group": "🌈🆁™Liga Betclic 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://s2.100mundial.icu/fontes/nossoplayer/espn6.m3u8"
+        "url": "https://onplaytv.net/espn6/video.m3u8"
       },
       {
         "name": "Goltv 🇪🇨",
@@ -11552,7 +11524,7 @@
         "url": "https://github.com/inspirationlinks/m3u/raw/live/Streams/goltv.m3u8"
       },
       {
-        "name": "Dasse1 🇺🇸",
+        "name": "Dasse1 🇵🇹",
         "logo": "https://logo.iptveditor.com/dazn1.png",
         "group": "🌈🆁™Liga Betclic 🌍",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
@@ -11850,14 +11822,14 @@
         "url": "https://zekonew.newkso.ru/zeko/premium910/mono.m3u8"
       },
       {
-        "name": "Eurosport 1 🇬🇧🇷🇺",
+        "name": "Eurosport 1 🇬🇧🇪🇸",
         "logo": "https://logo.iptveditor.com/eurosport1.png",
         "group": "🌈🆁™Sports 🇺🇸🇬🇧🇨🇦",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "http://185.189.225.150:85/Eurosport1/index.m3u8"
       },
       {
-        "name": "Eurosport 2 🇬🇧🇷🇺",
+        "name": "Eurosport 2 🇬🇧🇪🇸",
         "logo": "https://logo.iptveditor.com/eurosport2.png",
         "group": "🌈🆁™Sports 🇺🇸🇬🇧🇨🇦",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
@@ -12841,424 +12813,424 @@
         "url": "http://217.174.225.146/legacyhls/ch004_720/index.m3u8"
       }
     ],
-    "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️": [
+    "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️": [
       {
         "name": "Channel 1 🇧🇷",
         "logo": "https://raw.githubusercontent.com/mariosanthos/arquivos/main/channel1.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stmv1.srvif.com/movies1/movies1/playlist.m3u8"
       },
       {
         "name": "1980 Channel 🇧🇷",
         "logo": "https://imgur.com/PjKwATV.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8"
       },
       {
         "name": "Ficção Científica 🇧🇷",
         "logo": "https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Filmes Aventura 🇧🇷",
         "logo": "https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c79a4262e5510008ff68a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Filmelier TV 🇧🇷",
         "logo": "https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1"
       },
       {
         "name": "Netmovies TV 🇧🇷",
         "logo": "https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1"
       },
       {
         "name": "Cine Classicos 🇧🇷",
         "logo": "https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1"
       },
       {
         "name": "Runtime Tv & Filmes 🇧🇷",
         "logo": "https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153"
       },
       {
         "name": "Runtime Família 🇧🇷",
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589"
       },
       {
         "name": "Runtime Comedia 🇧🇷",
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553"
       },
       {
         "name": "Runtime CinEspanto 🇧🇷",
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865"
       },
       {
         "name": "Runtime Crime 🇧🇷",
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864"
       },
       {
         "name": "Runtime Action 🇧🇷",
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552"
       },
       {
         "name": "Pluto Comédia 🇧🇷",
         "logo": "https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher.pluto.tv/stitch/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9"
       },
       {
         "name": "Tv Club 🇧🇷",
         "logo": "https://play-lh.googleusercontent.com/Ljv6jExK7D7eY9l157ZVUNpfpuMaODwReMerYF1jBEaRvdFDgarJ1q1lj1e4Jgb3IZc=w0",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8"
       },
       {
         "name": "Europa+ 🇧🇷",
         "logo": "https://is.gd/pYZ4oR",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51/hi_mid.m3u8"
       },
       {
         "name": "TV Filmes Nacionais 🇧🇷",
         "logo": "https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://bit.ly/3O1z2ai?5f5a545d0dbf7f0007c09408.m3u8"
       },
       {
         "name": "Sou+Pop Tv 🇧🇷",
         "logo": "https://soumaispop.com.br/storage/642/config/Z1uNOZZ3rKAkhyogFhAHaBYFnkOooDbEIu8rFoSY.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://video04.logicahost.com.br/soumaispop/soumaispop/playlist.m3u8"
       },
       {
         "name": "Trailers 🇪🇸",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300048YJ_20240709T045109SQUARE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://bit.ly/3WChqoj?ESBC1700004PX.m3u8"
       },
       {
         "name": "Family Movie Club 🇬🇧",
         "logo": "https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
+        "name": "CineMadame 🇮🇹",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20250307T152334SQUARE.png",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://abb09116dc694cbe98a92fc0a92aed0b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_CineMadame/playlist.m3u8"
+      },
+      {
         "name": "Tubi Originals 🇺🇸",
         "logo": "https://canvas-lb.tubitv.com/opts/dPPQ6xMjYinbvg==/741d881e-657c-4a15-8ba8-847bab267f6e/CHgQeDoFMS4xLjZAAQ==",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tubi-Originals.m3u8"
       },
       {
         "name": "Viafree Movies 🇺🇸",
         "logo": "https://images.pluto.tv/channels/62beb44e3afd120007915d1b/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62beb44e3afd120007915d1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Freebie tv 🇺🇸",
         "logo": "https://i.imgur.com/KbmXdjm.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d1h1d6qoy9vnra.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/9d6b0d9d-78e2-4f1e-85a6-ae695397d75c/2.m3u8"
       },
       {
         "name": "CinePride 🇺🇸",
         "logo": "https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2250"
       },
       {
         "name": "Cine Drama 🇪🇸",
         "logo": "https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1"
       },
       {
         "name": "Pluto Comedy 🇺🇸",
         "logo": "https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Pluto TV Movies 🇺🇸",
         "logo": "https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Pluto TV Icons 🇺🇸",
         "logo": "https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b585f84ea480000838e446/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Pluto Action 🇺🇸",
         "logo": "https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Pluto Fantastic Movies 🇺🇸",
         "logo": "https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1"
       },
       {
         "name": "Pluto Crime Movies 🇺🇸",
         "logo": "https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1"
       },
       {
         "name": "Pluto Reaction Movies 🇺🇸",
         "logo": "https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1"
       },
       {
         "name": "Pluto Action Movies 🇺🇸",
         "logo": "https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1"
       },
       {
         "name": "Pluto SCI FI 🇺🇸",
         "logo": "https://images.pluto.tv/channels/5dc02a44a9518600094273ac/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc02a44a9518600094273ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Trending Now 🇺🇸",
         "logo": "https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/673247127d5da5000817b4d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Miramax Movies Cnannel 🇺🇸",
         "logo": "https://provider-static.plex.tv/epg/cms/production/39d7cc81-90e2-4ffa-a5f3-8cdc69c86db6/MIRAMAX_LOGO_VARIATION_2_-_Gabe_Evans.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8"
       },
       {
         "name": "FilmRise 🇺🇸",
         "logo": "https://sales.filmrise.com/img/878ec6c87891209ffcc1.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991337"
       },
       {
         "name": "FilmRise Free Movies 🇨🇦",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ40000077N_20241112T231511SQUARE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d3fmqi91qduj7.cloudfront.net/11401/88814500/hls/master.m3u8?ads.xumo_channelId=88814500&ads.xumo_streamId=88814500"
       },
       {
         "name": "FilmRise Action 🇨🇦",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700014EE_20241112T231505SQUARE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d3fmqi91qduj7.cloudfront.net/11401/88814502/hls/master.m3u8?ads.xumo_channelId=88814502&ads.xumo_streamId=88814502"
       },
       {
         "name": "FilmRise Sci-Fi 🇺🇸",
         "logo": "https://sales.filmrise.com/img/878ec6c87891209ffcc1.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d3is52sgpnlx4c.cloudfront.net/10901/88885513/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885513"
       },
       {
         "name": "Movie Favorites By Lifetime 🇺🇸",
         "logo": "https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63335b193583440007c859fb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1"
       },
       {
         "name": "Gravitas Movies 🇺🇸",
         "logo": "https://provider-static.plex.tv/epg/cms/production/e33abab2-b500-4189-820b-b4448eaec393/1500x1000_Christmas_Channel_Logo_TRANSPARENTRDX.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991312"
       },
       {
         "name": "Paramount Movie Channel 🇺🇸",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20241112T000713SQUARE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "MovieSphere 🇺🇸",
         "logo": "https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8"
       },
       {
         "name": "MovieSphere by Lionsgate 🇺🇸",
         "logo": "https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64a3d96f060e830008af6745/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Stars Films & Series 🇮🇹",
         "logo": "https://images.pluto.tv/channels/6536608b4f123d000876b78b/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher.pluto.tv/stitch/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=89549daf-7b18-11ef-ba05-de36f43a927"
       },
       {
         "name": "MovieDome 🇬🇧",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800003JH_20220323T071458SQUARE.png_20220323071500.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8"
       },
       {
         "name": "Now Fantasy Action SCI FI 🇺🇸",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000225M_20240520T222632CIRCLE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://dm1y3xxivi9lk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-icxyqeotf73n4-prod/elec/en/elec_en.m3u8"
       },
       {
         "name": "CineLife 🇺🇸",
         "logo": "https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://magnolia-cinelife.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Icon Films Classics 🇬🇧",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB12000052F_20240709T044438SQUARE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://iconfilmsdistribution-iconfilmchannelclassics-1-gb.lg.wurl.tv/playlist.m3u8"
       },
       {
         "name": "Hallmark Movies & More 🇺🇸",
         "logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d3l10ju7ii2sha.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-301fj9dsme11n/playlist.m3u8"
       },
       {
         "name": "Movie Italy Channel 🇺🇸🇮🇹",
         "logo": "https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb.m3u8"
       },
       {
         "name": "Midnight Pulp 🇺🇸🇰🇷",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700015LK_20240702T044839SQUARE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8"
       },
       {
         "name": "New KMovies 🇺🇸🇰🇷",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20241008T212627SQUARE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://e6391536675d4e7f8ce0c849732f33b5.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_NewMovies/playlist.m3u8"
       },
       {
         "name": "Samuel Goldwyn Films 🇺🇸 [ʀᴏkυ]",
         "logo": "https://provider-static.plex.tv/epg/cms/production/a3e63712-9262-428d-9e1c-a00c179a5454/samuel-goldwyn-channel-logo.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8"
       },
       {
         "name": "Filmzie 🇺🇸",
         "logo": "https://filmzie.com/assets/images/common/favicon-a3ea3628.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://filmzie-filmzie-1-eu.zeasn.wurl.tv/playlist.m3u8"
       },
       {
-        "name": "Cine Max 🇫🇷",
-        "logo": "https://moviaz.com/upload/S%C3%A9rie%20Max.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"
-      },
-      {
-        "name": "Free tv 🇨🇱",
+        "name": "Popcorn Central 🇨🇱",
         "logo": "https://www.freetv.com/themes/custom/oly/freetv/logo.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://freetv.stream.olympusatmedia.com/index.m3u8"
       },
       {
         "name": "24 Hour Free Movies 🇺🇸",
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8"
       },
       {
         "name": "Bigtime Peliculas Gratis 🇲🇽",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69cadeae-c655-4fcf-bd79-32db7a817365/Bigtime_Logo_WithArtwork_3840x2160_Daniel_Hotovy__Amogo_Networx_.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes 📽️",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films 📽️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8"
       }
@@ -13328,25 +13300,25 @@
         "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814610/hls/master.m3u8?ads.xumo_channelId=88814610&ads.xumo_streamId=88814610"
       },
       {
-        "name": "Vogue 🇺🇸",
-        "logo": "https://www.pngall.com/wp-content/uploads/13/Vogue-Logo.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Celebrities 🤩",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991138"
-      },
-      {
-        "name": "GQ 🇺🇸",
-        "logo": "https://www.pngall.com/wp-content/uploads/15/Gq-Logo-PNG-Image.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Celebrities 🤩",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991137"
-      },
-      {
         "name": "Made In Hollywood 🇺🇸",
         "logo": "https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png",
         "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Celebrities 🤩",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0.m3u8"
+      },
+      {
+        "name": "GQ [vpn 🇺🇸]",
+        "logo": "https://www.pngall.com/wp-content/uploads/15/Gq-Logo-PNG-Image.png",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Celebrities 🤩",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00255-condenastentert-gqvizio-vizious/playlist.m3u8"
+      },
+      {
+        "name": "Vogue 🇺🇸",
+        "logo": "https://www.pngall.com/wp-content/uploads/13/Vogue-Logo.png",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Celebrities 🤩",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://is.gd/veV0lJ?vogue.m3u8"
       },
       {
         "name": "Popstar! TV 🇺🇸",
@@ -13363,207 +13335,214 @@
         "url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b3500000_t64MTA4MHA=.m3u8"
       }
     ],
-    "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱": [
+    "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱": [
       {
         "name": "Dark Matter 🇺🇸",
         "logo": "https://images.pluto.tv/channels/5e843d849109b700075d5ada/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dark-matter-tv/master.m3u8"
       },
       {
         "name": "Clube de Terror 🇧🇷",
         "logo": "https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher.pluto.tv/stitch/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9"
       },
       {
         "name": "Cine Terror 🇧🇷",
         "logo": "https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1"
       },
       {
         "name": "Terror Trash 🇧🇷",
         "logo": "https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66aa67493a4ad2000806d91b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=Revolucioniptv&deviceDNT=1"
       },
       {
         "name": "Trailers From Hell 🇺🇸",
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tfh.webp",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://189067eb43d2471db5d0829668d625eb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_TrailersFromHell/playlist.m3u8"
       },
       {
         "name": "Nightmare Network",
         "logo": "https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/02/19/1739997252JcLdBCzKQG-512x512-square.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d2xkj205tzzw4y.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-NightmareNetwork/478.m3u8"
       },
       {
         "name": "Horror by ALTER 🇺🇸",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100001175_20240730T012800SQUARE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d1p1ebj5snnawg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bcxzaz5np83pz/playlist.m3u8"
       },
       {
         "name": "Wedo Movies 🇬🇧 [xɪᴀᴏᴍɪ]",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300050RG_20220323T071656SQUARE.png_20220323071659.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-movies4free-xiaomi/playlist.m3u8"
       },
       {
         "name": "IFC Films Picks 🇺🇸",
         "logo": "https://provider-static.plex.tv/9/epg/channels/logos/gracenote/956bc5f750ddad6a83cc2411a447a984.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://bit.ly/3T2BL51?5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8"
       },
       {
         "name": "AMC Thrillers 🇺🇸",
         "logo": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8"
       },
       {
         "name": "American Horrors 🇺🇸",
         "logo": "https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8"
       },
       {
         "name": "Bizzarro Movies 🇮🇹🇺🇸",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20240214T034959SQUARE.png_20240214034959.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8"
       },
       {
         "name": "Scream Box tv 🇺🇸 [ʟᴏcᴀʟɴᴏw]",
         "logo": "https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/screambox_500x500_011924.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://bloodydisgustingtv-localnow-cinedigm-com.akamaized.net/index.m3u8"
       },
       {
         "name": "Watch it Scream 🇺🇸",
         "logo": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/watchitscream_500x500_011924.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2257"
       },
       {
         "name": "TCL Horror 🇺🇸",
         "logo": "https://m.media-amazon.com/images/M/MV5BMDU3ZGUxNzYtNzI2Yi00MDNkLTgxYzYtMDcyOGI0ZmEwMGEzXkEyXkFqcGc@._V1_.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12075"
       },
       {
         "name": "Pluto Terror 🇺🇸",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20240214T034959SQUARE.png_20240214034959.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Pluto Horror 🇺🇸",
         "logo": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "FrightFlix 🇺🇸",
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/FrightFlix.webp",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/Frightflix_Loop_no-link/index-frightflix-nolink.m3u8"
       },
       {
         "name": "Horror Machine 🇺🇸",
         "logo": "https://a.jsrdn.com/hls/22930/horror-machine/logo_20210423_225948_70.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8"
       },
       {
         "name": "Horror Machine 🇺🇸",
         "logo": "https://a.jsrdn.com/hls/22930/horror-machine/logo_20210423_225948_70.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8"
       },
       {
         "name": "Horror Vision 🇪🇸",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20241030T140450SQUARE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_es_darkmatter_002.m3u8"
       },
       {
         "name": "Horror Club 🇮🇹",
         "logo": "https://images.pluto.tv/channels/66c35c0c92b1af0008c8e83a/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c35c0c92b1af0008c8e83a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Cine Friki 🇪🇸 (vᴘɴ 🇺🇸)",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20240507T094205SQUARE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://amg00711-zylo-amg00711c1-xiaomi-in-1317.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinefriki-xiaomiin/playlist.m3u8"
       },
       {
+        "name": "TVs Horror 🇺🇸",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/096e78d0-845b-4286-b8a6-885e47fb8c31/16x9.jpg",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvshorror/index.m3u8"
+      },
+      {
         "name": "Dread TV (vᴘɴ 🇺🇸)",
         "logo": "https://provider-static.plex.tv/epg/cms/production/a6d258ed-919b-46ed-adf8-1a353e9ef463/Dread_TV_3840x2160.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://144e50b7e9394d05a44271af655445f9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCLTVPlus_DreadTV/playlist.m3u8"
       },
       {
         "name": "Scares by Shudder (vᴘɴ 🇺🇸)",
         "logo": "https://provider-static.plex.tv/epg/cms/production/af69a56a-b26a-42d5-8978-176bbace29a8/SHUD_FastChanel_Plex_HorizontalArt_3840x2160.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://e9ee87fcc9f2409f998e7aa106f64672.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_ScaresbyShudder/playlist.m3u8"
       },
       {
         "name": "Freetv Terror 🇨🇱",
         "logo": "https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_horror_1080x1080_02092024.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "http://nxt.plus:8080//live/olmos/1234guz/252777.m3u8"
       },
       {
         "name": "Freetv Terror 🇨🇱 (vᴘɴ 🇺🇸)",
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/FreetvTerror.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfycl-lgcl/playlist.m3u8"
       },
       {
         "name": "Cult Films 🇺🇸",
         "logo": "https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "FilmRise Horror 🇨🇦 [ᴛυʙɪ]",
         "logo": "https://image.roku.com/developer_channels/prod/1d2d97093f7a391b79c46ee5c2c4c5403df2baa84deabf2641f15b4c2234da05.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Filmes Terror 😱",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Terror 😱",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror-Canada.m3u8"
       }
@@ -14260,6 +14239,13 @@
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/titanic-tv/master.m3u8"
       },
       {
+        "name": "TVs Hollywood History 🇺🇸",
+        "logo": "https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/tvshollywoodhistory.png",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Doc & History 🏛️",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/tracks-v1a1/mono.m3u8?nimblesessionid=974666799"
+      },
+      {
         "name": "Mysteries Worlds by WBtv 🇺🇸",
         "logo": "https://canvas.tubitv.com/opts/Mp7hCTYVBwW1MQ==/418647ca-40a0-41bf-be9b-936ab3ed08db/CIACEPACOgUxLjEuMg==",
         "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Doc & History 🏛️",
@@ -14299,7 +14285,7 @@
         "logo": "https://images.pluto.tv/channels//5f21ea08007a49000762d349/colorLogoPNG.png",
         "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Doc & History 🏛️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://bit.ly/4b3JR5d?profile=/5f21ea08007a49000762d349.m3u8"
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Doc+ 🇺🇸",
@@ -14880,7 +14866,7 @@
     "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Lifestyles 🛍️": [
       {
         "name": "Museum tv 🇺🇸",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300064WS_20241015T035833SQUARE.png",
+        "logo": "https://www.museumtv.art/wp-content/themes/museum/static/media/logo_museum.svg",
         "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Lifestyles 🛍️",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-tcl/playlist.m3u8"
@@ -15021,188 +15007,181 @@
         "url": "https://johnnycarson-localnow.amagi.tv/playlist.m3u8"
       }
     ],
-    "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠": [
+    "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠": [
       {
         "name": "Nost Network (vᴘɴ 🇺🇸)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NOST-1080x1080.jpg/800px-NOST-1080x1080.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8"
       },
       {
-        "name": "Classic Cinema by WBtv 🇺🇸",
-        "logo": "https://canvas.tubitv.com/opts/n101qdscaAvbSg==/e1b1d4ba-dfdb-4441-a534-b34b25ce8654/CNIHEMAEOgUxLjEuMg==",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Classic-Cinema.m3u8"
-      },
-      {
         "name": "Samuel Goldwyn Classics 🇺🇸 [ʀᴏkυ]",
         "logo": "https://provider-static.plex.tv/epg/cms/production/a3e63712-9262-428d-9e1c-a00c179a5454/samuel-goldwyn-channel-logo.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8"
       },
       {
         "name": "FilmStream 🇺🇸",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900011Y4_20220323T071426SQUARE.png_20220323071430.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8"
       },
       {
         "name": "FilmRise Classic TV 🇺🇸",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700008QA_20220824T022329SQUARE.png_20220824022330.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d3fmqi91qduj7.cloudfront.net/11401/88814514/hls/master.m3u8?ads.xumo_channelId=88814514&ads.xumo_streamId=88814514"
       },
       {
         "name": "00S REPLAY 🇬🇧",
         "logo": "https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ba60f059624e000781c436/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "90S Throwback 🇬🇧",
         "logo": "https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "80S Rewind 🇬🇧",
         "logo": "https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Non-Stop '90s 🇺🇸 [ʟᴏcᴀʟɴᴏw]",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/fd2fb28b-86b2-4134-81ba-49a0b10a4e7e/Nonstop90s_1920x1080_-_Paige_Sherman__1_.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "logo": "https://mediaplaynews.b-cdn.net/wp-content/uploads/2024/03/Non-stop-90s-channel-logo.jpg",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/744/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=E2B93420-EB36-4052-B789-2AD8286E402B&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=E2B93420-EB36-4052-B789-2AD8286E402B"
       },
       {
         "name": "Western Bound 🇺🇸 [sᴛɪʀʀ]",
         "logo": "https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/31/1738363007dPIHvjze44-512x512-square.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://jmp2.uk/str-6595.m3u8"
       },
       {
         "name": "SHOUT! TV 🇺🇸",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20241022T004347CIRCLE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8"
       },
       {
         "name": "Universal Monsters 🇺🇸[ᴘʟυᴛᴏ]",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900002QK_20240910T003815SQUARE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a9b20f0c7ff50008d3a3b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Cinevault 80s 🇺🇸",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20240730T222508SQUARE.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8"
       },
       {
         "name": "Cinevault Classics 🇺🇸",
         "logo": "https://canvas-lb.tubitv.com/opts/Skmb-4dsXftLLw==/07448ddf-973b-4340-8779-32376a973248/CHgQeDoFMS4xLjJAAQ==",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8"
       },
       {
         "name": "Action Hollywood Movies 🇺🇸",
         "logo": "https://i.mjh.nz/.images/ahm-FAST.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
       },
       {
-        "name": "TCM 🇺🇸",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "http://143.244.60.30/TCM/index.m3u8"
-      },
-      {
         "name": "RCM 🇮🇹🇺🇸",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8e9e9106-bf71-4255-a888-f89b1b8f3bd1/RCM_artwork_horizontal_-_Angela_ChanRDX.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "logo": "https://st1-fs.cdn01.net/l/static/lc/firetv_images/0001831/0001831_icon512x512.jpg",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8"
       },
       {
         "name": "Charlie Silence Movie 🇺🇸",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Chaplin_cartoon.jpg/220px-Chaplin_cartoon.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8"
       },
       {
         "name": "TVS Drive in Movie 🇺🇸🇮🇹",
-        "logo": "https://www.watchyour.tv/channels/logo/tvs-drive-in-movie.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "logo": "https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/tvsdriveinmovie.png",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://bozztv.com/gusa/gusa-tvsdriveinmovie/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Pluto Classic Movies 🇺🇸",
         "logo": "https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
         "name": "Cowboy Movie Channel [sᴛɪʀʀ]",
         "logo": "https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614492V41m7Es0qF-512x512-square.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/manifest.m3u8"
       },
       {
         "name": "CineWestern 🇺🇸",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ3500001Z8_20240214T040042SQUARE.png_20240214040043.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://2ff966dcc4f34213a59732a80e87635a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_WP/playlist.m3u8?ads.wurl_channel=933&ads.wurl_name=WP&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D"
       },
       {
         "name": "Cinevault Westerns 🇺🇸",
         "logo": "https://canvas-lb.tubitv.com/opts/BSRHayGaLjPoXA==/bda0dfca-9c16-4b67-8930-324a4b7a0dbd/CHgQeDoFMS4xLjVAAQ==",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://gsn-cinevault-westerns-1-us.lg.wurl.tv/playlist.m3u8"
       },
       {
         "name": "LoneStar 🇺🇸",
         "logo": "https://is.gd/noEcbn",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://lonestar-rakuten.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Wild West tv 🇺🇸",
         "logo": "https://images.pluto.tv/channels/664e640a0120f40008be4582/thumbnail.jpg",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664e640a0120f40008be4582/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
       },
       {
-        "name": "TVS Western Movie 🇺🇸🇮🇹",
-        "logo": "https://www.watchyour.tv/channels/logo/.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Clássicos & Western 🤠",
+        "name": "TVs Classic Movies 🇺🇸",
+        "logo": "https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/tvsclassicmovies.png",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8"
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "TVs Western Movies 🇺🇸🇮🇹",
+        "logo": "https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/TVSWesternMovie.png",
+        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Films Clássicos & Western 🤠",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/tracks-v1a1/mono.m3u8"
       }
     ],
     "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Crimes Files 📁": [
@@ -15501,7 +15480,7 @@
     "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Hunt & Fishing 🐗🎣": [
       {
         "name": "Italian Fishing TV 🇮🇹",
-        "logo": "https://logo.iptveditor.com/italianfishing.png",
+        "logo": "https://logo.iptveditor.com/italianfishingtv.png",
         "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Hunt & Fishing 🐗🎣",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8"
@@ -15578,7 +15557,7 @@
       },
       {
         "name": "MeatEater 🇺🇸",
-        "logo": "https://vhx.imgix.net/meateater/assets/a3504dfc-5ae5-4c6a-abdc-b34f03c0ca1f.png",
+        "logo": "https://images.ctfassets.net/pujs1b1v0165/4FPALMSU5b60iPSLR34y6H/360203fd9e4d2e968d4d7093d0b08822/ME_Podcast_MeatEater-firstlite.jpg",
         "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Hunt & Fishing 🐗🎣",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8"
@@ -16574,13 +16553,6 @@
       }
     ],
     "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Billard & Snooker 🎱": [
-      {
-        "name": "SportStak 🇺🇸",
-        "logo": "https://a.jsrdn.com/hls/22964/sportstak/logo_20240813_222015_68.png",
-        "group": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Billard & Snooker 🎱",
-        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-sportstak-sportstribal/playlist.m3u8"
-      },
       {
         "name": "Kozoom 🇺🇸",
         "logo": "https://tv.kozoom.com/favicon.ico",
