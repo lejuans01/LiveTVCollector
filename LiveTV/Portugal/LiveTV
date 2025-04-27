@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDQ6Njo0MSBQTSZoYXNoX3ZhbHVlPWlNeVRkTDZpbmNhYllqRE05KzBkcXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wYzk1YmY4Yy0wYTQ5LTQyZjAtYjk5MS0yNGM2YWJlZWE5YTU=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI1IDEyOjMyOjUgQU0maGFzaF92YWx1ZT1QYTFmL2wyWGx4ZnZOSVpwWVl3UHdBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2Q1NDdmNzgtNTYwZC00NjZiLTk0OGEtMTFjOThhOTUxODE1/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDQ6Njo0MiBQTSZoYXNoX3ZhbHVlPUozWnltMklRNklwUHNHelgvLzlXR0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mNGU1YjljYS1lNTlhLTQxYmItYjhlMS01ZDdlMTQ0MjM5YmY=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI1IDEyOjMyOjYgQU0maGFzaF92YWx1ZT1PcDdsSXN1VGlNYUxQZVhWU3RIZEhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTUwMzQyOGMtMmNhNS00ZTAwLTgyZDUtZDAzMWQ0MWE3ZGI1/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDQ6Njo0MyBQTSZoYXNoX3ZhbHVlPVluRnJjb2ptMGpzc04yazk3VTQrVVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03YWFmM2VlMS0zMGIyLTQxNTEtYjQxZS00MTMzN2Y5YzUyMzY=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI1IDEyOjMyOjggQU0maGFzaF92YWx1ZT1oaGJjTE96ckdVL05Kak1nUm1zOHpRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGY0NTM1NzAtZmRmMy00YjA0LWFiMzktMGUyMTc2MWQxNGZh/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -5708,7 +5708,7 @@
   {
     "name": "TVI Internacionalᶠᴴᴰ 🇵🇹",
     "type": "🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjU1OjcgUE0maGFzaF92YWx1ZT0zekY1dkhXelhnWHFIUm5xZHVXU05nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2QzNjlhOWEtODFlMy00MGIxLWE0MDItYWNmZGZhZDM0N2Fk/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDg6MzQ6MjUgUE0maGFzaF92YWx1ZT1YM0owT0ZMUEtrbUt5RlBXQ1JQREVRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2IwYTAyMWEtZGUzNS00OGRlLWI1ZTktMmY1YTkzNzk5NTYz/",
     "img": "https://logo.iptveditor.com/tviinternacional.png"
   },
   {
@@ -5720,7 +5720,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "🌈🆁™Portugal 🇵🇹🇲🇴🇲🇿",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjU1OjUgUE0maGFzaF92YWx1ZT0wNzZOWWthZWVMV0RkMEY3WlNCQUt3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODE1MzljOGUtMjkxMC00NDk2LWI2Y2UtZDA4YWQ5MDk3MDIw/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDg6MzQ6MjMgUE0maGFzaF92YWx1ZT1sY0I0Z0tneXRRSTRUVVQrSGpQUklnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmQwNjc4Y2ItOWMyNy00MjNiLThlYWMtNjVkODBiYjdkMWVi/",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp"
   },
   {
@@ -5786,7 +5786,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "🌈🆁™News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjU1OjYgUE0maGFzaF92YWx1ZT1mSzdaUkV4R1kycEk0RFo5UnFEZ1J3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzRmMjE4NDYtNjQyMC00M2UwLWExNGQtYWE4NjFiYmM5NzM2/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDg6MzQ6MjQgUE0maGFzaF92YWx1ZT1VNXpDQjVsUURQOU0xUi9ESzd0UzhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2E0ODZiM2YtNzhiNi00OGU3LTk1MmMtZjUyODJlZjljMTBk/",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp"
   },
   {
@@ -6470,7 +6470,7 @@
   {
     "name": "Discovery Kids 🇧🇷",
     "type": "🌈🆁™Kids 🧒🌎",
-    "url": "http://15.235.50.112:14561/DiscoveryKidsSD",
+    "url": "http://185.236.183.118:14150/DiscoveryKidsfhd",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png"
   },
   {
@@ -6792,6 +6792,12 @@
     "img": "https://graph.facebook.com/Pequeradio/picture?width=200&height=200"
   },
   {
+    "name": "Mr.Bean 🇬🇧",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Fanny & Comedy 😂",
+    "url": "http://15.235.9.200:14970/MrBeanhd",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp"
+  },
+  {
     "name": "Mr.Bean 🇪🇸🇬🇧 [ʀᴀkυᴛᴇɴ]",
     "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Fanny & Comedy 😂",
     "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
@@ -6813,7 +6819,7 @@
     "name": "Always Funny 🇺🇸",
     "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Fanny & Comedy 😂",
     "url": "https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8",
-    "img": "https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png group-title="
+    "img": "https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png"
   },
   {
     "name": "Comedy Central Roast 🇺🇸",
@@ -7016,7 +7022,7 @@
   {
     "name": "Telecine Premium 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
-    "url": "https://onplaytv.net/tcpremium/video.m3u8",
+    "url": "http://185.236.183.118:14690/tlcPremiumfhd",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png"
   },
   {
@@ -7058,13 +7064,19 @@
   {
     "name": "Telecine Touch 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
-    "url": "https://onplaytv.net/tctouch/video.m3u8",
+    "url": "http://185.236.183.118:14691/TelecineTouchfhd",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-touch-br.png"
   },
   {
     "name": "Telecine Cult 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
     "url": "https://onplaytv.net/tccult/video.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-cult-br.png"
+  },
+  {
+    "name": "Telecine Cult",
+    "type": "🌈🆁™Brasil 🇧🇷",
+    "url": "http://185.236.183.118:14695/TelecineCultfhd",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-cult-br.png"
   },
   {
@@ -7088,8 +7100,26 @@
   {
     "name": "HBO 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
+    "url": "http://185.236.183.118:14395/",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HBO.webp"
+  },
+  {
+    "name": "HBO 🇧🇷",
+    "type": "🌈🆁™Brasil 🇧🇷",
+    "url": "http://15.235.9.200:14186/HBOSD",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HBO.webp"
+  },
+  {
+    "name": "HBO 🇧🇷",
+    "type": "🌈🆁™Brasil 🇧🇷",
     "url": "http://15.235.50.112:14186/HBOSD",
     "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HBO.webp"
+  },
+  {
+    "name": "HBO+ 🇧🇷",
+    "type": "🌈🆁™Brasil 🇧🇷",
+    "url": "http://185.236.183.118:14408/hboplusfhd",
+    "img": "https://logo.iptveditor.com/hboplus.png"
   },
   {
     "name": "HBO+ 🇧🇷",
@@ -7100,13 +7130,13 @@
   {
     "name": "HBO Pop",
     "type": "🌈🆁™Brasil 🇧🇷",
-    "url": "https://s2.100mundial.icu/fontes/nossoplayer/hbopop.m3u8",
+    "url": "http://185.236.183.118:14415/HBOPopfhd",
     "img": "https://logo.iptveditor.com/hbopop.png"
   },
   {
     "name": "HBO 2 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
-    "url": "http://15.235.50.112:14189/HBO2sd",
+    "url": "http://185.236.183.118:14399/HBO2fhd",
     "img": "https://logo.iptveditor.com/hbo2.png"
   },
   {
@@ -7118,7 +7148,7 @@
   {
     "name": "HBO Signature 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
-    "url": "http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96415.m3u8",
+    "url": "http://15.235.9.200:14179/HBOSignfhd",
     "img": "https://logo.iptveditor.com/hbosignature.png"
   },
   {
@@ -7136,14 +7166,26 @@
   {
     "name": "HBO Family 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
+    "url": "http://185.236.183.118:14404/HBOFamilyhd",
+    "img": "https://logo.iptveditor.com/hbofamily.png"
+  },
+  {
+    "name": "HBO Family 🇧🇷",
+    "type": "🌈🆁™Brasil 🇧🇷",
     "url": "http://15.235.50.112:14192/HBOFamilySD",
     "img": "https://logo.iptveditor.com/hbofamily.png"
   },
   {
     "name": "HBO Mundi 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
-    "url": "http://15.235.50.112:14195/HBOMundiSD",
+    "url": "http://185.236.183.118:14411/HBOMundifhd",
     "img": "https://logo.iptveditor.com/hbomundi.png"
+  },
+  {
+    "name": "TNT 🇧🇷 ⚽️",
+    "type": "🌈🆁™Brasil 🇧🇷",
+    "url": "http://185.236.183.118:14704/tntfhd",
+    "img": "https://logo.iptveditor.com/tnt.png"
   },
   {
     "name": "TNT 🇧🇷 ⚽️",
@@ -7154,7 +7196,7 @@
   {
     "name": "TNT Series 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
-    "url": "http://tv14s.xyz:8080//live/5ThaSM/484504/164958.m3u8",
+    "url": "http://185.236.183.118:14709/tntseriesfhd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"
   },
   {
@@ -7356,19 +7398,19 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png"
   },
   {
-    "name": "A&E 🇧🇷",
+    "name": "A&E 🇧🇷 ⚽️",
     "type": "🌈🆁™Brasil 🇧🇷",
     "url": "http://185.236.183.117:14003/A&EFHD",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png"
   },
   {
-    "name": "A&E 🇧🇷",
+    "name": "A&E 🇧🇷 ⚽️",
     "type": "🌈🆁™Brasil 🇧🇷",
     "url": "https://s2.100mundial.icu/fontes/nossoplayer/ae.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png"
   },
   {
-    "name": "A&E 🇧🇷",
+    "name": "A&E 🇧🇷 ⚽️",
     "type": "🌈🆁™Brasil 🇧🇷",
     "url": "https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png"
@@ -7388,7 +7430,7 @@
   {
     "name": "History 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
-    "url": "http://185.236.183.117:14392/historyhd",
+    "url": "http://185.236.183.118:14435/historyfhd",
     "img": "https://logo.iptveditor.com/history.png"
   },
   {
@@ -7400,7 +7442,7 @@
   {
     "name": "H2 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
-    "url": "https://new.ejaculacaoretardada.site/history2/index.m3u8",
+    "url": "http://185.236.183.118:14391/H2hd",
     "img": "https://logo.iptveditor.com/h2.png"
   },
   {
@@ -7424,13 +7466,19 @@
   {
     "name": "h&h Discovery 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
-    "url": "http://15.235.50.112:14100/Discoveryh&hHD",
+    "url": "http://185.236.183.118:14147/Discoveryh&hHD",
     "img": "https://logo.iptveditor.com/discoveryh&h.png"
   },
   {
     "name": "Discovery World 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
     "url": "http://15.235.50.112:14112/DiscoveryWorldHD",
+    "img": "https://logo.iptveditor.com/discoveryworld.png"
+  },
+  {
+    "name": "Discovery World 🇧🇷",
+    "type": "🌈🆁™Brasil 🇧🇷",
+    "url": "http://185.236.183.118:14168/DiscoveryWorldHD",
     "img": "https://logo.iptveditor.com/discoveryworld.png"
   },
   {
@@ -7454,7 +7502,7 @@
   {
     "name": "Discovery Theater 🇧🇷",
     "type": "🌈🆁™Brasil 🇧🇷",
-    "url": "http://15.235.50.112:14103/DiscoveryTheatreSD",
+    "url": "http://185.236.183.118:14158/DiscoveryTheatreHD",
     "img": "https://static.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png"
   },
   {
@@ -8277,7 +8325,7 @@
     "name": "MeTV Wjlp New Jerseynew York",
     "type": "🌈🆁™English 🇬🇧🇺🇸🇨🇦",
     "url": "https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd",
-    "img": "https://i.postimg.cc/rwQGRGhB/imag.png"
+    "img": "https://logo.iptveditor.com/metv.png"
   },
   {
     "name": "AMC Eastern Feed",
@@ -8688,18 +8736,6 @@
     "img": "https://i.postimg.cc/rwQGRGhB/imag.png"
   },
   {
-    "name": "MTV 2 East",
-    "type": "🌈🆁™English 🇬🇧🇺🇸🇨🇦",
-    "url": "https://tvpass.org/live/mtv-2-east/sd",
-    "img": "https://i.postimg.cc/rwQGRGhB/imag.png"
-  },
-  {
-    "name": "MTV Eastern Feed",
-    "type": "🌈🆁™English 🇬🇧🇺🇸🇨🇦",
-    "url": "https://tvpass.org/live/MTVEast/sd",
-    "img": "https://i.postimg.cc/rwQGRGhB/imag.png"
-  },
-  {
     "name": "National Geographic US Eastern",
     "type": "🌈🆁™English 🇬🇧🇺🇸🇨🇦",
     "url": "https://tvpass.org/live/NationalGeographicEast/sd",
@@ -8950,6 +8986,540 @@
     "type": "🌈🆁™English 🇬🇧🇺🇸🇨🇦",
     "url": "https://tvpass.org/live/WPIX/sd",
     "img": "https://i.postimg.cc/rwQGRGhB/imag.png"
+  },
+  {
+    "name": "MTV",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "http://15.235.9.200:14858/MTVbrhd",
+    "img": "https://logo.iptveditor.com/mtv.png"
+  },
+  {
+    "name": "MTV Eastern",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://tvpass.org/live/MTVEast/sd",
+    "img": "https://logo.iptveditor.com/mtv.png"
+  },
+  {
+    "name": "ONFM 🇵🇹",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?profile=inspirationLinks.m3u8",
+    "img": "https://onfm.pt/wp-content/uploads/2023/09/logo-on-fm.png"
+  },
+  {
+    "name": "Rádio Sinesᶠᴴᴰ 🇵🇹",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/chunklist_w438281994_b4500000_slen.m3u8",
+    "img": "https://radiosines.sapo.pt/assets/dist/img/logo_xmas.png"
+  },
+  {
+    "name": "NPC TV 🇵🇹",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w273627653.m3u8",
+    "img": "https://pa-str.srvsite.com/arquivos/7016/cabecalho-7016-20241104155713.png"
+  },
+  {
+    "name": "Assim é Portugal 🇵🇹",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8",
+    "img": "https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png"
+  },
+  {
+    "name": "Qello Concerts",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png"
+  },
+  {
+    "name": "Live Music",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png"
+  },
+  {
+    "name": "Love Songs",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b80acac5329000740c022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png"
+  },
+  {
+    "name": "Movie Music",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64240d00dbdaaa00085bc5e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/64240d00dbdaaa00085bc5e2/colorLogoPNG.png"
+  },
+  {
+    "name": "NOW 90s00s 🇬🇧",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/660c209e19ca71000846cf38/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/660c209e19ca71000846cf38/colorLogoPNG.png"
+  },
+  {
+    "name": "Tomorroland Radio",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Tomorroland.webp"
+  },
+  {
+    "name": "Clubbing tv",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://clubbingtv-lg-au.amagi.tv/playlist.m3u8",
+    "img": "https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png"
+  },
+  {
+    "name": "Cool Summer Channel",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://d2hzqddebd4oer.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-468m04kfpf5n7/csts.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2500002K0_20240819T052918SQUARE.png"
+  },
+  {
+    "name": "BIS 🇧🇷",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "http://185.236.183.117:14067/BISfhd",
+    "img": "https://logo.iptveditor.com/bis.png"
+  },
+  {
+    "name": "Surf Roots TV 🇺🇸",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/surf-roots-tv/master.m3u8",
+    "img": "https://s3cdn.panda-os.com/8611/upload/ezgifcomgifmakerpng"
+  },
+  {
+    "name": "AfrobeatsTVᶠᴴᴰ",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?profile=inspirationLinks.m3u8",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Afrobeats.webp"
+  },
+  {
+    "name": "Mezzo 🇫🇷",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
+    "img": "https://i.imgur.com/auNdGeW.png"
+  },
+  {
+    "name": "Qwest Playlist",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200001BV_20230614T005738SQUARE.png_20230614005738.png"
+  },
+  {
+    "name": "Stingray dJAZZ",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=80f90cf7-7a92-11ef-97cb-02e0fd7f02bc",
+    "img": "https://images.pluto.tv/channels/64240ccfaa2d690008dc4406/colorLogoPNG.png"
+  },
+  {
+    "name": "Bluestnᴸᴼᵂ 🇺🇸",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+    "img": "https://bluestn.com/wp-content/uploads/2019/06/btnLogo-2.png"
+  },
+  {
+    "name": "California Music Channel 🇺🇸",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://cmc-ono.amagi.tv/playlist.m3u8",
+    "img": "https://cmctv.com/cmc/images/camuslogo.gif"
+  },
+  {
+    "name": "CMC USA",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
+    "img": "https://i.imgur.com/L38mC6H.webp"
+  },
+  {
+    "name": "CMT Equal Play",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=80f90cf7-7a92-11ef-97cb-02e0fd7f02bc",
+    "img": "https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png"
+  },
+  {
+    "name": "VH1 Classic",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png"
+  },
+  {
+    "name": "VH1+Back To 90'S",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png"
+  },
+  {
+    "name": "VH1+Rock",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6447d08f2858cb0008b9957c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png"
+  },
+  {
+    "name": "VH1+Music Legends",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png"
+  },
+  {
+    "name": "NOW 80 🇬🇧",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NOW80s.webp"
+  },
+  {
+    "name": "NOW ROCK 🇬🇧",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6568a78d635c3c0008765f41/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NowRock.webp"
+  },
+  {
+    "name": "Vevo 80s 🇬🇧",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://tinyurl.com/3xx7ymya?profile=inspirationlivetv.m3u8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20241112T001815SQUARE.png"
+  },
+  {
+    "name": "Vevo 90s 🇬🇧",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://tinyurl.com/mtsp9b32?profile=inspirationlivetv.m3u8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20241112T001820SQUARE.png"
+  },
+  {
+    "name": "Vevo '90s & '00ᶠᴴᴰ 🇬🇧",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20230412T042246SQUARE.png_20230412042247.png"
+  },
+  {
+    "name": "Vevo Retro Rockᶠᴴᴰ 🇬🇧",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20241112T001904SQUARE.png"
+  },
+  {
+    "name": "Vevo '70s & '80ᶠᴴᴰ",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://d8ey2gcjuai15.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t4dwcnavbvxsk/Vevo70sand80s_GB.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20230614T010158SQUARE.png_20230614010159.png"
+  },
+  {
+    "name": "Vevo Popᶠᴴᴰ",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20241112T001858SQUARE.png"
+  },
+  {
+    "name": "Vevo 2kᶠᴴᴰ",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png"
+  },
+  {
+    "name": "Vevo Countryᶠᴴᴰ",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20241112T001851SQUARE.png"
+  },
+  {
+    "name": "XITE Celebrates",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250121T101057SQUARE.png"
+  },
+  {
+    "name": "XITE Hitsᶠᴴᴰ",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://xite-hitsuk-lg.amagi.tv/playlist.m3u8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png"
+  },
+  {
+    "name": "XITE Rock X Metal",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher.pluto.tv/stitch/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=80f90cf7-7a92-11ef-97cb-02e0fd7f02bc",
+    "img": "https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png"
+  },
+  {
+    "name": "XITE Gospel",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96",
+    "img": "https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png"
+  },
+  {
+    "name": "Staccs Music TV Greatest Hits",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://3cf9b1046f5f4735911350e41a9de7f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_STACCSTV/playlist.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3100003TH_20241030T140834SQUARE.png"
+  },
+  {
+    "name": "Staccs Music TV 80’s Hits",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_STACCSTVThrowback/c6383a68-7837-4998-9804-e8786fd0d232/2.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1900004CG_20241022T043847SQUARE.png"
+  },
+  {
+    "name": "Sol Musica 🇪🇸",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png"
+  },
+  {
+    "name": "Top music",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://accesiptv.com//live/Mzkc5Hm6eq/HYj6954jZZ/638.m3u8",
+    "img": "https://accesiptv.com:443/images/I1pSR7XU015S8m9TzZOhJoCWQWrjrh6kUliiT0FRc5b1-qQ79KF_THyXfDmXE4p6wUaq8UzLX8DbZ0RBsiFyijyxrVvyzdWW3zxMq4RmoF4.png"
+  },
+  {
+    "name": "VIVA",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://hls.goodgame.ru/hls/180805.m3u8",
+    "img": "https://i.imgur.com/OFhQQCD.png"
+  },
+  {
+    "name": "POP World TV",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8",
+    "img": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/PopWorldtv.webp"
+  },
+  {
+    "name": "4Ever Music",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://iptv.prosto.tv/id271/video.m3u8",
+    "img": "https://logo.iptveditor.com/4evermusic.png"
+  },
+  {
+    "name": "Ocko Star 🇨🇿",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wmsAuthSign=Inspirationlivetv",
+    "img": "https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png"
+  },
+  {
+    "name": "Muzzik Rock&Roll 🇷🇸",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://muzzik-live.morescreens.com/mts-1/playlist.m3u8",
+    "img": "https://muzzik.co.uk/images/muzzik-logo.png"
+  },
+  {
+    "name": "Muzzik Pop Star 🇷🇸",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8",
+    "img": "https://muzzik.co.uk/images/muzzik-logo.png"
+  },
+  {
+    "name": "Muzzik Flashback 🇷🇸",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://muzzik-live.morescreens.com/mts-8/playlist.m3u8",
+    "img": "https://muzzik.co.uk/images/muzzik-logo.png"
+  },
+  {
+    "name": "XPTV 1",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8",
+    "img": "https://players.rcast.net/uploads/images/202305/img_x300_646314ac954144-70583156-85346286.png"
+  },
+  {
+    "name": "70-80.it 🇮🇹",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://d125n3dscdmoj3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oja5b1lpu3cmg/master.m3u8",
+    "img": "https://i.imgur.com/y4kNV3Q.png"
+  },
+  {
+    "name": "Radio Capital 🇮🇹",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/radiocapital.webp"
+  },
+  {
+    "name": "Kiss kiss tvᶠᴴᴰ 🇮🇹",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/UTStxDW.png"
+  },
+  {
+    "name": "51 Radio Tvᴸᴼᵂ 🇮🇹",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8?profile=inspirationLinks.m3u8",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/51radiotv.webp"
+  },
+  {
+    "name": "Kiss tvᶠᴴᴰ 🇷🇴",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8",
+    "img": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/Kisstv.webp"
+  },
+  {
+    "name": "Retro tvᴸᴼᵂ 🇨🇿",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?profile=inspirationLinks.m3u8",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/retromusic.webp"
+  },
+  {
+    "name": "Magic TV 🇷🇴",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8",
+    "img": "https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/magivTV.webp"
+  },
+  {
+    "name": "Magic TV 🇧🇬",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://bss1.neterra.tv/magictv/magictv.m3u8",
+    "img": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/magictvbg.webp"
+  },
+  {
+    "name": "RetroPlus 🇨🇱",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w30695301.m3u8",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/retroplus.webp"
+  },
+  {
+    "name": "Vintage tv 🇧🇷",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://video01.kshost.com.br/rogerio7271/rogerio7271/playlist.m3u8",
+    "img": "https://static.wixstatic.com/media/f98147_744ad37f90864e429604d647d396ef83~mv2.png"
+  },
+  {
+    "name": "Reload Play 🇬🇷",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
+    "img": "https://reloadplay.com/wp-content/uploads/2017/04/Cool-Text-242641884051291.png"
+  },
+  {
+    "name": "Trace UK",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://d2u040elo6umri.cloudfront.net/trace_urban_gb.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png"
+  },
+  {
+    "name": "Trace Brasilᶠᴴᴰ 🇧🇷",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tracebrazuca.webp"
+  },
+  {
+    "name": "Trace Urban²ᶠᴴᴰ",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png"
+  },
+  {
+    "name": "MTV On Tour 🇬🇧",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67b4a4e41a5ca7608025da79/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/67b4a4e41a5ca7608025da79/colorLogoPNG.png"
+  },
+  {
+    "name": "MTV Best Off 🇬🇧",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a7b3bf07e03a00089148a9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/65a7b3bf07e03a00089148a9/colorLogoPNG.png"
+  },
+  {
+    "name": "MTV Movies Hits 🇬🇧",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6331a5f83eb57800074d4a0d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/colorLogoPNG.png"
+  },
+  {
+    "name": "MTV Party 🇬🇧",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61ea759737679900078ff559/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png"
+  },
+  {
+    "name": "MTV Classic 🇬🇧",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png"
+  },
+  {
+    "name": "MTV Unplugged",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png"
+  },
+  {
+    "name": "MTV Made in Spain",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png"
+  },
+  {
+    "name": "MTV Flow Latino 🇪🇸",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=80f90cf7-7a92-11ef-97cb-02e0fd7f02bc",
+    "img": "https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png"
+  },
+  {
+    "name": "Deluxe Music 🇩🇪",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DeluxeMusic.webp"
+  },
+  {
+    "name": "Deluxe Winter Timeᶠᴴᴰ 🇩🇪",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://d2l1hs6hxlg3df.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pb0nloqsgtwc2/index.m3u8",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DeluxeWinterTime.webp"
+  },
+  {
+    "name": "Blast Channel tv",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://video01.logicahost.com.br/blast/blast/chunklist_w223775982.m3u8",
+    "img": "https://play-lh.googleusercontent.com/Hr73V6Q6de_ERwMeIfhXNG0u9H4FWyJxYs5MPb7cHU-N0kg3c0tCP3hg3Y5UcNbP08Y=w0"
+  },
+  {
+    "name": "Rockola tv",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/2.m3u8",
+    "img": "https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F0a1d51ea-22ca-42cd-8afb-de4a2db1116c-1678921793.94842.256x256.jpg&w=384&q=75"
+  },
+  {
+    "name": "Catedral do Rock tv",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stmv1.srvif.com/tvcrucilandia/tvcrucilandia/playlist.m3u8",
+    "img": "https://yt3.googleusercontent.com/ytc/AIdro_lnA8srIh1J9wkEgkGA_g_xvJKABHr9yS_Nz92WPbWfwfo=w0"
+  },
+  {
+    "name": "Rock TV",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png"
+  },
+  {
+    "name": "Rocktv",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
+    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rocktv.webp"
+  },
+  {
+    "name": "MTV Love Music",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638f2d9aa530b200072ec8ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/638f2d9aa530b200072ec8ef/colorLogoPNG.png"
+  },
+  {
+    "name": "Bom Channel 🇮🇹",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8",
+    "img": "https://logo.iptveditor.com/bomchannel.png"
+  },
+  {
+    "name": "Love tv 🇲🇰",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8",
+    "img": "https://i.imgur.com/B8iaejQ.png"
+  },
+  {
+    "name": "Juice tvᶠᴴᴰ 🇳🇱",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://juicex.nz/hls/mystream.m3u8",
+    "img": "https://www.juicetv.co.nz/assets/Uploads/logo.png"
+  },
+  {
+    "name": "JuiceX Meloᶠᴴᴰ 🇳🇱",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://juicex.nz/hls/juicex1234.m3u8",
+    "img": "https://alpha.uscreencdn.com/images/programs/1748729/horizontal/fb2e5a1b-d1d0-46a0-8d61-dd00a45d14ad.png"
+  },
+  {
+    "name": "Melody 🇫🇷",
+    "type": "🌈🆁™ Musica 🎧",
+    "url": "https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8",
+    "img": "https://logo.iptveditor.com/melody.png"
   },
   {
     "name": "Trailers tv 🇫🇷",
@@ -9734,7 +10304,7 @@
   {
     "name": "ESPN 🇧🇷",
     "type": "🌈🆁™Liga Betclic 🌍",
-    "url": "https://onplaytv.net/espn/video.m3u8",
+    "url": "http://185.236.183.118:14178/espnFHD",
     "img": "https://logo.iptveditor.com/espn.png"
   },
   {
@@ -9746,13 +10316,13 @@
   {
     "name": "ESPN 2 🇧🇷",
     "type": "🌈🆁™Liga Betclic 🌍",
-    "url": "https://onplaytv.net/espn2/video.m3u8",
+    "url": "http://185.236.183.118:14183/espn2HD",
     "img": "https://logo.iptveditor.com/espn2.png"
   },
   {
     "name": "ESPN 3 🇧🇷",
     "type": "🌈🆁™Liga Betclic 🌍",
-    "url": "http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16725.m3u8",
+    "url": "http://185.236.183.118:14187/espn3FHD",
     "img": "https://logo.iptveditor.com/espn3.png"
   },
   {
@@ -9770,19 +10340,19 @@
   {
     "name": "ESPN 4 🇧🇷",
     "type": "🌈🆁™Liga Betclic 🌍",
-    "url": "https://onplaytv.net/espn4/video.m3u8",
+    "url": "http://185.236.183.118:14191/espn4fhd",
     "img": "https://logo.iptveditor.com/espn4.png"
   },
   {
-    "name": "ESPN 5 🇧🇷",
+    "name": "ESPN 5 🏍 🇧🇷",
     "type": "🌈🆁™Liga Betclic 🌍",
-    "url": "https://onplaytv.net/espn5/video.m3u8",
+    "url": "http://185.236.183.118:14214/espn5hd",
     "img": "https://logo.iptveditor.com/espn5.png"
   },
   {
     "name": "ESPN 6 🇧🇷",
     "type": "🌈🆁™Liga Betclic 🌍",
-    "url": "https://onplaytv.net/espn6/video.m3u8",
+    "url": "http://185.236.183.118:14195/espn6HD",
     "img": "https://logo.iptveditor.com/espn6.png"
   },
   {
@@ -9795,7 +10365,7 @@
     "name": "Goltv 🇺🇸",
     "type": "🌈🆁™Liga Betclic 🌍",
     "url": "https://github.com/inspirationlinks/m3u/raw/live/Streams/goltv.m3u8",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp"
+    "img": "https://logo.iptveditor.com/goltv.png"
   },
   {
     "name": "Dasse1 🇵🇹",
@@ -9902,7 +10472,7 @@
   {
     "name": "Sportv 🇧🇷",
     "type": "🌈🆁™Sports 🇧🇷🇪🇸",
-    "url": "https://abc3orwaaaaaaaamlk56gfiik2ug5.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/xjjwlsad4u/out/v1/bd0d120a5bd14d278f32c89735a7ffc5/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+    "url": "https://is.gd/i124rU?Sportv.m3u8",
     "img": "https://logo.iptveditor.com/sportv.png"
   },
   {
@@ -9930,21 +10500,21 @@
     "img": "https://logo.iptveditor.com/sportv.png"
   },
   {
-    "name": "Premiere 2 🇧🇷",
+    "name": "Premiere Clubes 🇧🇷",
     "type": "🌈🆁™Sports 🇧🇷🇪🇸",
-    "url": "http://185.246.208.74:14870/Premiere2",
+    "url": "https://onplaytv.net/premiereclubes/video.m3u8",
     "img": "https://logo.iptveditor.com/premiere.png"
   },
   {
-    "name": "Premiere Clubes 🇧🇷",
+    "name": "Premiere 🇧🇷",
     "type": "🌈🆁™Sports 🇧🇷🇪🇸",
-    "url": "https://abc3orwaaaaaaaamgyske232j4one.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/s620lgcejq/out/v1/f461147d7113450f8edfe0fc38bd9307/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+    "url": "http://185.236.183.118:14508/Premierefhd",
     "img": "https://logo.iptveditor.com/premiere.png"
   },
   {
     "name": "Combate 🇧🇷",
     "type": "🌈🆁™Sports 🇧🇷🇪🇸",
-    "url": "http://185.236.183.117:14124/Comatefhd",
+    "url": "http://185.236.183.117:14124/Combatefhd",
     "img": "https://logo.iptveditor.com/combate.png"
   },
   {
@@ -9954,10 +10524,16 @@
     "img": "https://logo.iptveditor.com/fishtv.png"
   },
   {
-    "name": "Cazé tv Eventos 🇧🇷 ⚽️",
+    "name": "Cazé tv 🇧🇷",
     "type": "🌈🆁™Sports 🇧🇷🇪🇸",
     "url": "https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8",
     "img": "https://yt3.googleusercontent.com/6ZtRoT9LpJKkC9lne_BySbrnGfomGIf-_rfNsU5fHft8nYx8gCJiY9W2TH55Kc28K0VJovkAiw=w0"
+  },
+  {
+    "name": "h_482,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo.png\" group-title=\"🌈🆁™Sports 🇧🇷🇪🇸\",Nosso Futebol 🇧🇷",
+    "type": "🌈🆁™Sports 🇧🇷🇪🇸",
+    "url": "http://185.236.183.118:14657/NossoFutebolhd",
+    "img": "https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png/v1/fill/w_298,h_482,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo.png"
   },
   {
     "name": "DAZN F1",
@@ -9982,12 +10558,6 @@
     "type": "🌈🆁™Sports 🇧🇷🇪🇸",
     "url": "https://ztnr.rtve.es/ztnr/6712431.m3u8",
     "img": "https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200"
-  },
-  {
-    "name": "ETB Deportes 🇪🇸",
-    "type": "🌈🆁™Sports 🇧🇷🇪🇸",
-    "url": "https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8",
-    "img": "https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200"
   },
   {
     "name": "ETB Deportes 🇪🇸",
@@ -11910,94 +12480,10 @@
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900013K9_20230208T012821SQUARE.png_20230208012822.png"
   },
   {
-    "name": "Paranormal 👽 🇧🇷",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://stitcher.pluto.tv/stitch/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceType=web&servertSideAds=true&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9",
-    "img": "https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png"
-  },
-  {
-    "name": "Fear Zone 🇺🇸",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://d2poaftv7vl6fy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6sd5tbxf0p3kk-ssai-prd/amgholidaymovie/playlist.m3u8",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20241014T232248SQUARE.png"
-  },
-  {
-    "name": "Unidentified 🇺🇸",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20240520T214719SQUARE.png"
-  },
-  {
-    "name": "Documentary 🇺🇸",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG-1646155426722.png"
-  },
-  {
-    "name": "Paranormal by WBtv 🇺🇸",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://mediapackage-azf5-source.fullscreen.nz/index.m3u8",
-    "img": "https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521701602/20231121T120842_paranormallogo.png"
-  },
-  {
-    "name": "Ghosts Are real by WBtv 🇺🇸 [ᴛυʙɪ]",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Supernatural.m3u8",
-    "img": "https://provider-static.plex.tv/epg/cms/production/77d3a610-a796-44fc-b5e7-8b414bbf032a/16x9.jpg"
-  },
-  {
-    "name": "UnXplained Zone 🇺🇸",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656538f8954b020008d389db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/656538f8954b020008d389db/colorLogoPNG.png"
-  },
-  {
-    "name": "Beyond Belief Fact or Fiction 🇺🇸",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://stitcher.pluto.tv/stitch/hls/channel/611f85396abc84000738417b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13",
-    "img": "https://images.pluto.tv/channels/611f85396abc84000738417b/colorLogoPNG.png"
-  },
-  {
-    "name": "Ghost Dimension 🇺🇸",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://dr2t9f8nivbc6.cloudfront.net/hls/WZBGXZA/20D476E24693/m.m3u8",
-    "img": "https://player.api.stv.tv/v1/images/650124/rendition/?redirect=true&width=1000&height=1000"
-  },
-  {
-    "name": "Ghost Hunters 🇺🇸",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96",
-    "img": "https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png"
-  },
-  {
-    "name": "Haunt tv 🇺🇸",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63934c218ef524000757b122/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png"
-  },
-  {
-    "name": "Mystery TV 🇺🇸",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://is.gd/ereebi?GBBD50000320.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000320_20240829T152102SQUARE.png"
-  },
-  {
-    "name": "tv Paranormal 🇺🇸",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b1e4189f5db20007ff03be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/62b1e4189f5db20007ff03be/colorLogoPNG.png"
-  },
-  {
-    "name": "Paranormal State 🇺🇸",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60804d85858bd00007c5d591/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/60804d85858bd00007c5d591/colorLogoPNG.png"
-  },
-  {
-    "name": "Alien Nation 🇺🇸",
-    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
-    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66621ed08ea5560008fde7c9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100000630_20240730T012802SQUARE.png"
+    "name": "Hallo! Doc 🇧🇷",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Doc & History 🏛️",
+    "url": "https://aovivo.doozytv.com.br/31025556/10162730/playlist.m3u8",
+    "img": "https://nxplay-images.comets.com.br/resize/671657f5cd310_f7be52eb0e7ee353303543c27735cad3.png"
   },
   {
     "name": "TV Investigação 🇧🇷",
@@ -12214,6 +12700,96 @@
     "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Doc & History 🏛️",
     "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
     "img": "https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png"
+  },
+  {
+    "name": "Paranormal 👽 🇧🇷",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://stitcher.pluto.tv/stitch/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceType=web&servertSideAds=true&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9",
+    "img": "https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png"
+  },
+  {
+    "name": "Fear Zone 🇺🇸",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://d2poaftv7vl6fy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6sd5tbxf0p3kk-ssai-prd/amgholidaymovie/playlist.m3u8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20241014T232248SQUARE.png"
+  },
+  {
+    "name": "Unidentified 🇺🇸",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20240520T214719SQUARE.png"
+  },
+  {
+    "name": "Documentary 🇺🇸",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG-1646155426722.png"
+  },
+  {
+    "name": "Paranormal by WBtv 🇺🇸",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://mediapackage-azf5-source.fullscreen.nz/index.m3u8",
+    "img": "https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521701602/20231121T120842_paranormallogo.png"
+  },
+  {
+    "name": "Ghosts Are real by WBtv 🇺🇸 [ᴛυʙɪ]",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Supernatural.m3u8",
+    "img": "https://provider-static.plex.tv/epg/cms/production/77d3a610-a796-44fc-b5e7-8b414bbf032a/16x9.jpg"
+  },
+  {
+    "name": "UnXplained Zone 🇺🇸",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656538f8954b020008d389db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/656538f8954b020008d389db/colorLogoPNG.png"
+  },
+  {
+    "name": "Beyond Belief Fact or Fiction 🇺🇸",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://stitcher.pluto.tv/stitch/hls/channel/611f85396abc84000738417b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13",
+    "img": "https://images.pluto.tv/channels/611f85396abc84000738417b/colorLogoPNG.png"
+  },
+  {
+    "name": "Ghost Dimension 🇺🇸",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://dr2t9f8nivbc6.cloudfront.net/hls/WZBGXZA/20D476E24693/m.m3u8",
+    "img": "https://player.api.stv.tv/v1/images/650124/rendition/?redirect=true&width=1000&height=1000"
+  },
+  {
+    "name": "Ghost Hunters 🇺🇸",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96",
+    "img": "https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png"
+  },
+  {
+    "name": "Haunt tv 🇺🇸",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63934c218ef524000757b122/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png"
+  },
+  {
+    "name": "Mystery TV 🇺🇸",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://is.gd/ereebi?GBBD50000320.m3u8",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000320_20240829T152102SQUARE.png"
+  },
+  {
+    "name": "tv Paranormal 🇺🇸",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b1e4189f5db20007ff03be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/62b1e4189f5db20007ff03be/colorLogoPNG.png"
+  },
+  {
+    "name": "Paranormal State 🇺🇸",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60804d85858bd00007c5d591/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://images.pluto.tv/channels/60804d85858bd00007c5d591/colorLogoPNG.png"
+  },
+  {
+    "name": "Alien Nation 🇺🇸",
+    "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Paranormal 👽",
+    "url": "https://stitcher.pluto.tv/stitch/hls/channel/66621ed08ea5560008fde7c9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100000630_20240730T012802SQUARE.png"
   },
   {
     "name": "Masterchef 🇧🇷",
@@ -14086,528 +14662,6 @@
     "type": "​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Billard & Snooker 🎱",
     "url": "https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8",
     "img": "https://images.pluto.tv/channels/65df112b66eec8000897b965/colorLogoPNG.png"
-  },
-  {
-    "name": "ONFM 🇵🇹",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?profile=inspirationLinks.m3u8",
-    "img": "https://onfm.pt/wp-content/uploads/2023/09/logo-on-fm.png"
-  },
-  {
-    "name": "Rádio Sinesᶠᴴᴰ 🇵🇹",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/chunklist_w438281994_b4500000_slen.m3u8",
-    "img": "https://radiosines.sapo.pt/assets/dist/img/logo_xmas.png"
-  },
-  {
-    "name": "NPC TV 🇵🇹",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w273627653.m3u8",
-    "img": "https://pa-str.srvsite.com/arquivos/7016/cabecalho-7016-20241104155713.png"
-  },
-  {
-    "name": "Assim é Portugal 🇵🇹",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8",
-    "img": "https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png"
-  },
-  {
-    "name": "Qello Concerts",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png"
-  },
-  {
-    "name": "Live Music",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png"
-  },
-  {
-    "name": "Love Songs",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b80acac5329000740c022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png"
-  },
-  {
-    "name": "Movie Music",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64240d00dbdaaa00085bc5e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/64240d00dbdaaa00085bc5e2/colorLogoPNG.png"
-  },
-  {
-    "name": "NOW 90s00s 🇬🇧",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/660c209e19ca71000846cf38/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/660c209e19ca71000846cf38/colorLogoPNG.png"
-  },
-  {
-    "name": "Tomorroland Radio",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Tomorroland.webp"
-  },
-  {
-    "name": "Clubbing tv",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://clubbingtv-lg-au.amagi.tv/playlist.m3u8",
-    "img": "https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png"
-  },
-  {
-    "name": "Cool Summer Channel",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://d2hzqddebd4oer.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-468m04kfpf5n7/csts.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2500002K0_20240819T052918SQUARE.png"
-  },
-  {
-    "name": "BIS 🇧🇷",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "http://185.236.183.117:14067/BISfhd",
-    "img": "https://logo.iptveditor.com/bis.png"
-  },
-  {
-    "name": "Surf Roots TV 🇺🇸",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/surf-roots-tv/master.m3u8",
-    "img": "https://s3cdn.panda-os.com/8611/upload/ezgifcomgifmakerpng"
-  },
-  {
-    "name": "AfrobeatsTVᶠᴴᴰ",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?profile=inspirationLinks.m3u8",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Afrobeats.webp"
-  },
-  {
-    "name": "Mezzo 🇫🇷",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
-    "img": "https://i.imgur.com/auNdGeW.png"
-  },
-  {
-    "name": "Qwest Playlist",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200001BV_20230614T005738SQUARE.png_20230614005738.png"
-  },
-  {
-    "name": "Stingray dJAZZ",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=80f90cf7-7a92-11ef-97cb-02e0fd7f02bc",
-    "img": "https://images.pluto.tv/channels/64240ccfaa2d690008dc4406/colorLogoPNG.png"
-  },
-  {
-    "name": "Bluestnᴸᴼᵂ 🇺🇸",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
-    "img": "https://bluestn.com/wp-content/uploads/2019/06/btnLogo-2.png"
-  },
-  {
-    "name": "California Music Channel 🇺🇸",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://cmc-ono.amagi.tv/playlist.m3u8",
-    "img": "https://cmctv.com/cmc/images/camuslogo.gif"
-  },
-  {
-    "name": "CMC USA",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
-    "img": "https://i.imgur.com/L38mC6H.webp"
-  },
-  {
-    "name": "CMT Equal Play",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=80f90cf7-7a92-11ef-97cb-02e0fd7f02bc",
-    "img": "https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png"
-  },
-  {
-    "name": "VH1 Classic",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png"
-  },
-  {
-    "name": "VH1+Back To 90'S",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png"
-  },
-  {
-    "name": "VH1+Rock",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6447d08f2858cb0008b9957c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png"
-  },
-  {
-    "name": "VH1+Music Legends",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png"
-  },
-  {
-    "name": "NOW 80 🇬🇧",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NOW80s.webp"
-  },
-  {
-    "name": "NOW ROCK 🇬🇧",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6568a78d635c3c0008765f41/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NowRock.webp"
-  },
-  {
-    "name": "Vevo 80s 🇬🇧",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://tinyurl.com/3xx7ymya?profile=inspirationlivetv.m3u8",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20241112T001815SQUARE.png"
-  },
-  {
-    "name": "Vevo 90s 🇬🇧",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://tinyurl.com/mtsp9b32?profile=inspirationlivetv.m3u8",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20241112T001820SQUARE.png"
-  },
-  {
-    "name": "Vevo '90s & '00ᶠᴴᴰ 🇬🇧",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20230412T042246SQUARE.png_20230412042247.png"
-  },
-  {
-    "name": "Vevo Retro Rockᶠᴴᴰ 🇬🇧",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20241112T001904SQUARE.png"
-  },
-  {
-    "name": "Vevo '70s & '80ᶠᴴᴰ",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://d8ey2gcjuai15.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t4dwcnavbvxsk/Vevo70sand80s_GB.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20230614T010158SQUARE.png_20230614010159.png"
-  },
-  {
-    "name": "Vevo Popᶠᴴᴰ",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20241112T001858SQUARE.png"
-  },
-  {
-    "name": "Vevo 2kᶠᴴᴰ",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png"
-  },
-  {
-    "name": "Vevo Countryᶠᴴᴰ",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20241112T001851SQUARE.png"
-  },
-  {
-    "name": "XITE Celebrates",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250121T101057SQUARE.png"
-  },
-  {
-    "name": "XITE Hitsᶠᴴᴰ",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://xite-hitsuk-lg.amagi.tv/playlist.m3u8",
-    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png"
-  },
-  {
-    "name": "XITE Rock X Metal",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher.pluto.tv/stitch/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=80f90cf7-7a92-11ef-97cb-02e0fd7f02bc",
-    "img": "https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png"
-  },
-  {
-    "name": "XITE Gospel",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96",
-    "img": "https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png"
-  },
-  {
-    "name": "Staccs Music TV Greatest Hits",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://3cf9b1046f5f4735911350e41a9de7f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_STACCSTV/playlist.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3100003TH_20241030T140834SQUARE.png"
-  },
-  {
-    "name": "Staccs Music TV 80’s Hits",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_STACCSTVThrowback/c6383a68-7837-4998-9804-e8786fd0d232/2.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1900004CG_20241022T043847SQUARE.png"
-  },
-  {
-    "name": "Sol Musica 🇪🇸",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png"
-  },
-  {
-    "name": "Top music",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://accesiptv.com//live/Mzkc5Hm6eq/HYj6954jZZ/638.m3u8",
-    "img": "https://accesiptv.com:443/images/I1pSR7XU015S8m9TzZOhJoCWQWrjrh6kUliiT0FRc5b1-qQ79KF_THyXfDmXE4p6wUaq8UzLX8DbZ0RBsiFyijyxrVvyzdWW3zxMq4RmoF4.png"
-  },
-  {
-    "name": "VIVA",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://hls.goodgame.ru/hls/180805.m3u8",
-    "img": "https://i.imgur.com/OFhQQCD.png"
-  },
-  {
-    "name": "POP World TV",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8",
-    "img": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/PopWorldtv.webp"
-  },
-  {
-    "name": "4Ever Music",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://iptv.prosto.tv/id271/video.m3u8",
-    "img": "https://logo.iptveditor.com/4evermusic.png"
-  },
-  {
-    "name": "Ocko Star 🇨🇿",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wmsAuthSign=Inspirationlivetv",
-    "img": "https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png"
-  },
-  {
-    "name": "Muzzik Rock&Roll 🇷🇸",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://muzzik-live.morescreens.com/mts-1/playlist.m3u8",
-    "img": "https://muzzik.co.uk/images/muzzik-logo.png"
-  },
-  {
-    "name": "Muzzik Pop Star 🇷🇸",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8",
-    "img": "https://muzzik.co.uk/images/muzzik-logo.png"
-  },
-  {
-    "name": "Muzzik Flashback 🇷🇸",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://muzzik-live.morescreens.com/mts-8/playlist.m3u8",
-    "img": "https://muzzik.co.uk/images/muzzik-logo.png"
-  },
-  {
-    "name": "XPTV 1",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8",
-    "img": "https://players.rcast.net/uploads/images/202305/img_x300_646314ac954144-70583156-85346286.png"
-  },
-  {
-    "name": "70-80.it 🇮🇹",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://d125n3dscdmoj3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oja5b1lpu3cmg/master.m3u8",
-    "img": "https://i.imgur.com/y4kNV3Q.png"
-  },
-  {
-    "name": "Radio Capital 🇮🇹",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/radiocapital.webp"
-  },
-  {
-    "name": "Kiss kiss tvᶠᴴᴰ 🇮🇹",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/UTStxDW.png"
-  },
-  {
-    "name": "51 Radio Tvᴸᴼᵂ 🇮🇹",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8?profile=inspirationLinks.m3u8",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/51radiotv.webp"
-  },
-  {
-    "name": "Kiss tvᶠᴴᴰ 🇷🇴",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8",
-    "img": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/Kisstv.webp"
-  },
-  {
-    "name": "Retro tvᴸᴼᵂ 🇨🇿",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?profile=inspirationLinks.m3u8",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/retromusic.webp"
-  },
-  {
-    "name": "Magic TV 🇷🇴",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8",
-    "img": "https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/magivTV.webp"
-  },
-  {
-    "name": "Magic TV 🇧🇬",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://bss1.neterra.tv/magictv/magictv.m3u8",
-    "img": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/magictvbg.webp"
-  },
-  {
-    "name": "RetroPlus 🇨🇱",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w30695301.m3u8",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/retroplus.webp"
-  },
-  {
-    "name": "Vintage tv 🇧🇷",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://video01.kshost.com.br/rogerio7271/rogerio7271/playlist.m3u8",
-    "img": "https://static.wixstatic.com/media/f98147_744ad37f90864e429604d647d396ef83~mv2.png"
-  },
-  {
-    "name": "Reload Play 🇬🇷",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
-    "img": "https://reloadplay.com/wp-content/uploads/2017/04/Cool-Text-242641884051291.png"
-  },
-  {
-    "name": "Trace UK",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://d2u040elo6umri.cloudfront.net/trace_urban_gb.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png"
-  },
-  {
-    "name": "Trace Brasilᶠᴴᴰ 🇧🇷",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tracebrazuca.webp"
-  },
-  {
-    "name": "Trace Urban²ᶠᴴᴰ",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png"
-  },
-  {
-    "name": "MTV On Tour 🇬🇧",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67b4a4e41a5ca7608025da79/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/67b4a4e41a5ca7608025da79/colorLogoPNG.png"
-  },
-  {
-    "name": "MTV Best Off 🇬🇧",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a7b3bf07e03a00089148a9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/65a7b3bf07e03a00089148a9/colorLogoPNG.png"
-  },
-  {
-    "name": "MTV Movies Hits 🇬🇧",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6331a5f83eb57800074d4a0d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/colorLogoPNG.png"
-  },
-  {
-    "name": "MTV Party 🇬🇧",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61ea759737679900078ff559/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png"
-  },
-  {
-    "name": "MTV Classic 🇬🇧",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png"
-  },
-  {
-    "name": "MTV Unplugged",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png"
-  },
-  {
-    "name": "MTV Made in Spain",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png"
-  },
-  {
-    "name": "MTV Flow Latino 🇪🇸",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=80f90cf7-7a92-11ef-97cb-02e0fd7f02bc",
-    "img": "https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png"
-  },
-  {
-    "name": "Deluxe Music 🇩🇪",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DeluxeMusic.webp"
-  },
-  {
-    "name": "Deluxe Winter Timeᶠᴴᴰ 🇩🇪",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://d2l1hs6hxlg3df.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pb0nloqsgtwc2/index.m3u8",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DeluxeWinterTime.webp"
-  },
-  {
-    "name": "Blast Channel tv",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://video01.logicahost.com.br/blast/blast/chunklist_w223775982.m3u8",
-    "img": "https://play-lh.googleusercontent.com/Hr73V6Q6de_ERwMeIfhXNG0u9H4FWyJxYs5MPb7cHU-N0kg3c0tCP3hg3Y5UcNbP08Y=w0"
-  },
-  {
-    "name": "Rockola tv",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/2.m3u8",
-    "img": "https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F0a1d51ea-22ca-42cd-8afb-de4a2db1116c-1678921793.94842.256x256.jpg&w=384&q=75"
-  },
-  {
-    "name": "Catedral do Rock tv",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stmv1.srvif.com/tvcrucilandia/tvcrucilandia/playlist.m3u8",
-    "img": "https://yt3.googleusercontent.com/ytc/AIdro_lnA8srIh1J9wkEgkGA_g_xvJKABHr9yS_Nz92WPbWfwfo=w0"
-  },
-  {
-    "name": "Rock TV",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png"
-  },
-  {
-    "name": "Rocktv",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
-    "img": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rocktv.webp"
-  },
-  {
-    "name": "MTV Love Music",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638f2d9aa530b200072ec8ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://images.pluto.tv/channels/638f2d9aa530b200072ec8ef/colorLogoPNG.png"
-  },
-  {
-    "name": "Bom Channel 🇮🇹",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8",
-    "img": "https://logo.iptveditor.com/bomchannel.png"
-  },
-  {
-    "name": "Love tv 🇲🇰",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8",
-    "img": "https://i.imgur.com/B8iaejQ.png"
-  },
-  {
-    "name": "Juice tvᶠᴴᴰ 🇳🇱",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://juicex.nz/hls/mystream.m3u8",
-    "img": "https://www.juicetv.co.nz/assets/Uploads/logo.png"
-  },
-  {
-    "name": "JuiceX Meloᶠᴴᴰ 🇳🇱",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://juicex.nz/hls/juicex1234.m3u8",
-    "img": "https://alpha.uscreencdn.com/images/programs/1748729/horizontal/fb2e5a1b-d1d0-46a0-8d61-dd00a45d14ad.png"
-  },
-  {
-    "name": "Melody 🇫🇷",
-    "type": "🌈🆁™ Musica 🎧",
-    "url": "https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8",
-    "img": "https://logo.iptveditor.com/melody.png"
   },
   {
     "name": "SoniCentric/Island Escape (Relax)",

@@ -4170,7 +4170,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDQ6Njo0MSBQTSZoYXNoX3ZhbHVlPWlNeVRkTDZpbmNhYllqRE05KzBkcXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wYzk1YmY4Yy0wYTQ5LTQyZjAtYjk5MS0yNGM2YWJlZWE5YTU=/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI1IDEyOjMyOjUgQU0maGFzaF92YWx1ZT1QYTFmL2wyWGx4ZnZOSVpwWVl3UHdBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2Q1NDdmNzgtNTYwZC00NjZiLTk0OGEtMTFjOThhOTUxODE1/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4185,7 +4185,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: CNN Portugal
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDQ6Njo0MiBQTSZoYXNoX3ZhbHVlPUozWnltMklRNklwUHNHelgvLzlXR0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mNGU1YjljYS1lNTlhLTQxYmItYjhlMS01ZDdlMTQ0MjM5YmY=/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI1IDEyOjMyOjYgQU0maGFzaF92YWx1ZT1PcDdsSXN1VGlNYUxQZVhWU3RIZEhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTUwMzQyOGMtMmNhNS00ZTAwLTgyZDUtZDAzMWQ0MWE3ZGI1/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4230,7 +4230,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacio
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI Internacional
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDQ6Njo0MyBQTSZoYXNoX3ZhbHVlPVluRnJjb2ptMGpzc04yazk3VTQrVVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03YWFmM2VlMS0zMGIyLTQxNTEtYjQxZS00MTMzN2Y5YzUyMzY=/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI1IDEyOjMyOjggQU0maGFzaF92YWx1ZT1oaGJjTE96ckdVL05Kak1nUm1zOHpRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGY0NTM1NzAtZmRmMy00YjA0LWFiMzktMGUyMTc2MWQxNGZh/
 Logo: https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -5293,6 +5293,11 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 
 Group: ​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Doc & History 🏛️
+Name: Hallo! Doc 🇧🇷
+URL: https://aovivo.doozytv.com.br/31025556/10162730/playlist.m3u8
+Logo: https://nxplay-images.comets.com.br/resize/671657f5cd310_f7be52eb0e7ee353303543c27735cad3.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
 Name: TV Investigação 🇧🇷
 URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 Logo: https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png
@@ -5475,6 +5480,11 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 
 Group: ​𝐏𝐥𝐮𝐭𝐨 🌎|☆ Fanny & Comedy 😂
+Name: Mr.Bean 🇬🇧
+URL: http://15.235.9.200:14970/MrBeanhd
+Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
 Name: Mr.Bean 🇪🇸🇬🇧 [ʀᴀkυᴛᴇɴ]
 URL: https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mr%20Bean.webp
@@ -5492,7 +5502,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: Always Funny 🇺🇸
 URL: https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8
-Logo: https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png group-title=
+Logo: https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Comedy Central Roast 🇺🇸
@@ -7707,6 +7717,16 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 
 Group: 🌈🆁™ Musica 🎧
+Name: MTV
+URL: http://15.235.9.200:14858/MTVbrhd
+Logo: https://logo.iptveditor.com/mtv.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: MTV Eastern
+URL: https://tvpass.org/live/MTVEast/sd
+Logo: https://logo.iptveditor.com/mtv.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
 Name: ONFM 🇵🇹
 URL: https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?profile=inspirationLinks.m3u8
 Logo: https://onfm.pt/wp-content/uploads/2023/09/logo-on-fm.png
@@ -8311,7 +8331,7 @@ Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/t
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Telecine Premium 🇧🇷
-URL: https://onplaytv.net/tcpremium/video.m3u8
+URL: http://185.236.183.118:14690/tlcPremiumfhd
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -8346,12 +8366,17 @@ Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/t
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Telecine Touch 🇧🇷
-URL: https://onplaytv.net/tctouch/video.m3u8
+URL: http://185.236.183.118:14691/TelecineTouchfhd
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-touch-br.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Telecine Cult 🇧🇷
 URL: https://onplaytv.net/tccult/video.m3u8
+Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-cult-br.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: Telecine Cult
+URL: http://185.236.183.118:14695/TelecineCultfhd
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-cult-br.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -8371,8 +8396,23 @@ Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/t
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: HBO 🇧🇷
+URL: http://185.236.183.118:14395/
+Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HBO.webp
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: HBO 🇧🇷
+URL: http://15.235.9.200:14186/HBOSD
+Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HBO.webp
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: HBO 🇧🇷
 URL: http://15.235.50.112:14186/HBOSD
 Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/HBO.webp
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: HBO+ 🇧🇷
+URL: http://185.236.183.118:14408/hboplusfhd
+Logo: https://logo.iptveditor.com/hboplus.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: HBO+ 🇧🇷
@@ -8381,12 +8421,12 @@ Logo: https://logo.iptveditor.com/hboplus.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: HBO Pop
-URL: https://s2.100mundial.icu/fontes/nossoplayer/hbopop.m3u8
+URL: http://185.236.183.118:14415/HBOPopfhd
 Logo: https://logo.iptveditor.com/hbopop.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: HBO 2 🇧🇷
-URL: http://15.235.50.112:14189/HBO2sd
+URL: http://185.236.183.118:14399/HBO2fhd
 Logo: https://logo.iptveditor.com/hbo2.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -8396,7 +8436,7 @@ Logo: https://logo.iptveditor.com/hbo2.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: HBO Signature 🇧🇷
-URL: http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/96415.m3u8
+URL: http://15.235.9.200:14179/HBOSignfhd
 Logo: https://logo.iptveditor.com/hbosignature.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -8411,13 +8451,23 @@ Logo: https://logo.iptveditor.com/hboxtreme.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: HBO Family 🇧🇷
+URL: http://185.236.183.118:14404/HBOFamilyhd
+Logo: https://logo.iptveditor.com/hbofamily.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: HBO Family 🇧🇷
 URL: http://15.235.50.112:14192/HBOFamilySD
 Logo: https://logo.iptveditor.com/hbofamily.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: HBO Mundi 🇧🇷
-URL: http://15.235.50.112:14195/HBOMundiSD
+URL: http://185.236.183.118:14411/HBOMundifhd
 Logo: https://logo.iptveditor.com/hbomundi.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: TNT 🇧🇷 ⚽️
+URL: http://185.236.183.118:14704/tntfhd
+Logo: https://logo.iptveditor.com/tnt.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TNT 🇧🇷 ⚽️
@@ -8426,7 +8476,7 @@ Logo: https://logo.iptveditor.com/tnt.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TNT Series 🇧🇷
-URL: http://tv14s.xyz:8080//live/5ThaSM/484504/164958.m3u8
+URL: http://185.236.183.118:14709/tntseriesfhd
 Logo: https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -8595,17 +8645,17 @@ URL: http://79.127.238.228:14433/TLChd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: A&E 🇧🇷
+Name: A&E 🇧🇷 ⚽️
 URL: http://185.236.183.117:14003/A&EFHD
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: A&E 🇧🇷
+Name: A&E 🇧🇷 ⚽️
 URL: https://s2.100mundial.icu/fontes/nossoplayer/ae.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: A&E 🇧🇷
+Name: A&E 🇧🇷 ⚽️
 URL: https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -8621,7 +8671,7 @@ Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-s
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: History 🇧🇷
-URL: http://185.236.183.117:14392/historyhd
+URL: http://185.236.183.118:14435/historyfhd
 Logo: https://logo.iptveditor.com/history.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -8631,7 +8681,7 @@ Logo: https://logo.iptveditor.com/history.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: H2 🇧🇷
-URL: https://new.ejaculacaoretardada.site/history2/index.m3u8
+URL: http://185.236.183.118:14391/H2hd
 Logo: https://logo.iptveditor.com/h2.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -8651,12 +8701,17 @@ Logo: https://logo.iptveditor.com/discoverychannel.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: h&h Discovery 🇧🇷
-URL: http://15.235.50.112:14100/Discoveryh&hHD
+URL: http://185.236.183.118:14147/Discoveryh&hHD
 Logo: https://logo.iptveditor.com/discoveryh&h.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Discovery World 🇧🇷
 URL: http://15.235.50.112:14112/DiscoveryWorldHD
+Logo: https://logo.iptveditor.com/discoveryworld.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: Discovery World 🇧🇷
+URL: http://185.236.183.118:14168/DiscoveryWorldHD
 Logo: https://logo.iptveditor.com/discoveryworld.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -8676,7 +8731,7 @@ Logo: https://static.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theat
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Discovery Theater 🇧🇷
-URL: http://15.235.50.112:14103/DiscoveryTheatreSD
+URL: http://185.236.183.118:14158/DiscoveryTheatreHD
 Logo: https://static.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -8999,7 +9054,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: MeTV Wjlp New Jerseynew York
 URL: https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
-Logo: https://i.postimg.cc/rwQGRGhB/imag.png
+Logo: https://logo.iptveditor.com/metv.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: AMC Eastern Feed
@@ -9339,16 +9394,6 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: MSNBC
 URL: https://tvpass.org/live/MSNBC/sd
-Logo: https://i.postimg.cc/rwQGRGhB/imag.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: MTV 2 East
-URL: https://tvpass.org/live/mtv-2-east/sd
-Logo: https://i.postimg.cc/rwQGRGhB/imag.png
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: MTV Eastern Feed
-URL: https://tvpass.org/live/MTVEast/sd
 Logo: https://i.postimg.cc/rwQGRGhB/imag.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -10485,7 +10530,7 @@ Logo: https://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Discovery Kids 🇧🇷
-URL: http://15.235.50.112:14561/DiscoveryKidsSD
+URL: http://185.236.183.118:14150/DiscoveryKidsfhd
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -10762,7 +10807,7 @@ Logo: https://logo.iptveditor.com/espn.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ESPN 🇧🇷
-URL: https://onplaytv.net/espn/video.m3u8
+URL: http://185.236.183.118:14178/espnFHD
 Logo: https://logo.iptveditor.com/espn.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -10772,12 +10817,12 @@ Logo: https://logo.iptveditor.com/espn2.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ESPN 2 🇧🇷
-URL: https://onplaytv.net/espn2/video.m3u8
+URL: http://185.236.183.118:14183/espn2HD
 Logo: https://logo.iptveditor.com/espn2.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ESPN 3 🇧🇷
-URL: http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16725.m3u8
+URL: http://185.236.183.118:14187/espn3FHD
 Logo: https://logo.iptveditor.com/espn3.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -10792,17 +10837,17 @@ Logo: https://logo.iptveditor.com/espn4.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ESPN 4 🇧🇷
-URL: https://onplaytv.net/espn4/video.m3u8
+URL: http://185.236.183.118:14191/espn4fhd
 Logo: https://logo.iptveditor.com/espn4.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: ESPN 5 🇧🇷
-URL: https://onplaytv.net/espn5/video.m3u8
+Name: ESPN 5 🏍 🇧🇷
+URL: http://185.236.183.118:14214/espn5hd
 Logo: https://logo.iptveditor.com/espn5.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ESPN 6 🇧🇷
-URL: https://onplaytv.net/espn6/video.m3u8
+URL: http://185.236.183.118:14195/espn6HD
 Logo: https://logo.iptveditor.com/espn6.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -10813,7 +10858,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 Name: Goltv 🇺🇸
 URL: https://github.com/inspirationlinks/m3u/raw/live/Streams/goltv.m3u8
-Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/goltv.webp
+Logo: https://logo.iptveditor.com/goltv.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Dasse1 🇵🇹
@@ -11055,7 +11100,7 @@ Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjU1OjYgUE0maGFzaF92YWx1ZT1mSzdaUkV4R1kycEk0RFo5UnFEZ1J3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzRmMjE4NDYtNjQyMC00M2UwLWExNGQtYWE4NjFiYmM5NzM2/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDg6MzQ6MjQgUE0maGFzaF92YWx1ZT1VNXpDQjVsUURQOU0xUi9ESzd0UzhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2E0ODZiM2YtNzhiNi00OGU3LTk1MmMtZjUyODJlZjljMTBk/
 Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/CNNPortugal.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -11711,7 +11756,7 @@ Logo: https://logo.iptveditor.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacionalᶠᴴᴰ 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjU1OjcgUE0maGFzaF92YWx1ZT0zekY1dkhXelhnWHFIUm5xZHVXU05nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2QzNjlhOWEtODFlMy00MGIxLWE0MDItYWNmZGZhZDM0N2Fk/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDg6MzQ6MjUgUE0maGFzaF92YWx1ZT1YM0owT0ZMUEtrbUt5RlBXQ1JQREVRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2IwYTAyMWEtZGUzNS00OGRlLWI1ZTktMmY1YTkzNzk5NTYz/
 Logo: https://logo.iptveditor.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -11721,7 +11766,7 @@ Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjU1OjUgUE0maGFzaF92YWx1ZT0wNzZOWWthZWVMV0RkMEY3WlNCQUt3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODE1MzljOGUtMjkxMC00NDk2LWI2Y2UtZDA4YWQ5MDk3MDIw/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDg6MzQ6MjMgUE0maGFzaF92YWx1ZT1sY0I0Z0tneXRRSTRUVVQrSGpQUklnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmQwNjc4Y2ItOWMyNy00MjNiLThlYWMtNjVkODBiYjdkMWVi/
 Logo: https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -12124,7 +12169,7 @@ Logo: https://logo.iptveditor.com/sportv.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Sportv 🇧🇷
-URL: https://abc3orwaaaaaaaamlk56gfiik2ug5.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/xjjwlsad4u/out/v1/bd0d120a5bd14d278f32c89735a7ffc5/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+URL: https://is.gd/i124rU?Sportv.m3u8
 Logo: https://logo.iptveditor.com/sportv.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -12148,18 +12193,18 @@ URL: https://onplaytv.net/sportv3/video.m3u8
 Logo: https://logo.iptveditor.com/sportv.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: Premiere 2 🇧🇷
-URL: http://185.246.208.74:14870/Premiere2
+Name: Premiere Clubes 🇧🇷
+URL: https://onplaytv.net/premiereclubes/video.m3u8
 Logo: https://logo.iptveditor.com/premiere.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: Premiere Clubes 🇧🇷
-URL: https://abc3orwaaaaaaaamgyske232j4one.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/s620lgcejq/out/v1/f461147d7113450f8edfe0fc38bd9307/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+Name: Premiere 🇧🇷
+URL: http://185.236.183.118:14508/Premierefhd
 Logo: https://logo.iptveditor.com/premiere.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Combate 🇧🇷
-URL: http://185.236.183.117:14124/Comatefhd
+URL: http://185.236.183.117:14124/Combatefhd
 Logo: https://logo.iptveditor.com/combate.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -12168,9 +12213,14 @@ URL: http://185.236.183.117:14205/Fishtvfhd
 Logo: https://logo.iptveditor.com/fishtv.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: Cazé tv Eventos 🇧🇷 ⚽️
+Name: Cazé tv 🇧🇷
 URL: https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 Logo: https://yt3.googleusercontent.com/6ZtRoT9LpJKkC9lne_BySbrnGfomGIf-_rfNsU5fHft8nYx8gCJiY9W2TH55Kc28K0VJovkAiw=w0
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: h_482,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo.png" group-title="🌈🆁™Sports 🇧🇷🇪🇸",Nosso Futebol 🇧🇷
+URL: http://185.236.183.118:14657/NossoFutebolhd
+Logo: https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png/v1/fill/w_298,h_482,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: DAZN F1
@@ -12191,11 +12241,6 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 Name: +tdp 🇪🇸
 URL: https://ztnr.rtve.es/ztnr/6712431.m3u8
 Logo: https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200
-Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
---------------------------------------------------
-Name: ETB Deportes 🇪🇸
-URL: https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
-Logo: https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: ETB Deportes 🇪🇸
