@@ -120,16 +120,16 @@
     "img": "https://i.imgur.com/HyVUwFC.png"
   },
   {
+    "name": "ATV (400p) [Not 24/7]",
+    "type": "General",
+    "url": "https://guineetvdirect.online:3320/live/atvguineelive.m3u8",
+    "img": "https://i.imgur.com/YkJPCfR.jpeg"
+  },
+  {
     "name": "ATV (576p)",
     "type": "General",
     "url": "https://strm.hdtvizlecanli.com/live/atv.m3u8",
     "img": "https://i.imgur.com/1pA0Tid.png"
-  },
-  {
-    "name": "Atyraý (720p)",
-    "type": "General",
-    "url": "https://stream.kaztrk.kz/regional/atyrautv/index.m3u8",
-    "img": "https://i.imgur.com/kva4O3T.png"
   },
   {
     "name": "aurLife HD (614p)",
@@ -204,6 +204,12 @@
     "img": "https://i.imgur.com/2Sekew2.png"
   },
   {
+    "name": "Canal 9 Cosespu (720p)",
+    "type": "General",
+    "url": "https://video2.lhdserver.es/canal9cosespu/live.m3u8",
+    "img": "https://i.imgur.com/w5e1d8k.png"
+  },
+  {
     "name": "Canal 11 TuTV (349p)",
     "type": "General",
     "url": "https://stream.giostreaming.net:19360/canal11/canal11.m3u8",
@@ -216,10 +222,22 @@
     "img": "https://i.imgur.com/pqMTMgF.jpg"
   },
   {
+    "name": "Canal Catorce (720p)",
+    "type": "General",
+    "url": "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8",
+    "img": "https://i.imgur.com/iKLGBbA.png"
+  },
+  {
     "name": "Canal Más Televisión (720p)",
     "type": "General",
     "url": "https://movil.ejeserver.com/live/teledoradahd.m3u8",
     "img": "https://i.imgur.com/ODMa27W.jpg"
+  },
+  {
+    "name": "Canal Santa Marta TV (720p) [Not 24/7]",
+    "type": "General",
+    "url": "https://streaming.amelbasoluciones.co:19360/santamartalive/santamartalive.m3u8",
+    "img": "https://i.imgur.com/HbWadhJ.png"
   },
   {
     "name": "Cananga TV (720p)",
@@ -304,6 +322,12 @@
     "type": "General",
     "url": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8",
     "img": "https://i.imgur.com/iM9AN6Z.png"
+  },
+  {
+    "name": "Cotubanama TV (1080p)",
+    "type": "General",
+    "url": "https://host.streamingnation.live/p/3588/hybrid/play.m3u8",
+    "img": "https://i.imgur.com/D6gAezp.png"
   },
   {
     "name": "Cotui TV (720p)",
@@ -396,12 +420,6 @@
     "img": "https://i.imgur.com/ctlcdOw.png"
   },
   {
-    "name": "Deshi TV (720p)",
-    "type": "General",
-    "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
-    "img": "https://i.imgur.com/PzqzgMm.png"
-  },
-  {
     "name": "Dhoho TV (720p)",
     "type": "General",
     "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
@@ -456,12 +474,6 @@
     "img": "https://i.imgur.com/nePOFZW.png"
   },
   {
-    "name": "Entelevisión (720p)",
-    "type": "General",
-    "url": "https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8",
-    "img": "https://i.imgur.com/gVtLpMD.png"
-  },
-  {
     "name": "Ertis (1080p) [Not 24/7]",
     "type": "General",
     "url": "https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8",
@@ -478,12 +490,6 @@
     "type": "General",
     "url": "http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8",
     "img": "https://i.imgur.com/jDT5XFs.jpg"
-  },
-  {
-    "name": "Eveo (720p) [Not 24/7]",
-    "type": "General",
-    "url": "https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?hd=true",
-    "img": "https://i.imgur.com/fFIq7tY.png"
   },
   {
     "name": "Evrokom (360p)",
@@ -520,6 +526,12 @@
     "type": "General",
     "url": "https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8",
     "img": "https://i.imgur.com/xhkiiO3.png"
+  },
+  {
+    "name": "GHLife TV (720p)",
+    "type": "General",
+    "url": "https://stream-server9-jupiter.muxlive.com/hls/ghlifetv/index.m3u8",
+    "img": "https://i.imgur.com/wECsJEU.png"
   },
   {
     "name": "GHtv Holland (720p)",
@@ -564,6 +576,12 @@
     "img": "https://i.imgur.com/E7ta6g8.png"
   },
   {
+    "name": "HTV7 (576p)",
+    "type": "General",
+    "url": "http://125hvt.ddns.net:21585/htv7/tracks-v1a1/mono.m3u8",
+    "img": "https://i.postimg.cc/fyCZR0kb/HTV7-logo-2015.png"
+  },
+  {
     "name": "Imagen Universal TV",
     "type": "General",
     "url": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8",
@@ -606,12 +624,6 @@
     "img": "https://i.imgur.com/ffqdD8W.png"
   },
   {
-    "name": "Jambyl (360p) [Not 24/7]",
-    "type": "General",
-    "url": "https://stream.kaztrk.kz/regional/taraztv/index.m3u8",
-    "img": "https://i.imgur.com/X7N3JK4.png"
-  },
-  {
     "name": "Jawa Pos TV (720p) [Not 24/7]",
     "type": "General",
     "url": "https://jawapostv.siar.us/jawapostv/live/playlist.m3u8",
@@ -628,12 +640,6 @@
     "type": "General",
     "url": "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8",
     "img": "https://i.imgur.com/Hi8hZzl.png"
-  },
-  {
-    "name": "Jogja TV (720p) [Not 24/7]",
-    "type": "General",
-    "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
-    "img": "https://i.imgur.com/m9ezMUz.png"
   },
   {
     "name": "Kaback TV (720p)",
@@ -658,12 +664,6 @@
     "type": "General",
     "url": "https://live.teleradiocom.tj/10/3m.m3u8",
     "img": "https://i.imgur.com/X4xVpBj.png"
-  },
-  {
-    "name": "Kókshe (720p) [Not 24/7]",
-    "type": "General",
-    "url": "https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8",
-    "img": "https://i.imgur.com/pOR3FSR.png"
   },
   {
     "name": "Kon Tum TV (720p)",
@@ -780,12 +780,6 @@
     "img": "https://i.imgur.com/rw72POr.png"
   },
   {
-    "name": "Mega TV Jaen (720p) [Not 24/7]",
-    "type": "General",
-    "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8",
-    "img": "https://i.imgur.com/zK1YcpJ.png"
-  },
-  {
     "name": "Mijas 3.40TV (720p)",
     "type": "General",
     "url": "https://streaming004.gestec-video.com/hls/MIJAS.m3u8",
@@ -862,6 +856,12 @@
     "type": "General",
     "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8",
     "img": "https://i.imgur.com/NRO6AtW.png"
+  },
+  {
+    "name": "Nelonen (720p)",
+    "type": "General",
+    "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
+    "img": "https://i.imgur.com/BFbCyfY.png"
   },
   {
     "name": "Neox TV (480p)",
@@ -1044,12 +1044,6 @@
     "img": "https://i.imgur.com/n39a2DT.png"
   },
   {
-    "name": "RecordTV",
-    "type": "General",
-    "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
-    "img": "https://i.imgur.com/sz9gTTr.png"
-  },
-  {
     "name": "Régió TV (406p)",
     "type": "General",
     "url": "http://tv.geniusnet.sk:8081/regiotv/pl.m3u8",
@@ -1072,12 +1066,6 @@
     "type": "General",
     "url": "https://lstv.duckdns.org:449/hls/rtchirripo.m3u8",
     "img": "https://i.imgur.com/XWmwwbj.jpg"
-  },
-  {
-    "name": "Ruta66 TV (720p)",
-    "type": "General",
-    "url": "https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8",
-    "img": "https://i.imgur.com/oY4Xfvq.png"
   },
   {
     "name": "San Isidro TV (720p) [Not 24/7]",
@@ -1212,6 +1200,12 @@
     "img": "https://i.imgur.com/YvdzJHj.png"
   },
   {
+    "name": "TéléGohelle",
+    "type": "General",
+    "url": "https://videas.agglo-lenslievin.fr/index.m3u8",
+    "img": "https://i.imgur.com/Oa3Pwbf.png"
+  },
+  {
     "name": "Telekanal RAI (480p)",
     "type": "General",
     "url": "https://stream.rai.ua/rai/stream.m3u8",
@@ -1246,12 +1240,6 @@
     "type": "General",
     "url": "http://stream.herissons.cloud/hls/tvluban.m3u8",
     "img": "https://i.imgur.com/t2BGp0G.jpeg"
-  },
-  {
-    "name": "TEVEKA (1080p) [Not 24/7]",
-    "type": "General",
-    "url": "https://www.teveka.net:8443/show/teveka/index.m3u8",
-    "img": "https://i.imgur.com/IAtKJZk.png"
   },
   {
     "name": "Thai Nguyen TV (1080p)",
@@ -1320,12 +1308,6 @@
     "img": "https://i.imgur.com/hEd25Cr.png"
   },
   {
-    "name": "TV Florencia (720p)",
-    "type": "General",
-    "url": "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8",
-    "img": "https://i.imgur.com/jsbwnRb.png"
-  },
-  {
     "name": "TV Kulob (576p)",
     "type": "General",
     "url": "https://live.teleradiocom.tj/12/3m.m3u8",
@@ -1348,12 +1330,6 @@
     "type": "General",
     "url": "https://streamnorge.com:8088/hls/tvo.m3u8",
     "img": "https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png"
-  },
-  {
-    "name": "TV Perú Internacional (1080p)",
-    "type": "General",
-    "url": "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png"
   },
   {
     "name": "TV QUISQUEYA (720p)",
@@ -1434,54 +1410,6 @@
     "img": "https://www.tvchinese.net/uploads/tv/ybtv2.jpg"
   },
   {
-    "name": "Yeglé TV (1080p)",
-    "type": "General",
-    "url": "https://endour.net/hls/Yegle-tv/index.m3u8",
-    "img": "https://i.imgur.com/858fDCT.png"
-  },
-  {
-    "name": "Zurquí TV (720p)",
-    "type": "General",
-    "url": "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8",
-    "img": "https://i.imgur.com/XvktUBB.jpg"
-  },
-  {
-    "name": "Балта ТВ (768p)",
-    "type": "General",
-    "url": "http://194.50.51.34/playlist.m3u8",
-    "img": "https://cdn.teleon.tv/logo/balta-tv-ua.png"
-  },
-  {
-    "name": "Евразия (Орск) (720p)",
-    "type": "General",
-    "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "img": "https://i.imgur.com/4JUHIVS.png"
-  },
-  {
-    "name": "НТК ТВ (1080p) [Not 24/7]",
-    "type": "General",
-    "url": "https://stream.ntktv.ua/s/ntk/ntk.m3u8",
-    "img": "https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png"
-  },
-  {
-    "name": "Общественное Телевидение России",
-    "type": "General",
-    "url": "http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8",
-    "img": "https://i.imgur.com/VaWlnjZ.png"
-  },
-  {
-    "name": "Орбіта ТВ (360p) [Not 24/7]",
-    "type": "General",
-    "url": "http://ftp.orbita.dn.ua/hls/orbita.m3u8",
-    "img": "https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png"
-  },
-  {
-    "name": "РЕН ТВ",
-    "type": "General",
-    "url": "http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8",
-    "img": "https://i.imgur.com/0Tu5lte.png"
-  },
-  {
     "name": "Телеканал 86 (Сургут) (1080p) [Not 24/7]",
     "type": "General",
     "url": "https://sitv.ru/hls/s86.m3u8",
@@ -1530,10 +1458,10 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/512"
   },
   {
-    "name": "B+ TV (480p)",
+    "name": "Bellavisión (1080p)",
     "type": "Entertainment",
-    "url": "https://tv.btnrwanda.com:3432/live/bpluslive.m3u8",
-    "img": "https://i.ibb.co/WzLwj3X/IMG-20230703-155036.jpg"
+    "url": "https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8",
+    "img": "https://i.imgur.com/XqQ3kCs.png"
   },
   {
     "name": "Canal 9 Ixchiguán (720p)",
@@ -1590,12 +1518,6 @@
     "img": "https://i.imgur.com/fBc9JSM.png"
   },
   {
-    "name": "Ficom Channel (720p)",
-    "type": "Entertainment",
-    "url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
-    "img": "https://i.ibb.co/nqX0CBx/f-1.png"
-  },
-  {
     "name": "Freedom Love Zone TV (720p)",
     "type": "Entertainment",
     "url": "https://panel.freedomflixtv.org:3665/hybrid/play.m3u8",
@@ -1644,6 +1566,12 @@
     "img": "https://i.imgur.com/U4sKHWy.png"
   },
   {
+    "name": "Jim (720p)",
+    "type": "Entertainment",
+    "url": "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true",
+    "img": "https://i.imgur.com/PkMgY0K.png"
+  },
+  {
     "name": "KCL TV (720p)",
     "type": "Entertainment",
     "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
@@ -1690,12 +1618,6 @@
     "type": "Entertainment",
     "url": "https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8",
     "img": "https://i.imgur.com/z9JkxcM.png"
-  },
-  {
-    "name": "Nuova TV 1 (1080p)",
-    "type": "Entertainment",
-    "url": "https://nuovatv.net:8443/tv/stream.m3u8",
-    "img": "https://i.imgur.com/zRu9WGh.png"
   },
   {
     "name": "OXIR TV (720p)",
@@ -1764,12 +1686,6 @@
     "img": "https://i.imgur.com/oHmh5Jb.png"
   },
   {
-    "name": "Show Max",
-    "type": "Entertainment",
-    "url": "https://canlitvulusal.xyz/live/showmax/index.m3u8",
-    "img": "https://i.imgur.com/456FWA7.png"
-  },
-  {
     "name": "SolTV (720p)",
     "type": "Entertainment",
     "url": "https://stream.solmediaeg.com/soltv/soltv.m3u8",
@@ -1794,6 +1710,12 @@
     "img": "https://i.imgur.com/Eh4kfwR.png"
   },
   {
+    "name": "TV Grande Natal (1080p)",
+    "type": "Entertainment",
+    "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
+    "img": "https://i.imgur.com/MTuErdw.png"
+  },
+  {
     "name": "TV Nova (720p)",
     "type": "Entertainment",
     "url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
@@ -1804,42 +1726,6 @@
     "type": "Entertainment",
     "url": "https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8",
     "img": "https://i.imgur.com/4gj5NMa.png"
-  },
-  {
-    "name": "WTV Canal 20 (1080p)",
-    "type": "Entertainment",
-    "url": "https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8",
-    "img": "https://i.imgur.com/nb81xeU.png"
-  },
-  {
-    "name": "WWON TV CH 48",
-    "type": "Entertainment",
-    "url": "https://tv2.fastcast4u.com:3943/stream/play.m3u8",
-    "img": "https://i.imgur.com/l4qHAq6.png"
-  },
-  {
-    "name": "XPTV2 (720p)",
-    "type": "Entertainment",
-    "url": "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8",
-    "img": "https://i.imgur.com/74Z8ATB.png"
-  },
-  {
-    "name": "YourTime TV (720p) [Not 24/7]",
-    "type": "Entertainment",
-    "url": "https://hls.yourtime.live/hls/stream.m3u8",
-    "img": "https://i.imgur.com/X38vWJ1.png"
-  },
-  {
-    "name": "Ланет.TV (486p)",
-    "type": "Entertainment",
-    "url": "https://kiev1-cdn.lanet.tv/live/1008.m3u8",
-    "img": "https://i.imgur.com/Jdy4SoG.png"
-  },
-  {
-    "name": "Пятница",
-    "type": "Entertainment",
-    "url": "http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8",
-    "img": "https://i.imgur.com/UfmlXxe.png"
   },
   {
     "name": "ТВ3",
@@ -1950,18 +1836,6 @@
     "img": "https://i.imgur.com/5edYPBO.png"
   },
   {
-    "name": "Famatv (1080p) [Not 24/7]",
-    "type": "Music",
-    "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8",
-    "img": "https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg"
-  },
-  {
-    "name": "Finest TV (288p) [Not 24/7]",
-    "type": "Music",
-    "url": "https://media.finest.tv/hls/live.m3u8",
-    "img": "https://i.imgur.com/1uoP10V.png"
-  },
-  {
     "name": "Frecuencia Musical TV [Not 24/7]",
     "type": "Music",
     "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
@@ -2028,28 +1902,22 @@
     "img": "https://i.imgur.com/sKj3dgc.png"
   },
   {
+    "name": "La Mega Mundial",
+    "type": "Music",
+    "url": "https://server40.servistreaming.com:3477/stream/play.m3u8",
+    "img": "https://i.imgur.com/UdMsgkt.png"
+  },
+  {
     "name": "Latin Zone TV (720p)",
     "type": "Music",
     "url": "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8",
     "img": "https://i.imgur.com/duEDsne.png"
   },
   {
-    "name": "Luna Estéreo 106.4 FM (720p) [Not 24/7]",
-    "type": "Music",
-    "url": "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8",
-    "img": "https://i.imgur.com/cESeD6R.png"
-  },
-  {
     "name": "Makao TV (360p)",
     "type": "Music",
     "url": "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8",
     "img": "https://i.imgur.com/asD5y7i.png"
-  },
-  {
-    "name": "Más FM 95.9 (720p)",
-    "type": "Music",
-    "url": "https://vivo.solumedia.com:19360/masfm/masfm.m3u8",
-    "img": "https://i.imgur.com/TJ4gWQM.png"
   },
   {
     "name": "MasMusica FM (720p)",
@@ -2184,6 +2052,12 @@
     "img": "https://i.imgur.com/TVoTQBX.png"
   },
   {
+    "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
+    "type": "Music",
+    "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+    "img": "https://i.imgur.com/TBPVOBI.png"
+  },
+  {
     "name": "Radio TV Sal One (720p)",
     "type": "Music",
     "url": "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8",
@@ -2212,6 +2086,12 @@
     "type": "Music",
     "url": "https://live.muzickatv.mk/live/StarMusic.m3u8",
     "img": "https://i.imgur.com/fM7FUgk.png"
+  },
+  {
+    "name": "Star Plus Music (1080p) [Not 24/7]",
+    "type": "Music",
+    "url": "https://live.muzickatv.mk/live/StarMusic2.m3u8",
+    "img": "https://i.imgur.com/01yz22a.png"
   },
   {
     "name": "Tele7music (720p)",
@@ -2284,42 +2164,6 @@
     "type": "Music",
     "url": "https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8",
     "img": "https://i.imgur.com/6N0qITv.png"
-  },
-  {
-    "name": "X Level Media (1080p)",
-    "type": "Music",
-    "url": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
-    "img": "https://i.imgur.com/BGwQdQW.jpeg"
-  },
-  {
-    "name": "XPTV1 (720p)",
-    "type": "Music",
-    "url": "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8",
-    "img": "https://i.imgur.com/Ty7GkoN.png"
-  },
-  {
-    "name": "ZFM Zoetermeer (720p)",
-    "type": "Music",
-    "url": "https://zfmzoetermeer.nl/live/master.m3u8",
-    "img": "https://i.imgur.com/vrjACvy.png"
-  },
-  {
-    "name": "Матур ТВ (1080p)",
-    "type": "Music",
-    "url": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8",
-    "img": "https://i.imgur.com/Pg7K7eV.png"
-  },
-  {
-    "name": "Первый Музыкальный Канал (576p)",
-    "type": "Music",
-    "url": "http://hz1.teleport.cc/HLS/SD.m3u8",
-    "img": "https://i.imgur.com/YdyFJrl.png"
-  },
-  {
-    "name": "Радио Хит (Орск) (720p)",
-    "type": "Music",
-    "url": "http://lova.me/hls/hithd.m3u8",
-    "img": "https://i.imgur.com/5xKqV1s.png"
   },
   {
     "name": "30A Loomered TV",
@@ -2400,10 +2244,10 @@
     "img": "https://i.imgur.com/7rjCS5i.png"
   },
   {
-    "name": "Antena Uno RadioVideo (360p)",
+    "name": "Asomavisión (614p)",
     "type": "Undefined",
-    "url": "https://tvdatta.com:3578/live/antenaunolive.m3u8",
-    "img": "https://i.imgur.com/PCN6iZJ.png"
+    "url": "https://asomatv.duckdns.org/livestream/stream.m3u8",
+    "img": "https://i.imgur.com/a5avk5R.png"
   },
   {
     "name": "Bac Kan TV (406p)",
@@ -2508,6 +2352,12 @@
     "img": "https://i.imgur.com/0WrKIxm.png"
   },
   {
+    "name": "Canal Dos Yopal (720p)",
+    "type": "Undefined",
+    "url": "http://131.221.41.94/hls/canal2.m3u8",
+    "img": "https://i.imgur.com/BYsyNHZ.jpg"
+  },
+  {
     "name": "Canal Nets (720p) [Not 24/7]",
     "type": "Undefined",
     "url": "https://movil.ejeserver.com/live/nets.m3u8",
@@ -2604,6 +2454,12 @@
     "img": "https://i.imgur.com/tjI0dLx.png"
   },
   {
+    "name": "Evolucion TV",
+    "type": "Undefined",
+    "url": "https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Farovisión (720p)",
     "type": "Undefined",
     "url": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8",
@@ -2619,12 +2475,6 @@
     "name": "Fusung News TV",
     "type": "Undefined",
     "url": "http://stream8.jlntv.cn/fs/sd/live.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Gaki no Tsukai (English Subs) (720p)",
-    "type": "Undefined",
-    "url": "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2700,12 +2550,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Makina Vision TV",
-    "type": "Undefined",
-    "url": "https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Miavision TV",
     "type": "Undefined",
     "url": "https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8",
@@ -2746,12 +2590,6 @@
     "type": "Undefined",
     "url": "https://mtchls.wns.live/hls/stream.m3u8",
     "img": "https://i.imgur.com/JxoAR4j.png"
-  },
-  {
-    "name": "MTV Sub (720p)",
-    "type": "Undefined",
-    "url": "https://live-fi.tvkaista.net/sub/live.m3u8",
-    "img": "https://i.imgur.com/rmV8LO1.png"
   },
   {
     "name": "NORTEvisión (1080p)",
@@ -2796,12 +2634,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Phu Yen TV (360p)",
-    "type": "Undefined",
-    "url": "http://113.161.4.48:8080/phuyen/tv/index.m3u8",
-    "img": "https://i.imgur.com/fYYS9QS.png"
-  },
-  {
     "name": "Pituco TV (720p)",
     "type": "Undefined",
     "url": "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8",
@@ -2836,18 +2668,6 @@
     "type": "Undefined",
     "url": "https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8",
     "img": "https://i.imgur.com/eOz4xJ8.png"
-  },
-  {
-    "name": "Qyzyljar (720p)",
-    "type": "Undefined",
-    "url": "https://stream.kaztrk.kz/regional/petropavltv/index.m3u8",
-    "img": "https://i.imgur.com/7l1WSDJ.png"
-  },
-  {
-    "name": "Qyzylorda (720p)",
-    "type": "Undefined",
-    "url": "https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8",
-    "img": "https://i.imgur.com/r4BFQpE.png"
   },
   {
     "name": "Radio 350 (360p) [Not 24/7]",
@@ -2988,10 +2808,16 @@
     "img": "https://i.imgur.com/oZPorvg.png"
   },
   {
-    "name": "Show Turk",
+    "name": "Semarang TV (720p)",
     "type": "Undefined",
-    "url": "https://canlitvulusal.xyz/live/showturk/index.m3u8",
-    "img": "https://i.imgur.com/fdZpGDj.png"
+    "url": "http://116.254.112.74/hls/cakralive.m3u8",
+    "img": "https://i.imgur.com/KFC2WSB.png"
+  },
+  {
+    "name": "Señal Perú TV (404p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://livestream.perucast.com/hls/stream.m3u8",
+    "img": "https://i.imgur.com/1q0R6R9.png"
   },
   {
     "name": "SIC TV (720p)",
@@ -3108,6 +2934,12 @@
     "img": "https://i.imgur.com/90cTK8S.png"
   },
   {
+    "name": "Telecanal 28 (360p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8",
+    "img": "https://i.imgur.com/hEJ6lZ9.png"
+  },
+  {
     "name": "TeleCibao (720p) [Not 24/7]",
     "type": "Undefined",
     "url": "https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8",
@@ -3124,6 +2956,12 @@
     "type": "Undefined",
     "url": "https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8",
     "img": "https://i.imgur.com/TMvV9dF.png"
+  },
+  {
+    "name": "Telecosta (720p)",
+    "type": "Undefined",
+    "url": "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8",
+    "img": "https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png"
   },
   {
     "name": "Teleimpacto (720p) [Not 24/7]",
@@ -3168,6 +3006,12 @@
     "img": "https://i.imgur.com/s43eFy0.png"
   },
   {
+    "name": "Telerama (240p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://envivo.telerama.ec/stream.m3u8",
+    "img": "https://i.imgur.com/J6Mc42H.png"
+  },
+  {
     "name": "Telesantodomingo (720p)",
     "type": "Undefined",
     "url": "https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8",
@@ -3178,6 +3022,12 @@
     "type": "Undefined",
     "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
     "img": "https://i.imgur.com/cu7hTn8.png"
+  },
+  {
+    "name": "TeleSUR Costa Rica (720p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://s1.tvdatta.com:3582/live/telesurlive.m3u8",
+    "img": "https://i.imgur.com/KUpgeOf.png"
   },
   {
     "name": "Teleuniverso (720p)",
@@ -3208,12 +3058,6 @@
     "type": "Undefined",
     "url": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/512px-TIROL_TV_Logo_2019.png"
-  },
-  {
-    "name": "tiviTÜRK (720p) [Not 24/7]",
-    "type": "Undefined",
-    "url": "https://stream.tiviturk.de/live/tiviturk.m3u8",
-    "img": "https://i.ibb.co/9TDs8q8/IFE6LHH.jpg"
   },
   {
     "name": "Tlaxcala Televisión (360p) [Not 24/7]",
@@ -3318,16 +3162,16 @@
     "img": "https://i.imgur.com/FZUQ2WP.png"
   },
   {
+    "name": "TV Mu (720p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://e.siar.us/live/tvmu.m3u8",
+    "img": "https://i.imgur.com/rR2iPBk.png"
+  },
+  {
     "name": "TV Pi Kanal (576p) [Not 24/7]",
     "type": "Undefined",
     "url": "https://stream.pikanal.rs/pikanal/pgm.m3u8",
     "img": "https://i.imgur.com/8ugnFa3.png"
-  },
-  {
-    "name": "TV Regionalna Lubin (576p) [Not 24/7]",
-    "type": "Undefined",
-    "url": "https://tvreg.klemit.net/regionalna/stream/index.m3u8",
-    "img": "https://i.imgur.com/2WVNt3f.png"
   },
   {
     "name": "TV Romana (720p)",
@@ -3354,16 +3198,16 @@
     "img": "https://i.imgur.com/M0fMypR.png"
   },
   {
+    "name": "TV Warehouse (720p)",
+    "type": "Undefined",
+    "url": "https://tvwarehouse.r.worldssl.net/mystream.m3u8",
+    "img": "https://i.imgur.com/CMuczfY.png"
+  },
+  {
     "name": "TV Yes Italia (720p)",
     "type": "Undefined",
     "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8",
     "img": "https://i.imgur.com/3CDxatu.png"
-  },
-  {
-    "name": "TVPlus Suceava (576p)",
-    "type": "Undefined",
-    "url": "http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8",
-    "img": "https://i.imgur.com/f4fzoLe.png"
   },
   {
     "name": "TVS (540p) [Not 24/7]",
@@ -3390,6 +3234,12 @@
     "img": "https://i.imgur.com/HxUZseV.png"
   },
   {
+    "name": "UNAH UTV (360p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://live-utv.unah.edu.hn/web/salida.m3u8",
+    "img": "https://i.imgur.com/GhzaYbK.png"
+  },
+  {
     "name": "Une Vinalopó (576p) [Not 24/7]",
     "type": "Undefined",
     "url": "https://streamingtvi.gestec-video.com/hls/unesd.m3u8",
@@ -3414,16 +3264,16 @@
     "img": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/240px-Iribvarzesh2022.png"
   },
   {
-    "name": "VegaTeve (1080p) [Not 24/7]",
-    "type": "Undefined",
-    "url": "https://cloud6.livescast.com:3797/live/vegatevelive.m3u8",
-    "img": "https://i.imgur.com/jiyMOZx.png"
-  },
-  {
     "name": "Veo Televisión (720p) [Not 24/7]",
     "type": "Undefined",
     "url": "https://movil.ejeserver.com/live/veotv.m3u8",
     "img": "https://i.imgur.com/9tZae88.png"
+  },
+  {
+    "name": "Vinh Long TV 1 (576p)",
+    "type": "Undefined",
+    "url": "http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/5YFsqPx.png"
   },
   {
     "name": "VIO TV (480p)",
@@ -3436,6 +3286,18 @@
     "type": "Undefined",
     "url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
     "img": "https://i.imgur.com/S0JrfIl.png"
+  },
+  {
+    "name": "VTV1 (576p)",
+    "type": "Undefined",
+    "url": "http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/vZYlGIW.png"
+  },
+  {
+    "name": "VTV4 (576p)",
+    "type": "Undefined",
+    "url": "http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/WsLLmR2.png"
   },
   {
     "name": "VTV9 (576p)",
@@ -3456,76 +3318,16 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png"
   },
   {
-    "name": "Wesal TV (720p) [Not 24/7]",
-    "type": "Undefined",
-    "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
-    "img": "https://i.imgur.com/Uv8RWks.png"
-  },
-  {
-    "name": "White Channel (1080p)",
-    "type": "Undefined",
-    "url": "http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8",
-    "img": "https://i.imgur.com/Chx0AV9.png"
-  },
-  {
-    "name": "Workpoint TV",
-    "type": "Undefined",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8",
-    "img": "https://i.imgur.com/zq6Xshf.png"
-  },
-  {
-    "name": "World Poker Tour (1080p)",
-    "type": "Undefined",
-    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Xtra TV",
-    "type": "Undefined",
-    "url": "https://cnn.essastream.com:3387/live/xtratvlive.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Yanbian TV 1",
     "type": "Undefined",
     "url": "https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8",
     "img": "https://i.imgur.com/gBUlAfX.png"
   },
   {
-    "name": "Z (Запорожье) (1080p)",
-    "type": "Undefined",
-    "url": "https://stream.ztv.zp.ua/hls/live.m3u8",
-    "img": "https://i.imgur.com/E5aV5aa.png"
-  },
-  {
     "name": "Zhejiang TV International",
     "type": "Undefined",
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8",
     "img": "https://i.imgur.com/XOL1Hph.png"
-  },
-  {
-    "name": "ZO!34 (720p)",
-    "type": "Undefined",
-    "url": "https://video.uitzending.tv:19360/zo34/zo34.m3u8",
-    "img": "https://i.imgur.com/yiihDg6.png"
-  },
-  {
-    "name": "Волга (HD)",
-    "type": "Undefined",
-    "url": "http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8",
-    "img": "https://i.imgur.com/xHs1pr1.png"
-  },
-  {
-    "name": "Детское кино International",
-    "type": "Undefined",
-    "url": "https://autopilot.catcast.tv/content/38720/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Кино 1 International",
-    "type": "Undefined",
-    "url": "http://kino-1.catcast.tv/content/38617/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "С1 (Сургут) (1080p) [Not 24/7]",
@@ -4122,12 +3924,6 @@
     "img": "https://i.imgur.com/q5z6ycZ.png"
   },
   {
-    "name": "Hermanas Mirabal TV (720p) [Not 24/7]",
-    "type": "News",
-    "url": "https://cnn.essastream.com:3091/live/hmtvlive.m3u8",
-    "img": "https://i.imgur.com/cbKgcGh.png"
-  },
-  {
     "name": "High News (480p)",
     "type": "News",
     "url": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8",
@@ -4194,12 +3990,6 @@
     "img": "https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg"
   },
   {
-    "name": "Noticias 16",
-    "type": "News",
-    "url": "https://cdn.essastream.com:3457/live/noticiasn16live.m3u8",
-    "img": "https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png"
-  },
-  {
     "name": "Ora News (720p)",
     "type": "News",
     "url": "https://live1.mediadesk.al/oranews.m3u8",
@@ -4260,22 +4050,28 @@
     "img": "https://i.imgur.com/C9lM1KP.png"
   },
   {
+    "name": "Rlive TV (406p)",
+    "type": "News",
+    "url": "https://realitatealive.md/tv/rlive.m3u8",
+    "img": "https://i.imgur.com/Ul4IIfX.png"
+  },
+  {
     "name": "RTM ASEAN",
     "type": "News",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
     "img": "https://i.imgur.com/skAiUxg.png"
   },
   {
+    "name": "TCM 10 HD (1080p)",
+    "type": "News",
+    "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
+    "img": "https://i.imgur.com/aMuMVvB.png"
+  },
+  {
     "name": "Televisión del Este (720p)",
     "type": "News",
     "url": "https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8",
     "img": "https://i.imgur.com/mmjbcGr.png"
-  },
-  {
-    "name": "Tempo Afric TV (720p)",
-    "type": "News",
-    "url": "https://streamspace.live/hls/tempoafrictv/livestream.m3u8",
-    "img": "https://i.imgur.com/mggN4mS.jpg"
   },
   {
     "name": "TGRT Haber (720p)",
@@ -4326,30 +4122,6 @@
     "img": "https://www.tvchinese.net/uploads/tv/weihaitv1.jpg"
   },
   {
-    "name": "WION (1080p)",
-    "type": "News",
-    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
-    "img": "https://i.imgur.com/Wc5Z3iS.png"
-  },
-  {
-    "name": "Легендарный 24",
-    "type": "News",
-    "url": "https://sevas.1tvcrimea.ru/legendarniy24.m3u8",
-    "img": "https://www.lyngsat.com/logo/tv/ll/legendarnyy-24-ru.png"
-  },
-  {
-    "name": "Миллет (540p) [Not 24/7]",
-    "type": "News",
-    "url": "https://live.trkmillet.ru/millet/index.m3u8",
-    "img": "https://i.imgur.com/hUjLRLy.png"
-  },
-  {
-    "name": "Общественное Независимое Телевидение (576p)",
-    "type": "News",
-    "url": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8",
-    "img": "https://i.imgur.com/jFP50g2.png"
-  },
-  {
     "name": "Тернопіль 1 (720p)",
     "type": "News",
     "url": "https://ott.columbus.te.ua/ternopil1/index.m3u8",
@@ -4368,16 +4140,16 @@
     "img": "https://i.imgur.com/oAtcxNZ.png"
   },
   {
-    "name": "CDN Deporte (720p)",
-    "type": "Sports",
-    "url": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8",
-    "img": "https://i.imgur.com/yU5LqTL.png"
-  },
-  {
     "name": "ČT Sport (720p)",
     "type": "Sports",
     "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/512px-%C4%8CT_sport_logo.png"
+  },
+  {
+    "name": "Eleven Sports 1 (2160p)",
+    "type": "Sports",
+    "url": "http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8",
+    "img": "https://i.imgur.com/AOu4FXH.png"
   },
   {
     "name": "Futbol (1080p)",
@@ -4470,16 +4242,16 @@
     "img": "https://i.imgur.com/WhPlJzh.jpeg"
   },
   {
-    "name": "Al Maali TV (1080p)",
-    "type": "Religious",
-    "url": "https://kali.vdopanel.com:3797/live/bashaclicklive.m3u8",
-    "img": "https://i.imgur.com/oEdApMA.png"
-  },
-  {
     "name": "Al-Jawadain TV (1080p) [Not 24/7]",
     "type": "Religious",
     "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
     "img": "https://i.imgur.com/Eo3UYCK.png"
+  },
+  {
+    "name": "Alcance TV",
+    "type": "Religious",
+    "url": "https://videolatam.com:3516/live/tjjqdqurlive.m3u8",
+    "img": "https://i.imgur.com/veeuqS1.png"
   },
   {
     "name": "Alfath Atfal TV (576p)",
@@ -4498,12 +4270,6 @@
     "type": "Religious",
     "url": "https://alfat7-q.com:5443/LiveApp/streams/515112551489055772942045.m3u8",
     "img": "https://i.imgur.com/87bdieg.png"
-  },
-  {
-    "name": "Alquran (1080p)",
-    "type": "Religious",
-    "url": "https://ktvlive.online/stream/hls/ch1.m3u8",
-    "img": "https://i.imgur.com/lqVwrAF.png"
   },
   {
     "name": "Amigos TV Chiquimula (480p)",
@@ -4566,6 +4332,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png"
   },
   {
+    "name": "Dost TV (576p)",
+    "type": "Religious",
+    "url": "https://dost.stream.emsal.im/tv/live.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Dost_TV.jpg"
+  },
+  {
     "name": "Erfan Halgheh TV (720p)",
     "type": "Religious",
     "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8",
@@ -4624,6 +4396,12 @@
     "type": "Religious",
     "url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
     "img": "https://i.imgur.com/my7aqLc.png"
+  },
+  {
+    "name": "JN19 (1080p) [Not 24/7]",
+    "type": "Religious",
+    "url": "https://servilive.com:3028/live/jntv19live.m3u8",
+    "img": "https://i.imgur.com/dudxyqk.png"
   },
   {
     "name": "Josué TV (1080p)",
@@ -4698,12 +4476,6 @@
     "img": "https://i.imgur.com/Wob7gjp.png"
   },
   {
-    "name": "Payame Aramesh TV (720p)",
-    "type": "Religious",
-    "url": "https://hls.keshishhamid.live/hls/stream.m3u8",
-    "img": "https://i.imgur.com/WaPr0t0.png"
-  },
-  {
     "name": "Peace TV Albanian (360p) [Not 24/7]",
     "type": "Religious",
     "url": "http://82.114.67.178:8081/hls/PeaceTV.m3u8",
@@ -4714,12 +4486,6 @@
     "type": "Religious",
     "url": "https://cdn.streamhispanatv.net:3787/live/pmcstvlive.m3u8",
     "img": "https://i.imgur.com/dgzuhLo.png"
-  },
-  {
-    "name": "Praise Jesus Tower TV (480p)",
-    "type": "Religious",
-    "url": "https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8",
-    "img": "https://i.imgur.com/KT4qIve.png"
   },
   {
     "name": "Radio Hogar (720p)",
@@ -4800,36 +4566,6 @@
     "img": "https://i.imgur.com/876y75O.png"
   },
   {
-    "name": "WECN (Único TV) (720p)",
-    "type": "Religious",
-    "url": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8",
-    "img": "https://i.imgur.com/NYBZBY0.png"
-  },
-  {
-    "name": "WWXY-DT3 (Maranatha Radio Ministries) (720p) [Not 24/7]",
-    "type": "Religious",
-    "url": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
-    "img": "https://i.imgur.com/lAhIGsI.png"
-  },
-  {
-    "name": "Zainabia Channel",
-    "type": "Religious",
-    "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
-    "img": "https://i.ibb.co/y4ycZTB/unnamed.jpg"
-  },
-  {
-    "name": "Глас (576p)",
-    "type": "Religious",
-    "url": "http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8",
-    "img": "https://i.imgur.com/l5FEP9w.png"
-  },
-  {
-    "name": "Надия/Новый канал (576p) [Not 24/7]",
-    "type": "Religious",
-    "url": "http://nadiya.home-net.com.ua/mob/mystream.m3u8",
-    "img": "https://i.imgur.com/mUx2P29.png"
-  },
-  {
     "name": "唯心電視 (480p)",
     "type": "Religious",
     "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
@@ -4852,18 +4588,6 @@
     "type": "Legislative",
     "url": "https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch3/video.m3u8",
     "img": "https://i.imgur.com/qLJhNhq.png"
-  },
-  {
-    "name": "TV Câmara 2 (1080p) [Not 24/7]",
-    "type": "Legislative",
-    "url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
-    "img": "https://i.imgur.com/dHrUG1R.png"
-  },
-  {
-    "name": "TV Câmara (1080p)",
-    "type": "Legislative",
-    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-    "img": "https://i.imgur.com/Sdou1Ab.png"
   },
   {
     "name": "Agro TV (480p)",
@@ -4944,6 +4668,12 @@
     "img": "https://i.imgur.com/YFVrphZ.png"
   },
   {
+    "name": "Señal España (XHUNES-TDT) (720p)",
+    "type": "Education",
+    "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
+    "img": "https://i.imgur.com/LbZkdca.png"
+  },
+  {
     "name": "UNIANDES TV (720p)",
     "type": "Education",
     "url": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
@@ -5010,10 +4740,10 @@
     "img": "https://i.imgur.com/Y5YnUit.png"
   },
   {
-    "name": "Teatro TV (720p)",
+    "name": "Pardesi TV (720p)",
     "type": "Culture",
-    "url": "https://m.iostream.it/hls/teatrotv/teatrotv.m3u8",
-    "img": "https://i.imgur.com/GbyLSc2.png"
+    "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/CwAdPpZ.jpg"
   },
   {
     "name": "USMPTV (720p) [Not 24/7]",
@@ -5022,10 +4752,22 @@
     "img": "https://i.imgur.com/9cmIv3q.png"
   },
   {
-    "name": "Yemen Shabab Channel (1080p)",
-    "type": "Culture",
-    "url": "https://starmenajo.com/hls/yemenshabab/index.m3u8",
-    "img": "https://i.imgur.com/H5Oi2NS.png"
+    "name": "Anime Zone TV (480p)",
+    "type": "Animation",
+    "url": "http://animezonetv.net/hls/stream.m3u8",
+    "img": "https://i.imgur.com/AHaXlCh.png"
+  },
+  {
+    "name": "Locomotion TV (480p) [Not 24/7]",
+    "type": "Animation",
+    "url": "http://51.222.85.85:81/hls/loco/index.m3u8",
+    "img": "https://i.imgur.com/1CftDPB.png"
+  },
+  {
+    "name": "Persiana Junior",
+    "type": "Animation",
+    "url": "https://junhls.persiana.live/hls/stream.m3u8",
+    "img": "https://i.imgur.com/zeKHZYG.png"
   },
   {
     "name": "AssyriaSat (720p) [Not 24/7]",
@@ -5056,12 +4798,6 @@
     "type": "Movies",
     "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
     "img": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png"
-  },
-  {
-    "name": "Hero (720p) [Not 24/7]",
-    "type": "Movies",
-    "url": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true",
-    "img": "https://i.imgur.com/4t5JQLY.png"
   },
   {
     "name": "Komsan TV [Not 24/7]",
@@ -5154,12 +4890,6 @@
     "img": "https://i.imgur.com/8AfAfZE.png"
   },
   {
-    "name": "XPTV US (720p)",
-    "type": "Series",
-    "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
-    "img": "https://i.imgur.com/1m7kDmc.png"
-  },
-  {
     "name": "Bajo Techo TV (1080p) [Not 24/7]",
     "type": "Shop",
     "url": "https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8",
@@ -5188,6 +4918,12 @@
     "type": "Shop",
     "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
     "img": "https://i.imgur.com/xWSzQ34.png"
+  },
+  {
+    "name": "Shopping NT (720p)",
+    "type": "Shop",
+    "url": "https://live.shoppingntmall.com/live/10011.m3u8",
+    "img": "https://i.imgur.com/BgbJp5X.png"
   },
   {
     "name": "東森購物60 (480p)",
@@ -5254,18 +4990,6 @@
     "type": "Kids",
     "url": "https://live.teleradiocom.tj/3/3m.m3u8",
     "img": "https://i.imgur.com/Dacai5z.png"
-  },
-  {
-    "name": "Карусель",
-    "type": "Kids",
-    "url": "http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8",
-    "img": "https://i.imgur.com/4wmnx1W.png"
-  },
-  {
-    "name": "浙江少儿 (1080p)",
-    "type": "Kids",
-    "url": "https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
-    "img": "https://i.imgur.com/MbJUmZS.png"
   },
   {
     "name": "Biznet Lifestyle (480p)",
@@ -5388,16 +5112,16 @@
     "img": "https://i.imgur.com/FkyueH6.png"
   },
   {
-    "name": "Oepm TV (720p)",
-    "type": "Travel",
-    "url": "https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8",
-    "img": "https://i.imgur.com/QghtwMB.jpeg"
-  },
-  {
     "name": "Teletur (1080p)",
     "type": "Travel",
     "url": "https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8",
     "img": "https://i.imgur.com/Ig4gR93.png"
+  },
+  {
+    "name": "TV Paraná Turismo (720p) [Not 24/7]",
+    "type": "Travel",
+    "url": "http://200.189.113.201/hls/tve.m3u8",
+    "img": "https://i.imgur.com/I6pKoBd.png"
   },
   {
     "name": "TV Sayohi (1080p)",
@@ -5416,6 +5140,12 @@
     "type": "Science",
     "url": "https://scihls.persiana.live/hls/stream.m3u8",
     "img": "https://i.postimg.cc/jd3ck5dw/persiana-science512.png"
+  },
+  {
+    "name": "Japanim TV (1080p)",
+    "type": "Animation;Kids",
+    "url": "https://foxkidstv.be:3369/stream/play.m3u8",
+    "img": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png"
   },
   {
     "name": "Liceum TV (576p)",
@@ -5470,12 +5200,6 @@
     "type": "Culture;Music",
     "url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
     "img": "https://i.imgur.com/sCBbBOj.png"
-  },
-  {
-    "name": "Persiana Junior",
-    "type": "Animation",
-    "url": "https://junhls.persiana.live/hls/stream.m3u8",
-    "img": "https://i.imgur.com/zeKHZYG.png"
   },
   {
     "name": "Persiana Nostalgia",
@@ -7332,12 +7056,6 @@
     "img": "https://i.ibb.co/dDbcFbF/lch32.png"
   },
   {
-    "name": "TÉLÉ GOHELLE",
-    "type": "Uncategorized",
-    "url": "https://videas.agglo-lenslievin.fr/index.m3u8",
-    "img": "https://i.ibb.co/VNDPTDY/tgohelle.png"
-  },
-  {
     "name": "TVPI BAYONNE",
     "type": "Uncategorized",
     "url": "https://ythls-v3.onrender.com/video/yTOjGPiFseY.m3u8",
@@ -8384,13 +8102,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=R-Q9ylADOROtCM3onS-X4g&e=1745694886",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=_Unp4q3vaVNeJq2frl0aKw&e=1745716236",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=R-Q9ylADOROtCM3onS-X4g&e=1745694886",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=_Unp4q3vaVNeJq2frl0aKw&e=1745716236",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -9846,12 +9564,6 @@
     "img": "https://i.ibb.co/k8L3Mq1/semerkandtv.png"
   },
   {
-    "name": "DOST TV",
-    "type": "Uncategorized",
-    "url": "https://dost.stream.emsal.im/tv/live.m3u8",
-    "img": "https://i.ibb.co/jwgqtSB/dosttv.png"
-  },
-  {
     "name": "REHBER TV",
     "type": "Uncategorized",
     "url": "https://yayin30.haber100.com/live/rehbertv/playlist.m3u8",
@@ -10773,6 +10485,12 @@
     "name": "TV 3 AFYONKARAHİSAR",
     "type": "Uncategorized",
     "url": "https://live.artidijitalmedya.com/artidijital_tv3/tv3/playlist.m3u8",
+    "img": "https://i.ibb.co/mHt7rQf/Tryerel.png"
+  },
+  {
+    "name": "TİVİ TURK",
+    "type": "Uncategorized",
+    "url": "https://stream.tiviturk.de/live/tiviturk.m3u8",
     "img": "https://i.ibb.co/mHt7rQf/Tryerel.png"
   },
   {
@@ -11860,6 +11578,12 @@
     "type": "Uncategorized",
     "url": "https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8",
     "img": "https://i.ibb.co/DCzRYjV/mca.png"
+  },
+  {
+    "name": "FAMA FM TV",
+    "type": "Uncategorized",
+    "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8",
+    "img": "https://i.ibb.co/RpQj4Dd/fama.png"
   },
   {
     "name": "KURIAKOS TV",
@@ -14812,6 +14536,12 @@
     "type": "Uncategorized",
     "url": "https://video.yementdy.tv/hls/yementoday.m3u8",
     "img": "https://i.ibb.co/0yytb9K/yementoday.png"
+  },
+  {
+    "name": "YEMEN SHABAB",
+    "type": "Uncategorized",
+    "url": "https://starmenajo.com/hls/yemenshabab/index.m3u8",
+    "img": "https://i.ibb.co/230j3Kr/yemenshabab.png"
   },
   {
     "name": "UTV IRAQI",
@@ -17964,6 +17694,12 @@
     "img": "https://i.ibb.co/tqkV2sn/irflag.png"
   },
   {
+    "name": "YOUR TIME",
+    "type": "Uncategorized",
+    "url": "https://hls.yourtime.live/hls/stream.m3u8",
+    "img": "https://i.ibb.co/tqkV2sn/irflag.png"
+  },
+  {
     "name": "HOD HOD",
     "type": "Uncategorized",
     "url": "https://hls.hodhod.live/hls/stream.m3u8",
@@ -19746,6 +19482,12 @@
     "img": "https://i.imgur.com/vMpiSwG.png"
   },
   {
+    "name": "Record",
+    "type": "Variedades",
+    "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+    "img": "https://i.imgur.com/sz9gTTr.png"
+  },
+  {
     "name": "Record RS",
     "type": "Variedades",
     "url": "https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8",
@@ -20516,13 +20258,13 @@
   {
     "name": "SBT Central Live",
     "type": "Variedades",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745704807/ei/BwMNaIbnDZWY1sQPk-3QwQQ/ip/138.117.223.253/id/9wYBzDHxZJM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AccgBcMEQbxsBVgAycofh9GZeQnaHZWC_HRr70ipDIVhQpqFxqKN79n5eapn6UWRUokPX0ikc7Gnhfji/spc/_S3wKu3c9qClonoBNMe_dMBeOYFLOZhm6fk4hg8-eoSi1M49wfqywyiZY4Bj9BSODdw/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/2688750/met/1745683208,/mh/nu/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/24/rmhost/rr1---sn-n0hpjput-bpbz.googlevideo.com/rms/lva,lva/smhost/rr1---sn-n0hpjput-bpbs.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745682758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhALnxqTc_lF3QeNsknP_un4_P6RCyCpuc7GFmHV9JBMVFAiEAx27I3ExKOWiNHWu3FELfMsL39J15DLJtPL42lhvP37w%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rmhost,rms,smhost/lsig/ACuhMU0wRQIgWtjTF8t6RP4yUXPRecgEpkLnhuxNOjChv3yRad2wkFkCIQDUupmnde3EDIoblCeFx4qYlihUn28jlvHoA9hobV86Ng%3D%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745737207/ei/l4ENaLSMHZSO-LAP1NiwkAg/ip/138.117.223.253/id/9wYBzDHxZJM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAas2T95gH8s2F-uluNoAvB__oRHvzk_Uk7stZr7xwMqIuRkaSDTCmj3WM6NHFFWyK7Yhz-Db_bC/spc/wk1kZtz_MWKwo53Vj8ihTw92juk7Nv6gUo3zv206Kz3hffelr9gLhfCIsfRDKIIV928/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/2355000/met/1745715608,/mh/nu/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/3/pl/24/rmhost/rr1---sn-n0hpjput-bpbs.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745715154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgS77mJ3oqY2km3N6iQ79zPE9qYQlLRhFfWGw7XRPj3x4CICUHNwFS557jakJ6mHNAbNNDaij3PFgIbcHtTRbP6Szi/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/ACuhMU0wRQIgCV_sc2jhV_1ID4Cz54oMxC6lDZdReQBLbzOekuaK3WsCIQCfp7IUpyXJ2rZk2Yuqcek0GqsufmqElr7UO5orHTe4DA%3D%3D/playlist/index.m3u8",
     "img": "https://cdn.mitvstatic.com/channels/br_sbt_m.png"
   },
   {
     "name": "Diário TV Teresópolis",
     "type": "Variedades",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745704812/ei/DAMNaLm6Es_U1sQPs8GMoAE/ip/138.117.223.253/id/JXg7PjN5NqE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AccgBcOVIiT1Q5RP2YkmumvLSH5Iy6cAvb_eVOGnRIeqw5JV4I4uXddZAewkJoKnwmDypCLoRB1nbpoj/spc/_S3wKnZ-i9le_mkcpftDbxHsFVDiAzdTzNhk-wfaB2cnEH-SusGYARIYfAhEHE32uodjn-8/vprv/1/playlist_type/DVR/initcwndbps/2706250/met/1745683213,/mh/a8/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745682758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMlJscSHAzulKqlseXCHRIQb96GvAMkKOmyqJNEddmdtAiBKzRfWdpYcq1SVF2PX-ejl3ecPBR-AuFTSQbLjeLKR_Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRgIhAPA_9qhzXdfgqZwdVDDirny4cQN13pcFVzVGkIW-XmAwAiEA9x_rNlgfu1meL1rCjiHw4IJ0U7DWyq_-YMl5ZqIJNqM%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745737211/ei/m4ENaNLTOMmV-LAPhb6A0Q4/ip/138.117.223.253/id/JXg7PjN5NqE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAagZsNUA_cMKDmPa5OowBgEsl4K6iQ_0-nbmkfZqil-ppZUA9jmzKyK8Ytmm_qrQbmXxw6S3vl1/spc/wk1kZoesqKa_gy5vKIaLAazs7Y48hojSuUpNYS8IJY8-rz6uCmV7w6xib5Sct9BeS8K5Ay0/vprv/1/playlist_type/DVR/initcwndbps/2301250/met/1745715612,/mh/a8/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745715154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgIHm0-OgIyrptftoKJkzlSFs4Y7WtgVzzDd-CgV-Mdy8CIQDnJdR9AQpQW3St-TFvmQ5OK-aVGqaf_8WkKle1anZvbQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/ACuhMU0wRQIhAICtgNhJcLdneHLJCnTVNdc7bz_dZMMFTtc92Uq82y6bAiAbGcJlRpUFZR-uN5Z16CxXUQw4cGhfV3KDFKgDPxcibg%3D%3D/playlist/index.m3u8",
     "img": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c395ee4019fcd2bcacc342b09d3c9ff7.webp"
   },
   {
@@ -20678,13 +20420,13 @@
   {
     "name": "PowerRangers TV",
     "type": "Infantil",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745704811/ei/CwMNaJBb5NXWxA-f9YmgDw/ip/138.117.223.253/id/SGc-t4a-KXw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AccgBcMD_i44SE54C80VHFvez161kq7XtxkFMZuVK55Xgak4tJKiXqWKuNCZNTiZcrNtr37pYpB4SbOw/spc/_S3wKgyKXLqO7J-ANAjAAIR-C44UoJ4UkrBJe4TT9Y8J02HhVNi-HTFAko0cLjHFtRCSkN8/vprv/1/playlist_type/DVR/initcwndbps/2527500/met/1745683212,/mh/SN/mm/44/mn/sn-n0hpjput-bpbl/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745682758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAM2jR7o_Khh-6HjI7HvG243cQdesV4F4-MOlsb8nERmNAiBVA3bcccy3Y-f9son_Wnz3C0qA4KJtWVRVei67GvQhAQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIgYaEtEH4byb-OHBHjQXo26FimL1IsXgaaxqnaxTiWaNACIQD2qAfFv2e-Tp2oi5QG9r2t7tJjSKQWWLZufazw-jnLKA%3D%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745737211/ei/m4ENaIjcB42uobIP6MK6QQ/ip/138.117.223.253/id/jlNrXwTYpRw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAZHIQpkWjkiVrkY79a7ovJavu48FXwKjgqzsZwZimvgpjp40JXvC6ZH6xy37_Ot7IwGHmSjTano/spc/wk1kZgAdL56UR2l3yW4L67vC2jUmF8xoX91uWSE4W55gK56vOS1O24oi23nmqyEg3D4C4ic/vprv/1/playlist_type/DVR/initcwndbps/2301250/met/1745715611,/mh/uO/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745715154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhANvWBB7YRQLrzboh7KRfdizZRG0F8chTsqGi54sCbMz7AiEAjLEDoLyzA4Vt_fRkcjBtQOhiin6wkMrWiITcctIHk_M%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIgNKt4qHLwyzG0E5i_cBOBTmQ8smKdkauTHYEngOO8Ar4CIQDf8XTjsEzOzNm0GKVWfxeLr6zsBC0Q2JfSPsrzbvy7DQ%3D%3D/playlist/index.m3u8",
     "img": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1803aa8768a96c38aa19d7bc3f0cf98f.webp"
   },
   {
     "name": "Cartoon Network Brasil",
     "type": "Infantil",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745704813/ei/DQMNaISaG8GPobIP0sBM/ip/138.117.223.253/id/d_iy1__axCc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/AecWEAaU-KILfeV6-Q8KkTjZggEKc6r4A6RDjWr6MazJDsT7EVzSQNxHf--D4-u7Krns2pZBnQQN-Agc/spc/wk1kZlmuYT4HwBIA7LJCEL5HrnRi1RhY-BE6bKEGnjp-aUhPh2kWDAN9ooburfz_wB5l-f0/vprv/1/playlist_type/DVR/initcwndbps/2688750/met/1745683214,/mh/ju/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745682758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgSzBADO_ifa3rClavuNXV2CPOUDyIUp9uP_52JdYTG7kCIQDz37OwN3K-IEU9gCXR9Ekj9_Lrl4W2P8l1rec_nnxzUQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRAIgNSZuZhRksKLi6H1__rb2jeuOZu9RlsM5A03KB1441tcCIHyycoj6ZrYdNs6gB2l9z-EVdOx8GFIs2eGBqV_Y0o5s/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745737213/ei/nYENaOGJCMKb1sQPwvHE4Qc/ip/138.117.223.253/id/d_iy1__axCc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/AecWEAaIm_wy4nTjaDhgq3zC8H9K5tQT9WJwU35rb-0REGO65Q8JDFfNR4iYHYs0u4DUMMg7MaLhjMIv/spc/wk1kZj1CN_vhikYKlORBNMTsO8lIYQAb9v3kjkqmfo8rB-zQCb_cnC_D41mvrQKBJkS7ljk/vprv/1/playlist_type/DVR/initcwndbps/2328750/met/1745715613,/mh/ju/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745715154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgf8-4z_en53likjPHF3Zej1kZ6D42PsKQ-vXHGZyXP2sCIQD2d77Pu9FR44Vx5zuJ-cQTHeB4ZX69JVPprpGW1kr0Dg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIhAJUdQQmHKC7lWUL0UO4-IOxDmBP1P_keQNgdmsYfkABEAiAoP-9nRfrEC_KCFUmD_OUAewJGdaiWuA8ZYWX7_yDXnw%3D%3D/playlist/index.m3u8",
     "img": "https://yt3.googleusercontent.com/aFypU0vjue4TfIKzC56wQsd1ui_LHCR3sbFmRmPbNPGYwBZp3VThEbQ_ywR7_j1guCaWBn2Zdg=s176-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -20808,12 +20550,6 @@
     "img": "https://i.imgur.com/SeF2I7q.png"
   },
   {
-    "name": "TCM 10 HD",
-    "type": "Notícia",
-    "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
-    "img": "https://i.imgur.com/aMuMVvB.png"
-  },
-  {
     "name": "Times Brasil",
     "type": "Notícia",
     "url": "https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8",
@@ -20876,19 +20612,19 @@
   {
     "name": "Jovem Pan Live",
     "type": "Notícia",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745704808/ei/CAMNaIGNHfejobIPltvQkQk/ip/138.117.223.253/id/v6146mb2K0E.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAbykXwnnPFfBP_X4BV1MLvJhfOcLPpoJ_WlLLGfIkbOxMPVdgHXHnXbCbxFztaCBewdKZ6_LlYN/spc/wk1kZj4vTNPFb7s2MLzaxTk4mS8wT95axE2UBXWc-QGnCNb0yP6CcLLgnFJAROC1dd08lj0/vprv/1/playlist_type/DVR/initcwndbps/2688750/met/1745683209,/mh/M_/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745682758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgXA5vol-9JFVbVWOrYch5lNVitCHUkc4AgURev_-p33wCIAM0rpUP-pMhq_Ctx0nyyuVIKxUBuuaUIX3k9HrmjJAf/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRAIgBK8MuMACnpiwrrZb2RJhxnaFFPCvCunJy4Sn6AKyEjcCIBPYaXPGnygNrGPQuPHi1nSuTMdthy6CiNGMTEBgRVBc/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745737208/ei/mIENaMzFKJelobIPsPSWgQU/ip/138.117.223.253/id/WuQRDQ7cAmM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAaEl6lRUmpQ95D_nit6_8wbcerkfAZK0MSCXCvJdfKSmpx9hBkBzvtTjKvDtq---xAr6HdkL9Vy/spc/wk1kZsUxF6mrlORFHBOJ2ixW5t_6eOu0_re5YZaCEee7VJVy1Skrxrq5eJpW0QiiMGoPakU/vprv/1/playlist_type/DVR/initcwndbps/2246250/met/1745715609,/mh/yM/mm/44/mn/sn-n0hpjput-bpbl/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745715154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOiF7IXZiUMTIPyGKQGwP6AYm_brZFiel1FisFqNipF6AiAUVFKRrhIleAISu_k1G3jFlavmuA3s1hdbZ7j5O0qSsA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRgIhAIYZQwpTJERt9oXC9-QNESjOU9ONAW0xmpB9aLVG0j_yAiEA3cAAGT7BdjOvs_XT-jMvA2oEnHhCRysZ2dxJgAjAZE8%3D/playlist/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png"
   },
   {
     "name": "Record News Live",
     "type": "Notícia",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745704809/ei/CQMNaMidJZmV-LAP5tH_4Aw/ip/138.117.223.253/id/LUQKP2dMBd8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAbCq_-QXK5f2JaPkk3wH51NfK6COx_jPpsvjDnpPmLVKhX-xhB75oIU0yhPdhBNkdhiSXh14C5h/spc/_S3wKgSIMbRLHPLq5MeiGGNxyB-zSJ7b9nWoCIp0CnrfGRU64OjD8i5MbJFlrgRUHMPj5j0/vprv/1/playlist_type/DVR/initcwndbps/2705000/met/1745683210,/mh/tO/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/4/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745682758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhALxsAWOkvV9zoS-ywCuQFSNzCLGY5mYSpy1xr_-8h3xgAiEAxX6Ejr5zbRAaz7C5EYSzoGkhrAjspXGf3gXwFm9N_98%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/ACuhMU0wRQIhANQ1qCXLCKg8tnycEG5r86l7AkaLSecimDNpkskAolEaAiB-8l0sOJK_eu70e63DuB63rq2gugKzobPlyjUO7v4j8A%3D%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745737209/ei/mYENaMLvM7zp-LAPlPCfoQk/ip/138.117.223.253/id/LUQKP2dMBd8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAauasLO8edGodXBSLhv6FaW51xvLyo1jBaisoB8Tuub4AxbokFuYWxrIZc9ArzPQLS3TWPBDUPH/spc/wk1kZvTC8LIKlvojVZQPCjGVW6jJp3JGiwGYY6v3Ab4jgv4SgCN1IEYn_yukP2mzDnfTKbs/vprv/1/playlist_type/DVR/initcwndbps/2370000/met/1745715610,/mh/tO/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745715154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAIaBw1I76WdBN0ryXO9V6oyoL67CrSK0UQgSAjRhKI6tAiApahsjHFML-8_YKqF3uHjjVFolgr3gLUKQJ2n64X34-Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIhAJGnXS2OtxvA1BlujYhk2NPDFXfBUgOSOPfSUytk_6gPAiBKoVl-RcHsi6sS8pem25GKdd3jfA6jLcilB4d_TwnKkw%3D%3D/playlist/index.m3u8",
     "img": "https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s176-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "CNN Brasil",
     "type": "Notícia",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745704814/ei/DgMNaNjZJ_uIobIPtK2xmAk/ip/138.117.223.253/id/ltC0lg2YHr4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AecWEAbrywR4MYX4qJ8YC8rJEHNUChHtDXUKprn8zVOTCn-MRGk5uwUzFGD5JSWK9HM5fvpmVWgXNYeH/spc/wk1kZoUZd1_c9GZ0JfPZOIFneN2VfLp1S5T7hNJx8WLPUpt7I6hcmHIX-VMcu_-mKDlS-mU/vprv/1/playlist_type/DVR/initcwndbps/2705000/met/1745683215,/mh/R7/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745682758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAMNGgjrjcj_eyiGstzMpjXeNORCYkO535euGSDnpOtYmAiEA_W90b9FgPrZlETl0ZDMQBRxyzWohgnK1TuRV-IfEREs%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRAIgeY8Q5ABy4lxcneWXRXwkxM_xE9InmYr2XDym2dnnSUwCIF5acYcHzlWFyPcUy93vjPMpuwJvp5X5HzDO1LGFK421/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745737214/ei/noENaMLIBfGR-LAPquifyAc/ip/138.117.223.253/id/utKizNBQi6o.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AecWEAb9cwf2r2P6AnJABsL7eMAjk3Fjwi2gkBPKJoFk_1HBKZ5X0P5FOvaElm_SI28UiokixaMu2mgG/spc/wk1kZpRnWCgkXiC96GPTZq48LKgw-hV-jRYeFsQeRk-ATmpVSSrXNqHDma27ee0P8tlxUZg/vprv/1/playlist_type/DVR/initcwndbps/2328750/met/1745715615,/mh/BH/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745715154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKxz0HzeV3y-C22u1AZGzr0MdQNJ15HIKqwf4OzfnhTIAiAfix9XUDEsgOETK72Lby8STP0AYUCUx_sqzGe6sVyuHQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRAIhAPHyBFm45QMdmoyuiINtoZZbSRtyzPdIjBQFSUcl1LtfAh81nUaMk964vV43gbTMGsgGOzLwb_-4rUUYwSIxztM4/playlist/index.m3u8",
     "img": "https://yt3.googleusercontent.com/ytc/AIf8zZQb7MP1UvjN4CnJ9tEyGeQM0btuJejf1PQekJlmog=s176-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -21040,12 +20776,6 @@
     "type": "Entretenimento",
     "url": "https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8",
     "img": "https://i.imgur.com/tT1NVfV.png"
-  },
-  {
-    "name": "TV Grande Natal",
-    "type": "Entretenimento",
-    "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
-    "img": "https://i.imgur.com/MTuErdw.png"
   },
   {
     "name": "TV J.SID",
@@ -21248,7 +20978,7 @@
   {
     "name": "Santuário Nacional de Aparecida",
     "type": "Religião",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745704815/ei/DwMNaKWHK_uiobIPocOPiQo/ip/138.117.223.253/id/juUt-rN5CVo.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AecWEAYYiRVs4o3eehYN3haQ4dOByP0k44PFXjqN8P2RJRT8_Yt0mlhsy8J7gHn0tYkdnjJPExyEyPPs/spc/wk1kZixsu8_nT52BPOP52QNozXsocgzwh4BzqVMYLevqqyWwymcMk-ijyrUP0nUkrlwR15k/vprv/1/playlist_type/LIVE/initcwndbps/2688750/met/1745683216,/mh/tn/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745682758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgU0ROJkkw0BgK5KPd-El_HiY1-svMU0AS7Pb8MEgPoaUCIQC0vOzJykQwpp9JkfLgFhEu4f8FY9lkKWkdNm5c0ppN7Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRAIgU6SxpD3_yK3OZT3i-zppcMiVLmt3HBKxRyOpAblt8_YCIHTbqygOkuo_tvFK_1rky27GzaS8yprFh_TiY60xqZ56/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745737215/ei/n4ENaP21EISlobIP7JThsQY/ip/138.117.223.253/id/juUt-rN5CVo.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AecWEAaSV6ppL5UKuvCi4xzLTQkm2FGQCIMDkAQNhWieVYqrnmFLQ09Uu1ozpuirGSlMyr8CntExCoY7/spc/wk1kZqyyF5M7T2yBrWD8IAcBDHAZLV2JfVNv60Xt_mALB2ZXW9KJCgHCh2g6CgmRVFoT06I/vprv/1/playlist_type/LIVE/initcwndbps/2328750/met/1745715615,/mh/tn/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51398365/mt/1745715154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgVy1nTGy-_LbQeSVk38xqgfnKLG8GYl0GnijuKwuPodkCIECo5kLsPmXu-1zsnyxNYP7ulPCr8-NtipdO4Pco_fAM/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRAIgD6ZBF0cn19vPCv5V7zIId3BKV1z-Y4Qs34BiEvpf7eMCIE4UcaH8ToYAlFka0THfuX1Jla-inqZHEOUxGRyTZzU3/playlist/index.m3u8",
     "img": "https://yt3.googleusercontent.com/lJKcikNIOAxJwt56fCFkY-pc57H0TQgZtt0h8xPBlijST3FE_2AOZhqS4_D8afZaDjHKqKOVeA=s176-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -21332,20 +21062,8 @@
   {
     "name": "CazéTV",
     "type": "Esportes",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745704805/ei/BQMNaKz6CNqY-LAPr5a_mQk/ip/138.117.223.253/id/LNvHgo4Asbg.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/AecWEAb4XRhiW_dlrECY-lW-Bec6qjGFI7Q6ng9uy1ek09LCugeADRjN5-0M6-JAn8cNXrOxOT3dr825/spc/wk1kZrTGkvBOkxAmLYdhnBQtuZjkAt7ik743Dv6Ud5_T_Eue3GxhovetSsbeN9Th1vTM3XQ/vprv/1/playlist_type/DVR/initcwndbps/2688750/met/1745683205,/mh/nw/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745682758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgVGamgq_9WXrwaWBUKUkD5asq6ypSzTlts4sn79c-eHsCIQD4gFX2XRg4479F_7Ixv7QFwu_AjTJ03eOEFNJzm8Cocg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/ACuhMU0wRQIhAN-NCw7fiUJn7r3uvuFL1Vp_drrfHvCGAmMt6uLd9aa-AiBMAtaa1IDAqLo1oXbVNNKu_X19ig5hOSwlnwihkyUn3w%3D%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745737205/ei/lYENaNWlNreR-LAP9_as4A8/ip/138.117.223.253/id/S1NIss0Qhnk.2/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/30/manifest_duration/30/bui/AecWEAZfIlxigmbrhAuXBhms-eYkkxBuHLgHfljOIJdGWqU0vFz5djKeuVGqOpkVcFZdM9FI1neHI--u/spc/wk1kZq7jdI-ZzVkiOkojuIg9KpnJDIj5L--VV8WaFJaWxCFyB-_J9hECL0RS7dDiqhbzU1k/vprv/1/playlist_type/DVR/initcwndbps/2370000/met/1745715606,/mh/j1/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51398364/mt/1745715154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgQxmT1O4EfEdM-hpgu1wG3WV6WuTuy7c6eLgUyZPio0kCIA1D6E60j0YoR9nPAu8Nsy_UnG_3ShoVXHdPJMHHrNup/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIhAJDcyqhUaPcM-v-RE0FGvAMVtRGpJ9LDr7UwST30fmcMAiBk0FMgCTCzGAZ26VS_tw9c1elwAljUQ6MUfZUk24qNgQ%3D%3D/playlist/index.m3u8",
     "img": "https://yt3.googleusercontent.com/4oHE9WPNm2O_OCXfv-z1ikfOHAWLe46KViKgZNwBGiRQKfLDPlHmnBQ9rbuXvWasG4YixvFA=s176-c-k-c0x00ffffff-no-rj"
-  },
-  {
-    "name": "NBA Brasil",
-    "type": "Esportes",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1745704806/ei/BgMNaJc6w_XWxA_ilszQDg/ip/138.117.223.253/id/GGrXE9G_wg0.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr5---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/AccgBcOI_MnBhR-vF5K03EkXow1OKUPWN9O2sqxwoiJ6O0XQ1Si-KAZ1hyCJbSWbG904lUgqIm7WAW3p/spc/_S3wKp0RU9mqjg4wZU57WtXSBf_WEwWT2NZOCX7BH-A3pVHu78Hy1i6Z8WKnT5d97ar5hxk/vprv/1/playlist_type/DVR/initcwndbps/2705000/met/1745683206,/mh/LW/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/5/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1745682758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAMsC3scdYjM-JTMcNbr9o-RMDOQH-J6LfKcS_Vezdw7rAiEAw99rcxZ_1ssSp9Tw42Lgr6qD7FHicqncDiLjTymBSzY%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIgWKgKJvCEu2Sw14IlOGbb1_xymQA2KhAlhOkhMoD1aOYCIQCc9vSWegyeRExW8UBYOuIlVyVNZ1JMD739ssFOjS4FAg%3D%3D/playlist/index.m3u8",
-    "img": "https://pbs.twimg.com/profile_images/724775288333279234/BXRH8jsF_400x400.jpg"
-  },
-  {
-    "name": "TV Parana Turismo",
-    "type": "Viagem",
-    "url": "http://200.189.113.201/hls/tve.m3u8",
-    "img": "https://i.imgur.com/I6pKoBd.png"
   },
   {
     "name": "Canal Gov",
@@ -21370,6 +21088,18 @@
     "type": "Legislativo",
     "url": "https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/playlist.m3u8",
     "img": "https://i.imgur.com/eMguSjM.png"
+  },
+  {
+    "name": "TV Camara",
+    "type": "Legislativo",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "img": "https://i.imgur.com/Sdou1Ab.png"
+  },
+  {
+    "name": "TV Camara 2",
+    "type": "Legislativo",
+    "url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
+    "img": "https://i.imgur.com/dHrUG1R.png"
   },
   {
     "name": "TV Camara de Sao Paulo",
