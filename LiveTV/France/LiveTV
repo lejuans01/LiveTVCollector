@@ -2366,7 +2366,7 @@
   {
     "name": "SÖZCÜ TV",
     "type": "Uncategorized",
-    "url": "http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8",
+    "url": "http://176.65.146.123:6004/play/a019/index.m3u8",
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
@@ -2586,12 +2586,6 @@
     "img": "https://i.ibb.co/Bt6frts/trthaber.png"
   },
   {
-    "name": "SÖZCÜ TV",
-    "type": "Uncategorized",
-    "url": "http://185.234.111.229:8000/play/a00y",
-    "img": "https://i.ibb.co/B40rjP3/szc1.png"
-  },
-  {
     "name": "TRT HABER (backup)",
     "type": "Uncategorized",
     "url": "https://tv.ensonhaber.com/trthaber/trthaber.m3u8",
@@ -2600,13 +2594,19 @@
   {
     "name": "SÖZCÜ TV (backup)",
     "type": "Uncategorized",
-    "url": "https://trn03.tulix.tv/gt-sozcu/playlist.m3u8",
+    "url": "http://185.234.111.229:8000/play/a00y",
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
     "name": "SÖZCÜ TV (backup)",
     "type": "Uncategorized",
-    "url": "https://trn03.tulix.tv/gt-sozcu-tv/index.m3u8",
+    "url": "https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8",
+    "img": "https://i.ibb.co/B40rjP3/szc1.png"
+  },
+  {
+    "name": "SÖZCÜ TV (backup)",
+    "type": "Uncategorized",
+    "url": "http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8",
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
   {
@@ -2906,13 +2906,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=3zfs5-xLo4MXHOW7_--lyQ&e=1745903828",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=eFy1X_XldYa-r1_8UZB8xw&e=1745922075",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=3zfs5-xLo4MXHOW7_--lyQ&e=1745903828",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=eFy1X_XldYa-r1_8UZB8xw&e=1745922075",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {

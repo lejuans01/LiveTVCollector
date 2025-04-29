@@ -2953,7 +2953,7 @@ Logo: https://i.ibb.co/B40rjP3/szc1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: SÖZCÜ TV
-URL: http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
+URL: http://176.65.146.123:6004/play/a019/index.m3u8
 Logo: https://i.ibb.co/B40rjP3/szc1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3137,23 +3137,23 @@ URL: https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 Logo: https://i.ibb.co/Bt6frts/trthaber.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
-Name: SÖZCÜ TV
-URL: http://185.234.111.229:8000/play/a00y
-Logo: https://i.ibb.co/B40rjP3/szc1.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
 Name: TRT HABER (backup)
 URL: https://tv.ensonhaber.com/trthaber/trthaber.m3u8
 Logo: https://i.ibb.co/Bt6frts/trthaber.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: SÖZCÜ TV (backup)
-URL: https://trn03.tulix.tv/gt-sozcu/playlist.m3u8
+URL: http://185.234.111.229:8000/play/a00y
 Logo: https://i.ibb.co/B40rjP3/szc1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: SÖZCÜ TV (backup)
-URL: https://trn03.tulix.tv/gt-sozcu-tv/index.m3u8
+URL: https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
+Logo: https://i.ibb.co/B40rjP3/szc1.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: SÖZCÜ TV (backup)
+URL: http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
 Logo: https://i.ibb.co/B40rjP3/szc1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3403,12 +3403,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=3zfs5-xLo4MXHOW7_--lyQ&e=1745903828
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=eFy1X_XldYa-r1_8UZB8xw&e=1745922075
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=3zfs5-xLo4MXHOW7_--lyQ&e=1745903828
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=eFy1X_XldYa-r1_8UZB8xw&e=1745922075
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
