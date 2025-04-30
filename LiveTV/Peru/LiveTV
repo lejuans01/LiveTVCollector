@@ -444,12 +444,6 @@
     "img": "https://i.imgur.com/xVcnmE3.png"
   },
   {
-    "name": "SEO TV 1 (1080p)",
-    "type": "General",
-    "url": "https://seo.tv.bo/tv/SEOTV_1FHD.m3u8",
-    "img": "https://i.imgur.com/aTcJ5p3.png"
-  },
-  {
     "name": "Sistema 1 [Geo-blocked]",
     "type": "General",
     "url": "https://inliveserver.com:1936/9514/9514/playlist.m3u8",
@@ -880,12 +874,6 @@
     "type": "Animation",
     "url": "https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8",
     "img": "https://cdn.energeek.cl/logos/Marca-512.png"
-  },
-  {
-    "name": "EnerGeek FAN (1080p)",
-    "type": "Animation",
-    "url": "https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=dEmoweBeneRGEek2025&password=FK8tJm5kBxetEDAXSLDF",
-    "img": "https://cdn.energeek.cl/logos/Fanpop-512.png"
   },
   {
     "name": "LatinoKids (480p) [Not 24/7]",
@@ -1524,12 +1512,6 @@
     "img": "https://i.imgur.com/GJbRWwH.png"
   },
   {
-    "name": "SEO TV 2 Kids (1080p)",
-    "type": "Kids",
-    "url": "https://seo.tv.bo/tv/CTV2.m3u8",
-    "img": "https://i.imgur.com/BC0Ii7i.png"
-  },
-  {
     "name": "Contacto Deportivo (720p) [Not 24/7]",
     "type": "Sports",
     "url": "https://live.obslivestream.com/cdeportivo/index.m3u8",
@@ -1552,12 +1534,6 @@
     "type": "Sports",
     "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8",
     "img": "https://i.imgur.com/7Xndgxk.png"
-  },
-  {
-    "name": "SEO TV 5 Deportes (1080p) [Not 24/7]",
-    "type": "Sports",
-    "url": "https://seo.tv.bo/tv/SEOtv_5sd.m3u8",
-    "img": "https://i.imgur.com/N56B7si.png"
   },
   {
     "name": "TVQ Sports (720p)",
@@ -1588,12 +1564,6 @@
     "type": "Movies",
     "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8",
     "img": "https://i.imgur.com/DTRPV6B.png"
-  },
-  {
-    "name": "SEO TV 4 Películas (1080p)",
-    "type": "Movies",
-    "url": "https://seo.tv.bo/tv/SEOTV4_HD.m3u8",
-    "img": "https://i.imgur.com/aTcJ5p3.png"
   },
   {
     "name": "Filmstream (clasicos ingles) (720p)",
@@ -1630,12 +1600,6 @@
     "type": "Comedy",
     "url": "https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png"
-  },
-  {
-    "name": "SEO TV 7 (1080p)",
-    "type": "Comedy",
-    "url": "https://seo.tv.bo/tv/SEOTV7.m3u8",
-    "img": "https://i.imgur.com/aTcJ5p3.png"
   },
   {
     "name": "Garage TV Latin America",
@@ -1690,12 +1654,6 @@
     "type": "Series",
     "url": "https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8",
     "img": "https://i.imgur.com/8dUS3Ih.png"
-  },
-  {
-    "name": "SEO TV 3 Novelas (1080p)",
-    "type": "Series",
-    "url": "https://seo.tv.bo/tv/SEOTV3.m3u8",
-    "img": "https://i.imgur.com/aTcJ5p3.png"
   },
   {
     "name": "TVE Star HD (1080p)",

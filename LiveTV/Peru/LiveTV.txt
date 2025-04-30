@@ -30,11 +30,6 @@ URL: https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65
 Logo: https://cdn.energeek.cl/logos/Marca-512.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
-Name: EnerGeek FAN (1080p)
-URL: https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=dEmoweBeneRGEek2025&password=FK8tJm5kBxetEDAXSLDF
-Logo: https://cdn.energeek.cl/logos/Fanpop-512.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
 Name: LatinoKids (480p) [Not 24/7]
 URL: https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 Logo: https://i.imgur.com/VEk5aJ6.png
@@ -114,11 +109,6 @@ Group: Comedy
 Name: Distrito Comedia (576p)
 URL: https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
-Name: SEO TV 7 (1080p)
-URL: https://seo.tv.bo/tv/SEOTV7.m3u8
-Logo: https://i.imgur.com/aTcJ5p3.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 
@@ -530,11 +520,6 @@ URL: https://servilive.com:3753/live/qosqotimeslive.m3u8
 Logo: https://i.imgur.com/xVcnmE3.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
-Name: SEO TV 1 (1080p)
-URL: https://seo.tv.bo/tv/SEOTV_1FHD.m3u8
-Logo: https://i.imgur.com/aTcJ5p3.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
 Name: Sistema 1 [Geo-blocked]
 URL: https://inliveserver.com:1936/9514/9514/playlist.m3u8
 Logo: https://i.imgur.com/GaEfzuG.png
@@ -834,11 +819,6 @@ URL: https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 Logo: https://i.imgur.com/GJbRWwH.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
-Name: SEO TV 2 Kids (1080p)
-URL: https://seo.tv.bo/tv/CTV2.m3u8
-Logo: https://i.imgur.com/BC0Ii7i.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
 
 Group: Legislative
 Name: JNE TV (720p) [Not 24/7]
@@ -900,11 +880,6 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Filmstream
 URL: https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/DTRPV6B.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
-Name: SEO TV 4 Películas (1080p)
-URL: https://seo.tv.bo/tv/SEOTV4_HD.m3u8
-Logo: https://i.imgur.com/aTcJ5p3.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Filmstream (clasicos ingles) (720p)
@@ -1440,11 +1415,6 @@ URL: https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 Logo: https://i.imgur.com/8dUS3Ih.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
-Name: SEO TV 3 Novelas (1080p)
-URL: https://seo.tv.bo/tv/SEOTV3.m3u8
-Logo: https://i.imgur.com/aTcJ5p3.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
 Name: TVE Star HD (1080p)
 URL: https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 Logo: https://i.imgur.com/zsCZHMh.png
@@ -1477,11 +1447,6 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Ovacion TV (720p) [Not 24/7]
 URL: http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 Logo: https://i.imgur.com/7Xndgxk.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
-Name: SEO TV 5 Deportes (1080p) [Not 24/7]
-URL: https://seo.tv.bo/tv/SEOtv_5sd.m3u8
-Logo: https://i.imgur.com/N56B7si.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: TVQ Sports (720p)

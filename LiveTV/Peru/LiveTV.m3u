@@ -147,8 +147,6 @@ https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="General",QT Televisión (720p) [Not 24/7]
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="General",SEO TV 1 (1080p)
-https://seo.tv.bo/tv/SEOTV_1FHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GaEfzuG.png" group-title="General",Sistema 1 [Geo-blocked]
 https://inliveserver.com:1936/9514/9514/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZH0qoJ.png" group-title="General",Telecanal
@@ -293,8 +291,6 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animation",EnerGeek (720p) [Not 24/7]
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Animation",EnerGeek FAN (1080p)
-https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=dEmoweBeneRGEek2025&password=FK8tJm5kBxetEDAXSLDF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids (480p) [Not 24/7]
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
@@ -507,8 +503,6 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids",Pakapaka (720p)
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="Kids",SEO TV 2 Kids (1080p)
-https://seo.tv.bo/tv/CTV2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo (720p) [Not 24/7]
 https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports (480p) [Geo-blocked]
@@ -517,8 +511,6 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N56B7si.png" group-title="Sports",SEO TV 5 Deportes (1080p) [Not 24/7]
-https://seo.tv.bo/tv/SEOtv_5sd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CQpuBeQ.png" group-title="Sports",TVQ Sports (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Sports",Esports Max (720p)
@@ -529,8 +521,6 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Movies",SEO TV 4 Películas (1080p)
-https://seo.tv.bo/tv/SEOTV4_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream (clasicos ingles) (720p)
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies",Top Cine (1080p)
@@ -543,8 +533,6 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w106
 http://168.181.122.234:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Comedy",Distrito Comedia (576p)
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Comedy",SEO TV 7 (1080p)
-https://seo.tv.bo/tv/SEOTV7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Auto",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Science",Hiperconectados TV
@@ -563,8 +551,6 @@ https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Series",SEO TV 3 Novelas (1080p)
-https://seo.tv.bo/tv/SEOTV3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Series",TVE Star HD (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kSMo53C.png" group-title="Education",MINEDU IPTV 1 (320p) [Not 24/7]
