@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-29 21:52:37",
+  "date": "2025-04-30 06:55:17",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3397,14 +3397,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=u0PmyCWrYNGuH-LeloCt6w&e=1745954287"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=xZMHW-9yaVIjc4HvEAvigA&e=1745990414"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=u0PmyCWrYNGuH-LeloCt6w&e=1745954287"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=xZMHW-9yaVIjc4HvEAvigA&e=1745990414"
       },
       {
         "name": "TV8",
@@ -17015,11 +17015,11 @@
         "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE"
       },
       {
-        "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\",BFM Lyon (1080p)",
+        "name": "BFM Lyon (576p)",
         "logo": "https://i.imgur.com/0uiiZRo.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE"
+        "url": "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
       },
       {
         "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\",BFM Marseille (1080p)",
@@ -17055,13 +17055,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE"
-      },
-      {
-        "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\",BFM TV (1080p)",
-        "logo": "https://i.imgur.com/YJCcczD.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE"
       },
       {
         "name": "CNews (1080p) [Geo-blocked]",
@@ -17396,11 +17389,11 @@
     ],
     "Business;News": [
       {
-        "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\",BFM Business (1080p)",
+        "name": "BFM Business (576p)",
         "logo": "https://i.imgur.com/psqIHn4.png",
         "group": "Business;News",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE"
+        "url": "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8"
       }
     ],
     "News;Science": [

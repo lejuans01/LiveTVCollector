@@ -2906,13 +2906,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=u0PmyCWrYNGuH-LeloCt6w&e=1745954287",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=xZMHW-9yaVIjc4HvEAvigA&e=1745990414",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=u0PmyCWrYNGuH-LeloCt6w&e=1745954287",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=xZMHW-9yaVIjc4HvEAvigA&e=1745990414",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -14532,9 +14532,9 @@
     "img": "https://i.imgur.com/j7F9MwH.png"
   },
   {
-    "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\",BFM Lyon (1080p)",
+    "name": "BFM Lyon (576p)",
     "type": "News",
-    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE",
+    "url": "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
     "img": "https://i.imgur.com/0uiiZRo.png"
   },
   {
@@ -14566,12 +14566,6 @@
     "type": "News",
     "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE",
     "img": "https://i.imgur.com/vp1oVj3.png"
-  },
-  {
-    "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\",BFM TV (1080p)",
-    "type": "News",
-    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE",
-    "img": "https://i.imgur.com/YJCcczD.png"
   },
   {
     "name": "CNews (1080p) [Geo-blocked]",
@@ -14850,9 +14844,9 @@
     "img": "https://i.imgur.com/Eta6gUq.png"
   },
   {
-    "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\",BFM Business (1080p)",
+    "name": "BFM Business (576p)",
     "type": "Business;News",
-    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE",
+    "url": "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8",
     "img": "https://i.imgur.com/psqIHn4.png"
   },
   {

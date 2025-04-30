@@ -225,8 +225,8 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 
 Group: Business;News
-Name: like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Business (1080p)
-URL: https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+Name: BFM Business (576p)
+URL: https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 Logo: https://i.imgur.com/psqIHn4.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
@@ -733,8 +733,8 @@ URL: https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end
 Logo: https://i.imgur.com/j7F9MwH.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Lyon (1080p)
-URL: https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
+Name: BFM Lyon (576p)
+URL: https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 Logo: https://i.imgur.com/0uiiZRo.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
@@ -761,11 +761,6 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 Name: like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Toulon Var (1080p)
 URL: https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
 Logo: https://i.imgur.com/vp1oVj3.png
-Source: https://iptv-org.github.io/iptv/countries/fr.m3u
---------------------------------------------------
-Name: like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM TV (1080p)
-URL: https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
-Logo: https://i.imgur.com/YJCcczD.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: CNews (1080p) [Geo-blocked]
@@ -3403,12 +3398,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=u0PmyCWrYNGuH-LeloCt6w&e=1745954287
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=xZMHW-9yaVIjc4HvEAvigA&e=1745990414
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=u0PmyCWrYNGuH-LeloCt6w&e=1745954287
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=xZMHW-9yaVIjc4HvEAvigA&e=1745990414
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
