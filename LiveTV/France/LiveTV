@@ -2552,7 +2552,7 @@
   {
     "name": "CNBC-E",
     "type": "Uncategorized",
-    "url": "https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=XihyuKSyUD0.m3u8",
+    "url": "https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8",
     "img": "https://i.ibb.co/kcpSwmK/cnbce.png"
   },
   {
@@ -2906,13 +2906,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=xZMHW-9yaVIjc4HvEAvigA&e=1745990414",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=CvunWwTe1_SQQMih0QKZSw&e=1746040540",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=xZMHW-9yaVIjc4HvEAvigA&e=1745990414",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=CvunWwTe1_SQQMih0QKZSw&e=1746040540",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -3670,6 +3670,12 @@
     "type": "Uncategorized",
     "url": "https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8",
     "img": "https://i.ibb.co/L8ftBdN/minikacocuk.png"
+  },
+  {
+    "name": "CARTOON NETWORK TR",
+    "type": "Uncategorized",
+    "url": "http://51.20.137.71/stream/yt/cartoonnetwork.m3u8",
+    "img": "https://i.ibb.co/Zxd0j45/cartoonnetwork.png"
   },
   {
     "name": "GALATASARAY TV",
