@@ -416,6 +416,135 @@ URL: https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 Logo: https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
+Name: COLORS BANGLA CINEMA
+URL: http://tv.bdiptv.store/live/restream/restream25/238.m3u8
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaYfLX3eac9kK8nvEp6i3NGUs4RP8D1jvHw&s
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+
+Group: BANGLADESH
+Name: S TV
+URL: http://38.96.178.201/live/ChannelS/index.m3u8
+Logo: https://i.ibb.co.com/BKGkcw3b/Channel-S-Bangladesh-Logo.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+
+Group: Bangladesh
+Name: BTV HD
+URL: https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
+Logo: https://i.ibb.co.com/d0fWLPZR/1677040358634-BTVogo.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: BTV NEWS
+URL: http://opplex.ch:8080/live/789456123/789456123/245922.ts
+Logo: https://i.ibb.co.com/zHGC2gbF/BTV-News-Logo.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: SOMOY TV
+URL: https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
+Logo: https://i.ibb.co.com/zTgqxTzv/somoy-tv-logo-png-seeklogo-536972.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: INDEPNDENT HD
+URL: http://38.96.178.201/live/Independent/index.m3u8
+Logo: https://i.ibb.co.com/Hpddjjy4/channels4-profile.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: CHANNEL 24
+URL: https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
+Logo: https://i.ibb.co.com/RpHd59Jm/unnamed.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: EKHONE TV
+URL: https://www.tbn24.com/api/video/4043_0.m3u8
+Logo: https://i.ibb.co.com/SXt4ZHHb/channels4-profile-1.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: ASIAN TV
+URL: http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
+Logo: https://i.ibb.co.com/4Z6ckxQG/images-5.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: DBC
+URL: http://opplex.ch:8080/live/789456123/789456123/245914.ts
+Logo: https://i.ibb.co.com/fJ0GSb1/images.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: BANGLA TV
+URL: http://38.96.178.201/live/BanglaTV/index.m3u8
+Logo: https://i.ibb.co.com/k267DrN2/channels4-profile-1.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: GTV HD
+URL: https://www.tbn24.com/api/video/4027_0.m3u8
+Logo: https://i.ibb.co.com/XxKjGBHf/images-7.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: JALSHA MOVIES HD
+URL: http://gotit14.xyz:80/live/2F635BX/ZJX02CY/34725.ts
+Logo: https://i.ibb.co.com/XZdWGJcr/images-9.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: STAR GOLD HD
+URL: https://www.tbn24.com/api/video/4029_0.m3u8
+Logo: https://i.ibb.co.com/8n2qMTmR/unnamed.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: STAR BHARAT HD
+URL: https://www.tbn24.com/api/video/4032_0.m3u8
+Logo: https://i.ibb.co.com/k2LzmV4N/download-1.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: STAR PLUS HD
+URL: https://www.tbn24.com/api/video/4039_0.m3u8
+Logo: https://i.ibb.co.com/dsRRMM8r/images-4.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: MOTU-PATLU 1
+URL: http://opplex.ch:8080/live/789456123/789456123/307079.ts
+Logo: https://i.ibb.co.com/XZtyCx3d/Motu-Patlu.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: MOTU-PATLU 2
+URL: http://opplex.ch:8080/live/789456123/789456123/311373.ts
+Logo: https://i.ibb.co.com/XZtyCx3d/Motu-Patlu.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: DORAMON
+URL: http://opplex.ch:8080/live/789456123/789456123/388459.ts
+Logo: https://i.ibb.co.com/b5G5GvqL/Doraemon-character.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: HUNGAMA
+URL: http://atg100.xyz/live/443432469215731/4362020837/510267.ts
+Logo: https://i.ibb.co.com/bj6skF3M/images-3.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: DISNEP CHANNEL
+URL: http://38.76.152.22:8000/play/a070/index.m3u8
+Logo: https://i.ibb.co.com/GN8TVjX/images-2.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: T SPORTS HD
+URL: http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
+Logo: https://i.ibb.co.com/RkfpnmWd/download-2.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: NATIONAL
+URL: http://88.212.15.19/live/test_ngc/playlist.m3u8
+Logo: https://i.ibb.co.com/q3870F8P/images.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: WILD
+URL: http://38.76.152.22:8000/play/a01d/index.m3u8
+Logo: https://i.ibb.co.com/1Gny5NSv/images-1.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: WILD EARTH
+URL: https://wildearth-plex.amagi.tv/master.m3u8
+Logo: https://i.ibb.co.com/8n4VVBGm/images.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
 
 Group: Business
 Name: Bloomberg TV Asia (720p)
@@ -444,6 +573,13 @@ Name: Channel S (1080p)
 URL: https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 Logo: https://i.imgur.com/IDjoXfu.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
+--------------------------------------------------
+
+Group: DAKWAH
+Name: MAKKAH
+URL: https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd
+Logo: https://i.ibb.co.com/tT0yQVWb/images.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 
 Group: DOCUMENTARY
@@ -732,6 +868,11 @@ URL: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: ALJAZEERA
+URL: https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
 
 Group: Entertainment
 Name: SET HD
@@ -778,6 +919,21 @@ Name: Zee TV
 URL: https://otttv.co.in/d2h/livestream/zee-tv/manifest.mpd
 Logo: https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png
 Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
+--------------------------------------------------
+Name: ZEE BANGLA HD
+URL: https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
+Logo: https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_list/1170x658310781121.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: HUM TV
+URL: https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
+Logo: https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963480044.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: ZEE TV HD
+URL: https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
+Logo: https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 Name: Asian TV (720p)
 URL: https://mtlivestream.site/asian/ytlive/index.m3u8
@@ -995,6 +1151,28 @@ Logo: https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 
+Group: INDIA
+Name: SONY MAX HD
+URL: https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
+Logo: https://i.ibb.co.com/svXnVrQT/images-1744977797789.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: SONY MAX 2
+URL: https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
+Logo: https://i.ibb.co.com/CFm6Qh1/Sony-MAX2.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: SONY 1 HD
+URL: https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8
+Logo: https://i.ibb.co.com/bRr3QHZS/Ten-HD.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: SON 2 HD
+URL: https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
+Logo: https://i.ibb.co.com/YMJ7T9N/Ten2-HD.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+
 Group: INDIAN BANGLA
 Name: ENTEER TEN BANGLA
 URL: https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/cb573e1c786c678b84c83a64cef94382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fae0554d8e69a6b4011a9d2c44fa83439c8101b2d4d2598316d776f0419c93f783db1481e4325293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f8f7b53430df30a07ba129a4e90399a7eb84bdd89a65a19d8ad236743d4f65a6f20b0f0b2cadf3c25b475f2ade79f01143a58250a259839a24a0f319efcc10491d15ff0dc47d0e63c4d6a80f931ea48e51b4db44713bc5ccf0df4ac0f1978434e68a74eab9b22ff21dc73a9f4de40364269a2805cc88ad811652c1fc6c869dd1d1fb6cc98c3f13a7b9b30550ab320ee520b3a986f2c64b379b0da1d7c992a0fb2303fd05121cf17afef62a6f19bad2d1381f3eb0ebf63e6be0f92d107aa6633104290fa3e5048493281bc36436037930bb493f9e0710812e5b898ad971d6b514b623866bcebe9749499d3694c46b3340854344147d854ac2ab5666e0f21ce12d6d679578d142e20e3e7721d6d6598ccbe969494ad60b06cd8dbf22925590d35a5521ae8e197ba76d3d5ae53032681e06f91/46/1280x720_3072000/index.m3u8
@@ -1106,6 +1284,55 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
 
+Group: India
+Name: ZEE CINEMA HD
+URL: https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
+Logo: https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: COLORS
+URL: http://tv.bdiptv.store/live/restream/restream25/93.m3u8
+Logo: https://i.ibb.co.com/fz9XW0Vg/download.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: COLORS C SUPER
+URL: http://tv.bdiptv.store/live/restream/restream25/240.m3u8
+Logo: https://i.ibb.co.com/n8mrp54N/images-1.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: SONIC BANGLA
+URL: http://tv.bdiptv.store/live/restream/restream25/242.m3u8
+Logo: https://i.ibb.co.com/gZBv98pk/images.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+
+Group: Indian Bangla
+Name: ZEE 24
+URL: https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+Logo: https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: STAR JALSHA HD
+URL: http://tv.bdiptv.store/live/restream/restream25/52.m3u8
+Logo: https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: COLORS BANGLA HD
+URL: https://www.tbn24.com/api/video/4041_0.m3u8
+Logo: https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: SUN BANGLA HD
+URL: https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+Logo: https://i.postimg.cc/cHRc7hTk/Sun-Bangla.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: ZEE BANGLA CINEMA
+URL: https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
+Logo: https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+
 Group: Indian-Bangla
 Name: Star Jalsha HD
 URL: http://38.96.178.201/live/STARJALSHA/index.m3u8
@@ -1214,6 +1441,16 @@ URL: http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
+Name: TRAVEL HD
+URL: https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: ANIMAL PLANET HD
+URL: https://github.com/rahul979854/Channels/raw/main/AnimalsPlanetHd.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
 
 Group: Infotainment
 Name: Sony BBC Earth HD
@@ -1285,6 +1522,16 @@ URL: https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
+Name: CARTOON HD
+URL: https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: DISCOVERY KIDS
+URL: https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
 
 Group: Kids
 Name: Duronto TV
@@ -1306,6 +1553,16 @@ Name: Sony Yay
 URL: https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 Logo: https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png
 Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
+--------------------------------------------------
+Name: NICK BANGLA
+URL: http://tv.bdiptv.store/live/restream/restream25/241.m3u8
+Logo: https://i.postimg.cc/DZ4NwNWZ/Nick.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: DURONTO TV
+URL: https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+Logo: https://i.postimg.cc/zBCLNtGZ/Duronto.jpg
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 Name: Nick Jr India (1080p)
 URL: https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
@@ -1330,6 +1587,11 @@ Name: TLC
 URL: https://otttv.co.in/d2h/livestream/tlc/manifest.mpd
 Logo: https://otapp.store/uploads/tv_image/sm/tlc-hindi.png
 Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
+--------------------------------------------------
+Name: ZEE ZEST HD
+URL: https://live.drmlive-02.workers.dev/zee/348.m3u8
+Logo: https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 
 Group: MOVIES
@@ -1496,6 +1758,11 @@ Name: 2073
 URL: https://jett3.routemachine.site/v3-hls-playback/3c1c0df05716cf6369e4c329982e0bfc8f7b14eb97d02269479ed7c814a9b3dca11a6382abffa47285775ff23e1526a084a632d9b9ea604cb092a1a1e289c5b311aaf5eafdaecbcd0dd110f6ccbc063e49b21fd9579dba5df859c26d6670b8e00b9f527ebf297e73c45e2facca180db10a3ca32ecc1a240668d99c213b92831678a3b1c21d708344efc77e67db12c2f12ba1cf938b4f786aa7e73a560aeb372d77ee67c34daf3fda5d2f203d02ad47b292f5a1c30a0ca9865084a51d54f7f20b/1080/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: ZEE ACTION
+URL: https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
+Logo: https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 
 Group: Movies
@@ -1777,6 +2044,18 @@ Name: GEO KAHANI
 URL: http://125.209.88.166:45793/BRN/GeoKahani.stream/chunklist_w484598437.m3u8
 Logo: https://sunplex.net/iptv/logo/gaan-bangla.jpg
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
+--------------------------------------------------
+
+Group: Relagion Channel
+Name: AL SUNNAH TV
+URL: http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
+Logo: https://i.ibb.co/rtkWYHV/20240827-092043.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: PEACE TV BANGLA
+URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
+Logo: https://i.ibb.co/Gfw89mC/20240804-033102.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 
 Group: Religious
@@ -2192,6 +2471,26 @@ Name: Sony Sports Ten 5 HD
 URL: https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 Logo: https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png
 Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
+--------------------------------------------------
+Name: STAR SPORTS 1 HD
+URL: https://raw.githubusercontent.com/rahul979854/Channels/refs/heads/main/StarSport1Hd.m3u8
+Logo: https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: STAR SPORTS 2 HD
+URL: https://github.com/rahul979854/Channels/raw/main/Sports18Hd.m3u8
+Logo: https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: STAR SPORTS 1 HD
+URL: https://github.com/rahul979854/Channels/raw/main/StarSportSelect1Hd.m3u8
+Logo: https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
+--------------------------------------------------
+Name: STAR SPORTS 2 HD
+URL: https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
+Logo: https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png
+Source: https://raw.githubusercontent.com/tanvir907/bdix/refs/heads/main/bdix.m3u
 --------------------------------------------------
 
 Group: Uncategorized
@@ -2960,11 +3259,6 @@ URL: http://xtv.ooo:8080/danyear12/am809100/233178
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: T-Sports [1]
-URL: http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
 Name: T-Sports [2]
 URL: http://xtv.ooo:8080/danyear12/am809100/167590
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -3215,11 +3509,6 @@ URL: https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd?|drmSchem
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
-Name: PEACE TV BANGLA
-URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
 Name: PEACE TV ENGLISH
 URL: https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -3367,11 +3656,6 @@ Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%2
 --------------------------------------------------
 Name: HBO2
 URL: https://tdameritrade-distro.amagi.tv/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: Wild Earth
-URL: https://wildearth-plex.amagi.tv/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
