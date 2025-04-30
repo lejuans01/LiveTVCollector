@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-29 22:00:46",
+  "date": "2025-04-30 07:28:18",
   "channels": {
     "Uncategorized": [
       {
@@ -484,55 +484,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550"
-      },
-      {
-        "name": "Canela TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=653"
-      },
-      {
-        "name": "Canela Network",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013"
-      },
-      {
-        "name": "Canela Cinema",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733"
-      },
-      {
-        "name": "Canela Novelas",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152"
-      },
-      {
-        "name": "Canela Clásicos",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=652"
-      },
-      {
-        "name": "Canela Kids",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=654"
-      },
-      {
-        "name": "Canela Novelisima",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"
       },
       {
         "name": "PTV Cocina",
@@ -2465,6 +2416,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66ba53cda4ee2700083fac09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1"
+      },
+      {
+        "name": "Novelisima",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"
       },
       {
         "name": "The Pet Collective",
@@ -4408,13 +4366,6 @@
         "url": "https://cloudvideo.servers10.com:8081/8072/index.m3u8"
       },
       {
-        "name": "SEO TV 1 (1080p)",
-        "logo": "https://i.imgur.com/aTcJ5p3.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://seo.tv.bo/tv/SEOTV_1FHD.m3u8"
-      },
-      {
         "name": "Síntesis TV (480p)",
         "logo": "https://i.imgur.com/1g9mbqi.png",
         "group": "General",
@@ -5009,13 +4960,6 @@
         "url": "http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8"
       },
       {
-        "name": "SEO TV 5 Deportes (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/N56B7si.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://seo.tv.bo/tv/SEOtv_5sd.m3u8"
-      },
-      {
         "name": "TVQ Sports (720p)",
         "logo": "https://i.imgur.com/CQpuBeQ.png",
         "group": "Sports",
@@ -5090,13 +5034,6 @@
         "group": "Animation",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "http://animezonetv.net/hls/stream.m3u8"
-      },
-      {
-        "name": "EnerGeek FAN (1080p)",
-        "logo": "https://cdn.energeek.cl/logos/Fanpop-512.png",
-        "group": "Animation",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=dEmoweBeneRGEek2025&password=FK8tJm5kBxetEDAXSLDF"
       },
       {
         "name": "LatinoKids (480p) [Not 24/7]",
@@ -5454,13 +5391,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8"
-      },
-      {
-        "name": "SEO TV 2 Kids (1080p)",
-        "logo": "https://i.imgur.com/BC0Ii7i.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://seo.tv.bo/tv/CTV2.m3u8"
       }
     ],
     "Movies": [
@@ -5512,13 +5442,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "SEO TV 4 Películas (1080p)",
-        "logo": "https://i.imgur.com/aTcJ5p3.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://seo.tv.bo/tv/SEOTV4_HD.m3u8"
       }
     ],
     "Comedy": [
@@ -5528,13 +5451,6 @@
         "group": "Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "SEO TV 7 (1080p)",
-        "logo": "https://i.imgur.com/aTcJ5p3.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://seo.tv.bo/tv/SEOTV7.m3u8"
       },
       {
         "name": "ViX Jajaja (1080p)",
@@ -5653,13 +5569,6 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8"
-      },
-      {
-        "name": "SEO TV 3 Novelas (1080p)",
-        "logo": "https://i.imgur.com/aTcJ5p3.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://seo.tv.bo/tv/SEOTV3.m3u8"
       }
     ],
     "Lifestyle": [

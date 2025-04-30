@@ -4,11 +4,6 @@ URL: http://animezonetv.net/hls/stream.m3u8
 Logo: https://i.imgur.com/AHaXlCh.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: EnerGeek FAN (1080p)
-URL: https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=dEmoweBeneRGEek2025&password=FK8tJm5kBxetEDAXSLDF
-Logo: https://cdn.energeek.cl/logos/Fanpop-512.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: LatinoKids (480p) [Not 24/7]
 URL: https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 Logo: https://i.imgur.com/VEk5aJ6.png
@@ -57,11 +52,6 @@ Group: Comedy
 Name: Distrito Comedia (576p)
 URL: https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: SEO TV 7 (1080p)
-URL: https://seo.tv.bo/tv/SEOTV7.m3u8
-Logo: https://i.imgur.com/aTcJ5p3.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: ViX Jajaja (1080p)
@@ -533,11 +523,6 @@ URL: https://cloudvideo.servers10.com:8081/8072/index.m3u8
 Logo: https://i.imgur.com/W8a1dIa.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: SEO TV 1 (1080p)
-URL: https://seo.tv.bo/tv/SEOTV_1FHD.m3u8
-Logo: https://i.imgur.com/aTcJ5p3.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Síntesis TV (480p)
 URL: https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
 Logo: https://i.imgur.com/1g9mbqi.png
@@ -687,11 +672,6 @@ URL: https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 Logo: https://i.imgur.com/03jFV68.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: SEO TV 2 Kids (1080p)
-URL: https://seo.tv.bo/tv/CTV2.m3u8
-Logo: https://i.imgur.com/BC0Ii7i.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 
 Group: Legislative
 Name: Canal del Congreso 45.1 (480p) [Not 24/7]
@@ -756,11 +736,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: MyTime Movie Network Mexico (720p)
 URL: https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/pw4NZK1.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: SEO TV 4 Películas (1080p)
-URL: https://seo.tv.bo/tv/SEOTV4_HD.m3u8
-Logo: https://i.imgur.com/aTcJ5p3.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
@@ -1035,11 +1010,6 @@ URL: https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 Logo: https://i.imgur.com/8dUS3Ih.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: SEO TV 3 Novelas (1080p)
-URL: https://seo.tv.bo/tv/SEOTV3.m3u8
-Logo: https://i.imgur.com/aTcJ5p3.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 
 Group: Sports
 Name: Afizzionados (576p)
@@ -1050,11 +1020,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: Hipódromo de las Américas (480p) [Geo-blocked]
 URL: http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
 Logo: https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: SEO TV 5 Deportes (1080p) [Not 24/7]
-URL: https://seo.tv.bo/tv/SEOtv_5sd.m3u8
-Logo: https://i.imgur.com/N56B7si.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: TVQ Sports (720p)
@@ -1413,41 +1378,6 @@ Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/
 --------------------------------------------------
 Name: Run Time Acción
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: Canela TV
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: Canela Network
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: Canela Cinema
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: Canela Novelas
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: Canela Clásicos
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: Canela Kids
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: Canela Novelisima
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
@@ -2828,6 +2758,11 @@ Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/
 --------------------------------------------------
 Name: Sala de Emergencias
 URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66ba53cda4ee2700083fac09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: Novelisima
+URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
