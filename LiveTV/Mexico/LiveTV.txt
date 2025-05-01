@@ -4,6 +4,11 @@ URL: http://animezonetv.net/hls/stream.m3u8
 Logo: https://i.imgur.com/AHaXlCh.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
+Name: EnerGeek FAN (1080p)
+URL: https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=ZZDemoIPTVGH&password=mdo96EuqMkTR
+Logo: https://cdn.energeek.cl/logos/Fanpop-512.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
 Name: LatinoKids (480p) [Not 24/7]
 URL: https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 Logo: https://i.imgur.com/VEk5aJ6.png
