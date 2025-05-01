@@ -232,6 +232,11 @@ URL: http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 Logo: https://alkhalifitv.github.io/TV/big/tvone.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
+Name: INEWS
+URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+Logo: https://alkhalifitv.github.io/TV/big/inews.png
+Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
+--------------------------------------------------
 Name: INEWS HD
 URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 Logo: https://alkhalifitv.github.io/TV/big/inews.png
