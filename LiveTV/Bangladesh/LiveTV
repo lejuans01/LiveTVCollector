@@ -2196,6 +2196,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "T-Sports [1]",
+    "type": "Uncategorized",
+    "url": "http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "T-Sports [2]",
     "type": "Uncategorized",
     "url": "http://xtv.ooo:8080/danyear12/am809100/167590",
@@ -3087,13 +3093,13 @@
     "name": "STAR SPORTS 1 HD",
     "type": "Sports",
     "url": "https://raw.githubusercontent.com/rahul979854/Channels/refs/heads/main/StarSport1Hd.m3u8",
-    "img": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png"
+    "img": "https://i.ibb.co.com/gZpvGJmt/images-2.jpg"
   },
   {
     "name": "STAR SPORTS 2 HD",
     "type": "Sports",
     "url": "https://github.com/rahul979854/Channels/raw/main/Sports18Hd.m3u8",
-    "img": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png"
+    "img": "https://i.ibb.co.com/G4y3H76D/Sports18-1-HD.png"
   },
   {
     "name": "STAR SPORTS 1 HD",
@@ -3642,12 +3648,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png"
   },
   {
-    "name": "TRAVEL HD",
-    "type": "Information",
-    "url": "https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"
-  },
-  {
     "name": "ANIMAL PLANET HD",
     "type": "Information",
     "url": "https://github.com/rahul979854/Channels/raw/main/AnimalsPlanetHd.m3u8",
@@ -3716,7 +3716,7 @@
   {
     "name": "DISCOVERY KIDS",
     "type": "KIDS",
-    "url": "https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd",
+    "url": "http://tv.bdiptv.store/live/restream/restream25/98.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"
   },
   {
@@ -3986,8 +3986,14 @@
   {
     "name": "INDEPNDENT HD",
     "type": "Bangladesh",
-    "url": "http://38.96.178.201/live/Independent/index.m3u8",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8",
     "img": "https://i.ibb.co.com/Hpddjjy4/channels4-profile.jpg"
+  },
+  {
+    "name": "JAMUNA HD",
+    "type": "Bangladesh",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8",
+    "img": "https://i.ibb.co.com/8gxQRNKH/images-1.png"
   },
   {
     "name": "CHANNEL 24",
@@ -4002,21 +4008,39 @@
     "img": "https://i.ibb.co.com/SXt4ZHHb/channels4-profile-1.jpg"
   },
   {
+    "name": "CHANNEL I",
+    "type": "Bangladesh",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8",
+    "img": "https://i.ibb.co.com/4n91Q8fz/images-3.jpg"
+  },
+  {
     "name": "ASIAN TV",
     "type": "Bangladesh",
-    "url": "http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3",
+    "url": "https://www.tbn24.com/api/video/405_0.m3u8",
     "img": "https://i.ibb.co.com/4Z6ckxQG/images-5.jpg"
+  },
+  {
+    "name": "ATN BNAGLA",
+    "type": "Bangladesh",
+    "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8",
+    "img": "https://i.ibb.co.com/Txvf5cwN/images.jpg"
+  },
+  {
+    "name": "SATV",
+    "type": "Bangladesh",
+    "url": "https://www.tbn24.com/api/video/4015_0.m3u8",
+    "img": "https://i.ibb.co.com/Z1Sf2fwL/images-1.jpg"
   },
   {
     "name": "DBC",
     "type": "Bangladesh",
-    "url": "http://opplex.ch:8080/live/789456123/789456123/245914.ts",
+    "url": "https://www.tbn24.com/api/video/4010_0.m3u8",
     "img": "https://i.ibb.co.com/fJ0GSb1/images.png"
   },
   {
     "name": "BANGLA TV",
     "type": "Bangladesh",
-    "url": "http://38.96.178.201/live/BanglaTV/index.m3u8",
+    "url": "https://www.tbn24.com/api/video/406_0.m3u8",
     "img": "https://i.ibb.co.com/k267DrN2/channels4-profile-1.jpg"
   },
   {
@@ -4053,25 +4077,31 @@
     "name": "MOTU-PATLU 1",
     "type": "Bangladesh",
     "url": "http://opplex.ch:8080/live/789456123/789456123/307079.ts",
-    "img": "https://i.ibb.co.com/XZtyCx3d/Motu-Patlu.jpg"
+    "img": "https://i.ibb.co.com/3mhm3Tjm/images-1.jpg"
   },
   {
     "name": "MOTU-PATLU 2",
     "type": "Bangladesh",
     "url": "http://opplex.ch:8080/live/789456123/789456123/311373.ts",
-    "img": "https://i.ibb.co.com/XZtyCx3d/Motu-Patlu.jpg"
+    "img": "https://i.ibb.co.com/1G9K3MV5/download.jpg"
   },
   {
     "name": "DORAMON",
     "type": "Bangladesh",
     "url": "http://opplex.ch:8080/live/789456123/789456123/388459.ts",
-    "img": "https://i.ibb.co.com/b5G5GvqL/Doraemon-character.png"
+    "img": "https://i.ibb.co.com/Ngr5Vvw0/images.jpg"
   },
   {
     "name": "HUNGAMA",
     "type": "Bangladesh",
     "url": "http://atg100.xyz/live/443432469215731/4362020837/510267.ts",
     "img": "https://i.ibb.co.com/bj6skF3M/images-3.jpg"
+  },
+  {
+    "name": "SUPER HUNGAMA",
+    "type": "Bangladesh",
+    "url": "http://tv.bdiptv.store/live/restream/restream25/159.m3u8",
+    "img": "https://i.ibb.co.com/HszssGV/images-3.jpg"
   },
   {
     "name": "DISNEP CHANNEL",
@@ -4082,13 +4112,13 @@
   {
     "name": "T SPORTS HD",
     "type": "Bangladesh",
-    "url": "http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8",
+    "url": "http://tv.bdiptv.store/live/restream/restream25/15263.m3u8",
     "img": "https://i.ibb.co.com/RkfpnmWd/download-2.jpg"
   },
   {
     "name": "NATIONAL",
     "type": "Bangladesh",
-    "url": "http://88.212.15.19/live/test_ngc/playlist.m3u8",
+    "url": "http://opplex.tv:8080/live/mother/mother/245967.ts",
     "img": "https://i.ibb.co.com/q3870F8P/images.png"
   },
   {
