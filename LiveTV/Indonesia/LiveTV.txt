@@ -5245,6 +5245,16 @@ URL: https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
+Name: EWTN Africa Asia (720p)
+URL: https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+Logo: https://i.imgur.com/sua70RO.png
+Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
+Name: EWTN Asia-Pacific (720p) [Not 24/7]
+URL: https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+Logo: https://i.imgur.com/sua70RO.png
+Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
 Name: Fajar TV (240p) [Not 24/7]
 URL: http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
 Logo: https://i.imgur.com/mkuXxRK.png
@@ -6155,6 +6165,11 @@ Source: https://iptv-org.github.io/iptv/countries/id.m3u
 Name: Radar TV Lampung (480p) [Not 24/7]
 URL: http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 Logo: https://i.imgur.com/qyqa1eA.png
+Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
+Name: RAI Italia Asia (576p)
+URL: http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+Logo: https://i.imgur.com/1nN4rEP.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 Name: Rajawali TV
