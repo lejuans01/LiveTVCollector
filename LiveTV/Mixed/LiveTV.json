@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-02 21:44:04",
+  "date": "2025-05-03 06:25:36",
   "channels": {
     "STREAMING": [
       {
@@ -822,13 +822,6 @@
         "group": "Entertainment",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://rtvbn.tv:8080/live/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Blic TV",
-        "logo": "https://i.imgur.com/5sYVN1Y.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "https://5bc45691ca49f.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8"
       },
       {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Kurir TV",
