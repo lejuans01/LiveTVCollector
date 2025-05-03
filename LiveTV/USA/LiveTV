@@ -240,9 +240,9 @@
     "img": "https://i.imgur.com/49XTqzs.png"
   },
   {
-    "name": "EWTN United States (720p)",
+    "name": "EWTN Estados Unidos (Spanish) (720p)",
     "type": "Religious",
-    "url": "https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8",
+    "url": "https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8",
     "img": "https://i.imgur.com/sua70RO.png"
   },
   {
@@ -534,9 +534,9 @@
     "img": "https://i.imgur.com/W8RLk5w.png"
   },
   {
-    "name": "TBN",
+    "name": "TBN East (720p)",
     "type": "Religious",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a3bb369c-6039-4656-a79d-8e87112a8232",
+    "url": "https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/512px-TBN_logo_2015.jpg"
   },
   {
@@ -633,6 +633,12 @@
     "name": "Enlace",
     "type": "Religious",
     "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ETWN #2",
+    "type": "Religious",
+    "url": "https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1056,10 +1062,10 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png"
   },
   {
-    "name": "CBTV Internacional (1080p)",
+    "name": "CBS East (720p)",
     "type": "General",
-    "url": "https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8",
-    "img": "https://i.imgur.com/7TaaMyJ.png"
+    "url": "http://fl3.moveonjoy.com/CBS_News/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png"
   },
   {
     "name": "CCTV-4 America (1080p)",
@@ -1680,9 +1686,15 @@
     "img": "https://i.imgur.com/sOk4JYr.png"
   },
   {
-    "name": "NTD TV (1080p)",
+    "name": "NTD TV (New Tang Dynasty Television)",
     "type": "General",
-    "url": "https://amg17596-ntdtv-amg17596c1-stirr-us-4738.playouts.now.amagi.tv/ntd.m3u8",
+    "url": "http://cnhls.ntdtv.com/cn/live400/playlist.m3u8",
+    "img": "https://i.imgur.com/QtFM5Oo.png"
+  },
+  {
+    "name": "NTD TV West (New Tang Dynasty Television)",
+    "type": "General",
+    "url": "https://ntd02.akamaized.net/NTD-West/index.m3u8",
     "img": "https://i.imgur.com/QtFM5Oo.png"
   },
   {
@@ -1870,6 +1882,12 @@
     "type": "General",
     "url": "https://link.frontlayer.com/services/hls2/fl823467/index.m3u8",
     "img": "https://i.imgur.com/grDBcTs.jpg"
+  },
+  {
+    "name": "Telemundo West (720p)",
+    "type": "General",
+    "url": "https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png"
   },
   {
     "name": "The Library Channel TV18 (360p)",
@@ -3036,6 +3054,12 @@
     "img": "https://i.imgur.com/KoGko6M.png"
   },
   {
+    "name": "AMC East (1080p)",
+    "type": "Movies",
+    "url": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"
+  },
+  {
     "name": "American Horrors (480p)",
     "type": "Movies",
     "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
@@ -3156,15 +3180,21 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png"
   },
   {
+    "name": "FXM East",
+    "type": "Movies",
+    "url": "http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8",
+    "img": "https://comteco.com.bo/img/upload/canales/svCJXa.png"
+  },
+  {
     "name": "Hallmark Movies & More",
     "type": "Movies",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a",
     "img": "https://i.imgur.com/JMn9sxk.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Hallmark Movies & Mysteries East [Geo-blocked]",
+    "name": "Hallmark Movies Mysteries East",
     "type": "Movies",
-    "url": "https://v1.thetvapp.to/hls/HallmarkMoviesMysteriesEast/index.m3u8",
+    "url": "http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
     "img": "https://i.imgur.com/GPRGA9C.png"
   },
   {
@@ -3174,9 +3204,9 @@
     "img": "https://i.imgur.com/bQdkyF9.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Lifetime Movies East [Geo-blocked]",
+    "name": "Lifetime Movies East",
     "type": "Movies",
-    "url": "https://v1.thetvapp.to/hls/LifetimeMoviesEast/index.m3u8",
+    "url": "http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
     "img": "https://i.imgur.com/BWmqYTO.png"
   },
   {
@@ -3190,6 +3220,12 @@
     "type": "Movies",
     "url": "https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8",
     "img": "https://images.fubo.tv/station_logos/maverick_black_cinema_c.png"
+  },
+  {
+    "name": "MGM+ East",
+    "type": "Movies",
+    "url": "http://fl2.moveonjoy.com/EPIX/index.m3u8",
+    "img": "https://i.imgur.com/S2VUrO8.png"
   },
   {
     "name": "MGM+ Marquee",
@@ -3214,6 +3250,12 @@
     "type": "Movies",
     "url": "https://mytime-tcl.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/HYgxPVQ.png"
+  },
+  {
+    "name": "OuterMax East (720p)",
+    "type": "Movies",
+    "url": "http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png"
   },
   {
     "name": "Paramount Movie Channel",
@@ -3354,9 +3396,9 @@
     "img": "https://i.imgur.com/yijitpa.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Sundance TV [Geo-blocked]",
+    "name": "Sundance TV East",
     "type": "Movies",
-    "url": "https://v1.thetvapp.to/hls/SundanceTVEast/index.m3u8",
+    "url": "http://fl2.moveonjoy.com/SUNDANCE/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png"
   },
   {
@@ -3548,7 +3590,7 @@
   {
     "name": "ACCN (720p)",
     "type": "Sports",
-    "url": "http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8",
+    "url": "http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8",
     "img": "https://i.imgur.com/TpCkbkT.png"
   },
   {
@@ -3574,6 +3616,12 @@
     "type": "Sports",
     "url": "https://bein-esp-klowdtv.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/V562tpO.png"
+  },
+  {
+    "name": "BEK TV Sports West (720p)",
+    "type": "Sports",
+    "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/1l3t5jd.png"
   },
   {
     "name": "Bellator MMA",
@@ -3608,7 +3656,7 @@
   {
     "name": "CBS Sports Network USA",
     "type": "Sports",
-    "url": "http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+    "url": "http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
     "img": "https://i.imgur.com/A8CnA8g.png"
   },
   {
@@ -3620,7 +3668,7 @@
   {
     "name": "ESPN U (720p)",
     "type": "Sports",
-    "url": "http://fl2.moveonjoy.com/ESPN_U/index.m3u8",
+    "url": "http://fl3.moveonjoy.com/ESPN_U/index.m3u8",
     "img": "https://i.imgur.com/HiBrysh.png"
   },
   {
@@ -3710,7 +3758,7 @@
   {
     "name": "MLB Network",
     "type": "Sports",
-    "url": "http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8",
+    "url": "http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8",
     "img": "https://i.imgur.com/sA5V39D.png"
   },
   {
@@ -3758,7 +3806,7 @@
   {
     "name": "NFL Network",
     "type": "Sports",
-    "url": "http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8",
+    "url": "http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png"
   },
   {
@@ -3848,7 +3896,7 @@
   {
     "name": "SportsNet New York (540p)",
     "type": "Sports",
-    "url": "http://fl2.moveonjoy.com/SNY/index.m3u8",
+    "url": "http://fl3.moveonjoy.com/SNY/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png"
   },
   {
@@ -4974,12 +5022,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "BEK Sports West",
-    "type": "Sports",
-    "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Billiard TV",
     "type": "Sports",
     "url": "https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8",
@@ -5019,6 +5061,24 @@
     "name": "Bloomberg TV US (1080p)",
     "type": "Business",
     "url": "https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8",
+    "img": "https://i.imgur.com/OuogLHx.png"
+  },
+  {
+    "name": "Bloomberg TV US Live Event (720p)",
+    "type": "Business",
+    "url": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
+    "img": "https://i.imgur.com/OuogLHx.png"
+  },
+  {
+    "name": "Bloomberg TV US Politics Live Event (720p)",
+    "type": "Business",
+    "url": "https://bloomberg.com/media-manifest/streams/politics.m3u8",
+    "img": "https://i.imgur.com/OuogLHx.png"
+  },
+  {
+    "name": "Bloomberg TV+ (1080p)",
+    "type": "Business",
+    "url": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
     "img": "https://i.imgur.com/OuogLHx.png"
   },
   {
@@ -5118,9 +5178,9 @@
     "img": "https://i.imgur.com/i1TBfGl.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",FYI East [Geo-blocked]",
+    "name": "FYI East",
     "type": "Lifestyle",
-    "url": "https://v1.thetvapp.to/hls/FYIEast/index.m3u8",
+    "url": "http://fl2.moveonjoy.com/FYI/index.m3u8",
     "img": "https://i.imgur.com/PggQk7F.png"
   },
   {
@@ -5310,6 +5370,12 @@
     "img": "https://i.imgur.com/bLjmQTU.png"
   },
   {
+    "name": "CMT East",
+    "type": "Music",
+    "url": "http://fl3.moveonjoy.com/CMT/index.m3u8",
+    "img": "https://i.imgur.com/S7DOpdY.png"
+  },
+  {
     "name": "CMT Equal Play",
     "type": "Music",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280712-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd328c28-b23b-4f85-9b18-9d73786f7109",
@@ -5398,6 +5464,12 @@
     "type": "Music",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c",
     "img": "https://i.imgur.com/AOaZmlS.png"
+  },
+  {
+    "name": "MTV Classic (360p)",
+    "type": "Music",
+    "url": "https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png"
   },
   {
     "name": "MTV Live",
@@ -5548,6 +5620,12 @@
     "type": "Music",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e",
     "img": "https://i.imgur.com/owUXUih.png"
+  },
+  {
+    "name": "VH1 East",
+    "type": "Music",
+    "url": "http://fl2.moveonjoy.com/VH1/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png"
   },
   {
     "name": "VH1 Hip Hop Family",
@@ -7206,6 +7284,12 @@
     "img": "https://i.imgur.com/uENch0P.png"
   },
   {
+    "name": "Comedy Central East (720p)",
+    "type": "Comedy",
+    "url": "http://fl3.moveonjoy.com/Comedy_Central/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png"
+  },
+  {
     "name": "Comedy Central en Español",
     "type": "Comedy",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024",
@@ -7608,6 +7692,12 @@
     "img": "https://i.imgur.com/kTh2jgF.png"
   },
   {
+    "name": "BBC America East",
+    "type": "Entertainment",
+    "url": "http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8",
+    "img": "https://i.imgur.com/pTiiPz0.png"
+  },
+  {
     "name": "Best of Dr. Phil",
     "type": "Entertainment",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f760bbdf090700075d7bfe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ffa3ab8-f961-4798-abdc-ca98d4ae0e8c",
@@ -7620,9 +7710,9 @@
     "img": "https://i.imgur.com/5kdG4Dm.png"
   },
   {
-    "name": "BET Her",
+    "name": "BET Her East",
     "type": "Entertainment",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11b0b672-bcc1-4276-a5bb-e260ed6b89f4",
+    "url": "http://fl2.moveonjoy.com/BET_HER/index.m3u8",
     "img": "https://i.imgur.com/oafsrlo.png"
   },
   {
@@ -7692,9 +7782,9 @@
     "img": "https://i.imgur.com/usqoEug.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",E! East [Geo-blocked]",
+    "name": "E! East",
     "type": "Entertainment",
-    "url": "https://v1.thetvapp.to/hls/EEast/index.m3u8",
+    "url": "http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8",
     "img": "https://i.imgur.com/TWFDkap.png"
   },
   {
@@ -7734,21 +7824,21 @@
     "img": "https://i.imgur.com/KbmXdjm.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Fuse East [Geo-blocked]",
+    "name": "Fuse East (720p)",
     "type": "Entertainment",
-    "url": "https://v1.thetvapp.to/hls/FuseEast/index.m3u8",
+    "url": "http://fl2.moveonjoy.com/FUSE/index.m3u8",
     "img": "https://i.imgur.com/mijRpPQ.jpg"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",FX East [Geo-blocked]",
+    "name": "FX East",
     "type": "Entertainment",
-    "url": "https://v1.thetvapp.to/hls/FXEast/index.m3u8",
+    "url": "http://fl2.moveonjoy.com/FX/index.m3u8",
     "img": "https://i.imgur.com/ZScwrpi.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",FXX East [Geo-blocked]",
+    "name": "FXX East",
     "type": "Entertainment",
-    "url": "https://v1.thetvapp.to/hls/FXXEast/index.m3u8",
+    "url": "http://fl2.moveonjoy.com/FXX/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png"
   },
   {
@@ -7830,16 +7920,16 @@
     "img": "https://i.imgur.com/YgOC51j.png"
   },
   {
-    "name": "ION",
+    "name": "ION Plus East (720p)",
     "type": "Entertainment",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f9a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7cc513a-0132-4e4f-85f1-bb3cb90423fd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png"
+    "url": "http://fl3.moveonjoy.com/ION_Plus/index.m3u8",
+    "img": "https://i.imgur.com/1dgCvNE.png"
   },
   {
-    "name": "ION Plus",
+    "name": "ION TV East",
     "type": "Entertainment",
-    "url": "https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8",
-    "img": "https://i.imgur.com/1dgCvNE.png"
+    "url": "http://fl2.moveonjoy.com/ION_TV/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png"
   },
   {
     "name": "K-Content by CJ ENM",
@@ -7944,6 +8034,12 @@
     "img": "https://i.imgur.com/fJxySUg.png"
   },
   {
+    "name": "Lifetime East",
+    "type": "Entertainment",
+    "url": "http://fl2.moveonjoy.com/LIFETIME/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png"
+  },
+  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Logo East [Geo-blocked]",
     "type": "Entertainment",
     "url": "https://v1.thetvapp.to/hls/LogoEast/index.m3u8",
@@ -7978,6 +8074,18 @@
     "type": "Entertainment",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1dbd4b6-a07d-4f52-b7b5-f1c84ee32628",
     "img": "https://i.imgur.com/Tw3rTxP.png"
+  },
+  {
+    "name": "MTV2 (720p)",
+    "type": "Entertainment",
+    "url": "https://fl5.moveonjoy.com/MTV_2/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png"
+  },
+  {
+    "name": "MTV East",
+    "type": "Entertainment",
+    "url": "http://fl2.moveonjoy.com/MTV/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png"
   },
   {
     "name": "MTV en Español",
@@ -8026,6 +8134,12 @@
     "type": "Entertainment",
     "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8",
     "img": "https://i.imgur.com/0qe2R8b.png"
+  },
+  {
+    "name": "Oxygen East",
+    "type": "Entertainment",
+    "url": "http://fl2.moveonjoy.com/OXYGEN/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png"
   },
   {
     "name": "People are Awesome",
@@ -8266,6 +8380,12 @@
     "type": "Shop",
     "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8",
     "img": "https://i.imgur.com/R6oC2A3.png"
+  },
+  {
+    "name": "HSN West",
+    "type": "Shop",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8",
+    "img": "https://i.imgur.com/rnZN7rD.png"
   },
   {
     "name": "Jewelry Television (720p)",
@@ -9024,6 +9144,12 @@
     "img": "https://i.imgur.com/XC30JAF.png"
   },
   {
+    "name": "Starz Encore Classic East",
+    "type": "Classic",
+    "url": "http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
+    "img": "https://i.imgur.com/L6GjoS4.png"
+  },
+  {
     "name": "The Andy Griffith Show",
     "type": "Classic",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9145ec07f2a00070e68dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2967-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fbed224a-3b63-4abd-b7a5-8676931b8711",
@@ -9040,6 +9166,12 @@
     "type": "Classic",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91c8933682c000754fc45/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5072-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7d85b7eb-3d33-422e-9445-9473e1d0d141",
     "img": "https://i.imgur.com/1a03FlX.png"
+  },
+  {
+    "name": "TV Land East",
+    "type": "Classic",
+    "url": "http://fl2.moveonjoy.com/TV_Land/index.m3u8",
+    "img": "https://i.imgur.com/VNNS4mF.png"
   },
   {
     "name": "TVS Cipher Network (360p)",
@@ -9358,6 +9490,12 @@
     "type": "Undefined",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca060-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c480aed6-08b6-4f7d-9964-40220005ecb8",
     "img": "https://i.imgur.com/qDW8gnx.png"
+  },
+  {
+    "name": "BET East",
+    "type": "Undefined",
+    "url": "http://fl2.moveonjoy.com/BET_EAST/index.m3u8",
+    "img": "https://i.imgur.com/copIbc9.png"
   },
   {
     "name": "BET Jams",
@@ -9972,6 +10110,42 @@
     "img": "https://i.imgur.com/GAIFeP2.png"
   },
   {
+    "name": "Shemaroo Bollywood (1080p)",
+    "type": "Undefined",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+    "img": "https://i.imgur.com/TFxLj80.png"
+  },
+  {
+    "name": "Showtime 2 East",
+    "type": "Undefined",
+    "url": "http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png"
+  },
+  {
+    "name": "Showtime East",
+    "type": "Undefined",
+    "url": "http://fl2.moveonjoy.com/SHOWTIME/index.m3u8",
+    "img": "https://i.imgur.com/Or0LKsu.png"
+  },
+  {
+    "name": "Showtime Next East",
+    "type": "Undefined",
+    "url": "http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
+    "img": "https://i.imgur.com/1Ak2MX2.png"
+  },
+  {
+    "name": "Showtime West (1080p)",
+    "type": "Undefined",
+    "url": "http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8",
+    "img": "https://i.imgur.com/Or0LKsu.png"
+  },
+  {
+    "name": "Showtime Women East",
+    "type": "Undefined",
+    "url": "http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png"
+  },
+  {
     "name": "SLO County Channel 21 (360p)",
     "type": "Undefined",
     "url": "https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8",
@@ -10008,9 +10182,15 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Starz East [Geo-blocked]",
+    "name": "Starz East",
     "type": "Undefined",
-    "url": "https://v1.thetvapp.to/hls/StarzEast/index.m3u8",
+    "url": "http://fl2.moveonjoy.com/STARZ/index.m3u8",
+    "img": "https://i.imgur.com/N7oSm4d.png"
+  },
+  {
+    "name": "Starz West",
+    "type": "Undefined",
+    "url": "http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8",
     "img": "https://i.imgur.com/N7oSm4d.png"
   },
   {
@@ -10024,6 +10204,12 @@
     "type": "Undefined",
     "url": "https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WACX_logo_2021.png/512px-WACX_logo_2021.png"
+  },
+  {
+    "name": "Syfy East",
+    "type": "Undefined",
+    "url": "http://fl2.moveonjoy.com/SYFY/index.m3u8",
+    "img": "https://i.imgur.com/4fMWhUE.png"
   },
   {
     "name": "TBN Pacific",
@@ -10164,9 +10350,9 @@
     "img": "https://i.imgur.com/AvR9LSn.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",USA Network East [Geo-blocked]",
+    "name": "USA Network East (720p)",
     "type": "Undefined",
-    "url": "https://v1.thetvapp.to/hls/USANetworkEast/index.m3u8",
+    "url": "http://fl2.moveonjoy.com/USA_Network/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png"
   },
   {
@@ -10270,6 +10456,12 @@
     "type": "Undefined",
     "url": "http://dai.google.com/linear/hls/event/iVH_b5kWTteyRCy-YCoHOw/master.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/WDEF_logo_2015.png"
+  },
+  {
+    "name": "We TV East",
+    "type": "Undefined",
+    "url": "http://fl1.moveonjoy.com/WE_TV/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/512px-We_TV_logo_2014.svg.png"
   },
   {
     "name": "West Hollywood WeHoTV (West Hollywood CA) (360p)",
@@ -10562,7 +10754,7 @@
   {
     "name": "Yes Network",
     "type": "Undefined",
-    "url": "http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8",
+    "url": "http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8",
     "img": "https://i.imgur.com/wMQEeCF.png"
   },
   {
@@ -11244,15 +11436,21 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Disney Junior East [Geo-blocked]",
+    "name": "Disney Junior East",
     "type": "Kids",
-    "url": "https://v1.thetvapp.to/hls/DisneyJuniorEast/index.m3u8",
+    "url": "http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png"
   },
   {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Disney XD East [Geo-blocked]",
     "type": "Kids",
     "url": "https://v1.thetvapp.to/hls/DisneyXDEast/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png"
+  },
+  {
+    "name": "Disney XD West (720p)",
+    "type": "Kids",
+    "url": "http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png"
   },
   {
@@ -11320,6 +11518,12 @@
     "type": "Kids",
     "url": "https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8",
     "img": "https://i.imgur.com/PVt8OPN.png"
+  },
+  {
+    "name": "Nick Jr East",
+    "type": "Kids",
+    "url": "http://fl2.moveonjoy.com/NICK_JR/index.m3u8",
+    "img": "https://i.imgur.com/KT4tdQs.png"
   },
   {
     "name": "Nick Jr. Pluto TV",
@@ -11590,6 +11794,18 @@
     "type": "Family",
     "url": "https://amg09501-questar-amg09501c3-stirr-us-3096.playouts.now.amagi.tv/amg09501/AMG09501C3/segmented_playlist/0/35-89-3096.m3u8",
     "img": "https://i.imgur.com/TCKJT2x.png"
+  },
+  {
+    "name": "Free form East",
+    "type": "Family",
+    "url": "http://fl2.moveonjoy.com/FREE_FORM/index.m3u8",
+    "img": "https://i.imgur.com/BGAGeIf.png"
+  },
+  {
+    "name": "Hallmark Channel East",
+    "type": "Family",
+    "url": "http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png"
   },
   {
     "name": "Positiv (720p)",
@@ -11898,6 +12114,12 @@
     "img": "https://i.imgur.com/S31utcQ.png"
   },
   {
+    "name": "Toonami Aftermath East (480p)",
+    "type": "Animation",
+    "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+    "img": "https://i.imgur.com/aSjhZK7.png"
+  },
+  {
     "name": "Yu-Gi-Oh!",
     "type": "Animation",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21d081-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ca5a27f-794c-41ee-b51a-6fbe1b093d0b",
@@ -11994,9 +12216,9 @@
     "img": "https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",National Geographic East [Geo-blocked]",
+    "name": "National Geographic East",
     "type": "Documentary",
-    "url": "https://v1.thetvapp.to/hls/NationalGeographicEast/index.m3u8",
+    "url": "http://fl2.moveonjoy.com/National_Geographic/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
   },
   {
@@ -12006,9 +12228,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",National Geographic Wild East [Geo-blocked]",
+    "name": "National Geographic Wild East",
     "type": "Documentary",
-    "url": "https://v1.thetvapp.to/hls/NationalGeographicWildEast/index.m3u8",
+    "url": "http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png"
   },
   {
@@ -12524,7 +12746,7 @@
   {
     "name": "ESPNews (720p)",
     "type": "News;Sports",
-    "url": "http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8",
+    "url": "http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png"
   },
   {
@@ -12636,6 +12858,12 @@
     "img": "https://i.imgur.com/ldLRe4j.png"
   },
   {
+    "name": "Paramount Network East",
+    "type": "Movies;Series",
+    "url": "http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png"
+  },
+  {
     "name": "Pluto TV Ciencia (720p)",
     "type": "Science",
     "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
@@ -12646,6 +12874,12 @@
     "type": "Science",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31adb772-adc8-4202-ad66-25e3c1a49df7",
     "img": "https://i.imgur.com/uhunRoU.png"
+  },
+  {
+    "name": "Smithsonian Channel East",
+    "type": "Science",
+    "url": "http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png"
   },
   {
     "name": "Smithsonian Channel Selects",
@@ -16173,12 +16407,6 @@
     "name": "Toonami Aftermath (West)",
     "type": "Children Channels",
     "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Toonami Aftermath (East)",
-    "type": "Children Channels",
-    "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -19824,177 +20052,171 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Oakland Athletics @ Miami Marlins | 2025-05-02T23:10:00Z",
-    "type": "MLB",
-    "url": "https://v5.thetvapp.to/hls/mlb-07/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Oakland Athletics @ Miami Marlins | 2025-05-02T23:10:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v5.thetvapp.to/hls/mlb-07/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Washington Nationals @ Cincinnati Reds | 2025-05-02T22:11:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v2.thetvapp.to/hls/mlb-04/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "San Diego Padres @ Pittsburgh Pirates | 2025-05-02T22:40:00Z",
-    "type": "MLB",
-    "url": "https://v18.thetvapp.to/hls/mlb-26/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "San Diego Padres @ Pittsburgh Pirates | 2025-05-02T22:40:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v18.thetvapp.to/hls/mlb-26/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Detroit Tigers @ Los Angeles Angels | 2025-05-03T01:38:00Z",
-    "type": "MLB",
-    "url": "https://v4.thetvapp.to/hls/mlb-29/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Detroit Tigers @ Los Angeles Angels | 2025-05-03T01:38:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v4.thetvapp.to/hls/mlb-29/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "New York Mets @ St. Louis Cardinals | 2025-05-03T00:15:00Z",
-    "type": "MLB",
-    "url": "https://v14.thetvapp.to/hls/mlb-08/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "New York Mets @ St. Louis Cardinals | 2025-05-03T00:15:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v14.thetvapp.to/hls/mlb-08/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Cleveland Guardians @ Toronto Blue Jays | 2025-05-02T23:07:00Z",
-    "type": "MLB",
-    "url": "https://v8.thetvapp.to/hls/mlb-12/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Cleveland Guardians @ Toronto Blue Jays | 2025-05-02T23:07:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v8.thetvapp.to/hls/mlb-12/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Houston Astros @ Chicago White Sox | 2025-05-02T23:40:00Z",
-    "type": "MLB",
-    "url": "https://v16.thetvapp.to/hls/mlb-03/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Houston Astros @ Chicago White Sox | 2025-05-02T23:40:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v16.thetvapp.to/hls/mlb-03/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Colorado Rockies @ San Francisco Giants | 2025-05-03T02:15:00Z",
-    "type": "MLB",
-    "url": "https://v12.thetvapp.to/hls/mlb-27/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Colorado Rockies @ San Francisco Giants | 2025-05-03T02:15:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v12.thetvapp.to/hls/mlb-27/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Kansas City Royals @ Baltimore Orioles | 2025-05-02T23:05:00Z",
-    "type": "MLB",
-    "url": "https://v17.thetvapp.to/hls/mlb-17/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Kansas City Royals @ Baltimore Orioles | 2025-05-02T23:05:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v17.thetvapp.to/hls/mlb-17/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Minnesota Twins @ Boston Red Sox | 2025-05-02T23:11:00Z",
-    "type": "MLB",
-    "url": "https://v4.thetvapp.to/hls/mlb-22/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Minnesota Twins @ Boston Red Sox | 2025-05-02T23:11:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v4.thetvapp.to/hls/mlb-22/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Tampa Bay Rays @ New York Yankees | 2025-05-02T23:05:00Z",
-    "type": "MLB",
-    "url": "https://v8.thetvapp.to/hls/mlb-15/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Tampa Bay Rays @ New York Yankees | 2025-05-02T23:05:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v8.thetvapp.to/hls/mlb-15/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Seattle Mariners @ Texas Rangers | 2025-05-03T00:05:00Z",
-    "type": "MLB",
-    "url": "https://v4.thetvapp.to/hls/mlb-13/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Seattle Mariners @ Texas Rangers | 2025-05-03T00:05:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v4.thetvapp.to/hls/mlb-13/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Chicago Cubs @ Milwaukee Brewers | 2025-05-03T00:10:00Z",
-    "type": "MLB",
-    "url": "https://v15.thetvapp.to/hls/mlb-16/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Chicago Cubs @ Milwaukee Brewers | 2025-05-03T00:10:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v15.thetvapp.to/hls/mlb-16/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Arizona Diamondbacks @ Philadelphia Phillies | 2025-05-02T22:45:00Z",
-    "type": "MLB",
-    "url": "https://v1.thetvapp.to/hls/mlb-18/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
-    "name": "Arizona Diamondbacks @ Philadelphia Phillies | 2025-05-02T22:45:00Z (SD)",
-    "type": "MLB",
-    "url": "https://v1.thetvapp.to/hls/mlb-18/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
-  },
-  {
     "name": "Los Angeles Dodgers @ Atlanta Braves | 2025-05-02T23:15:00Z",
     "type": "MLB",
-    "url": "https://v17.thetvapp.to/hls/mlb-28/tracks-v1a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/mlb-28/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
   },
   {
     "name": "Los Angeles Dodgers @ Atlanta Braves | 2025-05-02T23:15:00Z (SD)",
     "type": "MLB",
-    "url": "https://v17.thetvapp.to/hls/mlb-28/tracks-v2a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/mlb-28/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Chicago Cubs @ Milwaukee Brewers | 2025-05-03T00:10:00Z",
+    "type": "MLB",
+    "url": "https://v4.thetvapp.to/hls/mlb-16/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Chicago Cubs @ Milwaukee Brewers | 2025-05-03T00:10:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v4.thetvapp.to/hls/mlb-16/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Oakland Athletics @ Miami Marlins | 2025-05-02T23:10:00Z",
+    "type": "MLB",
+    "url": "https://v1.thetvapp.to/hls/mlb-07/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Oakland Athletics @ Miami Marlins | 2025-05-02T23:10:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v1.thetvapp.to/hls/mlb-07/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "New York Mets @ St. Louis Cardinals | 2025-05-03T00:15:00Z",
+    "type": "MLB",
+    "url": "https://v8.thetvapp.to/hls/mlb-08/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "New York Mets @ St. Louis Cardinals | 2025-05-03T00:15:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v8.thetvapp.to/hls/mlb-08/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Arizona Diamondbacks @ Philadelphia Phillies | 2025-05-02T22:45:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v2.thetvapp.to/hls/mlb-18/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Kansas City Royals @ Baltimore Orioles | 2025-05-02T23:05:00Z",
+    "type": "MLB",
+    "url": "https://v3.thetvapp.to/hls/mlb-17/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Kansas City Royals @ Baltimore Orioles | 2025-05-02T23:05:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v3.thetvapp.to/hls/mlb-17/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Detroit Tigers @ Los Angeles Angels | 2025-05-03T01:38:00Z",
+    "type": "MLB",
+    "url": "https://v14.thetvapp.to/hls/mlb-29/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Detroit Tigers @ Los Angeles Angels | 2025-05-03T01:38:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v14.thetvapp.to/hls/mlb-29/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Houston Astros @ Chicago White Sox | 2025-05-02T23:40:00Z",
+    "type": "MLB",
+    "url": "https://v3.thetvapp.to/hls/mlb-03/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Houston Astros @ Chicago White Sox | 2025-05-02T23:40:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v3.thetvapp.to/hls/mlb-03/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Washington Nationals @ Cincinnati Reds | 2025-05-02T22:11:00Z",
+    "type": "MLB",
+    "url": "https://v5.thetvapp.to/hls/mlb-04/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Washington Nationals @ Cincinnati Reds | 2025-05-02T22:11:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v5.thetvapp.to/hls/mlb-04/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Seattle Mariners @ Texas Rangers | 2025-05-03T00:05:00Z",
+    "type": "MLB",
+    "url": "https://v12.thetvapp.to/hls/mlb-13/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Seattle Mariners @ Texas Rangers | 2025-05-03T00:05:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v12.thetvapp.to/hls/mlb-13/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Tampa Bay Rays @ New York Yankees | 2025-05-02T23:05:00Z",
+    "type": "MLB",
+    "url": "https://v4.thetvapp.to/hls/mlb-15/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Tampa Bay Rays @ New York Yankees | 2025-05-02T23:05:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v4.thetvapp.to/hls/mlb-15/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Cleveland Guardians @ Toronto Blue Jays | 2025-05-02T23:07:00Z",
+    "type": "MLB",
+    "url": "https://v13.thetvapp.to/hls/mlb-12/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Cleveland Guardians @ Toronto Blue Jays | 2025-05-02T23:07:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v13.thetvapp.to/hls/mlb-12/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Colorado Rockies @ San Francisco Giants | 2025-05-03T02:15:00Z",
+    "type": "MLB",
+    "url": "https://v16.thetvapp.to/hls/mlb-27/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Colorado Rockies @ San Francisco Giants | 2025-05-03T02:15:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v16.thetvapp.to/hls/mlb-27/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "San Diego Padres @ Pittsburgh Pirates | 2025-05-02T22:40:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v2.thetvapp.to/hls/mlb-26/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Minnesota Twins @ Boston Red Sox | 2025-05-02T23:11:00Z",
+    "type": "MLB",
+    "url": "https://v8.thetvapp.to/hls/mlb-22/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
+  },
+  {
+    "name": "Minnesota Twins @ Boston Red Sox | 2025-05-02T23:11:00Z (SD)",
+    "type": "MLB",
+    "url": "https://v8.thetvapp.to/hls/mlb-22/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png"
   },
   {
@@ -20169,12 +20391,6 @@
     "name": "Starz Encore",
     "type": "Premium Channels",
     "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319549",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Starz Encore Classic",
-    "type": "Premium Channels",
-    "url": "http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -24626,277 +24842,283 @@
   {
     "name": "A&E",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png"
   },
   {
     "name": "A&E (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png"
   },
   {
     "name": ".CA.us\",ABC (KABC) Los Angeles",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png"
   },
   {
     "name": ".CA.us\",ABC (KABC) Los Angeles (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png"
   },
   {
     "name": ".NY.us\",ABC (WABC)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png"
   },
   {
     "name": ".NY.us\",ABC (WABC) (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/WABCDT1/tracks-v2a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/WABCDT1/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png"
   },
   {
     "name": "ACC NETWORK",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true"
   },
   {
     "name": "ACC NETWORK (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true"
-  },
-  {
-    "name": "AMC - Eastern Feed",
-    "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8",
-    "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png"
   },
   {
     "name": "AMC - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v2.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png"
   },
   {
     "name": "Altitude Sports Denver",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true"
   },
   {
     "name": "Altitude Sports Denver (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/altitude-sports-denver/tracks-v2a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/altitude-sports-denver/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true"
   },
   {
     "name": "American Heroes Channel",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8",
+    "url": "https://v17.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png"
   },
   {
     "name": "American Heroes Channel (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/AmericanHeroesChannel/tracks-v2a1/mono.m3u8",
+    "url": "https://v17.thetvapp.to/hls/AmericanHeroesChannel/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png"
   },
   {
     "name": "Animal Planet US - East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png"
   },
   {
     "name": "Animal Planet US - East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png"
+  },
+  {
+    "name": "BBC AMERICA - East",
+    "type": "LIVE TV CHANNELS",
+    "url": "https://v3.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8",
+    "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png"
   },
   {
     "name": "BBC AMERICA - East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png"
   },
   {
     "name": "BBC News - North America HD",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "name": "BBC News - North America HD (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v2a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"
   },
   {
     "name": "BET - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v17.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png"
   },
   {
     "name": "BET - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/BETEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v17.thetvapp.to/hls/BETEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png"
   },
   {
     "name": "BET HER",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png"
   },
   {
     "name": "BET HER (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/BETHerEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/BETHerEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png"
   },
   {
     "name": "Big Ten Network",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8",
+    "url": "https://v17.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true"
   },
   {
     "name": "Big Ten Network (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8",
+    "url": "https://v17.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true"
   },
   {
     "name": "BLOOMBERG TV USA",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true"
   },
   {
     "name": "BLOOMBERG TV USA (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/BloombergTV/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/BloombergTV/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true"
   },
   {
     "name": "Boomerang",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png"
   },
   {
     "name": "Boomerang (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/Boomerang/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/Boomerang/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png"
   },
   {
     "name": "BRAVO USA - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v17.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png"
   },
   {
     "name": "BRAVO USA - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/BravoEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v17.thetvapp.to/hls/BravoEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png"
   },
   {
     "name": "C-SPAN",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png"
   },
   {
     "name": "C-SPAN (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png"
   },
   {
     "name": "C-SPAN 2",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png"
   },
   {
     "name": "C-SPAN 2 (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png"
+  },
+  {
+    "name": ".CA.us\",CBSLA (KCBS) Los Angeles",
+    "type": "LIVE TV CHANNELS",
+    "url": "https://v5.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-kcbs-us.png"
   },
   {
     "name": ".CA.us\",CBSLA (KCBS) Los Angeles (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v2a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-kcbs-us.png"
   },
   {
     "name": ".NY.us\",CBSNY (WCBS) New York",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png"
   },
   {
     "name": ".NY.us\",CBSNY (WCBS) New York (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/WCBSDT1/tracks-v2a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/WCBSDT1/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png"
   },
   {
     "name": "CBS SPORTS NETWORK USA",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png"
   },
   {
     "name": "CBS SPORTS NETWORK USA (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png"
   },
   {
     "name": "CMT US - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png"
   },
   {
     "name": "CMT US - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/CMTEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/CMTEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png"
   },
   {
     "name": "CNBC USA",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png"
   },
   {
     "name": "CNBC USA (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png"
   },
   {
     "name": "CNN US",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png"
   },
   {
     "name": "CNN US (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/CNN/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/CNN/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png"
   },
   {
@@ -24914,49 +25136,49 @@
   {
     "name": "CW (WDCW) District of Columbia",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png"
   },
   {
     "name": "CW (WDCW) District of Columbia (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png"
   },
   {
     "name": "CARTOON NETWORK USA - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png"
   },
   {
     "name": "CARTOON NETWORK USA - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png"
   },
   {
     "name": "Chicago Sports Network",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png"
   },
   {
     "name": "Chicago Sports Network (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/chicago-sports-network/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/chicago-sports-network/tracks-v2a1/mono.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png"
   },
   {
     "name": "CINEMAX - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png"
   },
   {
     "name": "CINEMAX - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png"
   },
   {
@@ -24974,61 +25196,61 @@
   {
     "name": "Crime + Investigation USA HD",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true"
   },
   {
     "name": "Crime + Investigation USA HD (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/CrimePlusInvestigation/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/CrimePlusInvestigation/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true"
   },
   {
     "name": "Destination America",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true"
   },
   {
     "name": "Destination America (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/DestinationAmerica/tracks-v2a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/DestinationAmerica/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true"
   },
   {
     "name": "Discovery Channel (US) - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png"
   },
   {
     "name": "Discovery Channel (US) - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/DiscoveryChannelEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/DiscoveryChannelEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png"
   },
   {
     "name": "DISCOVERY FAMILY CHANNEL",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png"
   },
   {
     "name": "DISCOVERY FAMILY CHANNEL (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/DiscoveryFamily/tracks-v2a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/DiscoveryFamily/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png"
   },
   {
     "name": "DISCOVERY LIFE Channel",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png"
   },
   {
     "name": "DISCOVERY LIFE Channel (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/DiscoveryLife/tracks-v2a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/DiscoveryLife/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png"
   },
   {
@@ -25046,259 +25268,277 @@
   {
     "name": "Disney JR USA - East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png"
   },
   {
     "name": "Disney JR USA - East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/DisneyJuniorEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/DisneyJuniorEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png"
   },
   {
     "name": "Disney XD USA - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png"
   },
   {
     "name": "Disney XD USA - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/DisneyXDEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/DisneyXDEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png"
+  },
+  {
+    "name": "E! Entertainment Television USA - Eastern Feed",
+    "type": "LIVE TV CHANNELS",
+    "url": "https://v4.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png"
   },
   {
     "name": "E! Entertainment Television USA - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/EEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/EEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png"
   },
   {
     "name": "ESPN",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png"
   },
   {
     "name": "ESPN (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png"
   },
   {
     "name": "ESPN Deportes",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png"
   },
   {
     "name": "ESPN Deportes (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png"
   },
   {
     "name": "ESPN NEWS",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png"
   },
   {
     "name": "ESPN NEWS (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/ESPNews/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/ESPNews/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png"
   },
   {
     "name": "ESPN U",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png"
   },
   {
     "name": "ESPN U (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png"
   },
   {
     "name": "ESPN 2",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png"
   },
   {
     "name": "ESPN 2 (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png"
+  },
+  {
+    "name": ".CA.us\",FOX (KTTV) Los Angeles",
+    "type": "LIVE TV CHANNELS",
+    "url": "https://v8.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png"
   },
   {
     "name": ".CA.us\",FOX (KTTV) Los Angeles (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v2a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png"
   },
   {
     "name": ".NY.us\",FOXNY",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png"
   },
   {
     "name": ".NY.us\",FOXNY (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png"
   },
   {
     "name": "Fuse TV - Eastern feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png"
   },
   {
     "name": "Fuse TV - Eastern feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/FuseEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/FuseEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png"
   },
   {
     "name": "FX Movie Channel",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png"
   },
   {
     "name": "FX Movie Channel (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png"
   },
   {
     "name": "FX Networks East Coast",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png"
   },
   {
     "name": "FX Networks East Coast (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/FXEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/FXEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png"
   },
   {
     "name": "FXX USA - Eastern",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png"
   },
   {
     "name": "FXX USA - Eastern (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/FXXEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/FXXEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png"
   },
   {
     "name": "FYI USA - Eastern",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png"
   },
   {
     "name": "FYI USA - Eastern (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/FYIEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/FYIEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png"
+  },
+  {
+    "name": "FanDuel SN Indiana",
+    "type": "LIVE TV CHANNELS",
+    "url": "https://v17.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/HUgEVWQ.png"
   },
   {
     "name": "FanDuel SN Indiana (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/fanduel-sports-indiana/tracks-v2a1/mono.m3u8",
+    "url": "https://v17.thetvapp.to/hls/fanduel-sports-indiana/tracks-v2a1/mono.m3u8",
     "img": "https://i.imgur.com/HUgEVWQ.png"
   },
   {
     "name": "FanDuel SN Detroit",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8",
     "img": "https://i.imgur.com/1MDxLZf.png"
   },
   {
     "name": "FanDuel SN Detroit (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v2a1/mono.m3u8",
     "img": "https://i.imgur.com/1MDxLZf.png"
   },
   {
     "name": "FanDuel SN Florida",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8",
     "img": "https://i.imgur.com/fuCM2ei.png"
   },
   {
     "name": "FanDuel SN Florida (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v2a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v2a1/mono.m3u8",
     "img": "https://i.imgur.com/fuCM2ei.png"
   },
   {
     "name": "FanDuel SN Great Lakes",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v1a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v1a1/mono.m3u8",
     "img": "https://i.imgur.com/mPpaZCR.png"
   },
   {
     "name": "FanDuel SN Great Lakes (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v2a1/mono.m3u8",
     "img": "https://i.imgur.com/mPpaZCR.png"
   },
   {
     "name": "FanDuel SN North",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/fanduel-sports-network-north/tracks-v1a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/fanduel-sports-network-north/tracks-v1a1/mono.m3u8",
     "img": "https://i.imgur.com/qfu8djF.png"
   },
   {
     "name": "FanDuel SN North (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/fanduel-sports-network-north/tracks-v2a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/fanduel-sports-network-north/tracks-v2a1/mono.m3u8",
     "img": "https://i.imgur.com/qfu8djF.png"
   },
   {
     "name": "FanDuel SN Ohio",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v1a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v1a1/mono.m3u8",
     "img": "https://i.imgur.com/U4kf3x6.png"
   },
   {
     "name": "FanDuel SN Ohio (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v2a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v2a1/mono.m3u8",
     "img": "https://i.imgur.com/U4kf3x6.png"
   },
   {
     "name": "FanDuel SN Oklahoma",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8",
     "img": "https://i.imgur.com/mx7lyh5.png"
   },
   {
     "name": "FanDuel SN Oklahoma (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v2a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v2a1/mono.m3u8",
     "img": "https://i.imgur.com/mx7lyh5.png"
   },
   {
     "name": "Fanduel Sports Network San Diego",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/fanduel-sports-network-san-diego/tracks-v1a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/fanduel-sports-network-san-diego/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png"
   },
   {
     "name": "Fanduel Sports Network San Diego (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/fanduel-sports-network-san-diego/tracks-v2a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/fanduel-sports-network-san-diego/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png"
   },
   {
@@ -25316,43 +25556,49 @@
   {
     "name": "Fanduel Sports Network South Carolinas",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v1a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png"
   },
   {
     "name": "Fanduel Sports Network South Carolinas (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v2a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png"
+  },
+  {
+    "name": "Fanduel Sports Network South Tennessee",
+    "type": "LIVE TV CHANNELS",
+    "url": "https://v15.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png"
   },
   {
     "name": "Fanduel Sports Network South Tennessee (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v2a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png"
   },
   {
     "name": "FanDuel SN West",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8",
     "img": "https://i.imgur.com/cv546ko.png"
   },
   {
     "name": "FanDuel SN West (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/fanduel-sports-network-west/tracks-v2a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/fanduel-sports-network-west/tracks-v2a1/mono.m3u8",
     "img": "https://i.imgur.com/cv546ko.png"
   },
   {
     "name": "FanDuel SN Wisconsin",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v1a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v1a1/mono.m3u8",
     "img": "https://i.imgur.com/Ku0ibaF.png"
   },
   {
     "name": "FanDuel SN Wisconsin (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v2a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v2a1/mono.m3u8",
     "img": "https://i.imgur.com/Ku0ibaF.png"
   },
   {
@@ -25388,181 +25634,193 @@
   {
     "name": "Fanduel Sports Southeast Tennessee Nashville",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v1a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png"
   },
   {
     "name": "Fanduel Sports Southeast Tennessee Nashville (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png"
+  },
+  {
+    "name": "Fanduel Sports Sun",
+    "type": "LIVE TV CHANNELS",
+    "url": "https://v5.thetvapp.to/hls/fanduel-sports-sun/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png"
   },
   {
     "name": "Fanduel Sports Sun (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/fanduel-sports-sun/tracks-v2a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/fanduel-sports-sun/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png"
   },
   {
     "name": "Fanduel Sports Tennessee East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png"
   },
   {
     "name": "Fanduel Sports Tennessee East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v2a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png"
   },
   {
     "name": "FOOD NETWORK USA - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png"
   },
   {
     "name": "FOOD NETWORK USA - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/FoodNetworkEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/FoodNetworkEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png"
+  },
+  {
+    "name": "Fox Business",
+    "type": "LIVE TV CHANNELS",
+    "url": "https://v12.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png"
   },
   {
     "name": "Fox Business (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/FoxBusiness/tracks-v2a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/FoxBusiness/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png"
   },
   {
     "name": "Fox News",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png"
   },
   {
     "name": "Fox News (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/FoxNewsChannel/tracks-v2a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/FoxNewsChannel/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png"
   },
   {
     "name": "Fox Sports 1",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png"
   },
   {
     "name": "Fox Sports 1 (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png"
   },
   {
     "name": "Fox Sports 2",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png"
   },
   {
     "name": "Fox Sports 2 (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png"
   },
   {
     "name": "Freeform - East Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png"
   },
   {
     "name": "Freeform - East Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/FreeformEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/FreeformEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png"
   },
   {
     "name": "GAME SHOW NETWORK East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true"
   },
   {
     "name": "GAME SHOW NETWORK East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/game-show-network-east/tracks-v2a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/game-show-network-east/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true"
   },
   {
     "name": "GOLF Channel USA",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png"
   },
   {
     "name": "GOLF Channel USA (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png"
   },
   {
     "name": "HBO - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png"
   },
   {
     "name": "HBO - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/HBOEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/HBOEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png"
   },
   {
     "name": "HBO 2 - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png"
   },
   {
     "name": "HBO 2 - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png"
   },
   {
     "name": "HBO Comedy HD - East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png"
   },
   {
     "name": "HBO Comedy HD - East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/HBOComedyEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/HBOComedyEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png"
   },
   {
     "name": "HBO Family - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png"
   },
   {
     "name": "HBO Family - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/HBOFamilyEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/HBOFamilyEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png"
   },
   {
     "name": "HBO Signature (HBO 3) - Eastern",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png"
   },
   {
     "name": "HBO Signature (HBO 3) - Eastern (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/HBOSignatureEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/HBOSignatureEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png"
   },
   {
@@ -25580,289 +25838,277 @@
   {
     "name": "HGTV USA - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png"
   },
   {
     "name": "HGTV USA - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/HGTVEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/HGTVEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png"
-  },
-  {
-    "name": "HLN",
-    "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8",
-    "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png"
   },
   {
     "name": "HLN (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/HLN/tracks-v2a1/mono.m3u8",
+    "url": "https://v2.thetvapp.to/hls/HLN/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png"
   },
   {
     "name": "Hallmark Channel - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png"
   },
   {
     "name": "Hallmark Channel - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/HallmarkChannelEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/HallmarkChannelEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png"
   },
   {
     "name": "Hallmark Family HD",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true"
   },
   {
     "name": "Hallmark Family HD (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/HallmarkDrama/tracks-v2a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/HallmarkDrama/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true"
   },
   {
     "name": "Hallmark Mystery - HD",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true"
   },
   {
     "name": "Hallmark Mystery - HD (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true"
-  },
-  {
-    "name": "History Channel US - Eastern Feed",
-    "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png"
   },
   {
     "name": "History Channel US - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/HistoryEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v2.thetvapp.to/hls/HistoryEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png"
   },
   {
     "name": "ION - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true"
   },
   {
     "name": "ION - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/IONTVEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/IONTVEast/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true"
   },
   {
     "name": "IFC Independent Film Channel US",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png"
   },
   {
     "name": "IFC Independent Film Channel US (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/IFCEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/IFCEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png"
   },
   {
     "name": "ID (Investigation Discovery) USA - Eastern",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png"
   },
   {
     "name": "ID (Investigation Discovery) USA - Eastern (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png"
   },
   {
     "name": "LOGO - East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/logo-us.png"
   },
   {
     "name": "LOGO - East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/LogoEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/LogoEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/logo-us.png"
   },
   {
     "name": "Lifetime Movies Network - East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png"
   },
   {
     "name": "Lifetime Movies Network - East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/LifetimeMoviesEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/LifetimeMoviesEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png"
   },
   {
     "name": "Lifetime Network US - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png"
   },
   {
     "name": "Lifetime Network US - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/LifetimeEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/LifetimeEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png"
   },
   {
     "name": "MLB Network",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png"
   },
   {
     "name": "MLB Network (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/MLBNetwork/tracks-v2a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/MLBNetwork/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png"
   },
   {
     "name": "MSG Madison Square Gardens",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png"
   },
   {
     "name": "MSG Madison Square Gardens (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/msg-madison-square-gardens/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/msg-madison-square-gardens/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png"
   },
   {
     "name": "MSG Plus",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/msg-plus/tracks-v1a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/msg-plus/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png"
   },
   {
     "name": "MSG Plus (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/msg-plus/tracks-v2a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/msg-plus/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png"
   },
   {
     "name": "MSNBC USA",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png"
   },
   {
     "name": "MSNBC USA (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/MSNBC/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/MSNBC/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png"
   },
   {
     "name": "MTV USA - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/mtv-2-east/tracks-v1a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/mtv-2-east/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png"
   },
   {
     "name": "MTV USA - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/mtv-2-east/tracks-v2a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/mtv-2-east/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png"
   },
   {
     "name": "MTV 2 East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true"
   },
   {
     "name": "MTV 2 East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/MTVEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/MTVEast/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true"
   },
   {
     "name": "Marquee Sports Network",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png"
   },
   {
     "name": "Marquee Sports Network (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/marquee-sports-network/tracks-v2a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/marquee-sports-network/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png"
   },
   {
     "name": "MeTV Toons (WJLP2) New Jersey",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png"
   },
   {
     "name": "MeTV Toons (WJLP2) New Jersey (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/metv-toons/tracks-v2a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/metv-toons/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png"
   },
   {
     "name": "MeTV Wjlp New Jersey New York",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-us.png"
   },
   {
     "name": "MeTV Wjlp New Jersey New York (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-us.png"
   },
   {
     "name": "Midatlantic Sports Network",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png"
   },
   {
     "name": "Midatlantic Sports Network (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/midatlantic-sports-network/tracks-v2a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/midatlantic-sports-network/tracks-v2a1/mono.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png"
   },
   {
     "name": "Monumental Sports Network",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/monumental-sports-network-us.png"
   },
   {
     "name": "Monumental Sports Network (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/monumental-sports-network/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/monumental-sports-network/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/monumental-sports-network-us.png"
   },
   {
     "name": "CINEMAX MOREMAX Eastern",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true"
   },
   {
     "name": "CINEMAX MOREMAX Eastern (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/MoreMaxEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/MoreMaxEast/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true"
   },
   {
@@ -25880,223 +26126,223 @@
   {
     "name": "MovieMax (Max 6) - East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png"
   },
   {
     "name": "MovieMax (Max 6) - East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/MovieMaxEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/MovieMaxEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png"
   },
   {
     "name": "NBA TV USA",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true"
   },
   {
     "name": "NBA TV USA (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true"
   },
   {
     "name": ".CA.us\",NBC (KNBC) Los Angeles",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png"
   },
   {
     "name": ".CA.us\",NBC (KNBC) Los Angeles (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png"
   },
   {
     "name": ".NY.us\",NBC (WNBC) New York, NY",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true"
   },
   {
     "name": ".NY.us\",NBC (WNBC) New York, NY (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/WNBCDT1/tracks-v2a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/WNBCDT1/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true"
   },
   {
     "name": "NBC Sports Bay Area",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true"
   },
   {
     "name": "NBC Sports Bay Area (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/nbc-sports-bay-area/tracks-v2a1/mono.m3u8",
-    "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true"
-  },
-  {
-    "name": "NBC Sports Boston",
-    "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/nbc-sports-bay-area/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true"
   },
   {
     "name": "NBC Sports Boston (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/nbc-sports-boston/tracks-v2a1/mono.m3u8",
+    "url": "https://v2.thetvapp.to/hls/nbc-sports-boston/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true"
-  },
-  {
-    "name": "NBC Sports California",
-    "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8",
-    "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true"
   },
   {
     "name": "NBC Sports California (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/nbc-sports-california/tracks-v2a1/mono.m3u8",
+    "url": "https://v2.thetvapp.to/hls/nbc-sports-california/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true"
   },
   {
     "name": "NBC Sports Philadelphia",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true"
   },
   {
     "name": "NBC Sports Philadelphia (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true"
   },
   {
     "name": "NFL Network",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png"
   },
   {
     "name": "NFL Network (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png"
+  },
+  {
+    "name": "NFL RedZone",
+    "type": "LIVE TV CHANNELS",
+    "url": "https://v1.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8",
+    "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true"
   },
   {
     "name": "NFL RedZone (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true"
-  },
-  {
-    "name": "NHL Network USA",
-    "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png"
   },
   {
     "name": "NHL Network USA (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/NHLNetwork/tracks-v2a1/mono.m3u8",
+    "url": "https://v2.thetvapp.to/hls/NHLNetwork/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png"
+  },
+  {
+    "name": "National Geographic US - Eastern",
+    "type": "LIVE TV CHANNELS",
+    "url": "https://v14.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8",
+    "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png"
   },
   {
     "name": "National Geographic US - Eastern (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png"
+  },
+  {
+    "name": "National Geographic Wild",
+    "type": "LIVE TV CHANNELS",
+    "url": "https://v16.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8",
+    "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png"
   },
   {
     "name": "National Geographic Wild (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png"
   },
   {
     "name": "New England Sports Network",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nesn-us.png"
   },
   {
     "name": "New England Sports Network (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/new-england-sports-network/tracks-v2a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/new-england-sports-network/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nesn-us.png"
   },
   {
     "name": "Newsmax TV",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png"
   },
   {
     "name": "Newsmax TV (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/NewsmaxTV/tracks-v2a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/NewsmaxTV/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png"
   },
   {
     "name": "NICK JR. - East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png"
   },
   {
     "name": "NICK JR. - East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/NickJrEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/NickJrEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png"
   },
   {
     "name": "Nickelodeon USA - East Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png"
   },
   {
     "name": "Nickelodeon USA - East Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v18.thetvapp.to/hls/NickelodeonEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/NickelodeonEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png"
   },
   {
     "name": "Nicktoons - East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png"
   },
   {
     "name": "Nicktoons - East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png"
   },
   {
     "name": "Oprah Winfrey Network USA Eastern",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true"
   },
   {
     "name": "Oprah Winfrey Network USA Eastern (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/OWNEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/OWNEast/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true"
   },
   {
     "name": "Outdoor Channel US",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png"
   },
   {
     "name": "Outdoor Channel US (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png"
   },
   {
@@ -26114,49 +26360,49 @@
   {
     "name": "PBS (WNET) New York, NY",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/WNET/tracks-v1a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/WNET/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png"
   },
   {
     "name": "PBS (WNET) New York, NY (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/WNET/tracks-v2a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/WNET/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png"
   },
   {
     "name": "ReelzChannel",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8",
+    "url": "https://v17.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png"
   },
   {
     "name": "ReelzChannel (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/Reelz/tracks-v2a1/mono.m3u8",
+    "url": "https://v17.thetvapp.to/hls/Reelz/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png"
   },
   {
     "name": "SEC Network",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true"
   },
   {
     "name": "SEC Network (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/SECN/tracks-v2a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/SECN/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true"
   },
   {
     "name": "SNY Sportsnet New York Comcast",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v1a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v1a1/mono.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png"
   },
   {
     "name": "SNY Sportsnet New York Comcast (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v2a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v2a1/mono.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png"
   },
   {
@@ -26174,121 +26420,115 @@
   {
     "name": "Showtime - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true"
   },
   {
     "name": "Showtime - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/ShowtimeEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/ShowtimeEast/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true"
   },
   {
     "name": "Showtime 2 - Eastern",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true"
   },
   {
     "name": "Showtime 2 - Eastern (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/Showtime2East/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/Showtime2East/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true"
   },
   {
     "name": "Space City Home Network",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/space-city-home-network/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/space-city-home-network/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png"
   },
   {
     "name": "Space City Home Network (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/space-city-home-network/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/space-city-home-network/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png"
-  },
-  {
-    "name": "Spectrum Sportsnet LA",
-    "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-la-us.png"
   },
   {
     "name": "Spectrum Sportsnet LA (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v2a1/mono.m3u8",
+    "url": "https://v2.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-la-us.png"
   },
   {
     "name": "Spectrum Sportsnet",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/spectrum-sportsnet/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/spectrum-sportsnet/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png"
   },
   {
     "name": "Spectrum Sportsnet (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/spectrum-sportsnet/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/spectrum-sportsnet/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png"
   },
   {
     "name": "Sportsnet (East)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png"
   },
   {
     "name": "Sportsnet (East) (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/sportsnet-east/tracks-v2a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/sportsnet-east/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png"
   },
   {
     "name": "Sportsnet 360",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/sportsnet-360/tracks-v1a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/sportsnet-360/tracks-v1a1/mono.m3u8",
     "img": "https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png"
   },
   {
     "name": "Sportsnet 360 (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/sportsnet-360/tracks-v2a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/sportsnet-360/tracks-v2a1/mono.m3u8",
     "img": "https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png"
   },
   {
     "name": "Sportsnet One",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8",
     "img": "https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png"
   },
   {
     "name": "Sportsnet One (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/sportsnet-one/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/sportsnet-one/tracks-v2a1/mono.m3u8",
     "img": "https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png"
   },
   {
     "name": "Sportsnet Ontario",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/sportsnet-ontario/tracks-v1a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/sportsnet-ontario/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png"
   },
   {
     "name": "Sportsnet Ontario (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/sportsnet-ontario/tracks-v2a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/sportsnet-ontario/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png"
   },
   {
     "name": "Sportsnet Pacific",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png"
   },
   {
     "name": "Sportsnet Pacific (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/sportsnet-pacific/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/sportsnet-pacific/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png"
   },
   {
@@ -26306,361 +26546,355 @@
   {
     "name": "Sportsnet West",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png"
   },
   {
     "name": "Sportsnet West (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/sportsnet-west/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/sportsnet-west/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png"
   },
   {
     "name": "Starz - Eastern",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true"
   },
   {
     "name": "Starz - Eastern (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/StarzEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/StarzEast/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true"
   },
   {
     "name": "SundanceTV USA - East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png"
   },
   {
     "name": "SundanceTV USA - East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v12.thetvapp.to/hls/SundanceTVEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/SundanceTVEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png"
   },
   {
     "name": "SYFY - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true"
   },
   {
     "name": "SYFY - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/SyfyEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/SyfyEast/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true"
   },
   {
     "name": "TBS - East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png"
   },
   {
     "name": "TBS - East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/TBSEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/TBSEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png"
   },
   {
     "name": "TLC USA - Eastern",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png"
   },
   {
     "name": "TLC USA - Eastern (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/TLCEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v1.thetvapp.to/hls/TLCEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png"
   },
   {
     "name": "TMC Channel (US) - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png"
   },
   {
     "name": "TMC Channel (US) - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/TheMovieChannelEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/TheMovieChannelEast/tracks-v2a1/mono.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png"
   },
   {
     "name": "TNT - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png"
   },
   {
     "name": "TNT - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png"
   },
   {
     "name": "TSN 1",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true"
   },
   {
     "name": "TSN 1 (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/tsn1/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/tsn1/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true"
   },
   {
     "name": "TSN 2",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true"
   },
   {
     "name": "TSN 2 (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/tsn2/tracks-v2a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/tsn2/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true"
   },
   {
     "name": "TSN 3",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true"
   },
   {
     "name": "TSN 3 (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/tsn3/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/tsn3/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true"
   },
   {
     "name": "TSN 4",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true"
   },
   {
     "name": "TSN 4 (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v13.thetvapp.to/hls/tsn4/tracks-v2a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/tsn4/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true"
   },
   {
     "name": "TSN 5",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true"
   },
   {
     "name": "TSN 5 (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v2.thetvapp.to/hls/tsn5/tracks-v2a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/tsn5/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true"
   },
   {
     "name": "TV Land Eastern",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png"
   },
   {
     "name": "TV Land Eastern (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v16.thetvapp.to/hls/tv-land-eastern/tracks-v2a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/tv-land-eastern/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png"
   },
   {
     "name": "TV ONE",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png"
   },
   {
     "name": "TV ONE (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/TVOne/tracks-v2a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/TVOne/tracks-v2a1/mono.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png"
   },
   {
     "name": "TeenNick - Eastern",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png"
   },
   {
     "name": "TeenNick - Eastern (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/TeenNickEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/TeenNickEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png"
   },
   {
     "name": "Telemundo - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png"
   },
   {
     "name": "Telemundo - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/TelemundoEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/TelemundoEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png"
   },
   {
     "name": "The Cooking Channel",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png"
   },
   {
     "name": "The Cooking Channel (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v1.thetvapp.to/hls/CookingChannel/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/CookingChannel/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png"
   },
   {
     "name": "The Tennis Channel",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png"
   },
   {
     "name": "The Tennis Channel (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v17.thetvapp.to/hls/TennisChannel/tracks-v2a1/mono.m3u8",
+    "url": "https://v18.thetvapp.to/hls/TennisChannel/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png"
   },
   {
     "name": "The Weather Channel",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png"
   },
   {
     "name": "The Weather Channel (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v5.thetvapp.to/hls/TheWeatherChannel/tracks-v2a1/mono.m3u8",
+    "url": "https://v4.thetvapp.to/hls/TheWeatherChannel/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png"
   },
   {
     "name": "Travel Channel US - East",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true"
   },
   {
     "name": "Travel Channel US - East (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/TravelChannelEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/TravelChannelEast/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true"
   },
   {
     "name": "Turner Classic Movies USA",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/TCMEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/TCMEast/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png"
   },
   {
     "name": "Turner Classic Movies USA (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v14.thetvapp.to/hls/TCMEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v12.thetvapp.to/hls/TCMEast/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png"
   },
   {
     "name": "USA Network - East Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true"
   },
   {
     "name": "USA Network - East Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/USANetworkEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v8.thetvapp.to/hls/USANetworkEast/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true"
   },
   {
     "name": "Universal Kids",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/UniversalKidsEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/UniversalKidsEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png"
   },
   {
     "name": "Universal Kids (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/UniversalKidsEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/UniversalKidsEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png"
   },
   {
     "name": "Univision - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png"
   },
   {
     "name": "Univision - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v4.thetvapp.to/hls/UnivisionEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v15.thetvapp.to/hls/UnivisionEast/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png"
   },
   {
     "name": "VH1 - Eastern Feed",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png"
   },
   {
     "name": "VH1 - Eastern Feed (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/VH1East/tracks-v2a1/mono.m3u8",
+    "url": "https://v13.thetvapp.to/hls/VH1East/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png"
   },
   {
     "name": "VICE",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png"
   },
   {
     "name": "VICE (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/VICETV/tracks-v2a1/mono.m3u8",
+    "url": "https://v14.thetvapp.to/hls/VICETV/tracks-v2a1/mono.m3u8",
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png"
   },
   {
     "name": "WETV (Women's Entertainment) - Eastern",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true"
   },
   {
     "name": "WETV (Women's Entertainment) - Eastern (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v15.thetvapp.to/hls/WeTVEast/tracks-v2a1/mono.m3u8",
+    "url": "https://v3.thetvapp.to/hls/WeTVEast/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true"
-  },
-  {
-    "name": "WPIX New York (SUPERSTATION)",
-    "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cw/cw-11-wpix-us.png"
   },
   {
     "name": "WPIX New York (SUPERSTATION) (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v3.thetvapp.to/hls/WPIX/tracks-v2a1/mono.m3u8",
+    "url": "https://v2.thetvapp.to/hls/WPIX/tracks-v2a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cw/cw-11-wpix-us.png"
   },
   {
     "name": "YES Network",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true"
   },
   {
     "name": "YES Network (SD)",
     "type": "LIVE TV CHANNELS",
-    "url": "https://v8.thetvapp.to/hls/yes-network/tracks-v2a1/mono.m3u8",
+    "url": "https://v16.thetvapp.to/hls/yes-network/tracks-v2a1/mono.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true"
   },
   {
@@ -26676,27 +26910,27 @@
     "img": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png"
   },
   {
-    "name": "Winnipeg Jets @ St Louis Blues | 2025-05-03T00:10:00Z",
-    "type": "NHL",
-    "url": "https://v5.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png"
+    "name": "Houston Rockets @ Golden State Warriors | 2025-05-03T01:05:00Z",
+    "type": "NBA",
+    "url": "https://v8.thetvapp.to/hls/space-city-home-network/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png"
   },
   {
-    "name": "Winnipeg Jets @ St Louis Blues | 2025-05-03T00:10:00Z (SD)",
-    "type": "NHL",
-    "url": "https://v5.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8",
-    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png"
+    "name": "Houston Rockets @ Golden State Warriors | 2025-05-03T01:05:00Z (SD)",
+    "type": "NBA",
+    "url": "https://v8.thetvapp.to/hls/space-city-home-network/tracks-v2a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png"
   },
   {
     "name": "Boxing | Rolando Romero vs. Rolando Romero | 2025-05-02T21:30:00.000Z",
     "type": "PPV",
-    "url": "https://v8.thetvapp.to/hls/PPV01/tracks-v1a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/PPV01/tracks-v1a1/mono.m3u8",
     "img": "https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto"
   },
   {
     "name": "Boxing | Rolando Romero vs. Rolando Romero | 2025-05-02T21:30:00.000Z (SD)",
     "type": "PPV",
-    "url": "https://v8.thetvapp.to/hls/PPV01/tracks-v2a1/mono.m3u8",
+    "url": "https://v5.thetvapp.to/hls/PPV01/tracks-v2a1/mono.m3u8",
     "img": "https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto"
   }
 ]
