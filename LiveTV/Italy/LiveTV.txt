@@ -45,6 +45,13 @@ Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/byoblu.png
 Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
 --------------------------------------------------
 
+Group: Auto;Comedy;Entertainment
+Name: Pluto TV Top Gear
+URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c109a4798def0008a6e03e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+Logo: https://images.pluto.tv/channels/64c109a4798def0008a6e03e/thumbnail.jpg
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+
 Group: Business
 Name: Bloomberg TV EMEA Live Event (720p)
 URL: https://bloomberg.com/media-manifest/streams/eu-event.m3u8
@@ -63,6 +70,11 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 
 Group: Comedy
+Name: Fail Army (720p)
+URL: https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+Logo: https://i.imgur.com/VIpQJxL.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
 Name: FailArmy Italy (720p)
 URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608014d19a26320007c92ab6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Logo: https://i.imgur.com/VIpQJxL.png
@@ -307,6 +319,11 @@ Group: Family
 Name: Pluto TV Family Italy (720p)
 URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc7a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Logo: https://i.imgur.com/JZwXvUR.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+Name: The Pet Collective (720p)
+URL: https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
+Logo: https://i.imgur.com/yH7n2dF.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: The Pet Collective Italy (720p)
@@ -1385,6 +1402,11 @@ Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.
 --------------------------------------------------
 
 Group: Religious
+Name: EWTN Europe (720p) [Not 24/7]
+URL: https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+Logo: https://i.imgur.com/sua70RO.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
 Name: Giovanni Paolo TV (1080p)
 URL: https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
 Logo: https://www.lyngsat.com/logo/tv/gg/giovanni-paolo-tv-it.png
@@ -1598,9 +1620,19 @@ URL: https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3
 Logo: https://i.imgur.com/hu56Ya5.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
+Name: SuperTennis HD
+URL: https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
 Name: TR Sport (480p)
 URL: https://livetr.teleromagna.it/mia/live/playlist.m3u8
 Logo: https://i.imgur.com/ELXmaqg.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+Name: World Poker Tour (1080p)
+URL: https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
+Logo: https://i.imgur.com/98kLMjj.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: World Poker Tour Italy (720p)
@@ -1797,6 +1829,11 @@ URL: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
+Name: Rai 2 HD
+URL: https://m3u.iranvids.com/rai02/output.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
 Name: Rai 3 (720p)
 URL: https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png
@@ -1835,6 +1872,11 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 Name: Rai Storia (576p) [Geo-blocked]
 URL: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+Name: Rakuten VIKI (720p)
+URL: https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+Logo: https://i.imgur.com/pbyd1g2.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: RDS Social TV (720p)

@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-02 22:01:41",
+  "date": "2025-05-03 07:28:22",
   "channels": {
     "Music": [
       {
@@ -1322,6 +1322,13 @@
         "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718"
       },
       {
+        "name": "Rai 2 HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://m3u.iranvids.com/rai02/output.m3u8"
+      },
+      {
         "name": "Rai 3 (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
         "group": "Undefined",
@@ -1376,6 +1383,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990"
+      },
+      {
+        "name": "Rakuten VIKI (720p)",
+        "logo": "https://i.imgur.com/pbyd1g2.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
       },
       {
         "name": "RDS Social TV (720p)",
@@ -2066,11 +2080,25 @@
         "url": "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8"
       },
       {
+        "name": "SuperTennis HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8"
+      },
+      {
         "name": "TR Sport (480p)",
         "logo": "https://i.imgur.com/ELXmaqg.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
+      },
+      {
+        "name": "World Poker Tour (1080p)",
+        "logo": "https://i.imgur.com/98kLMjj.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8"
       },
       {
         "name": "World Poker Tour Italy (720p)",
@@ -2444,30 +2472,14 @@
         "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
       }
     ],
-    "Comedy": [
-      {
-        "name": "FailArmy Italy (720p)",
-        "logo": "https://i.imgur.com/VIpQJxL.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608014d19a26320007c92ab6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      },
-      {
-        "name": "Just for Laughs Italy (720p)",
-        "logo": "https://i.imgur.com/YoK4vcm.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      },
-      {
-        "name": "Scherzi e risate Italy (720p)",
-        "logo": "https://i.imgur.com/jVWPVvJ.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      }
-    ],
     "Religious": [
+      {
+        "name": "EWTN Europe (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/sua70RO.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
+      },
       {
         "name": "Giovanni Paolo TV (1080p)",
         "logo": "https://www.lyngsat.com/logo/tv/gg/giovanni-paolo-tv-it.png",
@@ -2546,6 +2558,36 @@
         "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
       }
     ],
+    "Comedy": [
+      {
+        "name": "Fail Army (720p)",
+        "logo": "https://i.imgur.com/VIpQJxL.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8"
+      },
+      {
+        "name": "FailArmy Italy (720p)",
+        "logo": "https://i.imgur.com/VIpQJxL.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608014d19a26320007c92ab6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      },
+      {
+        "name": "Just for Laughs Italy (720p)",
+        "logo": "https://i.imgur.com/YoK4vcm.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      },
+      {
+        "name": "Scherzi e risate Italy (720p)",
+        "logo": "https://i.imgur.com/jVWPVvJ.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ],
     "Outdoor;Shop": [
       {
         "name": "InWild (720p)",
@@ -2621,11 +2663,27 @@
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc7a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
       },
       {
+        "name": "The Pet Collective (720p)",
+        "logo": "https://i.imgur.com/yH7n2dF.png",
+        "group": "Family",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8"
+      },
+      {
         "name": "The Pet Collective Italy (720p)",
         "logo": "https://i.imgur.com/yH7n2dF.png",
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      }
+    ],
+    "Auto;Comedy;Entertainment": [
+      {
+        "name": "Pluto TV Top Gear",
+        "logo": "https://images.pluto.tv/channels/64c109a4798def0008a6e03e/thumbnail.jpg",
+        "group": "Auto;Comedy;Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c109a4798def0008a6e03e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
       }
     ],
     "Music;News": [
