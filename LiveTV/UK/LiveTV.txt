@@ -18,6 +18,11 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 
 Group: Comedy
+Name: Fail Army (720p)
+URL: https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+Logo: https://i.imgur.com/VIpQJxL.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
 Name: Pluto TV Classic TV (720p)
 URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35f76fb0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2fac39a7-56bc-492e-ae1e-3f6fb6cef1bc
 Logo: https://i.imgur.com/hGdXRMd.png
@@ -133,6 +138,13 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 Name: Mystery TV (1080p) [Geo-blocked]
 URL: https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8
 Logo: https://i.imgur.com/K4gwstM.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
+
+Group: Family
+Name: The Pet Collective (720p)
+URL: https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
+Logo: https://i.imgur.com/yH7n2dF.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 
@@ -638,6 +650,11 @@ URL: https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 Logo: https://i.imgur.com/ugn0DWe.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
+Name: EWTN Europe (720p) [Not 24/7]
+URL: https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+Logo: https://i.imgur.com/sua70RO.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
 Name: Islam Channel (576p) [Not 24/7]
 URL: https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 Logo: https://i.imgur.com/bJdFH7x.png
@@ -814,6 +831,11 @@ URL: https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T
 Logo: https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
+Name: World Poker Tour (1080p)
+URL: https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
+Logo: https://i.imgur.com/98kLMjj.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
 
 Group: Undefined
 Name: BBC RB 1 (720p) [Geo-blocked]
@@ -969,6 +991,11 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 Name: Pop (1080p)
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
 Logo: https://i.imgur.com/fGUlCY3.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
+Name: Rakuten VIKI (720p)
+URL: https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+Logo: https://i.imgur.com/pbyd1g2.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 Name: Red Carpet TV International (1080p)

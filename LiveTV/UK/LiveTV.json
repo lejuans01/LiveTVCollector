@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-02 21:56:14",
+  "date": "2025-05-03 07:12:10",
   "channels": {
     "News": [
       {
@@ -152,6 +152,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8"
+      },
+      {
+        "name": "EWTN Europe (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/sua70RO.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
       },
       {
         "name": "Islam Channel (576p) [Not 24/7]",
@@ -915,6 +922,13 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8"
       },
       {
+        "name": "Rakuten VIKI (720p)",
+        "logo": "https://i.imgur.com/pbyd1g2.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
+      },
+      {
         "name": "Red Carpet TV International (1080p)",
         "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0-width200-quality90.jpeg",
         "group": "Undefined",
@@ -1431,6 +1445,36 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8"
+      },
+      {
+        "name": "World Poker Tour (1080p)",
+        "logo": "https://i.imgur.com/98kLMjj.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8"
+      }
+    ],
+    "Comedy": [
+      {
+        "name": "Fail Army (720p)",
+        "logo": "https://i.imgur.com/VIpQJxL.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8"
+      },
+      {
+        "name": "Pluto TV Classic TV (720p)",
+        "logo": "https://i.imgur.com/hGdXRMd.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35f76fb0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2fac39a7-56bc-492e-ae1e-3f6fb6cef1bc"
+      },
+      {
+        "name": "Pluto TV Stand Up (720p)",
+        "logo": "https://i.imgur.com/cZdUQDe.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d135e29a52c94dfe543c5d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       }
     ],
     "Documentary": [
@@ -1516,22 +1560,6 @@
         "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
       }
     ],
-    "Comedy": [
-      {
-        "name": "Pluto TV Classic TV (720p)",
-        "logo": "https://i.imgur.com/hGdXRMd.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35f76fb0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2fac39a7-56bc-492e-ae1e-3f6fb6cef1bc"
-      },
-      {
-        "name": "Pluto TV Stand Up (720p)",
-        "logo": "https://i.imgur.com/cZdUQDe.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d135e29a52c94dfe543c5d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
-      }
-    ],
     "Weather": [
       {
         "name": "Sky News Weather (720p)",
@@ -1548,6 +1576,15 @@
         "group": "Documentary;News",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8"
+      }
+    ],
+    "Family": [
+      {
+        "name": "The Pet Collective (720p)",
+        "logo": "https://i.imgur.com/yH7n2dF.png",
+        "group": "Family",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8"
       }
     ],
     "Auto;Entertainment": [
