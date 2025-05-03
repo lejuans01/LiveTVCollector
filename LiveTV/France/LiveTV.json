@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-02 21:52:35",
+  "date": "2025-05-03 06:53:40",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3411,14 +3411,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=MswiGqLiZWpwVb3Yj6ST-A&e=1746213428"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=G30OtP4dONMcxbmxfjZ4rw&e=1746249480"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=MswiGqLiZWpwVb3Yj6ST-A&e=1746213428"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=G30OtP4dONMcxbmxfjZ4rw&e=1746249480"
       },
       {
         "name": "TV8",
@@ -17540,6 +17540,13 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61f93af0b253440007c54ad8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f0-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=84850a7e-c30d-4988-863c-25f2007665d9"
       },
       {
+        "name": "Rakuten VIKI (720p)",
+        "logo": "https://i.imgur.com/pbyd1g2.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
+      },
+      {
         "name": "Red Carpet TV International (1080p)",
         "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0-width200-quality90.jpeg",
         "group": "Undefined",
@@ -17868,6 +17875,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05c6a5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aa2cd1f8-5f20-441d-97cb-63e4c1c5e4f6"
+      },
+      {
+        "name": "World Poker Tour (1080p)",
+        "logo": "https://i.imgur.com/98kLMjj.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8"
       }
     ],
     "Religious": [
@@ -17877,6 +17891,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8"
+      },
+      {
+        "name": "EWTN Europe (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/sua70RO.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
       },
       {
         "name": "HolyGod TV (720p)",
@@ -17894,6 +17915,13 @@
       }
     ],
     "Comedy": [
+      {
+        "name": "Fail Army (720p)",
+        "logo": "https://i.imgur.com/VIpQJxL.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8"
+      },
       {
         "name": "FailArmy",
         "logo": "https://i.imgur.com/VIpQJxL.png",
@@ -17937,6 +17965,13 @@
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
+      },
+      {
+        "name": "Monte Carlo Digital Television (1080p)",
+        "logo": "https://i.imgur.com/99h8F1y.jpeg",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8"
       },
       {
         "name": "Pluto TV Cuisine",
@@ -18098,6 +18133,13 @@
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e052a60-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ad13452-4038-4ee5-9d1d-60ffd7bdf4ed"
+      },
+      {
+        "name": "The Pet Collective (720p)",
+        "logo": "https://i.imgur.com/yH7n2dF.png",
+        "group": "Family",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8"
       }
     ]
   }
