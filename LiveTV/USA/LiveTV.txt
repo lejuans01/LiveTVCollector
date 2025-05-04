@@ -1948,7 +1948,7 @@ Logo: https://i.ibb.co/GW4cMfc/cafe-trade-tv.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: CNBC
-URL: http://fl2.moveonjoy.com/CNBC/index.m3u8
+URL: http://fl3.moveonjoy.com/CNBC/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -3176,7 +3176,7 @@ Logo: https://i.imgur.com/1a03FlX.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: TV Land East
-URL: http://fl2.moveonjoy.com/TV_Land/index.m3u8
+URL: http://fl3.moveonjoy.com/TV_Land/index.m3u8
 Logo: https://i.imgur.com/VNNS4mF.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -3943,7 +3943,7 @@ Logo: https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJ
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: National Geographic East
-URL: http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+URL: http://fl3.moveonjoy.com/National_Geographic/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -3953,7 +3953,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/5
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: National Geographic Wild East
-URL: http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+URL: http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4428,11 +4428,6 @@ URL: https://otv3.ocfl.net/VisionTV/smil:VisionTV.smil/playlist.m3u8
 Logo: https://i.imgur.com/XnxPIqn.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Payam Javan TV (720p) [Not 24/7]
-URL: https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-Logo: https://i.imgur.com/GYfsHh9.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: PBS Honolulu HI (KHET) (1080p) [Not 24/7]
 URL: https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
 Logo: https://i.imgur.com/O5uOeQh.png
@@ -4597,7 +4592,7 @@ Logo: https://i.imgur.com/kTh2jgF.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BBC America East
-URL: http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+URL: http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 Logo: https://i.imgur.com/pTiiPz0.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4612,7 +4607,7 @@ Logo: https://i.imgur.com/5kdG4Dm.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BET Her East
-URL: http://fl2.moveonjoy.com/BET_HER/index.m3u8
+URL: http://fl3.moveonjoy.com/BET_HER/index.m3u8
 Logo: https://i.imgur.com/oafsrlo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4672,7 +4667,7 @@ Logo: https://i.imgur.com/usqoEug.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: E! East
-URL: http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+URL: http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 Logo: https://i.imgur.com/TWFDkap.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4707,17 +4702,17 @@ Logo: https://i.imgur.com/KbmXdjm.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Fuse East (720p)
-URL: http://fl2.moveonjoy.com/FUSE/index.m3u8
+URL: http://fl3.moveonjoy.com/FUSE/index.m3u8
 Logo: https://i.imgur.com/mijRpPQ.jpg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: FX East
-URL: http://fl2.moveonjoy.com/FX/index.m3u8
+URL: http://fl5.moveonjoy.com/FX/index.m3u8
 Logo: https://i.imgur.com/ZScwrpi.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: FXX East
-URL: http://fl2.moveonjoy.com/FXX/index.m3u8
+URL: http://fl3.moveonjoy.com/FXX/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4732,7 +4727,7 @@ Logo: https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: GetTV (480p)
-URL: http://fl2.moveonjoy.com/GET_TV/index.m3u8
+URL: http://fl3.moveonjoy.com/GET_TV/index.m3u8
 Logo: https://i.imgur.com/evOWORd.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4742,7 +4737,7 @@ Logo: https://i.imgur.com/2u33Ayy.jpeg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Grit
-URL: http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
+URL: http://fl3.moveonjoy.com/GRIT_TV/index.m3u8
 Logo: https://i.imgur.com/6w1Wj3j.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4782,7 +4777,7 @@ Logo: https://i.imgur.com/DibiJ1l.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: INSP
-URL: http://fl2.moveonjoy.com/INSP/index.m3u8
+URL: http://fl3.moveonjoy.com/INSP/index.m3u8
 Logo: https://i.imgur.com/YgOC51j.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4792,7 +4787,7 @@ Logo: https://i.imgur.com/1dgCvNE.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: ION TV East
-URL: http://fl2.moveonjoy.com/ION_TV/index.m3u8
+URL: http://fl3.moveonjoy.com/ION_TV/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4847,7 +4842,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/5
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: KSAT-DT2 (720p)
-URL: http://fl2.moveonjoy.com/ME_TV/index.m3u8
+URL: http://fl3.moveonjoy.com/ME_TV/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4882,7 +4877,7 @@ Logo: https://i.imgur.com/fJxySUg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Lifetime East
-URL: http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+URL: http://fl3.moveonjoy.com/LIFETIME/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4922,7 +4917,7 @@ Logo: https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/51
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MTV East
-URL: http://fl2.moveonjoy.com/MTV/index.m3u8
+URL: http://fl3.moveonjoy.com/MTV/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4937,7 +4932,7 @@ Logo: https://i.imgur.com/WsQRCmZ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MTVU
-URL: http://fl2.moveonjoy.com/MTV_U/index.m3u8
+URL: http://fl3.moveonjoy.com/MTV_U/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4967,7 +4962,7 @@ Logo: https://i.imgur.com/0qe2R8b.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Oxygen East
-URL: http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+URL: http://fl3.moveonjoy.com/OXYGEN/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -5246,12 +5241,12 @@ Logo: https://i.imgur.com/TCKJT2x.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Free form East
-URL: http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+URL: http://fl3.moveonjoy.com/FREE_FORM/index.m3u8
 Logo: https://i.imgur.com/BGAGeIf.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Hallmark Channel East
-URL: http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+URL: http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -6154,8 +6149,8 @@ URL: https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227
 Logo: https://i.imgur.com/t9wYYY9.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: PBC Tapesh TV (720p) [Not 24/7]
-URL: https://iptv.tapesh.tv/tapesh/playlist.m3u8
+Name: PBC Tapesh TV (480p)
+URL: https://iptv.tapesh.tv/tapesh/playlist_mid/index.m3u8
 Logo: https://i.imgur.com/50JzsmH.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -6466,13 +6461,13 @@ URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 Logo: https://i.imgur.com/8PUbPVU.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",Disney Channel East [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/DisneyChannelEast/index.m3u8
+Name: Disney Channel East
+URL: http://fl5.moveonjoy.com/DISNEY/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Disney Junior East
-URL: http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+URL: http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -6482,7 +6477,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Disney XD West (720p)
-URL: http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+URL: http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -6542,7 +6537,7 @@ Logo: https://i.imgur.com/PVt8OPN.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Nick Jr East
-URL: http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+URL: http://fl3.moveonjoy.com/NICK_JR/index.m3u8
 Logo: https://i.imgur.com/KT4tdQs.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -6707,482 +6702,487 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 
 Group: LIVE TV CHANNELS
 Name: A&E
-URL: https://v12.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: A&E (SD)
-URL: https://v12.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .CA.us",ABC (KABC) Los Angeles
-URL: https://v4.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .CA.us",ABC (KABC) Los Angeles (SD)
-URL: https://v4.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v2a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .NY.us",ABC (WABC)
-URL: https://v1.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .NY.us",ABC (WABC) (SD)
-URL: https://v1.thetvapp.to/hls/WABCDT1/tracks-v2a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/WABCDT1/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ACC NETWORK
-URL: https://v1.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ACC NETWORK (SD)
-URL: https://v1.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: AMC - Eastern Feed
-URL: https://v8.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: AMC - Eastern Feed (SD)
-URL: https://v8.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Altitude Sports Denver
-URL: https://v17.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Altitude Sports Denver (SD)
-URL: https://v17.thetvapp.to/hls/altitude-sports-denver/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/altitude-sports-denver/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: American Heroes Channel
-URL: https://v13.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: American Heroes Channel (SD)
-URL: https://v13.thetvapp.to/hls/AmericanHeroesChannel/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/AmericanHeroesChannel/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Animal Planet US - East
-URL: https://v13.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
+URL: https://v18.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Animal Planet US - East (SD)
-URL: https://v13.thetvapp.to/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8
+URL: https://v18.thetvapp.to/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: BBC AMERICA - East
-URL: https://v15.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8
+URL: https://v18.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: BBC AMERICA - East (SD)
-URL: https://v15.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8
+URL: https://v18.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: BBC News - North America HD
-URL: https://v12.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: BBC News - North America HD (SD)
-URL: https://v12.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: BET - Eastern Feed
-URL: https://v8.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: BET - Eastern Feed (SD)
-URL: https://v8.thetvapp.to/hls/BETEast/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/BETEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
+Name: BET HER
+URL: https://v13.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8
+Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
 Name: BET HER (SD)
-URL: https://v2.thetvapp.to/hls/BETHerEast/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/BETHerEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Big Ten Network
-URL: https://v15.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Big Ten Network (SD)
-URL: https://v15.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: BLOOMBERG TV USA
-URL: https://v5.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: BLOOMBERG TV USA (SD)
-URL: https://v5.thetvapp.to/hls/BloombergTV/tracks-v2a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/BloombergTV/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Boomerang
-URL: https://v13.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Boomerang (SD)
-URL: https://v13.thetvapp.to/hls/Boomerang/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/Boomerang/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: BRAVO USA - Eastern Feed
-URL: https://v17.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: BRAVO USA - Eastern Feed (SD)
-URL: https://v17.thetvapp.to/hls/BravoEast/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/BravoEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: C-SPAN
-URL: https://v14.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: C-SPAN (SD)
-URL: https://v14.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
+Name: C-SPAN 2
+URL: https://v17.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
 Name: C-SPAN 2 (SD)
-URL: https://v2.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .CA.us",CBSLA (KCBS) Los Angeles
-URL: https://v14.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-kcbs-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .CA.us",CBSLA (KCBS) Los Angeles (SD)
-URL: https://v14.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-kcbs-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .NY.us",CBSNY (WCBS) New York
-URL: https://v5.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .NY.us",CBSNY (WCBS) New York (SD)
-URL: https://v5.thetvapp.to/hls/WCBSDT1/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/WCBSDT1/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CBS SPORTS NETWORK USA
-URL: https://v4.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CBS SPORTS NETWORK USA (SD)
-URL: https://v4.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CMT US - Eastern Feed
-URL: https://v5.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CMT US - Eastern Feed (SD)
-URL: https://v5.thetvapp.to/hls/CMTEast/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/CMTEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CNBC USA
-URL: https://v17.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CNBC USA (SD)
-URL: https://v17.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CNN US
-URL: https://v5.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CNN US (SD)
-URL: https://v5.thetvapp.to/hls/CNN/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/CNN/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .CA.us",CW (WUCW) (KFMB-TV2) San Diego
-URL: https://v3.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .CA.us",CW (WUCW) (KFMB-TV2) San Diego (SD)
-URL: https://v3.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CW (WDCW) District of Columbia
-URL: https://v8.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CW (WDCW) District of Columbia (SD)
-URL: https://v8.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CARTOON NETWORK USA - Eastern Feed
-URL: https://v1.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
+URL: https://v18.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CARTOON NETWORK USA - Eastern Feed (SD)
-URL: https://v1.thetvapp.to/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8
+URL: https://v18.thetvapp.to/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Chicago Sports Network
-URL: https://v1.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Chicago Sports Network (SD)
-URL: https://v1.thetvapp.to/hls/chicago-sports-network/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/chicago-sports-network/tracks-v2a1/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CINEMAX - Eastern Feed
-URL: https://v15.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CINEMAX - Eastern Feed (SD)
-URL: https://v15.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: COMEDY CENTRAL (US) - Eastern Feed
-URL: https://v14.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: COMEDY CENTRAL (US) - Eastern Feed (SD)
-URL: https://v14.thetvapp.to/hls/ComedyCentralEast/tracks-v2a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/ComedyCentralEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Crime + Investigation USA HD
-URL: https://v3.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Crime + Investigation USA HD (SD)
-URL: https://v3.thetvapp.to/hls/CrimePlusInvestigation/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/CrimePlusInvestigation/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Destination America
-URL: https://v13.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Destination America (SD)
-URL: https://v13.thetvapp.to/hls/DestinationAmerica/tracks-v2a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/DestinationAmerica/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Discovery Channel (US) - Eastern Feed
-URL: https://v3.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Discovery Channel (US) - Eastern Feed (SD)
-URL: https://v3.thetvapp.to/hls/DiscoveryChannelEast/tracks-v2a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/DiscoveryChannelEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: DISCOVERY FAMILY CHANNEL
-URL: https://v3.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: DISCOVERY FAMILY CHANNEL (SD)
-URL: https://v3.thetvapp.to/hls/DiscoveryFamily/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/DiscoveryFamily/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: DISCOVERY LIFE Channel
-URL: https://v3.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: DISCOVERY LIFE Channel (SD)
-URL: https://v3.thetvapp.to/hls/DiscoveryLife/tracks-v2a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/DiscoveryLife/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: DISNEY CHANNEL - Eastern Feed
-URL: https://v1.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: DISNEY CHANNEL - Eastern Feed (SD)
-URL: https://v1.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Disney JR USA - East
-URL: https://v17.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Disney JR USA - East (SD)
-URL: https://v17.thetvapp.to/hls/DisneyJuniorEast/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/DisneyJuniorEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Disney XD USA - Eastern Feed
-URL: https://v14.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Disney XD USA - Eastern Feed (SD)
-URL: https://v14.thetvapp.to/hls/DisneyXDEast/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/DisneyXDEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: E! Entertainment Television USA - Eastern Feed
-URL: https://v5.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: E! Entertainment Television USA - Eastern Feed (SD)
-URL: https://v5.thetvapp.to/hls/EEast/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/EEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ESPN
-URL: https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ESPN (SD)
-URL: https://v12.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
-Name: ESPN Deportes
-URL: https://v13.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
 Name: ESPN Deportes (SD)
-URL: https://v13.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8
+URL: https://v2.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ESPN NEWS
-URL: https://v13.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ESPN NEWS (SD)
-URL: https://v13.thetvapp.to/hls/ESPNews/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/ESPNews/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ESPN U
-URL: https://v4.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ESPN U (SD)
-URL: https://v4.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ESPN 2
-URL: https://v5.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ESPN 2 (SD)
-URL: https://v5.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .CA.us",FOX (KTTV) Los Angeles
-URL: https://v12.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .CA.us",FOX (KTTV) Los Angeles (SD)
-URL: https://v12.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .NY.us",FOXNY
-URL: https://v13.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .NY.us",FOXNY (SD)
-URL: https://v13.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fuse TV - Eastern feed
-URL: https://v17.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fuse TV - Eastern feed (SD)
-URL: https://v17.thetvapp.to/hls/FuseEast/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/FuseEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FX Movie Channel
-URL: https://v5.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FX Movie Channel (SD)
-URL: https://v5.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FX Networks East Coast
-URL: https://v8.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FX Networks East Coast (SD)
-URL: https://v8.thetvapp.to/hls/FXEast/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/FXEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -7206,263 +7206,248 @@ URL: https://v13.thetvapp.to/hls/FYIEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
-Name: FanDuel SN Indiana
-URL: https://v5.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8
-Logo: https://i.imgur.com/HUgEVWQ.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
 Name: FanDuel SN Indiana (SD)
-URL: https://v5.thetvapp.to/hls/fanduel-sports-indiana/tracks-v2a1/mono.m3u8
+URL: https://v2.thetvapp.to/hls/fanduel-sports-indiana/tracks-v2a1/mono.m3u8
 Logo: https://i.imgur.com/HUgEVWQ.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN Detroit
-URL: https://v13.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/1MDxLZf.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN Detroit (SD)
-URL: https://v13.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v2a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v2a1/mono.m3u8
 Logo: https://i.imgur.com/1MDxLZf.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN Florida
-URL: https://v12.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/fuCM2ei.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN Florida (SD)
-URL: https://v12.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v2a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v2a1/mono.m3u8
 Logo: https://i.imgur.com/fuCM2ei.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
-Name: FanDuel SN Great Lakes
-URL: https://v5.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v1a1/mono.m3u8
-Logo: https://i.imgur.com/mPpaZCR.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
 Name: FanDuel SN Great Lakes (SD)
-URL: https://v5.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v2a1/mono.m3u8
+URL: https://v2.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v2a1/mono.m3u8
 Logo: https://i.imgur.com/mPpaZCR.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN North
-URL: https://v13.thetvapp.to/hls/fanduel-sports-network-north/tracks-v1a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/fanduel-sports-network-north/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/qfu8djF.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN North (SD)
-URL: https://v13.thetvapp.to/hls/fanduel-sports-network-north/tracks-v2a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/fanduel-sports-network-north/tracks-v2a1/mono.m3u8
 Logo: https://i.imgur.com/qfu8djF.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
+Name: FanDuel SN Ohio
+URL: https://v13.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v1a1/mono.m3u8
+Logo: https://i.imgur.com/U4kf3x6.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
 Name: FanDuel SN Ohio (SD)
-URL: https://v2.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v2a1/mono.m3u8
 Logo: https://i.imgur.com/U4kf3x6.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN Oklahoma
-URL: https://v18.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/mx7lyh5.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN Oklahoma (SD)
-URL: https://v18.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v2a1/mono.m3u8
 Logo: https://i.imgur.com/mx7lyh5.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Network San Diego
-URL: https://v5.thetvapp.to/hls/fanduel-sports-network-san-diego/tracks-v1a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/fanduel-sports-network-san-diego/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Network San Diego (SD)
-URL: https://v5.thetvapp.to/hls/fanduel-sports-network-san-diego/tracks-v2a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/fanduel-sports-network-san-diego/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN SoCal
-URL: https://v18.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/yywNI3M.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN SoCal (SD)
-URL: https://v18.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v2a1/mono.m3u8
 Logo: https://i.imgur.com/yywNI3M.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
-Name: Fanduel Sports Network South Carolinas
-URL: https://v15.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v1a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
 Name: Fanduel Sports Network South Carolinas (SD)
-URL: https://v15.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v2a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: Fanduel Sports Network South Tennessee
-URL: https://v14.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v1a1/mono.m3u8
+URL: https://v2.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Network South Tennessee (SD)
-URL: https://v14.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v2a1/mono.m3u8
+URL: https://v2.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN West
-URL: https://v12.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/cv546ko.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN West (SD)
-URL: https://v12.thetvapp.to/hls/fanduel-sports-network-west/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/fanduel-sports-network-west/tracks-v2a1/mono.m3u8
 Logo: https://i.imgur.com/cv546ko.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN Wisconsin
-URL: https://v4.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v1a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/Ku0ibaF.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FanDuel SN Wisconsin (SD)
-URL: https://v4.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v2a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v2a1/mono.m3u8
 Logo: https://i.imgur.com/Ku0ibaF.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Southeast Georgia
-URL: https://v16.thetvapp.to/hls/fanduel-sports-southeast-georgia/tracks-v1a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/fanduel-sports-southeast-georgia/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Southeast Georgia (SD)
-URL: https://v16.thetvapp.to/hls/fanduel-sports-southeast-georgia/tracks-v2a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/fanduel-sports-southeast-georgia/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Southeast North Carolina
-URL: https://v1.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Southeast North Carolina (SD)
-URL: https://v1.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Southeast South Carolina
-URL: https://v14.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v1a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Southeast South Carolina (SD)
-URL: https://v14.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v2a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Southeast Tennessee Nashville
-URL: https://v15.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Southeast Tennessee Nashville (SD)
-URL: https://v15.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v2a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Fanduel Sports Sun
+URL: https://v13.thetvapp.to/hls/fanduel-sports-sun/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Sun (SD)
-URL: https://v2.thetvapp.to/hls/fanduel-sports-sun/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/fanduel-sports-sun/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Tennessee East
-URL: https://v18.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fanduel Sports Tennessee East (SD)
-URL: https://v18.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FOOD NETWORK USA - Eastern Feed
-URL: https://v17.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: FOOD NETWORK USA - Eastern Feed (SD)
-URL: https://v17.thetvapp.to/hls/FoodNetworkEast/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/FoodNetworkEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fox Business
-URL: https://v3.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fox Business (SD)
-URL: https://v3.thetvapp.to/hls/FoxBusiness/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/FoxBusiness/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fox News
-URL: https://v4.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fox News (SD)
-URL: https://v4.thetvapp.to/hls/FoxNewsChannel/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/FoxNewsChannel/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
-Name: Fox Sports 1
-URL: https://v1.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
 Name: Fox Sports 1 (SD)
-URL: https://v1.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8
+URL: https://v2.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fox Sports 2
-URL: https://v13.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Fox Sports 2 (SD)
-URL: https://v13.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Freeform - East Feed
-URL: https://v8.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Freeform - East Feed (SD)
-URL: https://v8.thetvapp.to/hls/FreeformEast/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/FreeformEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: GAME SHOW NETWORK East
-URL: https://v17.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: GAME SHOW NETWORK East (SD)
-URL: https://v17.thetvapp.to/hls/game-show-network-east/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/game-show-network-east/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: GOLF Channel USA
-URL: https://v12.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: GOLF Channel USA (SD)
-URL: https://v12.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -7477,122 +7462,107 @@ Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-s
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: HBO 2 - Eastern Feed
-URL: https://v4.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: HBO 2 - Eastern Feed (SD)
-URL: https://v4.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: HBO Comedy HD - East
-URL: https://v12.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: HBO Comedy HD - East (SD)
-URL: https://v12.thetvapp.to/hls/HBOComedyEast/tracks-v2a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/HBOComedyEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
-Name: HBO Family - Eastern Feed
-URL: https://v18.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
-Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
 Name: HBO Family - Eastern Feed (SD)
-URL: https://v18.thetvapp.to/hls/HBOFamilyEast/tracks-v2a1/mono.m3u8
+URL: https://v2.thetvapp.to/hls/HBOFamilyEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: HBO Signature (HBO 3) - Eastern
-URL: https://v3.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: HBO Signature (HBO 3) - Eastern (SD)
-URL: https://v3.thetvapp.to/hls/HBOSignatureEast/tracks-v2a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/HBOSignatureEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
-Name: HBO Zone HD - East
-URL: https://v12.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
-Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
 Name: HBO Zone HD - East (SD)
-URL: https://v12.thetvapp.to/hls/HBOZoneEast/tracks-v2a1/mono.m3u8
+URL: https://v2.thetvapp.to/hls/HBOZoneEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: HGTV USA - Eastern Feed
-URL: https://v8.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: HGTV USA - Eastern Feed (SD)
-URL: https://v8.thetvapp.to/hls/HGTVEast/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/HGTVEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: HLN
-URL: https://v1.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: HLN (SD)
-URL: https://v1.thetvapp.to/hls/HLN/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/HLN/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Hallmark Channel - Eastern Feed
-URL: https://v12.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Hallmark Channel - Eastern Feed (SD)
-URL: https://v12.thetvapp.to/hls/HallmarkChannelEast/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/HallmarkChannelEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
-Name: Hallmark Family HD
-URL: https://v18.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8
-Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
 Name: Hallmark Family HD (SD)
-URL: https://v18.thetvapp.to/hls/HallmarkDrama/tracks-v2a1/mono.m3u8
+URL: https://v2.thetvapp.to/hls/HallmarkDrama/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Hallmark Mystery - HD
-URL: https://v5.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Hallmark Mystery - HD (SD)
-URL: https://v5.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: History Channel US - Eastern Feed
-URL: https://v3.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: History Channel US - Eastern Feed (SD)
-URL: https://v3.thetvapp.to/hls/HistoryEast/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/HistoryEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ION - Eastern Feed
-URL: https://v4.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ION - Eastern Feed (SD)
-URL: https://v4.thetvapp.to/hls/IONTVEast/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/IONTVEast/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -7607,32 +7577,32 @@ Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countri
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ID (Investigation Discovery) USA - Eastern
-URL: https://v5.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ID (Investigation Discovery) USA - Eastern (SD)
-URL: https://v5.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: LOGO - East
-URL: https://v5.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/logo-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: LOGO - East (SD)
-URL: https://v5.thetvapp.to/hls/LogoEast/tracks-v2a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/LogoEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/logo-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Lifetime Movies Network - East
-URL: https://v5.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Lifetime Movies Network - East (SD)
-URL: https://v5.thetvapp.to/hls/LifetimeMoviesEast/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/LifetimeMoviesEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -7647,262 +7617,267 @@ Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-s
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MLB Network
-URL: https://v17.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MLB Network (SD)
-URL: https://v17.thetvapp.to/hls/MLBNetwork/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/MLBNetwork/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MSG Madison Square Gardens
-URL: https://v3.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MSG Madison Square Gardens (SD)
-URL: https://v3.thetvapp.to/hls/msg-madison-square-gardens/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/msg-madison-square-gardens/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MSG Plus
-URL: https://v1.thetvapp.to/hls/msg-plus/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/msg-plus/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MSG Plus (SD)
-URL: https://v1.thetvapp.to/hls/msg-plus/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/msg-plus/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MSNBC USA
-URL: https://v16.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MSNBC USA (SD)
-URL: https://v16.thetvapp.to/hls/MSNBC/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/MSNBC/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MTV USA - Eastern Feed
-URL: https://v8.thetvapp.to/hls/mtv-2-east/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/mtv-2-east/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MTV USA - Eastern Feed (SD)
-URL: https://v8.thetvapp.to/hls/mtv-2-east/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/mtv-2-east/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MTV 2 East
-URL: https://v8.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MTV 2 East (SD)
-URL: https://v8.thetvapp.to/hls/MTVEast/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/MTVEast/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Marquee Sports Network
-URL: https://v4.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Marquee Sports Network (SD)
-URL: https://v4.thetvapp.to/hls/marquee-sports-network/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/marquee-sports-network/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MeTV Toons (WJLP2) New Jersey
-URL: https://v12.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MeTV Toons (WJLP2) New Jersey (SD)
-URL: https://v12.thetvapp.to/hls/metv-toons/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/metv-toons/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MeTV Wjlp New Jersey New York
-URL: https://v13.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MeTV Wjlp New Jersey New York (SD)
-URL: https://v13.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Midatlantic Sports Network
-URL: https://v4.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Midatlantic Sports Network (SD)
-URL: https://v4.thetvapp.to/hls/midatlantic-sports-network/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/midatlantic-sports-network/tracks-v2a1/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Monumental Sports Network
-URL: https://v15.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/monumental-sports-network-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Monumental Sports Network (SD)
-URL: https://v15.thetvapp.to/hls/monumental-sports-network/tracks-v2a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/monumental-sports-network/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/monumental-sports-network-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CINEMAX MOREMAX Eastern
-URL: https://v14.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: CINEMAX MOREMAX Eastern (SD)
-URL: https://v14.thetvapp.to/hls/MoreMaxEast/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/MoreMaxEast/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Motor Trend HD
-URL: https://v15.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Motor Trend HD (SD)
-URL: https://v15.thetvapp.to/hls/Motortrend/tracks-v2a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/Motortrend/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MovieMax (Max 6) - East
-URL: https://v17.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: MovieMax (Max 6) - East (SD)
-URL: https://v17.thetvapp.to/hls/MovieMaxEast/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/MovieMaxEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NBA TV USA
-URL: https://v17.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NBA TV USA (SD)
-URL: https://v17.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
+Name: .CA.us",NBC (KNBC) Los Angeles
+URL: https://v5.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
 Name: .CA.us",NBC (KNBC) Los Angeles (SD)
-URL: https://v2.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .NY.us",NBC (WNBC) New York, NY
-URL: https://v18.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: .NY.us",NBC (WNBC) New York, NY (SD)
-URL: https://v18.thetvapp.to/hls/WNBCDT1/tracks-v2a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/WNBCDT1/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NBC Sports Bay Area
-URL: https://v13.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NBC Sports Bay Area (SD)
-URL: https://v13.thetvapp.to/hls/nbc-sports-bay-area/tracks-v2a1/mono.m3u8
-Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: NBC Sports Boston
-URL: https://v18.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/nbc-sports-bay-area/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NBC Sports Boston (SD)
-URL: https://v18.thetvapp.to/hls/nbc-sports-boston/tracks-v2a1/mono.m3u8
+URL: https://v2.thetvapp.to/hls/nbc-sports-boston/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NBC Sports California
-URL: https://v5.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NBC Sports California (SD)
-URL: https://v5.thetvapp.to/hls/nbc-sports-california/tracks-v2a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/nbc-sports-california/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
+Name: NBC Sports Philadelphia
+URL: https://v18.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8
+Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
 Name: NBC Sports Philadelphia (SD)
-URL: https://v2.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v2a1/mono.m3u8
+URL: https://v18.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NFL Network
-URL: https://v1.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NFL Network (SD)
-URL: https://v1.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NFL RedZone
-URL: https://v18.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NFL RedZone (SD)
-URL: https://v18.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NHL Network USA
-URL: https://v16.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NHL Network USA (SD)
-URL: https://v16.thetvapp.to/hls/NHLNetwork/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/NHLNetwork/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: National Geographic US - Eastern
-URL: https://v8.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: National Geographic US - Eastern (SD)
-URL: https://v8.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: National Geographic Wild
-URL: https://v13.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: National Geographic Wild (SD)
-URL: https://v13.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: New England Sports Network
-URL: https://v12.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nesn-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: New England Sports Network (SD)
-URL: https://v12.thetvapp.to/hls/new-england-sports-network/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/new-england-sports-network/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nesn-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -7917,262 +7892,267 @@ Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e96918
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NICK JR. - East
-URL: https://v4.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: NICK JR. - East (SD)
-URL: https://v4.thetvapp.to/hls/NickJrEast/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/NickJrEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Nickelodeon USA - East Feed
-URL: https://v3.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Nickelodeon USA - East Feed (SD)
-URL: https://v3.thetvapp.to/hls/NickelodeonEast/tracks-v2a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/NickelodeonEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Nicktoons - East
-URL: https://v3.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8
+URL: https://v18.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Nicktoons - East (SD)
-URL: https://v3.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8
+URL: https://v18.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Oprah Winfrey Network USA Eastern
-URL: https://v8.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Oprah Winfrey Network USA Eastern (SD)
-URL: https://v8.thetvapp.to/hls/OWNEast/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/OWNEast/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Outdoor Channel US
-URL: https://v1.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Outdoor Channel US (SD)
-URL: https://v1.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Oxygen - Eastern Feed
-URL: https://v5.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Oxygen - Eastern Feed (SD)
-URL: https://v5.thetvapp.to/hls/OxygenEast/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/OxygenEast/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
+Name: PBS (WNET) New York, NY
+URL: https://v12.thetvapp.to/hls/WNET/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
 Name: PBS (WNET) New York, NY (SD)
-URL: https://v2.thetvapp.to/hls/WNET/tracks-v2a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/WNET/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ReelzChannel
-URL: https://v1.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: ReelzChannel (SD)
-URL: https://v1.thetvapp.to/hls/Reelz/tracks-v2a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/Reelz/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: SEC Network
-URL: https://v8.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: SEC Network (SD)
-URL: https://v8.thetvapp.to/hls/SECN/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/SECN/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
+Name: SNY Sportsnet New York Comcast
+URL: https://v16.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v1a1/mono.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
 Name: SNY Sportsnet New York Comcast (SD)
-URL: https://v2.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v2a1/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Discovery Science
-URL: https://v17.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Discovery Science (SD)
-URL: https://v17.thetvapp.to/hls/Science/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/Science/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Showtime - Eastern Feed
-URL: https://v16.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Showtime - Eastern Feed (SD)
-URL: https://v16.thetvapp.to/hls/ShowtimeEast/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/ShowtimeEast/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Showtime 2 - Eastern
-URL: https://v15.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Showtime 2 - Eastern (SD)
-URL: https://v15.thetvapp.to/hls/Showtime2East/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/Showtime2East/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Space City Home Network
-URL: https://v8.thetvapp.to/hls/space-city-home-network/tracks-v1a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/space-city-home-network/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Space City Home Network (SD)
-URL: https://v8.thetvapp.to/hls/space-city-home-network/tracks-v2a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/space-city-home-network/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Spectrum Sportsnet LA
-URL: https://v15.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-la-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Spectrum Sportsnet LA (SD)
-URL: https://v15.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-la-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Spectrum Sportsnet
-URL: https://v8.thetvapp.to/hls/spectrum-sportsnet/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/spectrum-sportsnet/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Spectrum Sportsnet (SD)
-URL: https://v8.thetvapp.to/hls/spectrum-sportsnet/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/spectrum-sportsnet/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Sportsnet (East)
-URL: https://v15.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Sportsnet (East) (SD)
-URL: https://v15.thetvapp.to/hls/sportsnet-east/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/sportsnet-east/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
-Name: Sportsnet 360
-URL: https://v4.thetvapp.to/hls/sportsnet-360/tracks-v1a1/mono.m3u8
-Logo: https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
 Name: Sportsnet 360 (SD)
-URL: https://v4.thetvapp.to/hls/sportsnet-360/tracks-v2a1/mono.m3u8
+URL: https://v2.thetvapp.to/hls/sportsnet-360/tracks-v2a1/mono.m3u8
 Logo: https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Sportsnet One
-URL: https://v8.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8
 Logo: https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Sportsnet One (SD)
-URL: https://v8.thetvapp.to/hls/sportsnet-one/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/sportsnet-one/tracks-v2a1/mono.m3u8
 Logo: https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Sportsnet Ontario
-URL: https://v16.thetvapp.to/hls/sportsnet-ontario/tracks-v1a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/sportsnet-ontario/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Sportsnet Ontario (SD)
-URL: https://v16.thetvapp.to/hls/sportsnet-ontario/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/sportsnet-ontario/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Sportsnet Pacific
-URL: https://v8.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Sportsnet Pacific (SD)
-URL: https://v8.thetvapp.to/hls/sportsnet-pacific/tracks-v2a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/sportsnet-pacific/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: SportsNet Pittsburgh
-URL: https://v15.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v1a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-pittsburgh-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: SportsNet Pittsburgh (SD)
-URL: https://v15.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v2a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-pittsburgh-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Sportsnet West
-URL: https://v4.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Sportsnet West (SD)
-URL: https://v4.thetvapp.to/hls/sportsnet-west/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/sportsnet-west/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Starz - Eastern
-URL: https://v5.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Starz - Eastern (SD)
-URL: https://v5.thetvapp.to/hls/StarzEast/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/StarzEast/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: SundanceTV USA - East
-URL: https://v5.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: SundanceTV USA - East (SD)
-URL: https://v5.thetvapp.to/hls/SundanceTVEast/tracks-v2a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/SundanceTVEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: SYFY - Eastern Feed
-URL: https://v14.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: SYFY - Eastern Feed (SD)
-URL: https://v14.thetvapp.to/hls/SyfyEast/tracks-v2a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/SyfyEast/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TBS - East
-URL: https://v13.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TBS - East (SD)
-URL: https://v13.thetvapp.to/hls/TBSEast/tracks-v2a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/TBSEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -8187,42 +8167,42 @@ Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TMC Channel (US) - Eastern Feed
-URL: https://v4.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TMC Channel (US) - Eastern Feed (SD)
-URL: https://v4.thetvapp.to/hls/TheMovieChannelEast/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/TheMovieChannelEast/tracks-v2a1/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TNT - Eastern Feed
-URL: https://v15.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TNT - Eastern Feed (SD)
-URL: https://v15.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TSN 1
-URL: https://v8.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TSN 1 (SD)
-URL: https://v8.thetvapp.to/hls/tsn1/tracks-v2a1/mono.m3u8
+URL: https://v15.thetvapp.to/hls/tsn1/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TSN 2
-URL: https://v14.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TSN 2 (SD)
-URL: https://v14.thetvapp.to/hls/tsn2/tracks-v2a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/tsn2/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -8237,97 +8217,102 @@ Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.pn
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TSN 4
-URL: https://v1.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TSN 4 (SD)
-URL: https://v1.thetvapp.to/hls/tsn4/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/tsn4/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TSN 5
-URL: https://v15.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TSN 5 (SD)
-URL: https://v15.thetvapp.to/hls/tsn5/tracks-v2a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/tsn5/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TV Land Eastern
-URL: https://v17.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TV Land Eastern (SD)
-URL: https://v17.thetvapp.to/hls/tv-land-eastern/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/tv-land-eastern/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TV ONE
-URL: https://v15.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TV ONE (SD)
-URL: https://v15.thetvapp.to/hls/TVOne/tracks-v2a1/mono.m3u8
+URL: https://v8.thetvapp.to/hls/TVOne/tracks-v2a1/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TeenNick - Eastern
-URL: https://v12.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: TeenNick - Eastern (SD)
-URL: https://v12.thetvapp.to/hls/TeenNickEast/tracks-v2a1/mono.m3u8
+URL: https://v14.thetvapp.to/hls/TeenNickEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
+Name: Telemundo - Eastern Feed
+URL: https://v5.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
 Name: Telemundo - Eastern Feed (SD)
-URL: https://v2.thetvapp.to/hls/TelemundoEast/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/TelemundoEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: The Cooking Channel
-URL: https://v16.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
+URL: https://v18.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: The Cooking Channel (SD)
-URL: https://v16.thetvapp.to/hls/CookingChannel/tracks-v2a1/mono.m3u8
+URL: https://v18.thetvapp.to/hls/CookingChannel/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: The Tennis Channel
-URL: https://v5.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: The Tennis Channel (SD)
-URL: https://v5.thetvapp.to/hls/TennisChannel/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/TennisChannel/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: The Weather Channel
-URL: https://v1.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: The Weather Channel (SD)
-URL: https://v1.thetvapp.to/hls/TheWeatherChannel/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/TheWeatherChannel/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Travel Channel US - East
-URL: https://v8.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Travel Channel US - East (SD)
-URL: https://v8.thetvapp.to/hls/TravelChannelEast/tracks-v2a1/mono.m3u8
+URL: https://v17.thetvapp.to/hls/TravelChannelEast/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -8352,62 +8337,62 @@ Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Universal Kids
-URL: https://v13.thetvapp.to/hls/UniversalKidsEast/tracks-v1a1/mono.m3u8
+URL: https://v2.thetvapp.to/hls/UniversalKidsEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Universal Kids (SD)
-URL: https://v13.thetvapp.to/hls/UniversalKidsEast/tracks-v2a1/mono.m3u8
+URL: https://v2.thetvapp.to/hls/UniversalKidsEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Univision - Eastern Feed
-URL: https://v13.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8
+URL: https://v18.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Univision - Eastern Feed (SD)
-URL: https://v13.thetvapp.to/hls/UnivisionEast/tracks-v2a1/mono.m3u8
+URL: https://v18.thetvapp.to/hls/UnivisionEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: VH1 - Eastern Feed
-URL: https://v18.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: VH1 - Eastern Feed (SD)
-URL: https://v18.thetvapp.to/hls/VH1East/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/VH1East/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: VICE
-URL: https://v18.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: VICE (SD)
-URL: https://v18.thetvapp.to/hls/VICETV/tracks-v2a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/VICETV/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: WETV (Women's Entertainment) - Eastern
-URL: https://v12.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: WETV (Women's Entertainment) - Eastern (SD)
-URL: https://v12.thetvapp.to/hls/WeTVEast/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/WeTVEast/tracks-v2a1/mono.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: WPIX New York (SUPERSTATION)
-URL: https://v12.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cw/cw-11-wpix-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: WPIX New York (SUPERSTATION) (SD)
-URL: https://v12.thetvapp.to/hls/WPIX/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/WPIX/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cw/cw-11-wpix-us.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -8422,12 +8407,12 @@ Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: truTV USA - Eastern
-URL: https://v13.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: truTV USA - Eastern (SD)
-URL: https://v13.thetvapp.to/hls/truTVEast/tracks-v2a1/mono.m3u8
+URL: https://v4.thetvapp.to/hls/truTVEast/tracks-v2a1/mono.m3u8
 Logo: http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -11108,7 +11093,7 @@ Logo: https://i.imgur.com/i1TBfGl.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: FYI East
-URL: http://fl2.moveonjoy.com/FYI/index.m3u8
+URL: http://fl3.moveonjoy.com/FYI/index.m3u8
 Logo: https://i.imgur.com/PggQk7F.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -12690,12 +12675,22 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Tampa Bay Rays @ New York Yankees | 2025-05-03T17:05:00Z
-URL: https://v14.thetvapp.to/hls/mlb-15/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/mlb-15/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Tampa Bay Rays @ New York Yankees | 2025-05-03T17:05:00Z (SD)
-URL: https://v14.thetvapp.to/hls/mlb-15/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/mlb-15/tracks-v2a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Washington Nationals @ Cincinnati Reds | 2025-05-03T22:40:00Z
+URL: https://v12.thetvapp.to/hls/mlb-04/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Washington Nationals @ Cincinnati Reds | 2025-05-03T22:40:00Z (SD)
+URL: https://v12.thetvapp.to/hls/mlb-04/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -12709,118 +12704,113 @@ URL: https://v3.thetvapp.to/hls/mlb-18/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
-Name: Oakland Athletics @ Miami Marlins | 2025-05-03T20:10:00Z
-URL: https://v1.thetvapp.to/hls/mlb-07/tracks-v1a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: Oakland Athletics @ Miami Marlins | 2025-05-03T20:10:00Z (SD)
-URL: https://v1.thetvapp.to/hls/mlb-07/tracks-v2a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
 Name: Houston Astros @ Chicago White Sox | 2025-05-03T18:10:00Z
-URL: https://v16.thetvapp.to/hls/mlb-03/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/mlb-03/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Houston Astros @ Chicago White Sox | 2025-05-03T18:10:00Z (SD)
-URL: https://v16.thetvapp.to/hls/mlb-03/tracks-v2a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: New York Mets @ St. Louis Cardinals | 2025-05-03T18:15:00Z
-URL: https://v4.thetvapp.to/hls/mlb-08/tracks-v1a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: New York Mets @ St. Louis Cardinals | 2025-05-03T18:15:00Z (SD)
-URL: https://v4.thetvapp.to/hls/mlb-08/tracks-v2a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: San Diego Padres @ Pittsburgh Pirates | 2025-05-03T20:05:00Z
-URL: https://v5.thetvapp.to/hls/mlb-26/tracks-v1a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: San Diego Padres @ Pittsburgh Pirates | 2025-05-03T20:05:00Z (SD)
-URL: https://v5.thetvapp.to/hls/mlb-26/tracks-v2a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: Cleveland Guardians @ Toronto Blue Jays | 2025-05-03T19:07:00Z
-URL: https://v16.thetvapp.to/hls/mlb-12/tracks-v1a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: Cleveland Guardians @ Toronto Blue Jays | 2025-05-03T19:07:00Z (SD)
-URL: https://v16.thetvapp.to/hls/mlb-12/tracks-v2a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: Chicago Cubs @ Milwaukee Brewers | 2025-05-03T23:10:00Z
-URL: https://v4.thetvapp.to/hls/mlb-16/tracks-v1a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: Chicago Cubs @ Milwaukee Brewers | 2025-05-03T23:10:00Z (SD)
-URL: https://v4.thetvapp.to/hls/mlb-16/tracks-v2a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: Kansas City Royals @ Baltimore Orioles | 2025-05-03T23:15:00Z
-URL: https://v8.thetvapp.to/hls/mlb-17/tracks-v1a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: Kansas City Royals @ Baltimore Orioles | 2025-05-03T23:15:00Z (SD)
-URL: https://v8.thetvapp.to/hls/mlb-17/tracks-v2a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: Washington Nationals @ Cincinnati Reds | 2025-05-03T22:40:00Z
-URL: https://v15.thetvapp.to/hls/mlb-04/tracks-v1a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: Washington Nationals @ Cincinnati Reds | 2025-05-03T22:40:00Z (SD)
-URL: https://v15.thetvapp.to/hls/mlb-04/tracks-v2a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
-Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
---------------------------------------------------
-Name: Colorado Rockies @ San Francisco Giants | 2025-05-03T20:05:00Z (SD)
-URL: https://v2.thetvapp.to/hls/mlb-27/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/mlb-03/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Minnesota Twins @ Boston Red Sox | 2025-05-03T20:10:00Z
-URL: https://v3.thetvapp.to/hls/mlb-22/tracks-v1a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/mlb-22/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Minnesota Twins @ Boston Red Sox | 2025-05-03T20:10:00Z (SD)
-URL: https://v3.thetvapp.to/hls/mlb-22/tracks-v2a1/mono.m3u8
+URL: https://v5.thetvapp.to/hls/mlb-22/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
-Name: Seattle Mariners @ Texas Rangers | 2025-05-03T23:05:00Z
-URL: https://v5.thetvapp.to/hls/mlb-13/tracks-v1a1/mono.m3u8
+Name: Cleveland Guardians @ Toronto Blue Jays | 2025-05-03T19:07:00Z
+URL: https://v17.thetvapp.to/hls/mlb-12/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
-Name: Seattle Mariners @ Texas Rangers | 2025-05-03T23:05:00Z (SD)
-URL: https://v5.thetvapp.to/hls/mlb-13/tracks-v2a1/mono.m3u8
+Name: Cleveland Guardians @ Toronto Blue Jays | 2025-05-03T19:07:00Z (SD)
+URL: https://v17.thetvapp.to/hls/mlb-12/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
-Name: Detroit Tigers @ Los Angeles Angels | 2025-05-04T01:38:00Z (SD)
-URL: https://v2.thetvapp.to/hls/mlb-29/tracks-v2a1/mono.m3u8
+Name: Los Angeles Dodgers @ Atlanta Braves | 2025-05-03T23:15:00Z
+URL: https://v13.thetvapp.to/hls/mlb-28/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Los Angeles Dodgers @ Atlanta Braves | 2025-05-03T23:15:00Z (SD)
-URL: https://v2.thetvapp.to/hls/mlb-28/tracks-v2a1/mono.m3u8
+URL: https://v13.thetvapp.to/hls/mlb-28/tracks-v2a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Colorado Rockies @ San Francisco Giants | 2025-05-03T20:05:00Z
+URL: https://v17.thetvapp.to/hls/mlb-27/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Colorado Rockies @ San Francisco Giants | 2025-05-03T20:05:00Z (SD)
+URL: https://v17.thetvapp.to/hls/mlb-27/tracks-v2a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Chicago Cubs @ Milwaukee Brewers | 2025-05-03T23:10:00Z
+URL: https://v15.thetvapp.to/hls/mlb-16/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Chicago Cubs @ Milwaukee Brewers | 2025-05-03T23:10:00Z (SD)
+URL: https://v15.thetvapp.to/hls/mlb-16/tracks-v2a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Detroit Tigers @ Los Angeles Angels | 2025-05-04T01:38:00Z
+URL: https://v17.thetvapp.to/hls/mlb-29/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Detroit Tigers @ Los Angeles Angels | 2025-05-04T01:38:00Z (SD)
+URL: https://v17.thetvapp.to/hls/mlb-29/tracks-v2a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Seattle Mariners @ Texas Rangers | 2025-05-03T23:05:00Z
+URL: https://v1.thetvapp.to/hls/mlb-13/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Seattle Mariners @ Texas Rangers | 2025-05-03T23:05:00Z (SD)
+URL: https://v1.thetvapp.to/hls/mlb-13/tracks-v2a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Kansas City Royals @ Baltimore Orioles | 2025-05-03T23:15:00Z
+URL: https://v16.thetvapp.to/hls/mlb-17/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Kansas City Royals @ Baltimore Orioles | 2025-05-03T23:15:00Z (SD)
+URL: https://v16.thetvapp.to/hls/mlb-17/tracks-v2a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Oakland Athletics @ Miami Marlins | 2025-05-03T20:10:00Z
+URL: https://v3.thetvapp.to/hls/mlb-07/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: Oakland Athletics @ Miami Marlins | 2025-05-03T20:10:00Z (SD)
+URL: https://v3.thetvapp.to/hls/mlb-07/tracks-v2a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: San Diego Padres @ Pittsburgh Pirates | 2025-05-03T20:05:00Z (SD)
+URL: https://v2.thetvapp.to/hls/mlb-26/tracks-v2a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
+Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
+--------------------------------------------------
+Name: New York Mets @ St. Louis Cardinals | 2025-05-03T18:15:00Z (SD)
+URL: https://v2.thetvapp.to/hls/mlb-08/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -12999,7 +12989,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: FXM East
-URL: http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+URL: http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 Logo: https://comteco.com.bo/img/upload/canales/svCJXa.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13009,7 +12999,7 @@ Logo: https://i.imgur.com/JMn9sxk.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Hallmark Movies Mysteries East
-URL: http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+URL: http://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 Logo: https://i.imgur.com/GPRGA9C.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13019,7 +13009,7 @@ Logo: https://i.imgur.com/bQdkyF9.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Lifetime Movies East
-URL: http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+URL: http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 Logo: https://i.imgur.com/BWmqYTO.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13034,12 +13024,12 @@ Logo: https://images.fubo.tv/station_logos/maverick_black_cinema_c.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MGM+ East
-URL: http://fl2.moveonjoy.com/EPIX/index.m3u8
+URL: http://fl3.moveonjoy.com/EPIX/index.m3u8
 Logo: https://i.imgur.com/S2VUrO8.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MGM+ Marquee
-URL: http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+URL: http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13059,7 +13049,7 @@ Logo: https://i.imgur.com/HYgxPVQ.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: OuterMax East (720p)
-URL: http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+URL: http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13179,7 +13169,7 @@ Logo: https://i.imgur.com/yijitpa.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Sundance TV East
-URL: http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+URL: http://fl3.moveonjoy.com/SUNDANCE/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13228,7 +13218,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 
 Group: Movies;Series
 Name: Paramount Network East
-URL: http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+URL: http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13289,8 +13279,8 @@ URL: https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a
 Logo: https://i.imgur.com/GJYb8c8.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: High Vision (1080p) [Not 24/7]
-URL: https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+Name: High Vision
+URL: https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/zhCgoru.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13340,7 +13330,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.s
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: MTV Live
-URL: http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+URL: http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 Logo: https://i.imgur.com/3UByLqb.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13355,7 +13345,7 @@ Logo: https://i.imgur.com/B7ILXMc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Nick Music (720p)
-URL: http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+URL: http://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13465,7 +13455,7 @@ Logo: https://i.imgur.com/owUXUih.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: VH1 East
-URL: http://fl2.moveonjoy.com/VH1/index.m3u8
+URL: http://fl3.moveonjoy.com/VH1/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -14841,24 +14831,24 @@ Source: https://raw.githubusercontent.com/clseibold/tubi-m3u/refs/heads/main/tub
 
 Group: NBA
 Name: Los Angeles Clippers @ Denver Nuggets | 2025-05-03T23:35:00Z
-URL: https://v16.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Los Angeles Clippers @ Denver Nuggets | 2025-05-03T23:35:00Z (SD)
-URL: https://v16.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8
+URL: https://v3.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 
 Group: NHL
 Name: Colorado Avalanche @ Dallas Stars | 2025-05-04T00:10:00Z
-URL: https://v3.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Colorado Avalanche @ Dallas Stars | 2025-05-04T00:10:00Z (SD)
-URL: https://v3.thetvapp.to/hls/sportsnet-east/tracks-v2a1/mono.m3u8
+URL: https://v1.thetvapp.to/hls/sportsnet-east/tracks-v2a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -15006,16 +14996,6 @@ URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/172481
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Get TV
-URL: http://fl3.moveonjoy.com/GET_TV/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: Grit TV
-URL: http://fl3.moveonjoy.com/GRIT_TV/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: Grit Xtra
 URL: https://amg01438-ewscripps-amg01438c46-cw-us-2390.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippsgritxtra-cwus/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -15116,16 +15096,6 @@ URL: http://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: MTV Live
-URL: http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: MTV U
-URL: http://fl3.moveonjoy.com/MTV_U/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: OUTtv Proud
 URL: https://amg00375-fusemedia-outtv-ono-fpk2m.amagi.tv/playlist/amg00375-fusemedia-outtv-ono/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -15161,11 +15131,6 @@ URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319447
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: BET Gospel
-URL: http://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: FOX Soul
 URL: https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -15188,11 +15153,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: TV One
 URL: https://v2.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: Revolt
-URL: http://fl3.moveonjoy.com/REVOLT/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15306,11 +15266,6 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Paramount Network
-URL: http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: Paramount Movie Channel (Pluto TV)
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -15408,11 +15363,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: INSP
 URL: http://fortv.cc:8080/0n8u9R/169324/16262
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: Smithsonian Channel
-URL: http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16650,22 +16600,22 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 
 Group: PPV
 Name: Boxing | Canelo Alvarez - William Scull | 2025-05-03T23:00:00.000Z
-URL: https://v2.thetvapp.to/hls/PPV01/tracks-v1a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/PPV01/tracks-v1a1/mono.m3u8
 Logo: https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: Boxing | Canelo Alvarez - William Scull | 2025-05-03T23:00:00.000Z (SD)
-URL: https://v2.thetvapp.to/hls/PPV01/tracks-v2a1/mono.m3u8
+URL: https://v12.thetvapp.to/hls/PPV01/tracks-v2a1/mono.m3u8
 Logo: https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: UFC Fight Night |  Sandhagen vs. Figueiredo:2025-05-03T23:00:00.000Z
-URL: https://v14.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
 Logo: https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
 Name: UFC Fight Night |  Sandhagen vs. Figueiredo:2025-05-03T23:00:00.000Z (SD)
-URL: https://v14.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8
+URL: https://v16.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8
 Logo: https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto
 Source: https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8
 --------------------------------------------------
@@ -16748,11 +16698,6 @@ URL: https://v2.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Outer Max
-URL: http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: Thriller Max
 URL: http://lunar.pm:8080/mrjayp/Spectrum2/98686
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -16785,11 +16730,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime (ShoCase)
 URL: http://lunar.pm:8080/mrjayp/Spectrum2/18182
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: Showtime Women
-URL: http://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -18144,7 +18084,7 @@ Logo: https://i.imgur.com/qKLEGU7.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BET Gospel
-URL: http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+URL: http://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
 Logo: https://i.imgur.com/jbOkq8C.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -18663,7 +18603,7 @@ Logo: https://i.imgur.com/uhunRoU.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Smithsonian Channel East
-URL: http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+URL: http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -18852,7 +18792,7 @@ Logo: https://i.imgur.com/OxUS1Hq.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Hallmark Drama (720p)
-URL: http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+URL: http://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -19503,7 +19443,7 @@ Logo: https://yt3.googleusercontent.com/ytc/AIdro_kDm0LgmuZ6YBLmfnip23dHSVP_cyqF
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Golf Channel
-URL: http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+URL: http://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 Logo: https://i.imgur.com/Lgux6Ik.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -19643,7 +19583,7 @@ Logo: https://i.imgur.com/ulGKX30.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Sportsman Channel
-URL: http://fl2.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+URL: http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 Logo: https://i.imgur.com/CXauv8M.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -21527,7 +21467,7 @@ Logo: https://i.imgur.com/qDW8gnx.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BET East
-URL: http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+URL: http://fl3.moveonjoy.com/BET_EAST/index.m3u8
 Logo: https://i.imgur.com/copIbc9.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -21537,7 +21477,7 @@ Logo: https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BET Soul
-URL: http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+URL: http://fl3.moveonjoy.com/BET_SOUL/index.m3u8
 Logo: https://i.imgur.com/VeuTWUb.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -22012,7 +21952,7 @@ Logo: https://i.imgur.com/T9HHmAO.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Revolt
-URL: http://fl2.moveonjoy.com/REVOLT/index.m3u8
+URL: http://fl3.moveonjoy.com/REVOLT/index.m3u8
 Logo: https://i.imgur.com/eaYnGpH.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -22047,27 +21987,27 @@ Logo: https://i.imgur.com/TFxLj80.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Showtime 2 East
-URL: http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+URL: http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Showtime East
-URL: http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+URL: http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 Logo: https://i.imgur.com/Or0LKsu.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Showtime Next East
-URL: http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+URL: http://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 Logo: https://i.imgur.com/1Ak2MX2.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Showtime West (1080p)
-URL: http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+URL: http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 Logo: https://i.imgur.com/Or0LKsu.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Showtime Women East
-URL: http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+URL: http://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -22102,12 +22042,12 @@ Logo: https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Starz East
-URL: http://fl2.moveonjoy.com/STARZ/index.m3u8
+URL: http://fl3.moveonjoy.com/STARZ/index.m3u8
 Logo: https://i.imgur.com/N7oSm4d.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Starz West
-URL: http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
+URL: http://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
 Logo: https://i.imgur.com/N7oSm4d.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -22122,7 +22062,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WACX_logo_2021.p
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Syfy East
-URL: http://fl2.moveonjoy.com/SYFY/index.m3u8
+URL: http://fl3.moveonjoy.com/SYFY/index.m3u8
 Logo: https://i.imgur.com/4fMWhUE.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -22217,7 +22157,7 @@ Logo: https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: TV One
-URL: http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+URL: http://fl3.moveonjoy.com/TV_ONE/index.m3u8
 Logo: https://i.imgur.com/tthm8Q5.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -22242,7 +22182,7 @@ Logo: https://i.imgur.com/AvR9LSn.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: USA Network East (720p)
-URL: http://fl2.moveonjoy.com/USA_Network/index.m3u8
+URL: http://fl3.moveonjoy.com/USA_Network/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
