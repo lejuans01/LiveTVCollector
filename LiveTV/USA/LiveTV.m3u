@@ -187,6 +187,8 @@ https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
 https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ltFBrrj.png" group-title="Religious",The Word Network (1080p)
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUVL3d5.png" group-title="Religious",Trinity Channel
+https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bRQSzhs.png" group-title="Religious",Velayat TV (480p)
 https://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CjKQuEP.png" group-title="Religious",VTN Victory Television Network (720p)
@@ -932,9 +934,9 @@ http://fl3.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="News",CNN+
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/cnn.us.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="News",CNN Originals
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="News",CNN Headlines
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="News",HLN (CNN Headline News)
 https://v2.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="News",HLN+
@@ -966,7 +968,7 @@ https://v2.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="News",C-SPAN 2
 https://v2.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="News",C-SPAN 3
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328956
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1186
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="News",USA Today News
 https://dbrb49pjoymg4.cloudfront.net/10001/99991287/hls/playlist.m3u8?ads.xumo_channelId=99991287
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="News",OAN Plus
@@ -1167,8 +1169,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Outdoor",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="Outdoor",Outside TV (720p)
-https://outside-tv-samsung-ca.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="Outdoor",Outside TV
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AEfKB8.png" group-title="Outdoor",Outside TV Plus (1080p)
 https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KnlQzs7.png" group-title="Outdoor",Pluto TV Backcountry
@@ -1257,8 +1259,8 @@ http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7suDpSK.png" group-title="Sports",MSG Plus (720p)
 https://tvpass.org/live/msg-plus/hd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (1080p) [Geo-blocked]
-https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36",NBC Sports Bay Area [Geo-blocked]
 https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36",NBC Sports Boston [Geo-blocked]
@@ -1470,7 +1472,7 @@ https://v2.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",T2 Tennis
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Tennis+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e71g8trPgy6qosPP_ofs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Court Sports Network
 https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-627-COURT-SPORTS-NETWORK-SPORTSTRIBALTV/mt/sportstribaltv/627/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",PickleTV
@@ -1494,7 +1496,7 @@ https://fhdinternationalhermes.live.clipmyhorse.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",TVG Racebook
 https://d3my5j6o8w4ud5.cloudfront.net/out/v1/84a40d370d6e456cad17143ad8ff1671/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",FanDuel TV (Formerly TVG)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140778
+http://fl3.moveonjoy.com/TVG/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",FanDuel TV+
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_2.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",FanDuel 2 Racing
@@ -1549,12 +1551,14 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951360/hls/live.m3u8?ads.xumo_chann
 https://dbrb49pjoymg4.cloudfront.net/10001/99951361/hls/live.m3u8?ads.xumo_channelId=99951361
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",PHNX Sports
 https://dbrb49pjoymg4.cloudfront.net/10001/99951363/hls/live.m3u8?ads.xumo_channelId=99951363
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Racer
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/965
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",NASCAR
 https://aegis-cloudfront-1.tubi.video/4e6d2330-f93e-4068-b795-9f8585640b13/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Sportsman Channel
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162127
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Monster Jams
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",MAV TV
 http://fl3.moveonjoy.com/MAV_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",MAV TV Select
@@ -1597,6 +1601,8 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/168530
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131321
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Strongman Champions League
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/190839
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",DAZN
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/392
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",DAZN 1
 http://fl4.moveonjoy.com/DAZN_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",DAZN 2
@@ -1613,6 +1619,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145481
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",FN (Fight Network)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140799
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Fight Sports
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1616
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",HBO Boxing by WB
 https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Fite 24/7
@@ -1627,14 +1635,16 @@ https://fight-network-3-live.sports.tv/v1/master/758627660e995d43cdf594915ca608e
 https://v2.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",MSG 2
 https://v2.thetvapp.to/hls/msg-plus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",MSGSN
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1617
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",MSG+
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415245
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/333
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",MSG+ 2
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328910
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",MSG+ 3
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsCISqZPjGRjkT1Nw0PV5Zg
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",MSG SportsZone
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",WWE Network
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34716
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Fightbox
@@ -1652,7 +1662,7 @@ https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/us
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",MASN
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329083
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",NESN
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415260
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/890
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",NESN+
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415261
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Extreme+
@@ -1695,8 +1705,8 @@ https://bloomberg.com/media-manifest/streams/politics.m3u8
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png" group-title="Business",Cafe Trade TV (720p)
 https://cafetradehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Business",CNBC
-http://fl3.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Business",CNBC (720p)
+https://ft.fbcdntv247.cfd/memfs/4268c138-3258-42b8-8192-f9a3873e7794_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isRfHYZ.png" group-title="Business",Entrepreneur TV [Geo-blocked]
 https://amg01201-amg01201c31-cineverse-us-2915.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-entrepreneurtv-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="Business",FOX Business (1080p)
@@ -1756,7 +1766,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineve
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KShaqAp.png" group-title="Lifestyle",The Beach Channel
 https://cf-live29e5f8c.lwcdn.com/live/fallback/014dc067-4922-4168-bdcd-5278589269ed/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5YJ3r3.png" group-title="Lifestyle",The Design Network
-https://thedesignnetwork-tdn-6-ca.samsung.wurl.tv/playlist.m3u8
+https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4v93XUB.png" group-title="Lifestyle",The Jamie Oliver Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab9df3d48f40008868091/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c35404c-1695-499c-9f13-965f00e7ea9b
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/p-K7b-1T5E3ekA==/3ef7a392-9280-41c8-a8ca-a2a47f83c1d2/CHgQeDoFMS4xLjJAAQ==" group-title="Lifestyle",Antiques Road Trip
@@ -2435,8 +2445,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="Comedy",Comedy Dynamics
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",FailArmy
-https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",Failarmy International
+https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UCwjdtQ.png" group-title="Comedy",Funny AF
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f174-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbaba395-2ecd-414c-971c-2d705e4b67d5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5W91v2.png" group-title="Comedy",Humor Mill (1080p) [Not 24/7]
@@ -2508,9 +2518,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",Pluto TV Comedy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67882c1c7b11714b795c2008/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1df8-7b2e-11ef-951a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=575bd0af-08fa-11f0-bed2-86d507b84126&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",Animation+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-674f6a6cf44561420465f9f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-674f6a6cf44561420465f9f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",BBC Comedy
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",Pluto TV Pranks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f86f539f03cd00070c503a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c208c-7b2e-11ef-9ac1-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=57f8ada0-9a60-40de-afcf-1a3a80463d81&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",Kevin Hart’s LOL! Network
@@ -2524,7 +2534,7 @@ https://live-content.xumo.com/2193/content/XM030K2GSM2DC4/26743435/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",NBC Comedy Vault
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951244/hls/master.m3u8?ads.xumo_channelId=99951244
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",Hit Sitcoms by WB
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b13b29a9ef8c41ec0841b0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e71g8trPgy6qosPP_ofs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b13b29a9ef8c41ec0841b0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",Always Funny
 https://apollo.production-public.tubi.io/live/ac-afv.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",Always Funny Pranks and Fail
@@ -2534,9 +2544,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991176/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",Just for Laughs Gags
 https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",Funny Or Die, Inc.
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d08694ab0965e49583e3b2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",FailArmy
-https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d08694ab0965e49583e3b2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",TVS Flashback Network
 https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="Entertainment",30A Sidewalks (720p)
@@ -2819,8 +2827,8 @@ https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tm3VFmq.png" group-title="Auto",Pluto TV Cars
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac636-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f9bce8e-d9f8-4cf4-8b83-367dc559496a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="Auto",PowerNation
-https://a3d7c6b7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1jYV9SVE1UVkNoYW5uZWxfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="Auto",PowerNation TV (720p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b8ce63f3-49cd-4cc1-8ccc-88a81b828a26/5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="Auto",Retro TV (KCKS-LD9) (480p)
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7THHhX.png" group-title="Series",48 Hours
@@ -3511,6 +3519,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XGQfBbW.png" group-title="Undefined",White Plains Community Media (360p)
 https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WYM3tj8.png" group-title="Undefined",WHSG-DT3
+https://edge66.magictvbox.com/liveApple/smile_of_a_child/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1odhDRE.png" group-title="Undefined",Winthrop Community Access TV (WCAT 3) (480p)
 https://frontdoor.wcat-tv.org:8787/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1odhDRE.png" group-title="Undefined",Winthrop Community Access TV (WCAT 15) (360p) [Not 24/7]
@@ -3940,7 +3950,7 @@ https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoWrh7e.png" group-title="Family",Real Families (1080p)
 https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective
-https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
+https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y3EV3DL.png" group-title="Family",TVS Family Channel (360p)
 https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="Education",Anger Management
@@ -4130,9 +4140,9 @@ https://v2.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Documentary",Nat Geo Wild
 https://v2.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Documentary",History Hit
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=evK7iYKm-ixSYzFakeKo
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Documentary",Outside TV
-http://fortv.cc:8080/0n8u9R/169324/20865
+http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Documentary",Outside TV+
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Documentary",Xplore #2
@@ -4172,7 +4182,7 @@ https://v2.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Documentary",REELZ Famous and Infamous
 https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Documentary",Infamous TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Documentary",Oxygen True Crime
 https://v2.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Documentary",Oxygen True Crime Archives
@@ -4629,6 +4639,8 @@ https://v2.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
 https://v2.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WABC-TV ABC 7 (New York NY)
 https://v2.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",WWOR-TV MyNetworkTV 9 (New York NY)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/135
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
 https://v2.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WBBM-TV CBS 2 (Chicago IL)
@@ -4640,7 +4652,7 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23665
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WGN-TV CW 9 (Chicago IL)
 http://fl3.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WFLD-TV FOX 32 (Chicago IL)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415636
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1525
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WJBK-TV FOX 2 (Detroit MI)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415648
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WDIV-TV NBC 4 (Detroit MI)
@@ -4654,9 +4666,9 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415958
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WCCO-TV CBS 4 (Minneapolis/St. Paul MN)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415956
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KSTP-TV ABC 5 (Minneapolis/St. Paul MN)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23447
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/211
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KMSP-TV FOX 9 (Minneapolis/St. Paul MN)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415690
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/2162
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KARE-TV NBC 11 (Minneapolis/St. Paul MN)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415526
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KYW-TV CBS 3 (Philadelphia PA)
@@ -5114,7 +5126,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991366/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Confess by Nosey
 https://dbrb49pjoymg4.cloudfront.net/10001/99991388/hls/playlist.m3u8?ads.xumo_channelId=99991388
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Judge Nosey
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ukYQGfmjaVjMjmoUbyR6
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Adult Swim+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aswest.us.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Adult Swim+ (East)
@@ -5143,10 +5155,6 @@ https://v2.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c83d8-7b2e-11ef-badc-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2283f01b-889a-488b-88cb-244fd4bd914f&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",BET Her
 https://v2.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",BET Jams
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319446
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",BET Soul
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319447
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",FOX Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Pluto Black Classics
@@ -5160,9 +5168,9 @@ https://v2.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Shades of Black
 https://fuse-beats-oando.amagi.tv/hls/amagi_hls_data_fuseAAAAA-fusebeats-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",BlackPix
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",365BLK
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6745dca72832b870acf53220.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6745dca72832b870acf53220.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",The BLK Effect
 https://amg01312-cw-amg01312c39-cw-us-6681.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-theblkeffect-cwus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Backstage
@@ -5208,7 +5216,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",SYFY
 https://v2.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",BBC Sci-Fi
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",FreeTV Fantasy
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engmystify-freetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Farscape
@@ -5234,7 +5242,7 @@ https://amg00432-amg00432c1-circle-worldwide-2821.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",The Cowboy Channel
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122527
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Outlaw (The Western Channel)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Wild West TV
 https://linear-799.frequency.stream/dist/dice/799/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",TVS Western Movie
@@ -5252,7 +5260,7 @@ http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Vice
 https://v2.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Vice News
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-635ff8bb66f96b46951ab7f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-635ff8bb66f96b46951ab7f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",YouToo America
 https://thegateway.app/YouToocdn/YTamerica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",LifeTime
@@ -5289,6 +5297,8 @@ https://rpn.bozztv.com/gusa/gusa-TVSTodayHomeEntertainment/index.m3u8
 https://v2.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",World Fishing Network
 http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Reel Life
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/382
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",FYI
 https://v2.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Fuse
@@ -5300,7 +5310,7 @@ https://v2.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Game Show Central
 https://dbrb49pjoymg4.cloudfront.net/10001/99991750/hls/playlist.m3u8?ads.xumo_channelId=99991750
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",BBC Game Shows
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",OWN (Oprah Winfrey Network)
 https://v2.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Ebony TV by Lionsgate
@@ -5328,19 +5338,19 @@ https://v2.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",80's Sitcom Flashback
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=undETypMzF-zrXqwwtnZ
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Non-Stop 90's
 https://linear-744.frequency.stream/dist/dice/744/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Dove Channel
 https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",GAC Great American Family
-http://lunar.pm:8080/mrjayp/Spectrum2/105641
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/104877
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",GAC Great American Faith & Living
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75654
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Holiday Plus
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-634700569d64afa6830d1521.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-634700569d64afa6830d1521.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Universal Crime
@@ -5397,76 +5407,6 @@ http://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" group-title="Public Broadcast",PBS Retro
 https://live1009.delivery.roku.com/2af92247-9fb2-430d-bc45-f066023092f6/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",WKLE-TV KET 46.4 PBS Kids (Lexington KY)
-http://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nickelodeon
-https://v2.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nick (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd630-7b2e-11ef-a94e-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ebbf33a-e8f6-4c9f-91cc-df503deed9e8&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nick Jr.
-https://v2.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nick Jr. (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nicktoons
-https://v2.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",TeenNick
-https://v2.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nickelodeon 90's Kids (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd748-7b2e-11ef-9deb-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1aa79af-a440-4286-a333-28de4fa58ebb&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nickelodeon 90's Kids 2 (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c77ed3fdde00080eb3a8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd7de-7b2e-11ef-9bf8-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4e94404-1332-11f0-8694-3a1fbadd5755&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nick Music
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319521
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Disney Channel
-https://v2.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Disney XD
-https://v2.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Disney Jr.
-https://v2.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",CN (Cartoon Network)
-https://v2.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Boomerang by Cartoon Network
-https://v2.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",MeTV Toons
-https://v2.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Kartoon Channel
-https://dbrb49pjoymg4.cloudfront.net/10001/99991327/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991327
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",No Parents Allowed (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d538a-7b2e-11ef-9d89-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b3a45869-717e-45df-924b-df7f8f212859&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Forever Kids (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=76cdc847-bc01-40b7-a0b3-beef54986292&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Kids Movie Club (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba2cd391-08f6-11f0-a196-2e4264ece789&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Go-Go Gadget (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/667f3852efa2a10008e1e514/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4d59fbb0-084a-11f0-903e-4ee1b17a5297&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Super Mario Bros. Channel
-https://live1009.delivery.roku.com/4c394a43-2ae4-493b-acce-7dd7700495ef/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Cartoon Classics
-https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Q Toons
-https://janya-qtoonz.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fe1720c6-2efd-48ad-b61f-a3edaed6130b/main.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Toons Goggles
-https://otteraaaa-toon-goggles-samsungin-ygvcl.amagi.tv/playlist/otteraAAA-toon-goggles-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Toonami Aftermath (West)
-http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",FreeForm
-https://v2.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Discovery Family
-https://v2.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Baby First #1
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319416
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Baby First #2
-http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Baby TV
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319417
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",FilmRise Kids
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",FilmRise Anime
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",RetroCrush
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Public Access",SCTV (Santa Clarita CA)
 http://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Public Access",Lakewood CityTV (Lakewood CA)
@@ -5940,7 +5880,7 @@ https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Aliento Visión
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Nosey Escándalos
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",TVP Culiacán
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",TVP Los Mochis
@@ -6102,7 +6042,7 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302678
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Universal Reality
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302743
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Always Funny en Español
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=XFS46cy4dysF9DttxYif&_gl=1*uxq749*_gcl_au*ODM2NzY4ODIuMTczNzg1NTIwOQ..*_ga*MjIwNTAxMTIwLjE3Mzc4NTUyMDk.*_ga_G6FQWNSENB*MTczODA5MzUzOC41LjAuMTczODA5MzUzOC42MC4wLjA
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Más Risas
 https://univtec.g-mana.live/media/f1536f9d-b9b2-49c1-a9df-963fcc43dcd4/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Más Retos
@@ -6194,7 +6134,7 @@ https://amg00658-amg00658c22-canelatv-international-5047.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Canela.TV Todo Novelas Más Pasiones
 https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Canela.TV Pasión Latina
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",ViX Grandes Parejas
 https://live1009.delivery.roku.com/fb245b6d-09b4-420b-9732-dfcd80c377b2/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",ViX JaJaJa
@@ -6210,15 +6150,15 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34938
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Sony Movies en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304509
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Cine EstrellaTV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fb8ec0214cf8b3b54b5ec8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fb8ec0214cf8b3b54b5ec8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Cine en Español
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Cine Latino
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34998
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Caracol Internacional
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304247
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Todo Cine
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",AXN en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302611
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Cine AXN (Mexico)
@@ -6226,7 +6166,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3704
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Universal Premier
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302742
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",FLOU Detonación
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-673675909564224797d5b598.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-673675909564224797d5b598.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",FreeTV Live
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",FreeTV Hits
@@ -6248,7 +6188,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playli
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",FreeTV Banda
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Electric Now en Español
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",ViX Cine Club
 https://live1009.delivery.roku.com/0f232fec-f2cc-45e0-8876-af34537103d4/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Canela.TV
@@ -6412,7 +6352,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",CNÑ en Español
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57619
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",CNÑ Xpress
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671c246e572427bfa1eb7ed5.m3u8?X-Plex-Session-Identifier=84br40oiy8966gq03mjfb4go&X-Plex-Product=Plex%20Web&X-Plex-Version=4.144.1&X-Plex-Client-Identifier=6y5fglvgth3q0tdua1knbsz9&X-Plex-Platform=Chrome&X-Plex-Platform-Version=132.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1366x599%2C1366x768&X-Plex-Token=4yFaXrUbzNEEVEE8_QVH&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=704d597b-e748-479c-87de-c29560aff292&X-Plex-Playback-Session-Id=130f2a0a-d253-49af-821c-2def75af01ff
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671c246e572427bfa1eb7ed5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",France 24 en Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Euronews en Español
@@ -6522,7 +6462,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9607
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Claro Sports
 http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",DAZN FI
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/237789
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1442
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Eventos TyC Play 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Eventos TyC Play 2
@@ -6563,6 +6503,70 @@ https://live1009.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origi
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Weather News",Weather Spy
 https://dbrb49pjoymg4.cloudfront.net/10001/99991372/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991372
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nickelodeon
+https://v2.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nick (Pluto TV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd630-7b2e-11ef-a94e-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ebbf33a-e8f6-4c9f-91cc-df503deed9e8&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nick Jr.
+https://v2.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nick Jr. (Pluto TV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nicktoons
+https://v2.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",TeenNick
+https://v2.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nickelodeon 90's Kids (Pluto TV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd748-7b2e-11ef-9deb-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1aa79af-a440-4286-a333-28de4fa58ebb&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nickelodeon 90's Kids 2 (Pluto TV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c77ed3fdde00080eb3a8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd7de-7b2e-11ef-9bf8-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4e94404-1332-11f0-8694-3a1fbadd5755&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Disney Channel
+https://v2.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Disney XD
+https://v2.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Disney Jr.
+https://v2.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",CN (Cartoon Network)
+https://v2.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Boomerang by Cartoon Network
+https://v2.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",MeTV Toons
+https://v2.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Kartoon Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99991327/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991327
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",No Parents Allowed (Pluto TV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d538a-7b2e-11ef-9d89-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b3a45869-717e-45df-924b-df7f8f212859&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Forever Kids (Pluto TV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=76cdc847-bc01-40b7-a0b3-beef54986292&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Kids Movie Club (Pluto TV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba2cd391-08f6-11f0-a196-2e4264ece789&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Go-Go Gadget (Pluto TV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/667f3852efa2a10008e1e514/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4d59fbb0-084a-11f0-903e-4ee1b17a5297&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Super Mario Bros. Channel
+https://live1009.delivery.roku.com/4c394a43-2ae4-493b-acce-7dd7700495ef/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Cartoon Classics
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Q Toons
+https://janya-qtoonz.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fe1720c6-2efd-48ad-b61f-a3edaed6130b/main.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Toons Goggles
+https://otteraaaa-toon-goggles-samsungin-ygvcl.amagi.tv/playlist/otteraAAA-toon-goggles-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Toonami Aftermath (West)
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",FreeForm
+https://v2.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Discovery Family
+https://v2.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Baby First #1
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319416
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Baby First #2
+http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Baby TV
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319417
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",FilmRise Kids
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",FilmRise Anime
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",RetroCrush
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LGBT",Logo
 https://v2.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LGBT",Logo (Pluto TV)
@@ -6666,65 +6670,59 @@ https://v2.thetvapp.to/hls/mlb-29/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MLB",MLB 30
 https://v2.thetvapp.to/hls/mlb-30/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",New York Mets @ St. Louis Cardinals | 2025-05-04T17:15:00Z
-https://v14.thetvapp.to/hls/mlb-08/tracks-v1a1/mono.m3u8
+https://v18.thetvapp.to/hls/mlb-08/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",New York Mets @ St. Louis Cardinals | 2025-05-04T17:15:00Z (SD)
-https://v14.thetvapp.to/hls/mlb-08/tracks-v2a1/mono.m3u8
+https://v18.thetvapp.to/hls/mlb-08/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Kansas City Royals @ Baltimore Orioles | 2025-05-04T17:36:00Z
-https://v1.thetvapp.to/hls/mlb-17/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/mlb-17/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Kansas City Royals @ Baltimore Orioles | 2025-05-04T17:36:00Z (SD)
-https://v1.thetvapp.to/hls/mlb-17/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Seattle Mariners @ Texas Rangers | 2025-05-04T18:36:00Z
-https://v17.thetvapp.to/hls/mlb-13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Seattle Mariners @ Texas Rangers | 2025-05-04T18:36:00Z (SD)
-https://v17.thetvapp.to/hls/mlb-13/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/mlb-17/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Cleveland Guardians @ Toronto Blue Jays | 2025-05-04T17:38:00Z
+https://v1.thetvapp.to/hls/mlb-12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Cleveland Guardians @ Toronto Blue Jays | 2025-05-04T17:38:00Z (SD)
+https://v1.thetvapp.to/hls/mlb-12/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Houston Astros @ Chicago White Sox | 2025-05-04T18:11:00Z
-https://v17.thetvapp.to/hls/mlb-03/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/mlb-03/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Houston Astros @ Chicago White Sox | 2025-05-04T18:11:00Z (SD)
-https://v17.thetvapp.to/hls/mlb-03/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Minnesota Twins @ Boston Red Sox | 2025-05-04T17:36:00Z
-https://v8.thetvapp.to/hls/mlb-22/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Minnesota Twins @ Boston Red Sox | 2025-05-04T17:36:00Z (SD)
-https://v8.thetvapp.to/hls/mlb-22/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Tampa Bay Rays @ New York Yankees | 2025-05-04T17:36:00Z
-https://v4.thetvapp.to/hls/mlb-15/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Tampa Bay Rays @ New York Yankees | 2025-05-04T17:36:00Z (SD)
-https://v4.thetvapp.to/hls/mlb-15/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Oakland Athletics @ Miami Marlins | 2025-05-04T17:41:00Z
-https://v5.thetvapp.to/hls/mlb-07/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Oakland Athletics @ Miami Marlins | 2025-05-04T17:41:00Z (SD)
-https://v5.thetvapp.to/hls/mlb-07/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Colorado Rockies @ San Francisco Giants | 2025-05-04T20:06:00Z
-https://v15.thetvapp.to/hls/mlb-27/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Colorado Rockies @ San Francisco Giants | 2025-05-04T20:06:00Z (SD)
-https://v15.thetvapp.to/hls/mlb-27/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Arizona Diamondbacks @ Philadelphia Phillies | 2025-05-04T18:06:00Z
-https://v3.thetvapp.to/hls/mlb-18/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Arizona Diamondbacks @ Philadelphia Phillies | 2025-05-04T18:06:00Z (SD)
-https://v3.thetvapp.to/hls/mlb-18/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/mlb-03/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Chicago Cubs @ Milwaukee Brewers | 2025-05-04T18:11:00Z
-https://v4.thetvapp.to/hls/mlb-16/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/mlb-16/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Chicago Cubs @ Milwaukee Brewers | 2025-05-04T18:11:00Z (SD)
-https://v4.thetvapp.to/hls/mlb-16/tracks-v2a1/mono.m3u8
+https://v8.thetvapp.to/hls/mlb-16/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",San Diego Padres @ Pittsburgh Pirates | 2025-05-04T17:36:00Z
+https://v18.thetvapp.to/hls/mlb-26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",San Diego Padres @ Pittsburgh Pirates | 2025-05-04T17:36:00Z (SD)
+https://v18.thetvapp.to/hls/mlb-26/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Seattle Mariners @ Texas Rangers | 2025-05-04T18:36:00Z
+https://v5.thetvapp.to/hls/mlb-13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Seattle Mariners @ Texas Rangers | 2025-05-04T18:36:00Z (SD)
+https://v5.thetvapp.to/hls/mlb-13/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Colorado Rockies @ San Francisco Giants | 2025-05-04T20:06:00Z
+https://v18.thetvapp.to/hls/mlb-27/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Colorado Rockies @ San Francisco Giants | 2025-05-04T20:06:00Z (SD)
+https://v18.thetvapp.to/hls/mlb-27/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Oakland Athletics @ Miami Marlins | 2025-05-04T17:41:00Z
+https://v17.thetvapp.to/hls/mlb-07/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Oakland Athletics @ Miami Marlins | 2025-05-04T17:41:00Z (SD)
+https://v17.thetvapp.to/hls/mlb-07/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Arizona Diamondbacks @ Philadelphia Phillies | 2025-05-04T18:06:00Z (SD)
+https://v2.thetvapp.to/hls/mlb-18/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Minnesota Twins @ Boston Red Sox | 2025-05-04T17:36:00Z
+https://v17.thetvapp.to/hls/mlb-22/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Minnesota Twins @ Boston Red Sox | 2025-05-04T17:36:00Z (SD)
+https://v17.thetvapp.to/hls/mlb-22/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Los Angeles Dodgers @ Atlanta Braves | 2025-05-04T23:10:00Z
+https://v15.thetvapp.to/hls/mlb-28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Los Angeles Dodgers @ Atlanta Braves | 2025-05-04T23:10:00Z (SD)
+https://v15.thetvapp.to/hls/mlb-28/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Tampa Bay Rays @ New York Yankees | 2025-05-04T17:36:00Z
+https://v16.thetvapp.to/hls/mlb-15/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Tampa Bay Rays @ New York Yankees | 2025-05-04T17:36:00Z (SD)
+https://v16.thetvapp.to/hls/mlb-15/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Washington Nationals @ Cincinnati Reds | 2025-05-04T20:11:00Z
 https://v1.thetvapp.to/hls/mlb-04/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Washington Nationals @ Cincinnati Reds | 2025-05-04T20:11:00Z (SD)
 https://v1.thetvapp.to/hls/mlb-04/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Cleveland Guardians @ Toronto Blue Jays | 2025-05-04T17:38:00Z
-https://v16.thetvapp.to/hls/mlb-12/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Cleveland Guardians @ Toronto Blue Jays | 2025-05-04T17:38:00Z (SD)
-https://v16.thetvapp.to/hls/mlb-12/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",San Diego Padres @ Pittsburgh Pirates | 2025-05-04T17:36:00Z
-https://v8.thetvapp.to/hls/mlb-26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",San Diego Padres @ Pittsburgh Pirates | 2025-05-04T17:36:00Z (SD)
-https://v8.thetvapp.to/hls/mlb-26/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Los Angeles Dodgers @ Atlanta Braves | 2025-05-04T23:10:00Z
-https://v18.thetvapp.to/hls/mlb-28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Los Angeles Dodgers @ Atlanta Braves | 2025-05-04T23:10:00Z (SD)
-https://v18.thetvapp.to/hls/mlb-28/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",New York Mets @ St. Louis Cardinals | 2025-05-04T22:15:00Z
-https://v13.thetvapp.to/hls/mlb-08/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",New York Mets @ St. Louis Cardinals | 2025-05-04T22:15:00Z (SD)
-https://v13.thetvapp.to/hls/mlb-08/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Detroit Tigers @ Los Angeles Angels | 2025-05-04T20:08:00Z
 https://v8.thetvapp.to/hls/mlb-29/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Detroit Tigers @ Los Angeles Angels | 2025-05-04T20:08:00Z (SD)
@@ -6818,9 +6816,9 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Free Movies+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636d46934ea1109a7d205a55.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636d46934ea1109a7d205a55.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Samuel Goldwyn Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Cowboy Movie Channel
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1740795097&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=6746dc61d1615e1ba20ac5ef
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Cineview
@@ -6876,15 +6874,15 @@ https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",MovieSphere by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",National Lampoon Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fcbcf414d94009d1206ee.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fcbcf414d94009d1206ee.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Miramax Movie Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",At the Movies by WB
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Classic Cinema by WB
 https://apollo.production-public.tubi.io/live/wbd-classic-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",IFC Film Picks
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",70s Cinema (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c138a-7b2e-11ef-88c3-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9203004-be26-4bca-9a44-58b4d81c73f6&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",80s Rewind (Pluto TV)
@@ -8265,410 +8263,412 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/215787
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/215789
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Adults Only (XXX)",X4 - Yoshi Kawasaki XXX
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/215790
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="LIVE TV CHANNELS",A&E
+https://v13.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="LIVE TV CHANNELS",A&E (SD)
-https://v2.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8
+https://v13.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="LIVE TV CHANNELS",.CA.us",ABC (KABC) Los Angeles
-https://v17.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8
+https://v3.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="LIVE TV CHANNELS",.CA.us",ABC (KABC) Los Angeles (SD)
-https://v17.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v2a1/mono.m3u8
+https://v3.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="LIVE TV CHANNELS",.NY.us",ABC (WABC)
-https://v15.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8
+https://v1.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="LIVE TV CHANNELS",.NY.us",ABC (WABC) (SD)
-https://v15.thetvapp.to/hls/WABCDT1/tracks-v2a1/mono.m3u8
+https://v1.thetvapp.to/hls/WABCDT1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="LIVE TV CHANNELS",ACC NETWORK
 https://v8.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="LIVE TV CHANNELS",ACC NETWORK (SD)
 https://v8.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="LIVE TV CHANNELS",AMC - Eastern Feed
-https://v18.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="LIVE TV CHANNELS",AMC - Eastern Feed (SD)
-https://v18.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8
+https://v4.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="LIVE TV CHANNELS",Altitude Sports Denver
 https://v17.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="LIVE TV CHANNELS",Altitude Sports Denver (SD)
 https://v17.thetvapp.to/hls/altitude-sports-denver/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="LIVE TV CHANNELS",American Heroes Channel
-https://v17.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="LIVE TV CHANNELS",American Heroes Channel (SD)
-https://v17.thetvapp.to/hls/AmericanHeroesChannel/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/AmericanHeroesChannel/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="LIVE TV CHANNELS",Animal Planet US - East
-https://v18.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
+https://v17.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="LIVE TV CHANNELS",Animal Planet US - East (SD)
-https://v18.thetvapp.to/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8
+https://v17.thetvapp.to/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="LIVE TV CHANNELS",BBC AMERICA - East
-https://v17.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="LIVE TV CHANNELS",BBC AMERICA - East (SD)
-https://v17.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="LIVE TV CHANNELS",BBC News - North America HD
-https://v18.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="LIVE TV CHANNELS",BBC News - North America HD (SD)
-https://v18.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v2a1/mono.m3u8
+https://v4.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="LIVE TV CHANNELS",BET - Eastern Feed
-https://v17.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8
+https://v13.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="LIVE TV CHANNELS",BET - Eastern Feed (SD)
-https://v17.thetvapp.to/hls/BETEast/tracks-v2a1/mono.m3u8
+https://v13.thetvapp.to/hls/BETEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="LIVE TV CHANNELS",BET HER
+https://v13.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="LIVE TV CHANNELS",BET HER (SD)
-https://v2.thetvapp.to/hls/BETHerEast/tracks-v2a1/mono.m3u8
+https://v13.thetvapp.to/hls/BETHerEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="LIVE TV CHANNELS",Big Ten Network
-https://v3.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="LIVE TV CHANNELS",Big Ten Network (SD)
-https://v3.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="LIVE TV CHANNELS",BLOOMBERG TV USA
-https://v15.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/BloombergTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="LIVE TV CHANNELS",BLOOMBERG TV USA (SD)
-https://v15.thetvapp.to/hls/BloombergTV/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/BloombergTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="LIVE TV CHANNELS",Boomerang
 https://v18.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="LIVE TV CHANNELS",Boomerang (SD)
 https://v18.thetvapp.to/hls/Boomerang/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="LIVE TV CHANNELS",BRAVO USA - Eastern Feed
-https://v17.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="LIVE TV CHANNELS",BRAVO USA - Eastern Feed (SD)
-https://v17.thetvapp.to/hls/BravoEast/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/BravoEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="LIVE TV CHANNELS",C-SPAN
-https://v17.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="LIVE TV CHANNELS",C-SPAN (SD)
-https://v17.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8
+https://v4.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png" group-title="LIVE TV CHANNELS",C-SPAN 2
-https://v18.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png" group-title="LIVE TV CHANNELS",C-SPAN 2 (SD)
-https://v18.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-kcbs-us.png" group-title="LIVE TV CHANNELS",.CA.us",CBSLA (KCBS) Los Angeles
-https://v5.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
+https://v18.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-kcbs-us.png" group-title="LIVE TV CHANNELS",.CA.us",CBSLA (KCBS) Los Angeles (SD)
-https://v5.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v2a1/mono.m3u8
+https://v18.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="LIVE TV CHANNELS",.NY.us",CBSNY (WCBS) New York
-https://v14.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="LIVE TV CHANNELS",.NY.us",CBSNY (WCBS) New York (SD)
-https://v14.thetvapp.to/hls/WCBSDT1/tracks-v2a1/mono.m3u8
+https://v8.thetvapp.to/hls/WCBSDT1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="LIVE TV CHANNELS",CBS SPORTS NETWORK USA
-https://v8.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8
+https://v12.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="LIVE TV CHANNELS",CBS SPORTS NETWORK USA (SD)
-https://v8.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8
+https://v12.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="LIVE TV CHANNELS",CMT US - Eastern Feed
-https://v1.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="LIVE TV CHANNELS",CMT US - Eastern Feed (SD)
-https://v1.thetvapp.to/hls/CMTEast/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/CMTEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="LIVE TV CHANNELS",CNBC USA
-https://v4.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
+https://v17.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="LIVE TV CHANNELS",CNBC USA (SD)
-https://v4.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8
+https://v17.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="LIVE TV CHANNELS",CNN US
-https://v5.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
+https://v3.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="LIVE TV CHANNELS",CNN US (SD)
-https://v5.thetvapp.to/hls/CNN/tracks-v2a1/mono.m3u8
+https://v3.thetvapp.to/hls/CNN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="LIVE TV CHANNELS",.CA.us",CW (WUCW) (KFMB-TV2) San Diego
 https://v16.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="LIVE TV CHANNELS",.CA.us",CW (WUCW) (KFMB-TV2) San Diego (SD)
 https://v16.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="LIVE TV CHANNELS",CW (WDCW) District of Columbia
-https://v18.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="LIVE TV CHANNELS",CW (WDCW) District of Columbia (SD)
-https://v18.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v2a1/mono.m3u8
+https://v8.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="LIVE TV CHANNELS",CARTOON NETWORK USA - Eastern Feed
-https://v14.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="LIVE TV CHANNELS",CARTOON NETWORK USA - Eastern Feed (SD)
-https://v14.thetvapp.to/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8
+https://v8.thetvapp.to/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png" group-title="LIVE TV CHANNELS",Chicago Sports Network
-https://v13.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8
+https://v18.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png" group-title="LIVE TV CHANNELS",Chicago Sports Network (SD)
-https://v13.thetvapp.to/hls/chicago-sports-network/tracks-v2a1/mono.m3u8
+https://v18.thetvapp.to/hls/chicago-sports-network/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="LIVE TV CHANNELS",CINEMAX - Eastern Feed
-https://v1.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
+https://v17.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="LIVE TV CHANNELS",CINEMAX - Eastern Feed (SD)
-https://v1.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8
+https://v17.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="LIVE TV CHANNELS",COMEDY CENTRAL (US) - Eastern Feed
-https://v14.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="LIVE TV CHANNELS",COMEDY CENTRAL (US) - Eastern Feed (SD)
-https://v14.thetvapp.to/hls/ComedyCentralEast/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/ComedyCentralEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="LIVE TV CHANNELS",Crime + Investigation USA HD
-https://v12.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="LIVE TV CHANNELS",Crime + Investigation USA HD (SD)
-https://v12.thetvapp.to/hls/CrimePlusInvestigation/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/CrimePlusInvestigation/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="LIVE TV CHANNELS",Destination America
-https://v1.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="LIVE TV CHANNELS",Destination America (SD)
-https://v1.thetvapp.to/hls/DestinationAmerica/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/DestinationAmerica/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="LIVE TV CHANNELS",Discovery Channel (US) - Eastern Feed
-https://v12.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8
+https://v3.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="LIVE TV CHANNELS",Discovery Channel (US) - Eastern Feed (SD)
-https://v12.thetvapp.to/hls/DiscoveryChannelEast/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="LIVE TV CHANNELS",DISCOVERY FAMILY CHANNEL
-https://v16.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
+https://v3.thetvapp.to/hls/DiscoveryChannelEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="LIVE TV CHANNELS",DISCOVERY FAMILY CHANNEL (SD)
-https://v16.thetvapp.to/hls/DiscoveryFamily/tracks-v2a1/mono.m3u8
+https://v2.thetvapp.to/hls/DiscoveryFamily/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="LIVE TV CHANNELS",DISCOVERY LIFE Channel
-https://v13.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="LIVE TV CHANNELS",DISCOVERY LIFE Channel (SD)
-https://v13.thetvapp.to/hls/DiscoveryLife/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/DiscoveryLife/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="LIVE TV CHANNELS",DISNEY CHANNEL - Eastern Feed
-https://v13.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
+https://v17.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="LIVE TV CHANNELS",DISNEY CHANNEL - Eastern Feed (SD)
-https://v13.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8
+https://v17.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" group-title="LIVE TV CHANNELS",Disney JR USA - East
-https://v3.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
+https://v1.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" group-title="LIVE TV CHANNELS",Disney JR USA - East (SD)
-https://v3.thetvapp.to/hls/DisneyJuniorEast/tracks-v2a1/mono.m3u8
+https://v1.thetvapp.to/hls/DisneyJuniorEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="LIVE TV CHANNELS",Disney XD USA - Eastern Feed
-https://v15.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="LIVE TV CHANNELS",Disney XD USA - Eastern Feed (SD)
-https://v15.thetvapp.to/hls/DisneyXDEast/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/DisneyXDEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" group-title="LIVE TV CHANNELS",E! Entertainment Television USA - Eastern Feed
+https://v14.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" group-title="LIVE TV CHANNELS",E! Entertainment Television USA - Eastern Feed (SD)
-https://v2.thetvapp.to/hls/EEast/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/EEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="LIVE TV CHANNELS",ESPN
-https://v13.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="LIVE TV CHANNELS",ESPN (SD)
-https://v13.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="LIVE TV CHANNELS",ESPN Deportes
 https://v8.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="LIVE TV CHANNELS",ESPN Deportes (SD)
 https://v8.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="LIVE TV CHANNELS",ESPN NEWS
-https://v17.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="LIVE TV CHANNELS",ESPN NEWS (SD)
-https://v17.thetvapp.to/hls/ESPNews/tracks-v2a1/mono.m3u8
+https://v8.thetvapp.to/hls/ESPNews/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="LIVE TV CHANNELS",ESPN U
+https://v12.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="LIVE TV CHANNELS",ESPN U (SD)
-https://v2.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8
+https://v12.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="LIVE TV CHANNELS",ESPN 2
-https://v15.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="LIVE TV CHANNELS",ESPN 2 (SD)
-https://v15.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png" group-title="LIVE TV CHANNELS",.CA.us",FOX (KTTV) Los Angeles
-https://v15.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png" group-title="LIVE TV CHANNELS",.CA.us",FOX (KTTV) Los Angeles (SD)
-https://v15.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v2a1/mono.m3u8
+https://v8.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="LIVE TV CHANNELS",.NY.us",FOXNY
-https://v14.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
+https://v3.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="LIVE TV CHANNELS",.NY.us",FOXNY (SD)
-https://v14.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8
+https://v3.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="LIVE TV CHANNELS",Fuse TV - Eastern feed
-https://v13.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="LIVE TV CHANNELS",Fuse TV - Eastern feed (SD)
-https://v13.thetvapp.to/hls/FuseEast/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/FuseEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="LIVE TV CHANNELS",FX Movie Channel
-https://v15.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
+https://v17.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="LIVE TV CHANNELS",FX Movie Channel (SD)
-https://v15.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8
+https://v17.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="LIVE TV CHANNELS",FX Networks East Coast
-https://v3.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="LIVE TV CHANNELS",FX Networks East Coast (SD)
-https://v3.thetvapp.to/hls/FXEast/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/FXEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="LIVE TV CHANNELS",FXX USA - Eastern
-https://v17.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="LIVE TV CHANNELS",FXX USA - Eastern (SD)
-https://v17.thetvapp.to/hls/FXXEast/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png" group-title="LIVE TV CHANNELS",FYI USA - Eastern
-https://v4.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/FXXEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png" group-title="LIVE TV CHANNELS",FYI USA - Eastern (SD)
-https://v4.thetvapp.to/hls/FYIEast/tracks-v2a1/mono.m3u8
+https://v2.thetvapp.to/hls/FYIEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HUgEVWQ.png" group-title="LIVE TV CHANNELS",FanDuel SN Indiana
-https://v15.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HUgEVWQ.png" group-title="LIVE TV CHANNELS",FanDuel SN Indiana (SD)
-https://v15.thetvapp.to/hls/fanduel-sports-indiana/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/fanduel-sports-indiana/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1MDxLZf.png" group-title="LIVE TV CHANNELS",FanDuel SN Detroit
-https://v18.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8
+https://v12.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1MDxLZf.png" group-title="LIVE TV CHANNELS",FanDuel SN Detroit (SD)
-https://v18.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v2a1/mono.m3u8
+https://v12.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fuCM2ei.png" group-title="LIVE TV CHANNELS",FanDuel SN Florida
-https://v15.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fuCM2ei.png" group-title="LIVE TV CHANNELS",FanDuel SN Florida (SD)
-https://v15.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mPpaZCR.png" group-title="LIVE TV CHANNELS",FanDuel SN Great Lakes
+https://v3.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPpaZCR.png" group-title="LIVE TV CHANNELS",FanDuel SN Great Lakes (SD)
-https://v2.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v2a1/mono.m3u8
+https://v3.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfu8djF.png" group-title="LIVE TV CHANNELS",FanDuel SN North
-https://v5.thetvapp.to/hls/fanduel-sports-network-north/tracks-v1a1/mono.m3u8
+https://v17.thetvapp.to/hls/fanduel-sports-network-north/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfu8djF.png" group-title="LIVE TV CHANNELS",FanDuel SN North (SD)
-https://v5.thetvapp.to/hls/fanduel-sports-network-north/tracks-v2a1/mono.m3u8
+https://v17.thetvapp.to/hls/fanduel-sports-network-north/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4kf3x6.png" group-title="LIVE TV CHANNELS",FanDuel SN Ohio
 https://v1.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4kf3x6.png" group-title="LIVE TV CHANNELS",FanDuel SN Ohio (SD)
 https://v1.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mx7lyh5.png" group-title="LIVE TV CHANNELS",FanDuel SN Oklahoma
-https://v14.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8
+https://v12.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mx7lyh5.png" group-title="LIVE TV CHANNELS",FanDuel SN Oklahoma (SD)
-https://v14.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v2a1/mono.m3u8
+https://v12.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Network San Diego
-https://v13.thetvapp.to/hls/fanduel-sports-network-san-diego/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/fanduel-sports-network-san-diego/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Network San Diego (SD)
-https://v13.thetvapp.to/hls/fanduel-sports-network-san-diego/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/fanduel-sports-network-san-diego/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yywNI3M.png" group-title="LIVE TV CHANNELS",FanDuel SN SoCal
-https://v13.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yywNI3M.png" group-title="LIVE TV CHANNELS",FanDuel SN SoCal (SD)
-https://v13.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Network South Carolinas
-https://v18.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Network South Carolinas (SD)
-https://v18.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v2a1/mono.m3u8
+https://v2.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Network South Tennessee
-https://v5.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v1a1/mono.m3u8
+https://v1.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Network South Tennessee (SD)
-https://v5.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v2a1/mono.m3u8
+https://v1.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cv546ko.png" group-title="LIVE TV CHANNELS",FanDuel SN West
-https://v3.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8
+https://v1.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cv546ko.png" group-title="LIVE TV CHANNELS",FanDuel SN West (SD)
-https://v3.thetvapp.to/hls/fanduel-sports-network-west/tracks-v2a1/mono.m3u8
+https://v1.thetvapp.to/hls/fanduel-sports-network-west/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ku0ibaF.png" group-title="LIVE TV CHANNELS",FanDuel SN Wisconsin
-https://v15.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v1a1/mono.m3u8
+https://v12.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ku0ibaF.png" group-title="LIVE TV CHANNELS",FanDuel SN Wisconsin (SD)
-https://v15.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v2a1/mono.m3u8
+https://v12.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Southeast Georgia
-https://v14.thetvapp.to/hls/fanduel-sports-southeast-georgia/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/fanduel-sports-southeast-georgia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Southeast Georgia (SD)
-https://v14.thetvapp.to/hls/fanduel-sports-southeast-georgia/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/fanduel-sports-southeast-georgia/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Southeast North Carolina
+https://v4.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Southeast North Carolina (SD)
-https://v2.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Southeast South Carolina
-https://v4.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Southeast South Carolina (SD)
-https://v4.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v2a1/mono.m3u8
+https://v2.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Southeast Tennessee Nashville
+https://v5.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Southeast Tennessee Nashville (SD)
-https://v2.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Sun
-https://v16.thetvapp.to/hls/fanduel-sports-sun/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/fanduel-sports-sun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Sun (SD)
-https://v16.thetvapp.to/hls/fanduel-sports-sun/tracks-v2a1/mono.m3u8
+https://v4.thetvapp.to/hls/fanduel-sports-sun/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Tennessee East
-https://v13.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
+https://v1.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="LIVE TV CHANNELS",Fanduel Sports Tennessee East (SD)
-https://v13.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v2a1/mono.m3u8
+https://v1.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="LIVE TV CHANNELS",FOOD NETWORK USA - Eastern Feed
+https://v4.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="LIVE TV CHANNELS",FOOD NETWORK USA - Eastern Feed (SD)
-https://v2.thetvapp.to/hls/FoodNetworkEast/tracks-v2a1/mono.m3u8
+https://v4.thetvapp.to/hls/FoodNetworkEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png" group-title="LIVE TV CHANNELS",Fox Business
-https://v15.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8
+https://v18.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png" group-title="LIVE TV CHANNELS",Fox Business (SD)
-https://v15.thetvapp.to/hls/FoxBusiness/tracks-v2a1/mono.m3u8
+https://v18.thetvapp.to/hls/FoxBusiness/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="LIVE TV CHANNELS",Fox News
-https://v18.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="LIVE TV CHANNELS",Fox News (SD)
-https://v18.thetvapp.to/hls/FoxNewsChannel/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="LIVE TV CHANNELS",Fox Sports 1
-https://v1.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/FoxNewsChannel/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="LIVE TV CHANNELS",Fox Sports 1 (SD)
-https://v1.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8
+https://v2.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="LIVE TV CHANNELS",Fox Sports 2
-https://v13.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
+https://v18.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="LIVE TV CHANNELS",Fox Sports 2 (SD)
-https://v13.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="LIVE TV CHANNELS",Freeform - East Feed
-https://v15.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8
+https://v18.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="LIVE TV CHANNELS",Freeform - East Feed (SD)
-https://v15.thetvapp.to/hls/FreeformEast/tracks-v2a1/mono.m3u8
+https://v2.thetvapp.to/hls/FreeformEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="LIVE TV CHANNELS",GAME SHOW NETWORK East
-https://v8.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="LIVE TV CHANNELS",GAME SHOW NETWORK East (SD)
-https://v8.thetvapp.to/hls/game-show-network-east/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/game-show-network-east/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="LIVE TV CHANNELS",GOLF Channel USA
-https://v4.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/GolfChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="LIVE TV CHANNELS",GOLF Channel USA (SD)
-https://v4.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/GolfChannel/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="LIVE TV CHANNELS",HBO - Eastern Feed
-https://v13.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="LIVE TV CHANNELS",HBO - Eastern Feed (SD)
-https://v13.thetvapp.to/hls/HBOEast/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/HBOEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="LIVE TV CHANNELS",HBO 2 - Eastern Feed
-https://v4.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
+https://v12.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="LIVE TV CHANNELS",HBO 2 - Eastern Feed (SD)
-https://v4.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8
+https://v12.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="LIVE TV CHANNELS",HBO Comedy HD - East
 https://v17.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="LIVE TV CHANNELS",HBO Comedy HD - East (SD)
 https://v17.thetvapp.to/hls/HBOComedyEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="LIVE TV CHANNELS",HBO Family - Eastern Feed
-https://v15.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="LIVE TV CHANNELS",HBO Family - Eastern Feed (SD)
-https://v15.thetvapp.to/hls/HBOFamilyEast/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/HBOFamilyEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="LIVE TV CHANNELS",HBO Signature (HBO 3) - Eastern
-https://v4.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="LIVE TV CHANNELS",HBO Signature (HBO 3) - Eastern (SD)
-https://v4.thetvapp.to/hls/HBOSignatureEast/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/HBOSignatureEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="LIVE TV CHANNELS",HBO Zone HD - East
-https://v13.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="LIVE TV CHANNELS",HBO Zone HD - East (SD)
-https://v13.thetvapp.to/hls/HBOZoneEast/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/HBOZoneEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="LIVE TV CHANNELS",HGTV USA - Eastern Feed
-https://v3.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="LIVE TV CHANNELS",HGTV USA - Eastern Feed (SD)
-https://v3.thetvapp.to/hls/HGTVEast/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/HGTVEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="LIVE TV CHANNELS",HLN
-https://v4.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="LIVE TV CHANNELS",HLN (SD)
-https://v4.thetvapp.to/hls/HLN/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="LIVE TV CHANNELS",Hallmark Channel - Eastern Feed
-https://v1.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/HLN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="LIVE TV CHANNELS",Hallmark Channel - Eastern Feed (SD)
-https://v1.thetvapp.to/hls/HallmarkChannelEast/tracks-v2a1/mono.m3u8
+https://v2.thetvapp.to/hls/HallmarkChannelEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="LIVE TV CHANNELS",Hallmark Family HD
-https://v12.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="LIVE TV CHANNELS",Hallmark Family HD (SD)
-https://v12.thetvapp.to/hls/HallmarkDrama/tracks-v2a1/mono.m3u8
+https://v4.thetvapp.to/hls/HallmarkDrama/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="LIVE TV CHANNELS",Hallmark Mystery - HD
-https://v17.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
+https://v1.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="LIVE TV CHANNELS",Hallmark Mystery - HD (SD)
-https://v17.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v2a1/mono.m3u8
+https://v1.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="LIVE TV CHANNELS",History Channel US - Eastern Feed
-https://v4.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8
+https://v18.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="LIVE TV CHANNELS",History Channel US - Eastern Feed (SD)
-https://v4.thetvapp.to/hls/HistoryEast/tracks-v2a1/mono.m3u8
+https://v18.thetvapp.to/hls/HistoryEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="LIVE TV CHANNELS",ION - Eastern Feed
-https://v3.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="LIVE TV CHANNELS",ION - Eastern Feed (SD)
-https://v3.thetvapp.to/hls/IONTVEast/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/IONTVEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png" group-title="LIVE TV CHANNELS",IFC Independent Film Channel US
-https://v16.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png" group-title="LIVE TV CHANNELS",IFC Independent Film Channel US (SD)
-https://v16.thetvapp.to/hls/IFCEast/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/IFCEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="LIVE TV CHANNELS",ID (Investigation Discovery) USA - Eastern
-https://v18.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8
+https://v3.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="LIVE TV CHANNELS",ID (Investigation Discovery) USA - Eastern (SD)
-https://v18.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v2a1/mono.m3u8
+https://v3.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/logo-us.png" group-title="LIVE TV CHANNELS",LOGO - East
-https://v14.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
+https://v12.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/logo-us.png" group-title="LIVE TV CHANNELS",LOGO - East (SD)
-https://v14.thetvapp.to/hls/LogoEast/tracks-v2a1/mono.m3u8
+https://v12.thetvapp.to/hls/LogoEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="LIVE TV CHANNELS",Lifetime Movies Network - East
-https://v18.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="LIVE TV CHANNELS",Lifetime Movies Network - East (SD)
-https://v18.thetvapp.to/hls/LifetimeMoviesEast/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/LifetimeMoviesEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="LIVE TV CHANNELS",Lifetime Network US - Eastern Feed
-https://v14.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8
+https://v13.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="LIVE TV CHANNELS",Lifetime Network US - Eastern Feed (SD)
-https://v14.thetvapp.to/hls/LifetimeEast/tracks-v2a1/mono.m3u8
+https://v13.thetvapp.to/hls/LifetimeEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="LIVE TV CHANNELS",MLB Network
-https://v13.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="LIVE TV CHANNELS",MLB Network (SD)
-https://v13.thetvapp.to/hls/MLBNetwork/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/MLBNetwork/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="LIVE TV CHANNELS",MSG Madison Square Gardens
-https://v4.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="LIVE TV CHANNELS",MSG Madison Square Gardens (SD)
-https://v4.thetvapp.to/hls/msg-madison-square-gardens/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/msg-madison-square-gardens/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png" group-title="LIVE TV CHANNELS",MSG Plus
-https://v5.thetvapp.to/hls/msg-plus/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/msg-plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png" group-title="LIVE TV CHANNELS",MSG Plus (SD)
-https://v5.thetvapp.to/hls/msg-plus/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/msg-plus/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="LIVE TV CHANNELS",MSNBC USA
-https://v3.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="LIVE TV CHANNELS",MSNBC USA (SD)
-https://v3.thetvapp.to/hls/MSNBC/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/MSNBC/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="LIVE TV CHANNELS",MTV USA - Eastern Feed
-https://v17.thetvapp.to/hls/mtv-2-east/tracks-v1a1/mono.m3u8
+https://v1.thetvapp.to/hls/mtv-2-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="LIVE TV CHANNELS",MTV USA - Eastern Feed (SD)
-https://v17.thetvapp.to/hls/mtv-2-east/tracks-v2a1/mono.m3u8
+https://v1.thetvapp.to/hls/mtv-2-east/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="LIVE TV CHANNELS",MTV 2 East
-https://v4.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8
+https://v12.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="LIVE TV CHANNELS",MTV 2 East (SD)
-https://v4.thetvapp.to/hls/MTVEast/tracks-v2a1/mono.m3u8
+https://v12.thetvapp.to/hls/MTVEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png" group-title="LIVE TV CHANNELS",Marquee Sports Network
-https://v15.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png" group-title="LIVE TV CHANNELS",Marquee Sports Network (SD)
-https://v15.thetvapp.to/hls/marquee-sports-network/tracks-v2a1/mono.m3u8
+https://v4.thetvapp.to/hls/marquee-sports-network/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="LIVE TV CHANNELS",MeTV Toons (WJLP2) New Jersey
-https://v4.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="LIVE TV CHANNELS",MeTV Toons (WJLP2) New Jersey (SD)
-https://v4.thetvapp.to/hls/metv-toons/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/metv-toons/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-us.png" group-title="LIVE TV CHANNELS",MeTV Wjlp New Jersey New York
-https://v13.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v1a1/mono.m3u8
+https://v12.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-us.png" group-title="LIVE TV CHANNELS",MeTV Wjlp New Jersey New York (SD)
-https://v13.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v2a1/mono.m3u8
+https://v12.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png" group-title="LIVE TV CHANNELS",Midatlantic Sports Network
 https://v13.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png" group-title="LIVE TV CHANNELS",Midatlantic Sports Network (SD)
@@ -8678,280 +8678,286 @@ https://v13.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/monumental-sports-network-us.png" group-title="LIVE TV CHANNELS",Monumental Sports Network (SD)
 https://v13.thetvapp.to/hls/monumental-sports-network/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="LIVE TV CHANNELS",CINEMAX MOREMAX Eastern
-https://v8.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="LIVE TV CHANNELS",CINEMAX MOREMAX Eastern (SD)
-https://v8.thetvapp.to/hls/MoreMaxEast/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/MoreMaxEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="LIVE TV CHANNELS",Motor Trend HD
-https://v8.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="LIVE TV CHANNELS",Motor Trend HD (SD)
-https://v8.thetvapp.to/hls/Motortrend/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/Motortrend/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png" group-title="LIVE TV CHANNELS",MovieMax (Max 6) - East
-https://v16.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png" group-title="LIVE TV CHANNELS",MovieMax (Max 6) - East (SD)
-https://v16.thetvapp.to/hls/MovieMaxEast/tracks-v2a1/mono.m3u8
+https://v4.thetvapp.to/hls/MovieMaxEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="LIVE TV CHANNELS",NBA TV USA
-https://v3.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
+https://v13.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="LIVE TV CHANNELS",NBA TV USA (SD)
-https://v3.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8
+https://v13.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png" group-title="LIVE TV CHANNELS",.CA.us",NBC (KNBC) Los Angeles
 https://v16.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png" group-title="LIVE TV CHANNELS",.CA.us",NBC (KNBC) Los Angeles (SD)
 https://v16.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="LIVE TV CHANNELS",.NY.us",NBC (WNBC) New York, NY
-https://v1.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="LIVE TV CHANNELS",.NY.us",NBC (WNBC) New York, NY (SD)
-https://v1.thetvapp.to/hls/WNBCDT1/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/WNBCDT1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="LIVE TV CHANNELS",NBC Sports Bay Area
-https://v14.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8
+https://v1.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="LIVE TV CHANNELS",NBC Sports Bay Area (SD)
-https://v14.thetvapp.to/hls/nbc-sports-bay-area/tracks-v2a1/mono.m3u8
+https://v1.thetvapp.to/hls/nbc-sports-bay-area/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="LIVE TV CHANNELS",NBC Sports Boston
-https://v15.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="LIVE TV CHANNELS",NBC Sports Boston (SD)
-https://v15.thetvapp.to/hls/nbc-sports-boston/tracks-v2a1/mono.m3u8
+https://v8.thetvapp.to/hls/nbc-sports-boston/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" group-title="LIVE TV CHANNELS",NBC Sports California
-https://v13.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8
+https://v17.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" group-title="LIVE TV CHANNELS",NBC Sports California (SD)
-https://v13.thetvapp.to/hls/nbc-sports-california/tracks-v2a1/mono.m3u8
+https://v17.thetvapp.to/hls/nbc-sports-california/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" group-title="LIVE TV CHANNELS",NBC Sports Philadelphia
-https://v12.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" group-title="LIVE TV CHANNELS",NBC Sports Philadelphia (SD)
-https://v12.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v2a1/mono.m3u8
+https://v8.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="LIVE TV CHANNELS",NFL Network
-https://v18.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="LIVE TV CHANNELS",NFL Network (SD)
-https://v18.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="LIVE TV CHANNELS",NFL RedZone
-https://v8.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/NFLNetwork/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="LIVE TV CHANNELS",NFL RedZone (SD)
-https://v8.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8
+https://v2.thetvapp.to/hls/NFLRedZone/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="LIVE TV CHANNELS",NHL Network USA
-https://v14.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="LIVE TV CHANNELS",NHL Network USA (SD)
-https://v14.thetvapp.to/hls/NHLNetwork/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/NHLNetwork/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="LIVE TV CHANNELS",National Geographic US - Eastern
-https://v3.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
+https://v17.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="LIVE TV CHANNELS",National Geographic US - Eastern (SD)
-https://v3.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8
+https://v17.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="LIVE TV CHANNELS",National Geographic Wild
-https://v17.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="LIVE TV CHANNELS",National Geographic Wild (SD)
-https://v17.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8
+https://v8.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nesn-us.png" group-title="LIVE TV CHANNELS",New England Sports Network
 https://v3.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nesn-us.png" group-title="LIVE TV CHANNELS",New England Sports Network (SD)
 https://v3.thetvapp.to/hls/new-england-sports-network/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png" group-title="LIVE TV CHANNELS",Newsmax TV
-https://v4.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8
+https://v12.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png" group-title="LIVE TV CHANNELS",Newsmax TV (SD)
-https://v4.thetvapp.to/hls/NewsmaxTV/tracks-v2a1/mono.m3u8
+https://v12.thetvapp.to/hls/NewsmaxTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="LIVE TV CHANNELS",NICK JR. - East
-https://v13.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="LIVE TV CHANNELS",NICK JR. - East (SD)
-https://v13.thetvapp.to/hls/NickJrEast/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/NickJrEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="LIVE TV CHANNELS",Nickelodeon USA - East Feed
-https://v5.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="LIVE TV CHANNELS",Nickelodeon USA - East Feed (SD)
-https://v5.thetvapp.to/hls/NickelodeonEast/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/NickelodeonEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="LIVE TV CHANNELS",Nicktoons - East
-https://v4.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="LIVE TV CHANNELS",Nicktoons - East (SD)
-https://v4.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="LIVE TV CHANNELS",Oprah Winfrey Network USA Eastern
-https://v8.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="LIVE TV CHANNELS",Oprah Winfrey Network USA Eastern (SD)
-https://v8.thetvapp.to/hls/OWNEast/tracks-v2a1/mono.m3u8
+https://v4.thetvapp.to/hls/OWNEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="LIVE TV CHANNELS",Outdoor Channel US
-https://v14.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8
+https://v18.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="LIVE TV CHANNELS",Outdoor Channel US (SD)
-https://v14.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8
+https://v18.thetvapp.to/hls/OutdoorChannel/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="LIVE TV CHANNELS",Oxygen - Eastern Feed
 https://v5.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="LIVE TV CHANNELS",Oxygen - Eastern Feed (SD)
 https://v5.thetvapp.to/hls/OxygenEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="LIVE TV CHANNELS",PBS (WNET) New York, NY
-https://v4.thetvapp.to/hls/WNET/tracks-v1a1/mono.m3u8
+https://v3.thetvapp.to/hls/WNET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="LIVE TV CHANNELS",PBS (WNET) New York, NY (SD)
-https://v4.thetvapp.to/hls/WNET/tracks-v2a1/mono.m3u8
+https://v3.thetvapp.to/hls/WNET/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="LIVE TV CHANNELS",ReelzChannel
-https://v14.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="LIVE TV CHANNELS",ReelzChannel (SD)
-https://v14.thetvapp.to/hls/Reelz/tracks-v2a1/mono.m3u8
+https://v4.thetvapp.to/hls/Reelz/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="LIVE TV CHANNELS",SEC Network
-https://v4.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="LIVE TV CHANNELS",SEC Network (SD)
-https://v4.thetvapp.to/hls/SECN/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/SECN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png" group-title="LIVE TV CHANNELS",SNY Sportsnet New York Comcast
-https://v17.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png" group-title="LIVE TV CHANNELS",SNY Sportsnet New York Comcast (SD)
-https://v17.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/sny-sportsnet-new-york-comcast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="LIVE TV CHANNELS",Discovery Science
-https://v18.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8
+https://v13.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="LIVE TV CHANNELS",Discovery Science (SD)
-https://v18.thetvapp.to/hls/Science/tracks-v2a1/mono.m3u8
+https://v13.thetvapp.to/hls/Science/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="LIVE TV CHANNELS",Showtime - Eastern Feed
-https://v16.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="LIVE TV CHANNELS",Showtime - Eastern Feed (SD)
-https://v16.thetvapp.to/hls/ShowtimeEast/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/ShowtimeEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="LIVE TV CHANNELS",Showtime 2 - Eastern
+https://v1.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="LIVE TV CHANNELS",Showtime 2 - Eastern (SD)
-https://v2.thetvapp.to/hls/Showtime2East/tracks-v2a1/mono.m3u8
+https://v1.thetvapp.to/hls/Showtime2East/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png" group-title="LIVE TV CHANNELS",Space City Home Network
-https://v18.thetvapp.to/hls/space-city-home-network/tracks-v1a1/mono.m3u8
+https://v3.thetvapp.to/hls/space-city-home-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png" group-title="LIVE TV CHANNELS",Space City Home Network (SD)
-https://v18.thetvapp.to/hls/space-city-home-network/tracks-v2a1/mono.m3u8
+https://v3.thetvapp.to/hls/space-city-home-network/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-la-us.png" group-title="LIVE TV CHANNELS",Spectrum Sportsnet LA
-https://v15.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-la-us.png" group-title="LIVE TV CHANNELS",Spectrum Sportsnet LA (SD)
-https://v15.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png" group-title="LIVE TV CHANNELS",Spectrum Sportsnet
-https://v3.thetvapp.to/hls/spectrum-sportsnet/tracks-v1a1/mono.m3u8
+https://v13.thetvapp.to/hls/spectrum-sportsnet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png" group-title="LIVE TV CHANNELS",Spectrum Sportsnet (SD)
-https://v3.thetvapp.to/hls/spectrum-sportsnet/tracks-v2a1/mono.m3u8
+https://v13.thetvapp.to/hls/spectrum-sportsnet/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="LIVE TV CHANNELS",Sportsnet (East)
-https://v15.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8
+https://v13.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="LIVE TV CHANNELS",Sportsnet (East) (SD)
-https://v15.thetvapp.to/hls/sportsnet-east/tracks-v2a1/mono.m3u8
+https://v13.thetvapp.to/hls/sportsnet-east/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" group-title="LIVE TV CHANNELS",Sportsnet 360
-https://v14.thetvapp.to/hls/sportsnet-360/tracks-v1a1/mono.m3u8
+https://v3.thetvapp.to/hls/sportsnet-360/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" group-title="LIVE TV CHANNELS",Sportsnet 360 (SD)
-https://v14.thetvapp.to/hls/sportsnet-360/tracks-v2a1/mono.m3u8
+https://v3.thetvapp.to/hls/sportsnet-360/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" group-title="LIVE TV CHANNELS",Sportsnet One
-https://v12.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/sportsnet-one/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" group-title="LIVE TV CHANNELS",Sportsnet One (SD)
-https://v12.thetvapp.to/hls/sportsnet-one/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/sportsnet-one/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="LIVE TV CHANNELS",Sportsnet Ontario
+https://v5.thetvapp.to/hls/sportsnet-ontario/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="LIVE TV CHANNELS",Sportsnet Ontario (SD)
-https://v2.thetvapp.to/hls/sportsnet-ontario/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/sportsnet-ontario/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png" group-title="LIVE TV CHANNELS",Sportsnet Pacific
-https://v1.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8
+https://v12.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png" group-title="LIVE TV CHANNELS",Sportsnet Pacific (SD)
-https://v1.thetvapp.to/hls/sportsnet-pacific/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-pittsburgh-us.png" group-title="LIVE TV CHANNELS",SportsNet Pittsburgh
-https://v18.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v1a1/mono.m3u8
+https://v12.thetvapp.to/hls/sportsnet-pacific/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-pittsburgh-us.png" group-title="LIVE TV CHANNELS",SportsNet Pittsburgh (SD)
-https://v18.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v2a1/mono.m3u8
+https://v2.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="LIVE TV CHANNELS",Sportsnet West
-https://v4.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8
+https://v1.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="LIVE TV CHANNELS",Sportsnet West (SD)
-https://v4.thetvapp.to/hls/sportsnet-west/tracks-v2a1/mono.m3u8
+https://v1.thetvapp.to/hls/sportsnet-west/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="LIVE TV CHANNELS",Starz - Eastern
-https://v3.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
+https://v18.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="LIVE TV CHANNELS",Starz - Eastern (SD)
-https://v3.thetvapp.to/hls/StarzEast/tracks-v2a1/mono.m3u8
+https://v18.thetvapp.to/hls/StarzEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="LIVE TV CHANNELS",SundanceTV USA - East
-https://v15.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="LIVE TV CHANNELS",SundanceTV USA - East (SD)
-https://v15.thetvapp.to/hls/SundanceTVEast/tracks-v2a1/mono.m3u8
+https://v8.thetvapp.to/hls/SundanceTVEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="LIVE TV CHANNELS",SYFY - Eastern Feed
-https://v15.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="LIVE TV CHANNELS",SYFY - Eastern Feed (SD)
-https://v15.thetvapp.to/hls/SyfyEast/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/SyfyEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="LIVE TV CHANNELS",TBS - East
-https://v14.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
+https://v18.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="LIVE TV CHANNELS",TBS - East (SD)
-https://v14.thetvapp.to/hls/TBSEast/tracks-v2a1/mono.m3u8
+https://v18.thetvapp.to/hls/TBSEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="LIVE TV CHANNELS",TLC USA - Eastern
-https://v4.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="LIVE TV CHANNELS",TLC USA - Eastern (SD)
-https://v4.thetvapp.to/hls/TLCEast/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" group-title="LIVE TV CHANNELS",TMC Channel (US) - Eastern Feed
-https://v18.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/TLCEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" group-title="LIVE TV CHANNELS",TMC Channel (US) - Eastern Feed (SD)
-https://v18.thetvapp.to/hls/TheMovieChannelEast/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="LIVE TV CHANNELS",TNT - Eastern Feed
-https://v1.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
+https://v2.thetvapp.to/hls/TheMovieChannelEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="LIVE TV CHANNELS",TNT - Eastern Feed (SD)
-https://v1.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8
+https://v2.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="LIVE TV CHANNELS",TSN 1
-https://v3.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="LIVE TV CHANNELS",TSN 1 (SD)
-https://v3.thetvapp.to/hls/tsn1/tracks-v2a1/mono.m3u8
+https://v8.thetvapp.to/hls/tsn1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="LIVE TV CHANNELS",TSN 2
-https://v8.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
+https://v13.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="LIVE TV CHANNELS",TSN 2 (SD)
-https://v8.thetvapp.to/hls/tsn2/tracks-v2a1/mono.m3u8
+https://v13.thetvapp.to/hls/tsn2/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="LIVE TV CHANNELS",TSN 3
-https://v5.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
+https://v1.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="LIVE TV CHANNELS",TSN 3 (SD)
-https://v5.thetvapp.to/hls/tsn3/tracks-v2a1/mono.m3u8
+https://v1.thetvapp.to/hls/tsn3/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="LIVE TV CHANNELS",TSN 4
-https://v14.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
+https://v17.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="LIVE TV CHANNELS",TSN 4 (SD)
-https://v14.thetvapp.to/hls/tsn4/tracks-v2a1/mono.m3u8
+https://v17.thetvapp.to/hls/tsn4/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="LIVE TV CHANNELS",TSN 5
-https://v17.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="LIVE TV CHANNELS",TSN 5 (SD)
-https://v17.thetvapp.to/hls/tsn5/tracks-v2a1/mono.m3u8
+https://v4.thetvapp.to/hls/tsn5/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png" group-title="LIVE TV CHANNELS",TV Land Eastern
-https://v12.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png" group-title="LIVE TV CHANNELS",TV Land Eastern (SD)
-https://v12.thetvapp.to/hls/tv-land-eastern/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/tv-land-eastern/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png" group-title="LIVE TV CHANNELS",TV ONE
-https://v8.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png" group-title="LIVE TV CHANNELS",TV ONE (SD)
-https://v8.thetvapp.to/hls/TVOne/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/TVOne/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="LIVE TV CHANNELS",TeenNick - Eastern
+https://v18.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="LIVE TV CHANNELS",TeenNick - Eastern (SD)
-https://v2.thetvapp.to/hls/TeenNickEast/tracks-v2a1/mono.m3u8
+https://v18.thetvapp.to/hls/TeenNickEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="LIVE TV CHANNELS",Telemundo - Eastern Feed
-https://v18.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="LIVE TV CHANNELS",Telemundo - Eastern Feed (SD)
-https://v18.thetvapp.to/hls/TelemundoEast/tracks-v2a1/mono.m3u8
+https://v8.thetvapp.to/hls/TelemundoEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="LIVE TV CHANNELS",The Cooking Channel
-https://v5.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
+https://v18.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="LIVE TV CHANNELS",The Cooking Channel (SD)
-https://v5.thetvapp.to/hls/CookingChannel/tracks-v2a1/mono.m3u8
+https://v18.thetvapp.to/hls/CookingChannel/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="LIVE TV CHANNELS",The Tennis Channel
+https://v15.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="LIVE TV CHANNELS",The Tennis Channel (SD)
-https://v2.thetvapp.to/hls/TennisChannel/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/TennisChannel/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="LIVE TV CHANNELS",The Weather Channel
-https://v5.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8
+https://v1.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="LIVE TV CHANNELS",The Weather Channel (SD)
-https://v5.thetvapp.to/hls/TheWeatherChannel/tracks-v2a1/mono.m3u8
+https://v1.thetvapp.to/hls/TheWeatherChannel/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="LIVE TV CHANNELS",Travel Channel US - East
-https://v17.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8
+https://v8.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="LIVE TV CHANNELS",Travel Channel US - East (SD)
-https://v17.thetvapp.to/hls/TravelChannelEast/tracks-v2a1/mono.m3u8
+https://v8.thetvapp.to/hls/TravelChannelEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="LIVE TV CHANNELS",Turner Classic Movies USA
-https://v16.thetvapp.to/hls/TCMEast/tracks-v1a1/mono.m3u8
+https://v3.thetvapp.to/hls/TCMEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="LIVE TV CHANNELS",Turner Classic Movies USA (SD)
-https://v16.thetvapp.to/hls/TCMEast/tracks-v2a1/mono.m3u8
+https://v3.thetvapp.to/hls/TCMEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="LIVE TV CHANNELS",USA Network - East Feed
-https://v8.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8
+https://v17.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="LIVE TV CHANNELS",USA Network - East Feed (SD)
-https://v8.thetvapp.to/hls/USANetworkEast/tracks-v2a1/mono.m3u8
+https://v17.thetvapp.to/hls/USANetworkEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png" group-title="LIVE TV CHANNELS",Universal Kids
-https://v15.thetvapp.to/hls/UniversalKidsEast/tracks-v1a1/mono.m3u8
+https://v18.thetvapp.to/hls/UniversalKidsEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png" group-title="LIVE TV CHANNELS",Universal Kids (SD)
-https://v15.thetvapp.to/hls/UniversalKidsEast/tracks-v2a1/mono.m3u8
+https://v18.thetvapp.to/hls/UniversalKidsEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png" group-title="LIVE TV CHANNELS",Univision - Eastern Feed
-https://v17.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png" group-title="LIVE TV CHANNELS",Univision - Eastern Feed (SD)
-https://v17.thetvapp.to/hls/UnivisionEast/tracks-v2a1/mono.m3u8
+https://v15.thetvapp.to/hls/UnivisionEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="LIVE TV CHANNELS",VH1 - Eastern Feed
-https://v8.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="LIVE TV CHANNELS",VH1 - Eastern Feed (SD)
-https://v8.thetvapp.to/hls/VH1East/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/VH1East/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="LIVE TV CHANNELS",VICE
+https://v13.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="LIVE TV CHANNELS",VICE (SD)
-https://v2.thetvapp.to/hls/VICETV/tracks-v2a1/mono.m3u8
+https://v13.thetvapp.to/hls/VICETV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="LIVE TV CHANNELS",WETV (Women's Entertainment) - Eastern
-https://v14.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="LIVE TV CHANNELS",WETV (Women's Entertainment) - Eastern (SD)
-https://v14.thetvapp.to/hls/WeTVEast/tracks-v2a1/mono.m3u8
+https://v4.thetvapp.to/hls/WeTVEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cw/cw-11-wpix-us.png" group-title="LIVE TV CHANNELS",WPIX New York (SUPERSTATION)
-https://v14.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cw/cw-11-wpix-us.png" group-title="LIVE TV CHANNELS",WPIX New York (SUPERSTATION) (SD)
-https://v14.thetvapp.to/hls/WPIX/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/WPIX/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="LIVE TV CHANNELS",YES Network
-https://v18.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="LIVE TV CHANNELS",YES Network (SD)
-https://v18.thetvapp.to/hls/yes-network/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/yes-network/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="LIVE TV CHANNELS",truTV USA - Eastern
-https://v1.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8
+https://v16.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="LIVE TV CHANNELS",truTV USA - Eastern (SD)
-https://v1.thetvapp.to/hls/truTVEast/tracks-v2a1/mono.m3u8
+https://v16.thetvapp.to/hls/truTVEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Golden State Warriors @ Houston Rockets | 2025-05-05T00:35:00Z
-https://v12.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Golden State Warriors @ Houston Rockets | 2025-05-05T00:35:00Z (SD)
-https://v12.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8
+https://v5.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Indiana Pacers @ Cleveland Cavaliers | 2025-05-04T22:05:00Z
+https://v3.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Indiana Pacers @ Cleveland Cavaliers | 2025-05-04T22:05:00Z (SD)
+https://v3.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",St Louis Blues @ Winnipeg Jets | 2025-05-04T23:10:00Z
-https://v3.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
+https://v14.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",St Louis Blues @ Winnipeg Jets | 2025-05-04T23:10:00Z (SD)
-https://v3.thetvapp.to/hls/TBSEast/tracks-v2a1/mono.m3u8
+https://v14.thetvapp.to/hls/TBSEast/tracks-v2a1/mono.m3u8
