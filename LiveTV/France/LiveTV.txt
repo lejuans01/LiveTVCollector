@@ -3438,12 +3438,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=JRs9n065PCMgU2Bd-cEqug&e=1746422603
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=v0wA5NK1-tb5YxUvWvkxSg&e=1746440580
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=JRs9n065PCMgU2Bd-cEqug&e=1746422603
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=v0wA5NK1-tb5YxUvWvkxSg&e=1746440580
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -5752,6 +5752,11 @@ URL: https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 Logo: https://i.ibb.co/cXd3MBV/symkr.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: ROJAVA TV
+URL: https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
+Logo: https://i.ibb.co/cXd3MBV/symkr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: KURD CHANNEL
 URL: https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
 Logo: https://i.ibb.co/cXd3MBV/symkr.png
@@ -6304,6 +6309,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: RTP INTERNACIONAL
 URL: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tvipt/py/rtp_internacional.m3u8
+Logo: https://i.ibb.co/SPR2SDK/RTP.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: RTP INTERNACIONAL
+URL: http://78.128.125.60:9981/play/a00k/index.m3u8
 Logo: https://i.ibb.co/SPR2SDK/RTP.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -7618,7 +7628,7 @@ Logo: https://i.ibb.co/stZxQHF/nessma.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TV2 ALGÉRIE
-URL: https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/index.m3u8
+URL: http://69.64.57.208/canalalgerie/playlist.m3u8
 Logo: https://i.ibb.co/9tsD8WP/TV2Al.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -9820,6 +9830,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 Name: AL SUNNAH TV
 URL: https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 Logo: https://i.ibb.co/MctgDQ8/sunnah.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: AL MAJD HOLY QURAN TV
+URL: https://edge66.magictvbox.com/liveApple/al_majd/index.m3u8
+Logo: https://i.ibb.co/Qj9JJTCZ/amhquran.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: QURAN KAREEM TV
