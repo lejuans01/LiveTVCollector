@@ -5414,7 +5414,7 @@
   {
     "name": "My Cinema Europe",
     "type": "FILM",
-    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8",
+    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8",
     "img": "https://alkhalifitv.github.io/TV/big/mycinemaeurope.png"
   },
   {
@@ -7296,10 +7296,10 @@
     "img": "https://alkhalifitv.github.io/TV/big/axsnow.png"
   },
   {
-    "name": "Fight Network",
+    "name": "PersianaSport",
     "type": "OLAH RAGA",
-    "url": "http://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
-    "img": "https://alkhalifitv.github.io/TV/big/fightnetwork.png"
+    "url": "https://spstr.abntv.live/hls/psstream.m3u8",
+    "img": "http://alkhalifitv.github.io/TV/big/persiana.png"
   },
   {
     "name": "AKTV (720p)",
