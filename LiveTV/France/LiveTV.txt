@@ -3433,12 +3433,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=DMweLwJNbvs3tQWM1GhkLw&e=1746508882
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=0SAb5JJJR5Bj7yh6jh3Hng&e=1746526935
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=DMweLwJNbvs3tQWM1GhkLw&e=1746508882
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=0SAb5JJJR5Bj7yh6jh3Hng&e=1746526935
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -11074,6 +11074,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: MTAVARI ARKHI
 URL: https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
+Logo: https://i.ibb.co/RN3dJQ7/geoflag.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: GDS TV
+URL: http://31.146.5.178:8087/play/a00a/index.m3u8
 Logo: https://i.ibb.co/RN3dJQ7/geoflag.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------

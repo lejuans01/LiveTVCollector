@@ -2918,13 +2918,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=DMweLwJNbvs3tQWM1GhkLw&e=1746508882",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=0SAb5JJJR5Bj7yh6jh3Hng&e=1746526935",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=DMweLwJNbvs3tQWM1GhkLw&e=1746508882",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=0SAb5JJJR5Bj7yh6jh3Hng&e=1746526935",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -12087,6 +12087,12 @@
     "name": "MTAVARI ARKHI",
     "type": "Uncategorized",
     "url": "https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8",
+    "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
+  },
+  {
+    "name": "GDS TV",
+    "type": "Uncategorized",
+    "url": "http://31.146.5.178:8087/play/a00a/index.m3u8",
     "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
   },
   {
