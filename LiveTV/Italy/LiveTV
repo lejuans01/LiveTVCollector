@@ -1116,6 +1116,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png"
   },
   {
+    "name": "Rai 1 HD (720p)",
+    "type": "Undefined",
+    "url": "http://77.83.120.135:8001/play/a11c",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png"
+  },
+  {
     "name": "Rai 2 (576p) [Geo-blocked]",
     "type": "Undefined",
     "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718",

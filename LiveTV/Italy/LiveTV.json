@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-06 22:01:01",
+  "date": "2025-05-07 07:32:46",
   "channels": {
     "Music": [
       {
@@ -1313,6 +1313,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "http://ott-cdn.ucom.am/s29/index.m3u8"
+      },
+      {
+        "name": "Rai 1 HD (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "http://77.83.120.135:8001/play/a11c"
       },
       {
         "name": "Rai 2 (576p) [Geo-blocked]",
