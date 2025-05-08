@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-08 13:55:29",
+  "date": "2025-05-08 21:54:08",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3411,14 +3411,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=JOzJdykoFqrk9dmK-3gQUg&e=1746699828"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Eu9dq1yySu4CP60mngnI4w&e=1746731730"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=JOzJdykoFqrk9dmK-3gQUg&e=1746699828"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Eu9dq1yySu4CP60mngnI4w&e=1746731730"
       },
       {
         "name": "TV8",
