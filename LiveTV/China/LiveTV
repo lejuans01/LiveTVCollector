@@ -4668,6 +4668,42 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Nanchang News & Generalist Channel",
+    "type": "Uncategorized",
+    "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Jiangxi Children's Channel",
+    "type": "Uncategorized",
+    "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Jiangxi Movie Channel",
+    "type": "Uncategorized",
+    "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Jiangxi Public & Agriculture Channel",
+    "type": "Uncategorized",
+    "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Jiangxi Economy & Life Channel",
+    "type": "Uncategorized",
+    "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Jiangxi City Channel",
+    "type": "Uncategorized",
+    "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "CCTV-1 综合",
     "type": "央视频道",
     "url": "http://218.13.14.6:60050/tsfile/live/1001_1.m3u8",
