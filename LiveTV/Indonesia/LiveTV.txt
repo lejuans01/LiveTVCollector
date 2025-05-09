@@ -3985,6 +3985,16 @@ URL: https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/873.m3u8
 Logo: https://vmp-cms.telkomsel.com/sites/default/files/entry/0_t4w6p88r/landscape_carousel_xxhdpi.jpg
 Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
 --------------------------------------------------
+Name: Studio Universal
+URL: https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+Logo: https://w7.pngwing.com/pngs/185/656/png-transparent-universal-studios-logo-universal-orlando-universal-studios-hollywood-universal-s-logo-comcast-studio-miscellaneous-studio-globe.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Drama Channel
+URL: https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
+Logo: https://banner2.cleanpng.com/20180808/fbg/kisspng-logo-drama-uktv-brand-blighty-drama-uktv-logo-d-tv-logo-logowow-5b6b16ba09c953.2614474415337448260401.jpg
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
 Name: AXN East Asia
 URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/AXN/sa_dash/AXN.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg
@@ -4581,11 +4591,6 @@ URL: https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 Logo: https://i.imgur.com/mbW2EWt.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
-Name: MNC Sportstars 2 (WORTH)
-URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-Logo: https://i.imgur.com/bmY7G2P.jpeg
-Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
---------------------------------------------------
 
 Group: OLAHRAGA LUAR
 Name: Prima Sport 1
@@ -4942,6 +4947,16 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 Name: Global Trekker
 URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd|Referer=https://www.visionplus.id/
 Logo: https://dl.dropbox.com/scl/fi/qb2yulbwkwllxm7skeiu4/Global-trekker.jpeg?rlkey=qavgisctg9kzup3vv8shzx2x6&dl=0
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: National Geographic
+URL: http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
+Logo: https://i.pinimg.com/736x/3f/c0/49/3fc04924f2a1832f252977405ac349ad.jpg
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: National Geographic Wild
+URL: http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
+Logo: https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Wild Earth
@@ -5564,23 +5579,28 @@ Logo: https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Sportstars 1
-URL: https://terabit.web.id/media.mpd?id=112&type=dash|Referer=https://www.visionplus.id
-Logo: https://www.mncvision.id/userfiles/image/channel/channel_102.png
+URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+Logo: https://i.imgur.com/OkQzNhc.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Sportstars 2
-URL: https://terabit.web.id/media.mpd?id=113&type=dash|Referer=https://www.visionplus.id
-Logo: https://www.mncvision.id/userfiles/image/channel/channel_98.png
+URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+Logo: https://i.imgur.com/A1hlnLA.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Sportstar 3
+Name: Sportstars 3
 URL: https://terabit.web.id/media.mpd?id=114&type=dash|Referer=https://www.visionplus.id
-Logo: https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png
+Logo: https://i.imgur.com/dIcTZj3.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Sportstar 4
+Name: Sportstars 4
+URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
+Logo: https://i.imgur.com/qUYLcS8.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Soccer Channel
 URL: https://terabit.web.id/media.mpd?id=115&type=dash|Referer=https://www.visionplus.id
-Logo: https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_101.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: SPOTV
@@ -5616,6 +5636,26 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 Name: beIN Sports 3
 URL: https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: BEIN SPORTS EXTRA
+URL: https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+Logo: https://images.pluto.tv/channels/5df975e2b27cf5000921c102/featuredImage.jpg
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: BELLATOR MMA
+URL: http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Logo: https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: GLORY KICKBOXING
+URL: http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Logo: https://sidekickboxing.co.uk/wp-content/uploads/2022/01/Why-Glory-is-the-best-kickboxing-promotion-1024x538-1.webp
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: BOXINGTV
+URL: https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+Logo: https://image.discovery.indazn.com/ca/v2/ca/image?id=1xemxec25qpl917erpqn0oxtra_image-header_pRow_1715780112000
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Sony Sports 1
@@ -5947,7 +5987,7 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 
 Group: TV Nasional Indonesia
 Name: INDOSIAR Liga 1
-URL: https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/cmimiw.m3u8
+URL: http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 Logo: https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/Indosiar.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -5981,14 +6021,9 @@ URL: https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mp
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Trans TV
-URL: https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2108851844_b344100_sleng.m3u8
-Logo: https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TransTV.jpg
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: Trans7 HD
-URL: https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144556368_b744100_sleng.m3u8
-Logo: https://www.mncvision.id/userfiles/image/channel/channel_110.png
+Name: TRANS TV
+URL: https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+Logo: https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: TV ONE HD
@@ -6019,6 +6054,11 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 Name: SindoNews
 URL: https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_84.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Mentari TV
+URL: https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
+Logo: https://images.indihometv.com/logo_mentaritv_small.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: NET TV
