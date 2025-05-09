@@ -144,6 +144,16 @@ URL: https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
+Name: Azteca Guatemala
+URL: https://ch1-tva.duin.dev/hls/stream.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: Azteca Honduras
+URL: https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
 Name: Azteca Internacional
 URL: https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -156,6 +166,11 @@ Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/
 --------------------------------------------------
 Name: Love Nature
 URL: https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: TCS+
+URL: https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
@@ -186,6 +201,11 @@ Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/
 --------------------------------------------------
 Name: MX AYM SPORTS
 URL: https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: MX CLARO SPORTS
+URL: https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
@@ -737,6 +757,21 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
 Group: Movies
+Name: HBO2
+URL: http://190.60.37.154:45000/play/a052/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: WARNER HD OP2
+URL: http://200.59.188.3:8000/play/a00h
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: US CANAL 57
+URL: https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
 Name: Classique TV (360p)
 URL: https://stmv1.srvif.com/classique/classique/playlist.m3u8
 Logo: https://i.imgur.com/rHxcraT.png
@@ -872,104 +907,7 @@ Logo: https://i.imgur.com/vstHOYx.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
-Group: Outdoor
-Name: AgroBrasil TV (720p) [Not 24/7]
-URL: http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-Logo: https://i.imgur.com/aNkP7Zd.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Canal do Criador (1080p)
-URL: https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
-Logo: https://i.imgur.com/k29So6X.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Religious
-Name: Angel TV Portuguese (720p)
-URL: https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelportuguese_all/playlist.m3u8
-Logo: https://i.imgur.com/qKLEGU7.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Fonte TV (1080p) [Not 24/7]
-URL: http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-Logo: https://i.imgur.com/7q2BmNc.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Gospel Movie TV (360p)
-URL: https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-Logo: https://i.imgur.com/cQN3nWt.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: IMPD TV (720p)
-URL: https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-Logo: https://i.imgur.com/23m7LHH.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Evangelizar (480p)
-URL: https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-Logo: https://i.imgur.com/IrYR7Kp.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Gideoes (1080p) [Not 24/7]
-URL: https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
-Logo: https://i.imgur.com/dDomKND.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Maná Brasil (1080p)
-URL: https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-Logo: https://i.imgur.com/AFb712e.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Terceiro Anjo (360p)
-URL: https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
-Logo: https://i.imgur.com/PExKWNv.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Universal (480p)
-URL: https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-Logo: https://i.imgur.com/TIsk5zN.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Series
-Name: TV Series 1 As Panteras (480p)
-URL: https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-Logo: https://i.imgur.com/Ff5mj0o.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Shop
-Name: 1001 Noites (720p) [Not 24/7]
-URL: https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-Logo: https://i.imgur.com/dWA9y2J.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Sports
-Name: Canal do Inter (720p) [Not 24/7]
-URL: https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-Logo: https://i.imgur.com/TQFWEIS.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Combate Global
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-Logo: https://i.imgur.com/ZPYK5jr.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TVMatic Fight (720p)
-URL: http://cdn.tvmatic.net/fight.m3u8
-Logo: https://i.imgur.com/l5PBcKN.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Travel
-Name: TV Paraná Turismo (720p) [Not 24/7]
-URL: http://200.189.113.201/hls/tve.m3u8
-Logo: https://i.imgur.com/I6pKoBd.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Uncategorized
+Group: NonGroup
 Name: Canal 15 Sabinas
 URL: https://cdn.fastocloud.com/leonel.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1032,16 +970,6 @@ Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/
 --------------------------------------------------
 Name: NICK JR
 URL: http://200.59.188.3:8000/play/a044
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: HBO2
-URL: http://190.60.37.154:45000/play/a052/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: WARNER HD OP2
-URL: http://200.59.188.3:8000/play/a00h
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
@@ -1670,16 +1598,6 @@ URL: https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
-Name: Azteca Guatemala
-URL: https://ch1-tva.duin.dev/hls/stream.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: Azteca Honduras
-URL: https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
 Name: Buena TV
 URL: https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2130,11 +2048,6 @@ URL: https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
-Name: TCS+
-URL: https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
 Name: Telecosta
 URL: https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2375,11 +2288,6 @@ URL: https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
-Name: US CANAL 57
-URL: https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
 Name: US AL JAZEERA EN
 URL: https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2457,11 +2365,6 @@ Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/
 --------------------------------------------------
 Name: MX INTERNETV DEPORTES
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: MX CLARO SPORTS
-URL: https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
@@ -3340,6 +3243,20 @@ URL: http://clubtv.link/my0505/phpcode/distro.php?c=pitufo-tv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
+
+Group: Outdoor
+Name: AgroBrasil TV (720p) [Not 24/7]
+URL: http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+Logo: https://i.imgur.com/aNkP7Zd.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: Canal do Criador (1080p)
+URL: https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+Logo: https://i.imgur.com/k29So6X.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+
+Group: Premium
 Name: UNIVERSAL PREMIER
 URL: http://clubtv.link/my0505/phpcode/lista0.php?c=31&token=Tecnoplus11&f=.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -3639,6 +3556,91 @@ Name: Nickelodeon
 URL: http://clubtv.link/my0505/phpcode/lista3.php?c=a038&token=Tecnoplus11&f=.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+
+Group: Religious
+Name: Angel TV Portuguese (720p)
+URL: https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelportuguese_all/playlist.m3u8
+Logo: https://i.imgur.com/qKLEGU7.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: Fonte TV (1080p) [Not 24/7]
+URL: http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+Logo: https://i.imgur.com/7q2BmNc.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: Gospel Movie TV (360p)
+URL: https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+Logo: https://i.imgur.com/cQN3nWt.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: IMPD TV (720p)
+URL: https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+Logo: https://i.imgur.com/23m7LHH.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: TV Evangelizar (480p)
+URL: https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+Logo: https://i.imgur.com/IrYR7Kp.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: TV Gideoes (1080p) [Not 24/7]
+URL: https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+Logo: https://i.imgur.com/dDomKND.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: TV Maná Brasil (1080p)
+URL: https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+Logo: https://i.imgur.com/AFb712e.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: TV Terceiro Anjo (360p)
+URL: https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+Logo: https://i.imgur.com/PExKWNv.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: TV Universal (480p)
+URL: https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+Logo: https://i.imgur.com/TIsk5zN.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+
+Group: Series
+Name: TV Series 1 As Panteras (480p)
+URL: https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+Logo: https://i.imgur.com/Ff5mj0o.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+
+Group: Shop
+Name: 1001 Noites (720p) [Not 24/7]
+URL: https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+Logo: https://i.imgur.com/dWA9y2J.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+
+Group: Sports
+Name: Canal do Inter (720p) [Not 24/7]
+URL: https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+Logo: https://i.imgur.com/TQFWEIS.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: Combate Global
+URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+Logo: https://i.imgur.com/ZPYK5jr.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: TVMatic Fight (720p)
+URL: http://cdn.tvmatic.net/fight.m3u8
+Logo: https://i.imgur.com/l5PBcKN.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+
+Group: Travel
+Name: TV Paraná Turismo (720p) [Not 24/7]
+URL: http://200.189.113.201/hls/tve.m3u8
+Logo: https://i.imgur.com/I6pKoBd.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
 Group: Undefined
