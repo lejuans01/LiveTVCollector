@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-10 13:51:24",
+  "date": "2025-05-11 07:09:35",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3411,14 +3411,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=rZxlTYovKAi3RFzf7bY8bg&e=1746872463"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=aw4EbElZXi_E_HkDyKaiRQ&e=1746941108"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=rZxlTYovKAi3RFzf7bY8bg&e=1746872463"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=aw4EbElZXi_E_HkDyKaiRQ&e=1746941108"
       },
       {
         "name": "TV8",
@@ -17489,13 +17489,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b6397b24-18b0-49c2-80bf-0333ae568e37/5.m3u8"
-      },
-      {
-        "name": "Catfish",
-        "logo": "https://i.imgur.com/2MLfytA.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a2a23a0d700008a6ed7b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799152-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d33cda72-eef1-4ec7-8127-8301aff1d921"
       },
       {
         "name": "Central TV (614p) [Not 24/7]",
