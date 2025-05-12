@@ -1682,6 +1682,11 @@ URL: https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79
 Logo: https://i.ibb.co/svWdczbW/ina.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: QWEST JAZZ
+URL: https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+Logo: https://i.ibb.co/B2Z50vtt/qwest.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: CLUBBING TV
 URL: https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 Logo: https://i.ibb.co/M5P1TMG/clubbing.png
@@ -1872,6 +1877,11 @@ URL: https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b7
 Logo: https://i.ibb.co/kDmhscZ/mgg.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: FIFA+ FR
+URL: https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+Logo: https://i.ibb.co/hFf6hc4T/fifaplus.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: DRIVE AUTO
 URL: https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
 Logo: https://i.ibb.co/Xs1PxZs/driveauto.png
@@ -1944,6 +1954,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: NATURE TIME
 URL: https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+Logo: https://i.ibb.co/HzXTSvk/naturetime.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: NATURE TIME
+URL: https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 Logo: https://i.ibb.co/HzXTSvk/naturetime.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3173,6 +3188,11 @@ Logo: https://i.ibb.co/Bt6frts/trthaber.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: SÖZCÜ TV (backup)
+URL: https://b.fulltvizle.com/sozcu/playlist.m3u8
+Logo: https://i.ibb.co/B40rjP3/szc1.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: SÖZCÜ TV (backup)
 URL: http://185.234.111.229:8000/play/a00y
 Logo: https://i.ibb.co/B40rjP3/szc1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
@@ -3438,12 +3458,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=VTfKleUa1RtbT9WjyJhcGA&e=1746990804
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=4pHQPrjL4ehr3RgMwFyxhg&e=1747027192
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=VTfKleUa1RtbT9WjyJhcGA&e=1746990804
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=4pHQPrjL4ehr3RgMwFyxhg&e=1747027192
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -9843,7 +9863,7 @@ Logo: https://i.ibb.co/f0cKj4S/kareem.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: AL RESALAH
-URL: https://rotana.hibridcdn.net/rotana/risala_net-7Y83PP5adWixDF93/playlist.m3u8
+URL: https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 Logo: https://i.ibb.co/G3xHLRPy/resalah.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -10178,7 +10198,7 @@ Logo: https://i.ibb.co/7W5nWYV/rotanacinema.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: ROTANA CINEMA MASR
-URL: https://rotana.hibridcdn.net/rotana/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+URL: https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 Logo: https://i.ibb.co/7W5nWYV/rotanacinema.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -10223,7 +10243,7 @@ Logo: https://i.ibb.co/207NnrF1/pncdr.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: ROTANA DRAMA
-URL: https://rotana.hibridcdn.net/rotana/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+URL: https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 Logo: https://i.ibb.co/207NnrF1/pncdr.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------

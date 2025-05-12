@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-11 21:50:40",
+  "date": "2025-05-12 07:08:38",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -957,6 +957,13 @@
         "url": "https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8?bpkio_serviceid=fa2e8c4385712f9af3e719ec904b3543"
       },
       {
+        "name": "QWEST JAZZ",
+        "logo": "https://i.ibb.co/B2Z50vtt/qwest.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8"
+      },
+      {
         "name": "CLUBBING TV",
         "logo": "https://i.ibb.co/M5P1TMG/clubbing.png",
         "group": "Uncategorized",
@@ -1223,6 +1230,13 @@
         "url": "https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8"
       },
       {
+        "name": "FIFA+ FR",
+        "logo": "https://i.ibb.co/hFf6hc4T/fifaplus.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8"
+      },
+      {
         "name": "DRIVE AUTO",
         "logo": "https://i.ibb.co/Xs1PxZs/driveauto.png",
         "group": "Uncategorized",
@@ -1326,6 +1340,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8"
+      },
+      {
+        "name": "NATURE TIME",
+        "logo": "https://i.ibb.co/HzXTSvk/naturetime.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8"
       },
       {
         "name": "TRAVEL XP",
@@ -3047,6 +3068,13 @@
         "logo": "https://i.ibb.co/B40rjP3/szc1.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://b.fulltvizle.com/sozcu/playlist.m3u8"
+      },
+      {
+        "name": "SÖZCÜ TV (backup)",
+        "logo": "https://i.ibb.co/B40rjP3/szc1.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "http://185.234.111.229:8000/play/a00y"
       },
       {
@@ -3418,14 +3446,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=VTfKleUa1RtbT9WjyJhcGA&e=1746990804"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=4pHQPrjL4ehr3RgMwFyxhg&e=1747027192"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=VTfKleUa1RtbT9WjyJhcGA&e=1746990804"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=4pHQPrjL4ehr3RgMwFyxhg&e=1747027192"
       },
       {
         "name": "TV8",
@@ -12385,7 +12413,7 @@
         "logo": "https://i.ibb.co/G3xHLRPy/resalah.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://rotana.hibridcdn.net/rotana/risala_net-7Y83PP5adWixDF93/playlist.m3u8"
+        "url": "https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8"
       },
       {
         "name": "AL ISTIQAMA",
@@ -12854,7 +12882,7 @@
         "logo": "https://i.ibb.co/7W5nWYV/rotanacinema.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://rotana.hibridcdn.net/rotana/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8"
+        "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8"
       },
       {
         "name": "ROTANA AFLAM PLUS",
@@ -12917,7 +12945,7 @@
         "logo": "https://i.ibb.co/207NnrF1/pncdr.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://rotana.hibridcdn.net/rotana/drama_net-7Y83PP5adWixDF93/playlist.m3u8"
+        "url": "https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8"
       },
       {
         "name": "ROYA MUSIC",

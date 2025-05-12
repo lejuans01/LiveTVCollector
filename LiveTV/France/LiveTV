@@ -816,6 +816,12 @@
     "img": "https://i.ibb.co/svWdczbW/ina.png"
   },
   {
+    "name": "QWEST JAZZ",
+    "type": "Uncategorized",
+    "url": "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8",
+    "img": "https://i.ibb.co/B2Z50vtt/qwest.png"
+  },
+  {
     "name": "CLUBBING TV",
     "type": "Uncategorized",
     "url": "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8",
@@ -1044,6 +1050,12 @@
     "img": "https://i.ibb.co/kDmhscZ/mgg.png"
   },
   {
+    "name": "FIFA+ FR",
+    "type": "Uncategorized",
+    "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
+    "img": "https://i.ibb.co/hFf6hc4T/fifaplus.jpg"
+  },
+  {
     "name": "DRIVE AUTO",
     "type": "Uncategorized",
     "url": "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8",
@@ -1131,6 +1143,12 @@
     "name": "NATURE TIME",
     "type": "Uncategorized",
     "url": "https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8",
+    "img": "https://i.ibb.co/HzXTSvk/naturetime.jpg"
+  },
+  {
+    "name": "NATURE TIME",
+    "type": "Uncategorized",
+    "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
     "img": "https://i.ibb.co/HzXTSvk/naturetime.jpg"
   },
   {
@@ -2606,6 +2624,12 @@
   {
     "name": "SÖZCÜ TV (backup)",
     "type": "Uncategorized",
+    "url": "https://b.fulltvizle.com/sozcu/playlist.m3u8",
+    "img": "https://i.ibb.co/B40rjP3/szc1.png"
+  },
+  {
+    "name": "SÖZCÜ TV (backup)",
+    "type": "Uncategorized",
     "url": "http://185.234.111.229:8000/play/a00y",
     "img": "https://i.ibb.co/B40rjP3/szc1.png"
   },
@@ -2924,13 +2948,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=VTfKleUa1RtbT9WjyJhcGA&e=1746990804",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=4pHQPrjL4ehr3RgMwFyxhg&e=1747027192",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=VTfKleUa1RtbT9WjyJhcGA&e=1746990804",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=4pHQPrjL4ehr3RgMwFyxhg&e=1747027192",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -10610,7 +10634,7 @@
   {
     "name": "AL RESALAH",
     "type": "Uncategorized",
-    "url": "https://rotana.hibridcdn.net/rotana/risala_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "url": "https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8",
     "img": "https://i.ibb.co/G3xHLRPy/resalah.png"
   },
   {
@@ -11012,7 +11036,7 @@
   {
     "name": "ROTANA CINEMA MASR",
     "type": "Uncategorized",
-    "url": "https://rotana.hibridcdn.net/rotana/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
     "img": "https://i.ibb.co/7W5nWYV/rotanacinema.png"
   },
   {
@@ -11066,7 +11090,7 @@
   {
     "name": "ROTANA DRAMA",
     "type": "Uncategorized",
-    "url": "https://rotana.hibridcdn.net/rotana/drama_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "url": "https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8",
     "img": "https://i.ibb.co/207NnrF1/pncdr.png"
   },
   {
