@@ -982,9 +982,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Uncategorized",SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=fwcUEFIlhtKZlMhL1NzpBA&e=1747077549
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=V2uQ9rQR-zQg3dPDaLeTiw&e=1747113551
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=fwcUEFIlhtKZlMhL1NzpBA&e=1747077549
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=V2uQ9rQR-zQg3dPDaLeTiw&e=1747113551
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
@@ -5051,8 +5051,6 @@ http://51.254.199.122:8080/cdirectTV/index.m3u8
 https://stream.castr.com/615c867def76d75817460129/live_f3bc1800279a11ec89f80341acd6773a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Culture",like Gecko) Mobile/15E148",НТВ Мир (480p) [Not 24/7]
 http://ott-cdn.ucom.am/s17/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="Music",Clubbing TV (720p)
-https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ab6p2SW.png" group-title="Music",DBM (1080p)
 https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F5WNCp0.png" group-title="Music",MCM
@@ -5143,8 +5141,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://rakuten-actionmovies-7-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten Comedy Movies (720p)
 https://rakuten-comedymovies-7-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten Spotlight France (720p)
-https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten Spotlight (720p)
+https://rakuten-spotlight-7-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies",TF1 Séries Films (720p) [Geo-blocked]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQkfRhH.png" group-title="Movies",Wild Side TV

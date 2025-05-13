@@ -624,8 +624,8 @@ URL: https://rakuten-comedymovies-7-fr.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/NJYEYE3.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
-Name: Rakuten Spotlight France (720p)
-URL: https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
+Name: Rakuten Spotlight (720p)
+URL: https://rakuten-spotlight-7-fr.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/NJYEYE3.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
@@ -641,11 +641,6 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 
 Group: Music
-Name: Clubbing TV (720p)
-URL: https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
-Logo: https://i.imgur.com/MyiA92q.png
-Source: https://iptv-org.github.io/iptv/countries/fr.m3u
---------------------------------------------------
 Name: DBM (1080p)
 URL: https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 Logo: https://i.imgur.com/ab6p2SW.png
@@ -3458,12 +3453,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=fwcUEFIlhtKZlMhL1NzpBA&e=1747077549
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=V2uQ9rQR-zQg3dPDaLeTiw&e=1747113551
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=fwcUEFIlhtKZlMhL1NzpBA&e=1747077549
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=V2uQ9rQR-zQg3dPDaLeTiw&e=1747113551
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------

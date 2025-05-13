@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-12 21:54:37",
+  "date": "2025-05-13 06:57:58",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3446,14 +3446,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=fwcUEFIlhtKZlMhL1NzpBA&e=1747077549"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=V2uQ9rQR-zQg3dPDaLeTiw&e=1747113551"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=fwcUEFIlhtKZlMhL1NzpBA&e=1747077549"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=V2uQ9rQR-zQg3dPDaLeTiw&e=1747113551"
       },
       {
         "name": "TV8",
@@ -17761,13 +17761,6 @@
     ],
     "Music": [
       {
-        "name": "Clubbing TV (720p)",
-        "logo": "https://i.imgur.com/MyiA92q.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8"
-      },
-      {
         "name": "DBM (1080p)",
         "logo": "https://i.imgur.com/ab6p2SW.png",
         "group": "Music",
@@ -18095,11 +18088,11 @@
         "url": "https://rakuten-comedymovies-7-fr.samsung.wurl.tv/playlist.m3u8"
       },
       {
-        "name": "Rakuten Spotlight France (720p)",
+        "name": "Rakuten Spotlight (720p)",
         "logo": "https://i.imgur.com/NJYEYE3.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8"
+        "url": "https://rakuten-spotlight-7-fr.samsung.wurl.tv/playlist.m3u8"
       },
       {
         "name": "TF1 Séries Films (720p) [Geo-blocked]",
