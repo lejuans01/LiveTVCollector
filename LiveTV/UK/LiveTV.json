@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-12 21:57:57",
+  "date": "2025-05-13 07:17:14",
   "channels": {
     "News": [
       {
@@ -382,11 +382,11 @@
         "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd"
       },
       {
-        "name": "BBC One",
+        "name": "BBC One (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://x.canlitvapp.com/u-bbc-1/index.m3u8"
+        "url": "https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8"
       },
       {
         "name": "BBC One East (1080p)",
@@ -1148,6 +1148,13 @@
         "url": "https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8"
       },
       {
+        "name": "Dog The Bounty Hunter [Geo-blocked] (1080p)",
+        "logo": "https://i.imgur.com/lMICupK.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8"
+      },
+      {
         "name": "Duck Dynasty",
         "logo": "https://i.imgur.com/vMcSlwm.png",
         "group": "Series",
@@ -1162,11 +1169,32 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8ace332fec00081e7ea2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=733471ce-0ac1-447e-9326-012361ee2487"
       },
       {
+        "name": "Hell's Kitchen (1080p)",
+        "logo": "https://i.imgur.com/P9eT0O9.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Homes Under Hammer (720p)",
+        "logo": "https://i.imgur.com/P5Haaln.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8"
+      },
+      {
         "name": "Inside Crime (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/wvQYWsj.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
+      },
+      {
+        "name": "Mythbusters (1080p)",
+        "logo": "https://i.imgur.com/wzzjvcH.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8"
       },
       {
         "name": "Pluto TV Sherlock (720p)",
@@ -1408,6 +1436,27 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+      },
+      {
+        "name": "Rakuten TV Action Movies (1080p)",
+        "logo": "https://i.imgur.com/NJYEYE3.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+      },
+      {
+        "name": "Rakuten TV Comedy Movies (1080p)",
+        "logo": "https://i.imgur.com/NJYEYE3.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
+      },
+      {
+        "name": "Rakuten TV Drama Movies (1080p)",
+        "logo": "https://i.imgur.com/NJYEYE3.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
       }
     ],
     "Sports": [
@@ -1444,7 +1493,7 @@
         "logo": "https://i.imgur.com/bVQBF6R.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8"
+        "url": "https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8"
       },
       {
         "name": "talkSPORT (1080p)",
@@ -1468,6 +1517,13 @@
         "group": "Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8"
+      },
+      {
+        "name": "Just for Laughs (1080p)",
+        "logo": "https://i.imgur.com/YoK4vcm.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://distributionsjustepourrire-justforlaughstv-1-eu.rakuten.wurl.tv/playlist.m3u8"
       },
       {
         "name": "Pluto TV Classic TV (720p)",
@@ -1567,6 +1623,15 @@
         "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
       }
     ],
+    "Family;Movies": [
+      {
+        "name": "Rakuten TV Family Movies (1080p)",
+        "logo": "https://i.imgur.com/NJYEYE3.png",
+        "group": "Family;Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
+      }
+    ],
     "Weather": [
       {
         "name": "Sky News Weather (720p)",
@@ -1574,6 +1639,15 @@
         "group": "Weather",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
+      }
+    ],
+    "Cooking": [
+      {
+        "name": "Tastemade (1080p)",
+        "logo": "https://i.imgur.com/xP7Ehn8.png",
+        "group": "Cooking",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8"
       }
     ],
     "Documentary;News": [
