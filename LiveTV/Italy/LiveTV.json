@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-12 22:03:24",
+  "date": "2025-05-13 07:34:11",
   "channels": {
     "Music": [
       {
@@ -73,11 +73,11 @@
         "url": "http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test"
       },
       {
-        "name": "Radio Italia Trend",
+        "name": "Radio Italia Trend (720p)",
         "logo": "https://i.imgur.com/HNrKqGM.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8"
+        "url": "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8"
       },
       {
         "name": "Radio Piter Pan TV (720p) [Not 24/7]",
@@ -2289,32 +2289,39 @@
         "url": "http://188.60.179.180:8000/play/xxRaiMOviexx"
       },
       {
-        "name": "Rakuten Action Movies",
-        "logo": "https://i.imgur.com/NJYEYE3.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://rakuten-actionmovies-6-it.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
-        "name": "Rakuten Comedy Movies",
-        "logo": "https://i.imgur.com/NJYEYE3.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
-        "name": "Rakuten Drama",
-        "logo": "https://i.imgur.com/NJYEYE3.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://rakuten-tvshows-6-it.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
         "name": "Rakuten Spotlight",
         "logo": "https://i.imgur.com/NJYEYE3.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://rakuten-spotlight-6-it.samsung.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "Rakuten TV Action Movies (1080p)",
+        "logo": "https://i.imgur.com/NJYEYE3.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+      },
+      {
+        "name": "Rakuten TV Comedy Movies (1080p)",
+        "logo": "https://i.imgur.com/NJYEYE3.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
+      },
+      {
+        "name": "Rakuten TV Drama Movies (1080p)",
+        "logo": "https://i.imgur.com/NJYEYE3.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+      },
+      {
+        "name": "Rakuten TV Top Movies (1080p)",
+        "logo": "https://i.imgur.com/NJYEYE3.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
       }
     ],
     "Business": [
@@ -2704,11 +2711,11 @@
     ],
     "Family;Movies": [
       {
-        "name": "Rakuten Family",
+        "name": "Rakuten TV Family Movies (1080p)",
         "logo": "https://i.imgur.com/NJYEYE3.png",
         "group": "Family;Movies",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8"
+        "url": "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
       }
     ],
     "General;Series": [
