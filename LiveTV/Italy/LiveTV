@@ -60,12 +60,6 @@
     "img": "https://i.imgur.com/zNscEST.png"
   },
   {
-    "name": "Radio Italia Trend (720p)",
-    "type": "Music",
-    "url": "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8",
-    "img": "https://i.imgur.com/HNrKqGM.png"
-  },
-  {
     "name": "Radio Piter Pan TV (720p) [Not 24/7]",
     "type": "Music",
     "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
@@ -2266,12 +2260,6 @@
     "type": "Family",
     "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
     "img": "https://i.imgur.com/yH7n2dF.png"
-  },
-  {
-    "name": "Pluto TV Top Gear",
-    "type": "Auto;Comedy;Entertainment",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c109a4798def0008a6e03e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
-    "img": "https://images.pluto.tv/channels/64c109a4798def0008a6e03e/thumbnail.jpg"
   },
   {
     "name": "Radio Italia Anni 60 TV (720p)",
