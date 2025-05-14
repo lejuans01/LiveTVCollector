@@ -3433,12 +3433,12 @@ Logo: https://i.ibb.co/s9mVqWH/kanald.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: STAR
-URL: https://dogus-live.daioncdn.net/startv/startv.m3u8
+URL: http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 Logo: https://i.ibb.co/DYyDzGV/star22tv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: STAR
-URL: http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+URL: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 Logo: https://i.ibb.co/DYyDzGV/star22tv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3453,12 +3453,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=tvxOsv-84Ygucb48aW3oDw&e=1747218183
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=PrD--HkonjAc1NgY_hPaRA&e=1747250063
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=tvxOsv-84Ygucb48aW3oDw&e=1747218183
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=PrD--HkonjAc1NgY_hPaRA&e=1747250063
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3468,7 +3468,7 @@ Logo: https://i.ibb.co/tXKXNDz/tv8.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TV8
-URL: https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
+URL: https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 Logo: https://i.ibb.co/tXKXNDz/tv8.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3578,7 +3578,7 @@ Logo: https://i.ibb.co/DYyDzGV/star22tv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: STAR (backup)
-URL: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
+URL: https://dogus-live.daioncdn.net/startv/startv.m3u8
 Logo: https://i.ibb.co/DYyDzGV/star22tv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3743,11 +3743,6 @@ Logo: https://i.ibb.co/n1SCYqN/atv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TV8 (backup)
-URL: https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-Logo: https://i.ibb.co/tXKXNDz/tv8.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
-Name: TV8 (backup)
 URL: https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 Logo: https://i.ibb.co/tXKXNDz/tv8.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
@@ -3783,7 +3778,7 @@ Logo: https://i.ibb.co/TB5N8cN/trt2.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: MELTEM TV
-URL: https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+URL: http://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 Logo: https://i.ibb.co/Fq0ZvYG/meltemtvt.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -4103,12 +4098,12 @@ Logo: https://i.ibb.co/Zxd0j45/cartoonnetwork.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: GALATASARAY TV
-URL: https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+URL: http://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 Logo: https://i.ibb.co/SwwjnF5/gstv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: FENERBAHÇE TV
-URL: https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+URL: http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 Logo: https://i.ibb.co/867fC4z/fbtv22a.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -10024,6 +10019,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: MBC 1
 URL: https://mbc1-usa-enc.edgenextcdn.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
+Logo: https://i.ibb.co/N19JFwZ/mbc.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: MBC 1 USA
+URL: https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
 Logo: https://i.ibb.co/N19JFwZ/mbc.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------

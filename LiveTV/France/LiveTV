@@ -2924,13 +2924,13 @@
   {
     "name": "STAR",
     "type": "Uncategorized",
-    "url": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+    "url": "http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8",
     "img": "https://i.ibb.co/DYyDzGV/star22tv.png"
   },
   {
     "name": "STAR",
     "type": "Uncategorized",
-    "url": "http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8",
+    "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8",
     "img": "https://i.ibb.co/DYyDzGV/star22tv.png"
   },
   {
@@ -2948,13 +2948,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=tvxOsv-84Ygucb48aW3oDw&e=1747218183",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=PrD--HkonjAc1NgY_hPaRA&e=1747250063",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=tvxOsv-84Ygucb48aW3oDw&e=1747218183",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=PrD--HkonjAc1NgY_hPaRA&e=1747250063",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -2966,7 +2966,7 @@
   {
     "name": "TV8",
     "type": "Uncategorized",
-    "url": "https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8",
+    "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8",
     "img": "https://i.ibb.co/tXKXNDz/tv8.png"
   },
   {
@@ -3098,7 +3098,7 @@
   {
     "name": "STAR (backup)",
     "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8",
+    "url": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
     "img": "https://i.ibb.co/DYyDzGV/star22tv.png"
   },
   {
@@ -3296,12 +3296,6 @@
   {
     "name": "TV8 (backup)",
     "type": "Uncategorized",
-    "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8",
-    "img": "https://i.ibb.co/tXKXNDz/tv8.png"
-  },
-  {
-    "name": "TV8 (backup)",
-    "type": "Uncategorized",
     "url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
     "img": "https://i.ibb.co/tXKXNDz/tv8.png"
   },
@@ -3344,7 +3338,7 @@
   {
     "name": "MELTEM TV",
     "type": "Uncategorized",
-    "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
+    "url": "http://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
     "img": "https://i.ibb.co/Fq0ZvYG/meltemtvt.png"
   },
   {
@@ -3728,13 +3722,13 @@
   {
     "name": "GALATASARAY TV",
     "type": "Uncategorized",
-    "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8",
+    "url": "http://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8",
     "img": "https://i.ibb.co/SwwjnF5/gstv.png"
   },
   {
     "name": "FENERBAHÇE TV",
     "type": "Uncategorized",
-    "url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+    "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
     "img": "https://i.ibb.co/867fC4z/fbtv22a.png"
   },
   {
@@ -10833,6 +10827,12 @@
     "name": "MBC 1",
     "type": "Uncategorized",
     "url": "https://mbc1-usa-enc.edgenextcdn.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8",
+    "img": "https://i.ibb.co/N19JFwZ/mbc.png"
+  },
+  {
+    "name": "MBC 1 USA",
+    "type": "Uncategorized",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8",
     "img": "https://i.ibb.co/N19JFwZ/mbc.png"
   },
   {
