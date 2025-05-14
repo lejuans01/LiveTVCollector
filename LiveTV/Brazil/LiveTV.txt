@@ -380,6 +380,13 @@ Logo: https://i.imgur.com/crszh3d.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
+Group: Entertainment;Family;General;News
+Name: TV Paraense (720p)
+URL: https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+Logo: https://duckduckgo.com/i/e408ea02.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+
 Group: Entertainment;Lifestyle;Music
 Name: Spectrum Channel (720p)
 URL: https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
@@ -502,6 +509,11 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 Name: Primer TV (1080p)
 URL: http://200.194.238.229:8383/live/primer/playlist.m3u8
 Logo: https://i.imgur.com/PMptSP3.png
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+Name: RBATV (720p)
+URL: https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+Logo: https://i.imgur.com/ZWFxlU1.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: Record TV Belem (720p) [Geo-blocked]

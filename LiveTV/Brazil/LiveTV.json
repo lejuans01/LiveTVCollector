@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-13 21:44:17",
+  "date": "2025-05-14 06:25:14",
   "channels": {
     "": [
       {
@@ -5212,6 +5212,13 @@
         "url": "http://200.194.238.229:8383/live/primer/playlist.m3u8"
       },
       {
+        "name": "RBATV (720p)",
+        "logo": "https://i.imgur.com/ZWFxlU1.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
+      },
+      {
         "name": "Record TV Belem (720p) [Geo-blocked]",
         "logo": "https://i.imgur.com/gEEiN10.png",
         "group": "General",
@@ -6229,6 +6236,15 @@
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8"
+      }
+    ],
+    "Entertainment;Family;General;News": [
+      {
+        "name": "TV Paraense (720p)",
+        "logo": "https://duckduckgo.com/i/e408ea02.png",
+        "group": "Entertainment;Family;General;News",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
       }
     ],
     "Travel": [
