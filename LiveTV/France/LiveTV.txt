@@ -3453,12 +3453,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=PrD--HkonjAc1NgY_hPaRA&e=1747250063
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=SL7Svszto2CD-TtCYYx4ZA&e=1747286258
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=PrD--HkonjAc1NgY_hPaRA&e=1747250063
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=SL7Svszto2CD-TtCYYx4ZA&e=1747286258
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -12027,6 +12027,11 @@ URL: https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 Logo: https://i.ibb.co/jJDxCxN/abc.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: ABC NEWS
+URL: https://livetv-fa.tubi.video/abc-news/index.m3u8
+Logo: https://i.ibb.co/jJDxCxN/abc.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: CBS NEWS
 URL: https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 Logo: https://i.ibb.co/YD3G64y/cbs.jpg
@@ -12034,6 +12039,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: CBS NEWS
 URL: https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
+Logo: https://i.ibb.co/YD3G64y/cbs.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: CBS NEWS
+URL: https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 Logo: https://i.ibb.co/YD3G64y/cbs.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -12063,7 +12073,7 @@ Logo: https://i.ibb.co/FxZYHhM/cnbc.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: CNBC NEWS
-URL: https://new.cache-stream.workers.dev/stream/UCvJJ_dzjViJCoLf5uKUTwoA/live.m3u8
+URL: http://fl3.moveonjoy.com/CNBC/index.m3u8
 Logo: https://i.ibb.co/FxZYHhM/cnbc.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -12399,6 +12409,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: EURONEWS EN
 URL: https://euronews-euronews-world-1-us.plex.wurl.tv/playlist.m3u8
+Logo: https://i.ibb.co/R4xVMYc/enews.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: EURONEWS EN
+URL: https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
 Logo: https://i.ibb.co/R4xVMYc/enews.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------

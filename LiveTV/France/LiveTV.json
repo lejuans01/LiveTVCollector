@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-14 21:53:39",
+  "date": "2025-05-15 06:54:56",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3446,14 +3446,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=PrD--HkonjAc1NgY_hPaRA&e=1747250063"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=SL7Svszto2CD-TtCYYx4ZA&e=1747286258"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=PrD--HkonjAc1NgY_hPaRA&e=1747250063"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=SL7Svszto2CD-TtCYYx4ZA&e=1747286258"
       },
       {
         "name": "TV8",
@@ -15447,6 +15447,13 @@
         "url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8"
       },
       {
+        "name": "ABC NEWS",
+        "logo": "https://i.ibb.co/jJDxCxN/abc.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://livetv-fa.tubi.video/abc-news/index.m3u8"
+      },
+      {
         "name": "CBS NEWS",
         "logo": "https://i.ibb.co/YD3G64y/cbs.jpg",
         "group": "Uncategorized",
@@ -15459,6 +15466,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8"
+      },
+      {
+        "name": "CBS NEWS",
+        "logo": "https://i.ibb.co/YD3G64y/cbs.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8"
       },
       {
         "name": "CBS NEWS",
@@ -15500,7 +15514,7 @@
         "logo": "https://i.ibb.co/FxZYHhM/cnbc.jpg",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://new.cache-stream.workers.dev/stream/UCvJJ_dzjViJCoLf5uKUTwoA/live.m3u8"
+        "url": "http://fl3.moveonjoy.com/CNBC/index.m3u8"
       },
       {
         "name": "CHEDDAR NEWS",
@@ -15970,6 +15984,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://euronews-euronews-world-1-us.plex.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "EURONEWS EN",
+        "logo": "https://i.ibb.co/R4xVMYc/enews.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8"
       },
       {
         "name": "EURONEWS EN",

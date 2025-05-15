@@ -2948,13 +2948,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=PrD--HkonjAc1NgY_hPaRA&e=1747250063",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=SL7Svszto2CD-TtCYYx4ZA&e=1747286258",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=PrD--HkonjAc1NgY_hPaRA&e=1747250063",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=SL7Svszto2CD-TtCYYx4ZA&e=1747286258",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -13236,6 +13236,12 @@
     "img": "https://i.ibb.co/jJDxCxN/abc.jpg"
   },
   {
+    "name": "ABC NEWS",
+    "type": "Uncategorized",
+    "url": "https://livetv-fa.tubi.video/abc-news/index.m3u8",
+    "img": "https://i.ibb.co/jJDxCxN/abc.jpg"
+  },
+  {
     "name": "CBS NEWS",
     "type": "Uncategorized",
     "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
@@ -13245,6 +13251,12 @@
     "name": "CBS NEWS",
     "type": "Uncategorized",
     "url": "https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8",
+    "img": "https://i.ibb.co/YD3G64y/cbs.jpg"
+  },
+  {
+    "name": "CBS NEWS",
+    "type": "Uncategorized",
+    "url": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
     "img": "https://i.ibb.co/YD3G64y/cbs.jpg"
   },
   {
@@ -13280,7 +13292,7 @@
   {
     "name": "CNBC NEWS",
     "type": "Uncategorized",
-    "url": "https://new.cache-stream.workers.dev/stream/UCvJJ_dzjViJCoLf5uKUTwoA/live.m3u8",
+    "url": "http://fl3.moveonjoy.com/CNBC/index.m3u8",
     "img": "https://i.ibb.co/FxZYHhM/cnbc.jpg"
   },
   {
@@ -13683,6 +13695,12 @@
     "name": "EURONEWS EN",
     "type": "Uncategorized",
     "url": "https://euronews-euronews-world-1-us.plex.wurl.tv/playlist.m3u8",
+    "img": "https://i.ibb.co/R4xVMYc/enews.png"
+  },
+  {
+    "name": "EURONEWS EN",
+    "type": "Uncategorized",
+    "url": "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
     "img": "https://i.ibb.co/R4xVMYc/enews.png"
   },
   {
