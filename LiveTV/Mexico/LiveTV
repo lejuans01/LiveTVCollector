@@ -2442,6 +2442,18 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "MyTime Movie",
+    "type": "NonGroup",
+    "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ZAZ",
+    "type": "NonGroup",
+    "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Estilo y Vida – Rakuten TV",
     "type": "NonGroup",
     "url": "https://jmp2.uk/sam-ES26000068D.m3u8",
@@ -3064,12 +3076,6 @@
     "type": "Movies",
     "url": "https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8",
     "img": "https://i.imgur.com/JMa7jws.png"
-  },
-  {
-    "name": "MyTime Movie Network Mexico (720p)",
-    "type": "Movies",
-    "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/pw4NZK1.png"
   },
   {
     "name": "UNIVERSAL PREMIER",
@@ -4582,12 +4588,6 @@
     "type": "Entertainment",
     "url": "https://stream8.mexiserver.com:1936/xtinetwork/xtinetwork/playlist.m3u8",
     "img": "https://i.imgur.com/kmon7tS.jpg"
-  },
-  {
-    "name": "ZAZ",
-    "type": "Entertainment",
-    "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8",
-    "img": "https://i.imgur.com/CMMEIq3_d.jpg"
   },
   {
     "name": "Canal 15 ILCE Summa Sabres (720p)",

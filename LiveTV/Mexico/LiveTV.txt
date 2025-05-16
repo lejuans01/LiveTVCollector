@@ -337,11 +337,6 @@ URL: https://stream8.mexiserver.com:1936/xtinetwork/xtinetwork/playlist.m3u8
 Logo: https://i.imgur.com/kmon7tS.jpg
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: ZAZ
-URL: https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-Logo: https://i.imgur.com/CMMEIq3_d.jpg
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 
 Group: Entertainment;Family
 Name: Estrella Games (1080p)
@@ -871,11 +866,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: Golden Premier (576p)
 URL: https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 Logo: https://i.imgur.com/JMa7jws.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: MyTime Movie Network Mexico (720p)
-URL: https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/pw4NZK1.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
@@ -2936,6 +2926,16 @@ Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/
 --------------------------------------------------
 Name: LCDLF 2
 URL: https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: MyTime Movie
+URL: https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: ZAZ
+URL: https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
