@@ -71,3 +71,5 @@ https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Bu
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/salam_hd.m3u8
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-title="Malaysia",SIAR
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/siar.m3u8
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png" group-title="Malaysia",Parlimen Malaysia
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-MY/parlimen_malaysia.m3u8
