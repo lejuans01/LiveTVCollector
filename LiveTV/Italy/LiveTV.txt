@@ -1171,11 +1171,6 @@ URL: https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playl
 Logo: https://i.imgur.com/n2u57y3.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: RTL 102.5 News (1080p)
-URL: https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-Logo: https://i.imgur.com/5Sh1tWu.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
 Name: TCF TV (720p)
 URL: http://live.sloode.com:1935/tcf_live/telecineforum/playlist.m3u8
 Logo: https://i.imgur.com/OeLOX8x.png
@@ -1251,11 +1246,6 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 
 Group: Radio
-Name: RTL 102.5
-URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png
-Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u
---------------------------------------------------
 Name: Radio 105 TV
 URL: https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 Logo: https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png
@@ -1938,32 +1928,22 @@ Logo: https://i.imgur.com/NnFopuS.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: RTL 102.5 Best (1080p)
-URL: https://streamcdnb7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 Logo: https://i.imgur.com/ahWJwvT.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: RTL 102.5 Bro&Sis (1080p)
-URL: https://streamcdnb6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist.m3u8
+URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
 Logo: https://i.imgur.com/1ZutMTJ.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: RTL 102.5 Doc (1080p)
-URL: https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
-Logo: https://i.imgur.com/1gAeWPP.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
 Name: RTL 102.5 Napulé (1080p)
-URL: https://streamcdnb5-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
 Logo: https://i.imgur.com/jFD0oOD.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: RTL 102.5 Romeo&Juliet (1080p)
-URL: https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
-Logo: https://i.imgur.com/MKWjSef.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
 Name: RTL 102.5 TV (1080p)
-URL: https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 Logo: https://i.imgur.com/75qUdR7.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------

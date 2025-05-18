@@ -852,12 +852,6 @@
     "img": "https://i.imgur.com/n2u57y3.png"
   },
   {
-    "name": "RTL 102.5 News (1080p)",
-    "type": "News",
-    "url": "https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8",
-    "img": "https://i.imgur.com/5Sh1tWu.png"
-  },
-  {
     "name": "TCF TV (720p)",
     "type": "News",
     "url": "http://live.sloode.com:1935/tcf_live/telecineforum/playlist.m3u8",
@@ -1256,37 +1250,25 @@
   {
     "name": "RTL 102.5 Best (1080p)",
     "type": "Undefined",
-    "url": "https://streamcdnb7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8",
     "img": "https://i.imgur.com/ahWJwvT.png"
   },
   {
     "name": "RTL 102.5 Bro&Sis (1080p)",
     "type": "Undefined",
-    "url": "https://streamcdnb6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist.m3u8",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8",
     "img": "https://i.imgur.com/1ZutMTJ.png"
-  },
-  {
-    "name": "RTL 102.5 Doc (1080p)",
-    "type": "Undefined",
-    "url": "https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8",
-    "img": "https://i.imgur.com/1gAeWPP.png"
   },
   {
     "name": "RTL 102.5 Napulé (1080p)",
     "type": "Undefined",
-    "url": "https://streamcdnb5-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8",
     "img": "https://i.imgur.com/jFD0oOD.png"
-  },
-  {
-    "name": "RTL 102.5 Romeo&Juliet (1080p)",
-    "type": "Undefined",
-    "url": "https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8",
-    "img": "https://i.imgur.com/MKWjSef.png"
   },
   {
     "name": "RTL 102.5 TV (1080p)",
     "type": "Undefined",
-    "url": "https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8",
     "img": "https://i.imgur.com/75qUdR7.png"
   },
   {
@@ -2602,12 +2584,6 @@
     "type": "Discovery",
     "url": "https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8",
     "img": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png"
-  },
-  {
-    "name": "RTL 102.5",
-    "type": "Radio",
-    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8",
-    "img": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png"
   },
   {
     "name": "Radio 105 TV",

@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-17 21:59:05",
+  "date": "2025-05-18 07:40:20",
   "channels": {
     "Music": [
       {
@@ -1005,13 +1005,6 @@
         "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8"
       },
       {
-        "name": "RTL 102.5 News (1080p)",
-        "logo": "https://i.imgur.com/5Sh1tWu.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
-      },
-      {
         "name": "TCF TV (720p)",
         "logo": "https://i.imgur.com/OeLOX8x.png",
         "group": "News",
@@ -1480,42 +1473,28 @@
         "logo": "https://i.imgur.com/ahWJwvT.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://streamcdnb7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8"
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8"
       },
       {
         "name": "RTL 102.5 Bro&Sis (1080p)",
         "logo": "https://i.imgur.com/1ZutMTJ.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://streamcdnb6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist.m3u8"
-      },
-      {
-        "name": "RTL 102.5 Doc (1080p)",
-        "logo": "https://i.imgur.com/1gAeWPP.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8"
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8"
       },
       {
         "name": "RTL 102.5 Napulé (1080p)",
         "logo": "https://i.imgur.com/jFD0oOD.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://streamcdnb5-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8"
-      },
-      {
-        "name": "RTL 102.5 Romeo&Juliet (1080p)",
-        "logo": "https://i.imgur.com/MKWjSef.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8"
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8"
       },
       {
         "name": "RTL 102.5 TV (1080p)",
         "logo": "https://i.imgur.com/75qUdR7.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
       },
       {
         "name": "RTL (Germany) (576p)",
@@ -3108,13 +3087,6 @@
       }
     ],
     "Radio": [
-      {
-        "name": "RTL 102.5",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png",
-        "group": "Radio",
-        "source": "https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u",
-        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
-      },
       {
         "name": "Radio 105 TV",
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png",
