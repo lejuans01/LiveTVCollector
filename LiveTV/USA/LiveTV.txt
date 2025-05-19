@@ -11675,6 +11675,11 @@ URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1652
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: KVVU-TV FOX 5 (Las Vegas NV)
+URL: http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415679
+Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: KLAS-TV CBS 8 (Las Vegas NV)
 URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1651
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
@@ -16788,33 +16793,28 @@ Source: https://raw.githubusercontent.com/clseibold/tubi-m3u/refs/heads/main/tub
 --------------------------------------------------
 
 Group: Premium Channels
-Name: HBO (West)
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/160
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: HBO (East)
-URL: http://fl5.moveonjoy.com/HBO/index.m3u8
+Name: HBO
+URL: http://1tv41.icu:8080/live/95135258/95135258/46713.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HBO 2
-URL: http://fl5.moveonjoy.com/HBO_2/index.m3u8
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552122&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HBO Signature
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/156
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552116&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HBO Comedy
-URL: http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552120&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HBO Zone
-URL: http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552114&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16824,67 +16824,67 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Cinemax
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/196
+URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134091&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: More Max
-URL: https://tvpass.org/live/MoreMaxEast/hd
+URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134092&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: 5 Star Max
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1605
+URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134088&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Movie Max
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1603
+URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134144&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Outer Max
-URL: http://fl5.moveonjoy.com/OUTER_MAX/index.m3u8
+URL: http://1tv41.icu:8080/live/95135258/95135258/21012.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Thriller Max
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1607
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552056&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Action Max
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1604
+URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134089&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount+ with Showtime
-URL: http://cord-cutter.net:8080/live/JoanP@112/443@112/46214.ts
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552110&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime 2
-URL: http://cord-cutter.net:8080/live/JoanP@112/443@112/13219.ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/13219.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime Extreme
-URL: http://fl3.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552104&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime Next
-URL: http://fl5.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552100&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime (ShoCase)
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1465
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552098&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime Women
-URL: http://fl5.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552096&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16894,7 +16894,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime (Sho X BET)
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1619
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552106&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16909,17 +16909,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz (East)
-URL: http://fl5.moveonjoy.com/STARZ/index.m3u8
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/22918.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Cinema
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1250
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552086&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Comedy
-URL: http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/22921.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16929,32 +16929,37 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Edge
-URL: http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
+URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134174&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Kids & Family
-URL: http://supersonictv.live:8080/live/Sheila/Sheila1/22924.ts
+URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134179&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1468
+URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134176&extension=ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Starz Encore Classic
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/22929.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Suspense
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1249
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/22931.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Action
-URL: http://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552078&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Westerns
-URL: http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134178&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16969,12 +16974,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MGM+
-URL: http://fl5.moveonjoy.com/EPIX/index.m3u8
+URL: http://fortv.cc:8080/live/q8KuDU/354945/13214.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MGM+ Hits
-URL: http://fl5.moveonjoy.com/EPIX_HITS/index.m3u8
+URL: http://fortv.cc:8080/live/q8KuDU/354945/12744.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16984,37 +16989,32 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MGM+ Marquee
-URL: http://lunar.pm:8080/mrjayp/Spectrum2/18205
+URL: http://cord-cutter.net:8080/live/drmajones@gmail.com/J2cg4hzx4s/12730.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MoviePlex
-URL: http://lunar.pm:8080/mrjayp/Spectrum2/98730
+URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134145&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: IndiePlex
-URL: http://lunar.pm:8080/mrjayp/Spectrum2/98727
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: RetroPlex
-URL: http://lunar.pm:8080/mrjayp/Spectrum2/98732
+URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134138&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Sony Movie Channel
-URL: http://lunar.pm:8080/mrjayp/Spectrum2/44026
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552037&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HDNET Movies
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16265
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552040&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: PixL
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21648
+URL: http://cord-cutter.net:8080/live/JoanP@112/443@112/21648.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -21536,6 +21536,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Sky Sport 5 (UK)
 URL: https://donelfantastic.github.io/live/skysportsNz5.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Sky Sport 6 (UK)
+URL: https://donelfantastic.github.io/live/skysportsNz6.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
