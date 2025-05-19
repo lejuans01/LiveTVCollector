@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-18 21:50:14",
+  "date": "2025-05-19 07:10:04",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -619,6 +619,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8"
+      },
+      {
+        "name": "FESTIVAL DE CANNES TV",
+        "logo": "https://i.ibb.co/8rcTV8C/festcannes.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/festival-de-cannes.m3u8"
       },
       {
         "name": "FRANCE TV SÉRIES",
@@ -3446,14 +3453,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=hwEjNRtFjn4rgpWQaj0jUA&e=1747595692"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=rJjegiZ4CBaHl4iTzvaaFQ&e=1747632317"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=hwEjNRtFjn4rgpWQaj0jUA&e=1747595692"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=rJjegiZ4CBaHl4iTzvaaFQ&e=1747632317"
       },
       {
         "name": "TV8",

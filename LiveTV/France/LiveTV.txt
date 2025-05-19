@@ -1449,6 +1449,11 @@ URL: https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ft
 Logo: https://i.ibb.co/N9d4yXt/fr5bl.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: FESTIVAL DE CANNES TV
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/festival-de-cannes.m3u8
+Logo: https://i.ibb.co/8rcTV8C/festcannes.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: FRANCE TV SÉRIES
 URL: https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 Logo: https://i.ibb.co/9rmSGqP/frsr.png
@@ -3465,12 +3470,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=hwEjNRtFjn4rgpWQaj0jUA&e=1747595692
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=rJjegiZ4CBaHl4iTzvaaFQ&e=1747632317
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=hwEjNRtFjn4rgpWQaj0jUA&e=1747595692
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=rJjegiZ4CBaHl4iTzvaaFQ&e=1747632317
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------

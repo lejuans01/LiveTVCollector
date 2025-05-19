@@ -528,6 +528,12 @@
     "img": "https://i.ibb.co/N9d4yXt/fr5bl.png"
   },
   {
+    "name": "FESTIVAL DE CANNES TV",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/festival-de-cannes.m3u8",
+    "img": "https://i.ibb.co/8rcTV8C/festcannes.jpg"
+  },
+  {
     "name": "FRANCE TV SÉRIES",
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8",
@@ -2948,13 +2954,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=hwEjNRtFjn4rgpWQaj0jUA&e=1747595692",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=rJjegiZ4CBaHl4iTzvaaFQ&e=1747632317",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=hwEjNRtFjn4rgpWQaj0jUA&e=1747595692",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=rJjegiZ4CBaHl4iTzvaaFQ&e=1747632317",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
