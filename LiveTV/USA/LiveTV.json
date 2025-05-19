@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-18 21:50:03",
+  "date": "2025-05-19 07:07:56",
   "channels": {
     "Religious": [
       {
@@ -2594,13 +2594,6 @@
         "url": "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8"
       },
       {
-        "name": "FOX News Now (720p)",
-        "logo": "https://i.imgur.com/1JnyzHv.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"
-      },
-      {
         "name": "Fox News Radio (720p)",
         "logo": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
         "group": "News",
@@ -2634,6 +2627,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8"
+      },
+      {
+        "name": "LiveNOW from FOX (720p)",
+        "logo": "https://i.imgur.com/1JnyzHv.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8"
       },
       {
         "name": "like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\",MSNBC (1080p)",
@@ -8681,6 +8681,13 @@
         "url": "http://fl3.moveonjoy.com/Comedy_TV/index.m3u8"
       },
       {
+        "name": "WITZ Comedy TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Comedy",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://wurlbesteverchannels.global.transmit.live/hls/67a3a1377796545fc40611c5/v1/bec_witz_1/lg_us/latest/main/hls/playlist.m3u8"
+      },
+      {
         "name": "Sketchy AF (Pluto TV)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Comedy",
@@ -11831,11 +11838,11 @@
         "url": "http://fl3.moveonjoy.com/Up_Tv/index.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",USA Network East [Geo-blocked]",
+        "name": "USA Network (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/USANetworkEast/index.m3u8"
+        "url": "http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8"
       },
       {
         "name": "Vice East",
@@ -15933,7 +15940,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/210"
+        "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/715"
       },
       {
         "name": "KCAL-TV CBS/Ind. 9 (Los Angeles CA)",
@@ -18047,6 +18054,13 @@
         "url": "https://amg00966-amg00966c9-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c9-amgplt0081/playlist.m3u8"
       },
       {
+        "name": "Crime Thriller",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3JpbWVUaHJpbGxIZXJfSExT/playlist.m3u8"
+      },
+      {
         "name": "FX",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
@@ -18916,7 +18930,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://tvpass.org/live/NicktoonsEast/hd"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/8868"
       },
       {
         "name": "TeenNick",
@@ -19092,6 +19106,13 @@
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319417"
+      },
+      {
+        "name": "Brat TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Children Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg00350-bratstudio-amg00350c1-ottstudios-northamerica-783.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-ottstudiosnorthamerica/playlist.m3u8"
       },
       {
         "name": "FilmRise Kids",
@@ -20581,7 +20602,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319509"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/9145"
       },
       {
         "name": "Telemundo Internacional",
@@ -23576,7 +23597,14 @@
     ],
     "Premium Channels": [
       {
-        "name": "HBO",
+        "name": "HBO (West)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/160"
+      },
+      {
+        "name": "HBO (East)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
@@ -23671,14 +23699,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://tvpass.org/live/ShowtimeEast/hd"
+        "url": "http://cord-cutter.net:8080/live/JoanP@112/443@112/46214.ts"
       },
       {
         "name": "Showtime 2",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://tvpass.org/live/Showtime2East/hd"
+        "url": "http://cord-cutter.net:8080/live/JoanP@112/443@112/13219.ts"
       },
       {
         "name": "Showtime Extreme",
@@ -23748,7 +23776,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17775"
+        "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/1250"
       },
       {
         "name": "Starz Comedy",
@@ -23762,7 +23790,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/58536"
+        "url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134170&extension=ts"
       },
       {
         "name": "Starz Edge",
@@ -23776,7 +23804,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/58535"
+        "url": "http://supersonictv.live:8080/live/Sheila/Sheila1/22924.ts"
       },
       {
         "name": "Starz Encore",
@@ -23811,14 +23839,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/98704"
+        "url": "http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552076&extension=ts"
       },
       {
         "name": "Starz Encore Family",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/1472"
+        "url": "http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552072&extension=ts"
       },
       {
         "name": "MGM+",
@@ -23909,7 +23937,70 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636d46934ea1109a7d205a55.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs"
+        "url": "https://amg02042-ottstudio-amg02042c1-ottstudios-northamerica-1678.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-ottstudiosnorthamerica/playlist.m3u8"
+      },
+      {
+        "name": "VHS+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg02042-ottstudio-amg02042c9-ottstudios-northamerica-1894.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-vhsplus-ottstudiosnorthamerica/playlist.m3u8"
+      },
+      {
+        "name": "Horror+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg02042-ottstudio-amg02042c12-ottstudios-northamerica-1908.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-horrorplus-ottstudiosnorthamerica/playlist.m3u8"
+      },
+      {
+        "name": "Action+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg02042-ottstudio-amg02042c4-ottstudios-northamerica-1765.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-actionplus-ottstudiosnorthamerica/playlist.m3u8"
+      },
+      {
+        "name": "Black Movies+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg02042-ottstudio-amg02042c6-ottstudios-northamerica-1898.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-blackvoicesplus-ottstudiosnorthamerica/playlist.m3u8"
+      },
+      {
+        "name": "Comedy+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg02042-ottstudio-amg02042c5-ottstudios-northamerica-1892.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-ottstudiosnorthamerica/playlist.m3u8"
+      },
+      {
+        "name": "Romance+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg02042-ottstudio-amg02042c10-ottstudios-northamerica-1893.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-romanceplus-ottstudiosnorthamerica/playlist.m3u8"
+      },
+      {
+        "name": "Western+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg02042-ottstudio-amg02042c8-ottstudios-northamerica-1896.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-westernsplus-ottstudiosnorthamerica/playlist.m3u8"
+      },
+      {
+        "name": "Family Flix+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg02042-ottstudio-amg02042c3-ottstudios-northamerica-1899.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-familyflixplus-ottstudiosnorthamerica/playlist.m3u8"
+      },
+      {
+        "name": "Christmas+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://moments.videobyte.com/api/livestreaming.m3u8?pid=41D2X70&msid=0001793&ads=vbx&url=https://amg02042-ottstudio-amg02042c13-ottstudios-northamerica-1909.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-holidayplus-ottstudiosnorthamerica/playlist.m3u8"
       },
       {
         "name": "Samuel Goldwyn Channel",
@@ -24155,6 +24246,13 @@
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://apollo.production-public.tubi.io/live/wbd-classic-cinema.m3u8"
+      },
+      {
+        "name": "50 Cent Action",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg00353-amg00353c49-lg-us-7640.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-50centaction-lgus/playlist.m3u8"
       },
       {
         "name": "IFC Film Picks",
@@ -25017,42 +25115,42 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238360"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/122960"
       },
       {
         "name": "Family Jr. (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57346"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/67155"
       },
       {
         "name": "Nickelodeon (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47349"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/67102"
       },
       {
         "name": "Treehouse (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57371"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/67053"
       },
       {
         "name": "YTV (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/63850"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/94962"
       },
       {
         "name": "Disney Channel (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/2206"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/67166"
       },
       {
         "name": "Disney XD (Canada)",
@@ -25122,14 +25220,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57264"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/122941"
       },
       {
         "name": "ABC Spark (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57375"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/122943"
       },
       {
         "name": "Dejaview (Canada)",
@@ -25143,14 +25241,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57376"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/122946"
       },
       {
         "name": "Vision (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57468"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/122988"
       },
       {
         "name": "Home Network (Canada)",
@@ -25192,7 +25290,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47338"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/67106"
       },
       {
         "name": "National Geographic Wild (Canada)",
@@ -25206,14 +25304,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47302"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/67131"
       },
       {
         "name": "H2 (History Channel 2) (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/210450"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/67136"
       },
       {
         "name": "BBC Earth (Canada)",
@@ -25423,7 +25521,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47362"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/67093"
       },
       {
         "name": "Showcase (Canada)",
@@ -25465,7 +25563,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130406"
+        "url": "http://lunar.pm:8080/mrjayp/Spectrum2/122951"
       },
       {
         "name": "Charge! (Canada)",

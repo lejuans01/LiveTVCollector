@@ -2346,32 +2346,32 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Family (Canada)
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238360
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/122960
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Family Jr. (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57346
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/67155
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Nickelodeon (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47349
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/67102
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Treehouse (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57371
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/67053
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: YTV (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/63850
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/94962
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Disney Channel (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/2206
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/67166
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2421,12 +2421,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: A&E (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57264
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/122941
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ABC Spark (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57375
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/122943
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2436,12 +2436,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: AMC (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57376
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/122946
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Vision (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57468
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/122988
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2471,7 +2471,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: National Geographic (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47338
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/67106
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2481,12 +2481,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: History Channel (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47302
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/67131
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: H2 (History Channel 2) (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/210450
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/67136
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2636,7 +2636,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Peachtree TV (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47362
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/67093
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2666,7 +2666,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: CHCH (Canada)
-URL: http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130406
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/122951
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2973,7 +2973,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Nicktoons
-URL: https://tvpass.org/live/NicktoonsEast/hd
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/8868
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3099,6 +3099,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Baby TV
 URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319417
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Brat TV
+URL: https://amg00350-bratstudio-amg00350c1-ottstudios-northamerica-783.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-ottstudiosnorthamerica/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -3530,6 +3535,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Comedy.tv
 URL: http://fl3.moveonjoy.com/Comedy_TV/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: WITZ Comedy TV
+URL: https://wurlbesteverchannels.global.transmit.live/hls/67a3a1377796545fc40611c5/v1/bec_witz_1/lg_us/latest/main/hls/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -8868,7 +8878,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: NBC Universo
-URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319509
+URL: http://lunar.pm:8080/mrjayp/Spectrum2/9145
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -11266,7 +11276,7 @@ Logo: https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_282
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KABC-TV ABC 7 (Los Angeles CA)
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/210
+URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/715
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15301,6 +15311,11 @@ URL: https://amg00966-amg00966c9-amgplt0081.playout.now3.amagi.tv/playlist/amg00
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: Crime Thriller
+URL: https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3JpbWVUaHJpbGxIZXJfSExT/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: FX
 URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/167
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -16033,11 +16048,6 @@ URL: https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: FOX News Now (720p)
-URL: https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/1JnyzHv.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: Fox News Radio (720p)
 URL: https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 Logo: https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png
@@ -16061,6 +16071,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: KTRK TV ABC 13 News (720p)
 URL: https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: LiveNOW from FOX (720p)
+URL: https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+Logo: https://i.imgur.com/1JnyzHv.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",MSNBC (1080p)
@@ -16773,7 +16788,12 @@ Source: https://raw.githubusercontent.com/clseibold/tubi-m3u/refs/heads/main/tub
 --------------------------------------------------
 
 Group: Premium Channels
-Name: HBO
+Name: HBO (West)
+URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/160
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: HBO (East)
 URL: http://fl5.moveonjoy.com/HBO/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -16839,12 +16859,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount+ with Showtime
-URL: https://tvpass.org/live/ShowtimeEast/hd
+URL: http://cord-cutter.net:8080/live/JoanP@112/443@112/46214.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime 2
-URL: https://tvpass.org/live/Showtime2East/hd
+URL: http://cord-cutter.net:8080/live/JoanP@112/443@112/13219.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16894,7 +16914,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Cinema
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17775
+URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1250
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16904,7 +16924,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz In Black
-URL: http://lunar.pm:8080/mrjayp/Spectrum2/58536
+URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134170&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16914,7 +16934,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Kids & Family
-URL: http://lunar.pm:8080/mrjayp/Spectrum2/58535
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/22924.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16939,12 +16959,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Black
-URL: http://lunar.pm:8080/mrjayp/Spectrum2/98704
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552076&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Family
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1472
+URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552072&extension=ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -17009,7 +17029,52 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Free Movies+
-URL: https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636d46934ea1109a7d205a55.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
+URL: https://amg02042-ottstudio-amg02042c1-ottstudios-northamerica-1678.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-ottstudiosnorthamerica/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: VHS+
+URL: https://amg02042-ottstudio-amg02042c9-ottstudios-northamerica-1894.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-vhsplus-ottstudiosnorthamerica/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Horror+
+URL: https://amg02042-ottstudio-amg02042c12-ottstudios-northamerica-1908.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-horrorplus-ottstudiosnorthamerica/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Action+
+URL: https://amg02042-ottstudio-amg02042c4-ottstudios-northamerica-1765.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-actionplus-ottstudiosnorthamerica/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Black Movies+
+URL: https://amg02042-ottstudio-amg02042c6-ottstudios-northamerica-1898.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-blackvoicesplus-ottstudiosnorthamerica/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Comedy+
+URL: https://amg02042-ottstudio-amg02042c5-ottstudios-northamerica-1892.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-ottstudiosnorthamerica/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Romance+
+URL: https://amg02042-ottstudio-amg02042c10-ottstudios-northamerica-1893.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-romanceplus-ottstudiosnorthamerica/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Western+
+URL: https://amg02042-ottstudio-amg02042c8-ottstudios-northamerica-1896.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-westernsplus-ottstudiosnorthamerica/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Family Flix+
+URL: https://amg02042-ottstudio-amg02042c3-ottstudios-northamerica-1899.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-familyflixplus-ottstudiosnorthamerica/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Christmas+
+URL: https://moments.videobyte.com/api/livestreaming.m3u8?pid=41D2X70&msid=0001793&ads=vbx&url=https://amg02042-ottstudio-amg02042c13-ottstudios-northamerica-1909.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-holidayplus-ottstudiosnorthamerica/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -17185,6 +17250,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Classic Cinema by WB
 URL: https://apollo.production-public.tubi.io/live/wbd-classic-cinema.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: 50 Cent Action
+URL: https://amg00353-amg00353c49-lg-us-7640.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-50centaction-lgus/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -22281,8 +22351,8 @@ URL: http://fl3.moveonjoy.com/Up_Tv/index.m3u8
 Logo: https://i.imgur.com/AvR9LSn.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",USA Network East [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/USANetworkEast/index.m3u8
+Name: USA Network (720p)
+URL: http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------

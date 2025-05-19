@@ -737,8 +737,6 @@ https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
 https://apollo.production-public.tubi.io/live/ac-waga.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",Fox News Channel (720p)
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",FOX News Now (720p)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="News",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="News",Free Speech TV (720p)
@@ -749,6 +747,8 @@ https://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",KTRK TV ABC 13 News (720p)
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNOW from FOX (720p)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="News",like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",MSNBC (1080p)
 https://windnew.newkso.ru/wind/premium327/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News",NBC 2 Orlando FL (WESH) (720p)
@@ -2471,6 +2471,8 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/190
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1d6c-7b2e-11ef-9096-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236aeebc-4b77-4e3d-8d65-b028522fc4b6&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",Comedy.tv
 http://fl3.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",WITZ Comedy TV
+https://wurlbesteverchannels.global.transmit.live/hls/67a3a1377796545fc40611c5/v1/bec_witz_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",Sketchy AF (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67882c1c7b11714b795c2008/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1df8-7b2e-11ef-951a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba2cd391-08f6-11f0-a196-2e4264ece789&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Comedy",Pluto Classic TV Comedy
@@ -3367,8 +3369,8 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 https://vbfast-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvR9LSn.png" group-title="Undefined",Up TV (1080p)
 http://fl3.moveonjoy.com/Up_Tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36",USA Network East [Geo-blocked]
-https://v1.thetvapp.to/hls/USANetworkEast/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Undefined",USA Network (720p)
+http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="Undefined",Vice East
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QWPJQnr.png" group-title="Undefined",Vice News (1080p)
@@ -4504,7 +4506,7 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/986
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KTLA-TV CW 5 (Los Angeles CA)
 http://lunar.pm:8080/mrjayp/Spectrum2/122965
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/210
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/715
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/250px-KCAL-TV_Logo..png" group-title="Local Channels",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/985
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
@@ -5107,6 +5109,8 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/176
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/48324
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",AXS-TV Now
 https://amg00966-amg00966c9-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c9-amgplt0081/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Crime Thriller
+https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3JpbWVUaHJpbGxIZXJfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",FX
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/167
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",FXX
@@ -5354,7 +5358,7 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/351
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nick Jr. (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nicktoons
-https://tvpass.org/live/NicktoonsEast/hd
+http://lunar.pm:8080/mrjayp/Spectrum2/8868
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",TeenNick
 https://tvpass.org/live/TeenNickEast/hd
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nickelodeon 90's Kids (Pluto TV)
@@ -5405,6 +5409,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319416
 http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Baby TV
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319417
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Brat TV
+https://amg00350-bratstudio-amg00350c1-ottstudios-northamerica-783.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",FilmRise Kids
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",FilmRise Anime
@@ -5828,7 +5834,7 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334548
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Galavisión (East)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334541
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",NBC Universo
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319509
+http://lunar.pm:8080/mrjayp/Spectrum2/9145
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Telemundo Internacional
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334576
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Latino (Spanish)",Telemundo Al Día
@@ -6681,7 +6687,9 @@ https://v14.thetvapp.to/hls/mlb-02/tracks-v2a1/mono.m3u8
 https://v13.thetvapp.to/hls/mlb-07/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Tampa Bay Rays @ Miami Marlins | 2025-05-17T20:10:00Z (SD)
 https://v13.thetvapp.to/hls/mlb-07/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",HBO
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",HBO (West)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/160
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",HBO (East)
 http://fl5.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",HBO 2
 http://fl5.moveonjoy.com/HBO_2/index.m3u8
@@ -6708,9 +6716,9 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1607
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Action Max
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1604
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Paramount+ with Showtime
-https://tvpass.org/live/ShowtimeEast/hd
+http://cord-cutter.net:8080/live/JoanP@112/443@112/46214.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Showtime 2
-https://tvpass.org/live/Showtime2East/hd
+http://cord-cutter.net:8080/live/JoanP@112/443@112/13219.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Showtime Extreme
 http://fl3.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Showtime Next
@@ -6730,15 +6738,15 @@ http://fl5.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Starz (East)
 http://fl5.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Starz Cinema
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17775
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1250
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Starz Comedy
 http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Starz In Black
-http://lunar.pm:8080/mrjayp/Spectrum2/58536
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134170&extension=ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Starz Edge
 http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Starz Kids & Family
-http://lunar.pm:8080/mrjayp/Spectrum2/58535
+http://supersonictv.live:8080/live/Sheila/Sheila1/22924.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Starz Encore
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1468
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Starz Encore Suspense
@@ -6748,9 +6756,9 @@ http://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Starz Encore Westerns
 http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Starz Encore Black
-http://lunar.pm:8080/mrjayp/Spectrum2/98704
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552076&extension=ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Starz Encore Family
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1472
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552072&extension=ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",MGM+
 http://fl5.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",MGM+ Hits
@@ -6776,7 +6784,25 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Free Movies+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636d46934ea1109a7d205a55.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
+https://amg02042-ottstudio-amg02042c1-ottstudios-northamerica-1678.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",VHS+
+https://amg02042-ottstudio-amg02042c9-ottstudios-northamerica-1894.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-vhsplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Horror+
+https://amg02042-ottstudio-amg02042c12-ottstudios-northamerica-1908.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-horrorplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Action+
+https://amg02042-ottstudio-amg02042c4-ottstudios-northamerica-1765.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-actionplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Black Movies+
+https://amg02042-ottstudio-amg02042c6-ottstudios-northamerica-1898.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-blackvoicesplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Comedy+
+https://amg02042-ottstudio-amg02042c5-ottstudios-northamerica-1892.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Romance+
+https://amg02042-ottstudio-amg02042c10-ottstudios-northamerica-1893.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-romanceplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Western+
+https://amg02042-ottstudio-amg02042c8-ottstudios-northamerica-1896.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-westernsplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Family Flix+
+https://amg02042-ottstudio-amg02042c3-ottstudios-northamerica-1899.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-familyflixplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Christmas+
+https://moments.videobyte.com/api/livestreaming.m3u8?pid=41D2X70&msid=0001793&ads=vbx&url=https://amg02042-ottstudio-amg02042c13-ottstudios-northamerica-1909.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-holidayplus-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Samuel Goldwyn Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Cowboy Movie Channel
@@ -6847,6 +6873,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",Classic Cinema by WB
 https://apollo.production-public.tubi.io/live/wbd-classic-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",50 Cent Action
+https://amg00353-amg00353c49-lg-us-7640.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-50centaction-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",IFC Film Picks
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Premium Channels",70s Cinema (Pluto TV)
@@ -7092,17 +7120,17 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130388
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Court TV (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/229643
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Family (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238360
+http://lunar.pm:8080/mrjayp/Spectrum2/122960
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Family Jr. (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57346
+http://lunar.pm:8080/mrjayp/Spectrum2/67155
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Nickelodeon (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47349
+http://lunar.pm:8080/mrjayp/Spectrum2/67102
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Treehouse (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57371
+http://lunar.pm:8080/mrjayp/Spectrum2/67053
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",YTV (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/63850
+http://lunar.pm:8080/mrjayp/Spectrum2/94962
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Disney Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/2206
+http://lunar.pm:8080/mrjayp/Spectrum2/67166
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Disney XD (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57420
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Disney Junior (Canada)
@@ -7122,15 +7150,15 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57320
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",USA Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57252
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",A&E (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57264
+http://lunar.pm:8080/mrjayp/Spectrum2/122941
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",ABC Spark (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57375
+http://lunar.pm:8080/mrjayp/Spectrum2/122943
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Dejaview (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122001
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",AMC (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57376
+http://lunar.pm:8080/mrjayp/Spectrum2/122946
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Vision (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57468
+http://lunar.pm:8080/mrjayp/Spectrum2/122988
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Home Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57273
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Magnolia Network (Canada)
@@ -7142,13 +7170,13 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57418
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",CTV Speed
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/46212
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",National Geographic (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47338
+http://lunar.pm:8080/mrjayp/Spectrum2/67106
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",National Geographic Wild (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57280
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",History Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47302
+http://lunar.pm:8080/mrjayp/Spectrum2/67131
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",H2 (History Channel 2) (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/210450
+http://lunar.pm:8080/mrjayp/Spectrum2/67136
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",BBC Earth (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/99621
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",WILD TV (Canada)
@@ -7208,7 +7236,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130460
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",OWN (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57277
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Peachtree TV (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47362
+http://lunar.pm:8080/mrjayp/Spectrum2/67093
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Showcase (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47366
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Slice TV (Canada)
@@ -7220,7 +7248,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57290
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Smithsonian Channel (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47369
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",CHCH (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130406
+http://lunar.pm:8080/mrjayp/Spectrum2/122951
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Charge! (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75653
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",CMT (Canada)
