@@ -1946,13 +1946,13 @@
   {
     "name": "A&E",
     "type": "CINE Y SERIES",
-    "url": "http://181.78.27.128:8000/play/a01v/index.m3u8",
+    "url": "http://179.49.163.34:45000/play/a02c/index.m3u8",
     "img": "https://i.ibb.co/Ld3vtST/a-e.png"
   },
   {
     "name": "AXN",
     "type": "CINE Y SERIES",
-    "url": "http://181.78.27.128:8000/play/a01w/index.m3u8",
+    "url": "http://179.49.163.34:45000/play/a01y/index.m3u8",
     "img": "https://i.ibb.co/5jBfMj7/axn.png"
   },
   {
@@ -2000,7 +2000,7 @@
   {
     "name": "STAR CHANNEL",
     "type": "CINE Y SERIES",
-    "url": "http://181.78.27.128:8000/play/a03r/index.m3u8",
+    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313042",
     "img": "https://i.ibb.co/kBS1sFh/star-channel.png"
   },
   {
@@ -2058,15 +2058,9 @@
     "img": "https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png"
   },
   {
-    "name": "DE PELICULAS CLASICO",
-    "type": "CINE Y SERIES",
-    "url": "http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9641",
-    "img": "https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png"
-  },
-  {
     "name": "DHE",
     "type": "CINE Y SERIES",
-    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313037",
+    "url": "http://179.49.163.34:45000/play/a00o/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2138,7 +2132,7 @@
   {
     "name": "SONY CHANNEL",
     "type": "CINE Y SERIES",
-    "url": "http://181.78.27.128:8000/play/a03h/index.m3u8",
+    "url": "http://179.49.163.34:45000/play/a020/index.m3u8",
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e153054c65152bddd6_sony.png"
   },
   {
@@ -2150,7 +2144,7 @@
   {
     "name": "SONY MOVIES",
     "type": "CINE Y SERIES",
-    "url": "http://181.78.27.128:8000/play/a03i/index.m3u8",
+    "url": "http://179.49.163.34:45000/play/a02b/index.m3u8",
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png"
   },
   {
@@ -2180,7 +2174,7 @@
   {
     "name": "USA",
     "type": "CINE Y SERIES",
-    "url": "http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322881.m3u8",
+    "url": "http://live1.cl.cdn.lla.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
     "img": "https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0"
   },
   {
@@ -2241,7 +2235,7 @@
     "name": "BITME",
     "type": "INFANTILES",
     "url": "http://179.49.163.34:45000/play/a02m/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "img": "https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest?cb=20250307002717"
   },
   {
     "name": "DREAMWORKS",
@@ -2302,6 +2296,12 @@
     "type": "INFANTILES",
     "url": "http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9876",
     "img": "https://i.ibb.co/5j96nsY/nick-jr.png"
+  },
+  {
+    "name": "TOONCAST",
+    "type": "INFANTILES",
+    "url": "http://190.11.130.46/mnp/tooncast/output.mpd",
+    "img": "https://i.ibb.co/BfmgWb6/tooncast.png"
   },
   {
     "name": "SENPAI TV",
@@ -2402,7 +2402,7 @@
   {
     "name": "HISTORY",
     "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://181.78.27.128:8000/play/a04j/index.m3u8",
+    "url": "http://179.49.163.34:45000/play/a01z/index.m3u8",
     "img": "https://i.imgur.com/J897iGL.jpg"
   },
   {
