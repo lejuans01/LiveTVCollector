@@ -324,12 +324,6 @@
     "img": "https://i.imgur.com/1CftDPB.png"
   },
   {
-    "name": "Pandamax Channel (1080p)",
-    "type": "Animation",
-    "url": "https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8",
-    "img": "https://pandamax.cl/assets/img/pandalogo2.png"
-  },
-  {
     "name": "EnerGeek Retro (720p)",
     "type": "Animation",
     "url": "https://wifiexpert-1.energeek.cl/energeek/radio/chunks.m3u8",
@@ -340,6 +334,12 @@
     "type": "Animation",
     "url": "https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w306583619.m3u8",
     "img": "https://i.imgur.com/fDlkOBx.png"
+  },
+  {
+    "name": "Pandamax Channel (1080p)",
+    "type": "Animation",
+    "url": "https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8",
+    "img": "https://animax.lat/assets/img/pandalogo2.png"
   },
   {
     "name": "Antares Televisión (720p) [Not 24/7]",
@@ -1126,12 +1126,6 @@
     "type": "Music",
     "url": "https://s1.tvdatta.com:3950/multi_web/play.m3u8",
     "img": "https://i.imgur.com/tsdrrV9.png"
-  },
-  {
-    "name": "Retro Plus HD (720p)",
-    "type": "Music",
-    "url": "https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8",
-    "img": "https://i.imgur.com/fkCasXI.png"
   },
   {
     "name": "SanjuaneraTV (720p) [Not 24/7]",

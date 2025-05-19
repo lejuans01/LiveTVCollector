@@ -107,12 +107,12 @@ https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=ZZDemoIPTVGH&pass
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" group-title="Animation",Pandamax Channel (1080p)
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p)
 https://wifiexpert-1.energeek.cl/energeek/radio/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w306583619.m3u8
+#EXTINF:-1 tvg-logo="https://animax.lat/assets/img/pandalogo2.png" group-title="Animation",Pandamax Channel (1080p)
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="Entertainment",Central TV Chosica (614p) [Not 24/7]
@@ -375,8 +375,6 @@ https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsdrrV9.png" group-title="Music",Radio TV Tendencias (1080p) [Not 24/7]
 https://s1.tvdatta.com:3950/multi_web/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD (720p)
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Music",SanjuaneraTV (720p) [Not 24/7]
 https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Music",Telehit (1080p)
