@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-20 07:06:49",
+  "date": "2025-05-20 13:56:12",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -2900,13 +2900,6 @@
         "logo": "https://i.ibb.co/JqWCczW/cnnturk1.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "http://116.202.238.88/CNNTURK_TR/index.m3u8"
-      },
-      {
-        "name": "CNN TÜRK",
-        "logo": "https://i.ibb.co/JqWCczW/cnnturk1.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://b.fulltvizle.com/cnn/playlist.m3u8"
       },
       {
@@ -3453,14 +3446,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=k92wx9qaj8xfNEWqi5ijdg&e=1747718540"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=8bhN0A0Xcv-KUBm4a2A6mw&e=1747736682"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=k92wx9qaj8xfNEWqi5ijdg&e=1747718540"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=8bhN0A0Xcv-KUBm4a2A6mw&e=1747736682"
       },
       {
         "name": "TV8",
@@ -3488,7 +3481,7 @@
         "logo": "https://i.ibb.co/n1SCYqN/atv.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://trkvz.daioncdn.net/atv/atv_720p.m3u8?app=web"
+        "url": "https://izle.canlitvapp.com/aytv/index.m3u8"
       },
       {
         "name": "KANAL 7",
@@ -3810,7 +3803,7 @@
         "logo": "https://i.ibb.co/n1SCYqN/atv.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://c.fulltvizle.com/aytv/index.m3u8"
+        "url": "https://trkvz.daioncdn.net/atv/atv_720p.m3u8?app=web"
       },
       {
         "name": "ATV (backup)",

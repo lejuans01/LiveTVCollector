@@ -3075,11 +3075,6 @@ Logo: https://i.ibb.co/xS3zLQr/ekoturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: CNN TÜRK
-URL: http://116.202.238.88/CNNTURK_TR/index.m3u8
-Logo: https://i.ibb.co/JqWCczW/cnnturk1.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
-Name: CNN TÜRK
 URL: https://b.fulltvizle.com/cnn/playlist.m3u8
 Logo: https://i.ibb.co/JqWCczW/cnnturk1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
@@ -3470,12 +3465,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=k92wx9qaj8xfNEWqi5ijdg&e=1747718540
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=8bhN0A0Xcv-KUBm4a2A6mw&e=1747736682
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=k92wx9qaj8xfNEWqi5ijdg&e=1747718540
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=8bhN0A0Xcv-KUBm4a2A6mw&e=1747736682
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3495,7 +3490,7 @@ Logo: https://i.ibb.co/n1SCYqN/atv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: ATV
-URL: https://trkvz.daioncdn.net/atv/atv_720p.m3u8?app=web
+URL: https://izle.canlitvapp.com/aytv/index.m3u8
 Logo: https://i.ibb.co/n1SCYqN/atv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3725,7 +3720,7 @@ Logo: https://i.ibb.co/n1SCYqN/atv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: ATV (backup)
-URL: https://c.fulltvizle.com/aytv/index.m3u8
+URL: https://trkvz.daioncdn.net/atv/atv_720p.m3u8?app=web
 Logo: https://i.ibb.co/n1SCYqN/atv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------

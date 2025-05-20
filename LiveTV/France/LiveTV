@@ -2480,12 +2480,6 @@
   {
     "name": "CNN TÜRK",
     "type": "Uncategorized",
-    "url": "http://116.202.238.88/CNNTURK_TR/index.m3u8",
-    "img": "https://i.ibb.co/JqWCczW/cnnturk1.png"
-  },
-  {
-    "name": "CNN TÜRK",
-    "type": "Uncategorized",
     "url": "https://b.fulltvizle.com/cnn/playlist.m3u8",
     "img": "https://i.ibb.co/JqWCczW/cnnturk1.png"
   },
@@ -2954,13 +2948,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=k92wx9qaj8xfNEWqi5ijdg&e=1747718540",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=8bhN0A0Xcv-KUBm4a2A6mw&e=1747736682",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=k92wx9qaj8xfNEWqi5ijdg&e=1747718540",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=8bhN0A0Xcv-KUBm4a2A6mw&e=1747736682",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -2984,7 +2978,7 @@
   {
     "name": "ATV",
     "type": "Uncategorized",
-    "url": "https://trkvz.daioncdn.net/atv/atv_720p.m3u8?app=web",
+    "url": "https://izle.canlitvapp.com/aytv/index.m3u8",
     "img": "https://i.ibb.co/n1SCYqN/atv.png"
   },
   {
@@ -3260,7 +3254,7 @@
   {
     "name": "ATV (backup)",
     "type": "Uncategorized",
-    "url": "https://c.fulltvizle.com/aytv/index.m3u8",
+    "url": "https://trkvz.daioncdn.net/atv/atv_720p.m3u8?app=web",
     "img": "https://i.ibb.co/n1SCYqN/atv.png"
   },
   {
