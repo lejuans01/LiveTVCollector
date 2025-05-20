@@ -2421,12 +2421,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: A&E (Canada)
-URL: http://lunar.pm:8080/mrjayp/Spectrum2/122941
+URL: http://1tv41.icu:8080/live/95135258/95135258/57476.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ABC Spark (Canada)
-URL: http://lunar.pm:8080/mrjayp/Spectrum2/122943
+URL: http://cord-cutter.net:8080/live/JoanP@112/443@112/57375.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2650,6 +2650,11 @@ URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57274
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: CityTV TV (Canada)
+URL: http://cord-cutter.net:8080/live/JoanP@112/443@112/57307.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: TFO French (Canada)
 URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57291
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2721,7 +2726,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: E! (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57249
+URL: http://cord-cutter.net:8080/live/JoanP@112/443@112/57422.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2766,7 +2771,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Game Show Network (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57430
+URL: http://1tv41.icu:8080/live/95135258/95135258/57430.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Game TV
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/21924.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2978,7 +2988,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: TeenNick
-URL: https://tvpass.org/live/TeenNickEast/hd
+URL: http://1tv41.icu:8080/live/95135258/95135258/140004.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -4082,7 +4092,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: History Channel
-URL: https://tvpass.org/live/HistoryEast/hd
+URL: http://1tv41.icu:8080/live/95135258/95135258/46724.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15657,7 +15667,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: GSN (Game Show Network)
-URL: https://tvpass.org/live/game-show-network-east/hd
+URL: http://1tv41.icu:8080/live/95135258/95135258/120633.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16799,47 +16809,47 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HBO 2
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552122&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/9816.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HBO Signature
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552116&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/9266.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HBO Comedy
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552120&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/17773.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HBO Zone
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552114&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/9265.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HBO Family
-URL: http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
+URL: http://1tv41.icu:8080/live/95135258/95135258/17772.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Cinemax
-URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134091&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/13380.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: More Max
-URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134092&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/17776.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: 5 Star Max
-URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134088&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/13381.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Movie Max
-URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134144&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/13480.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16849,17 +16859,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Thriller Max
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552056&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/17774.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Action Max
-URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134089&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/21013.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount+ with Showtime
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552110&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/46214.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16869,32 +16879,32 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime Extreme
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552104&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/13220.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime Next
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552100&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/9316.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime (ShoCase)
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552098&extension=ts
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/22915.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime Women
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552096&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/17778.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime Family Zone
-URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/1464
+URL: http://1tv41.icu:8080/live/95135258/95135258/13481.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Showtime (Sho X BET)
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552106&extension=ts
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/22911.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16914,7 +16924,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Cinema
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552086&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/17775.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16924,22 +16934,22 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz In Black
-URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134170&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/17779.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Edge
-URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134174&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/16143.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Kids & Family
-URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134179&extension=ts
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/22924.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore
-URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134176&extension=ts
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/22925.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16954,62 +16964,67 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Action
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552078&extension=ts
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/22927.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Westerns
-URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134178&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/16263.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Black
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552076&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/16141.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Starz Encore Family
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552072&extension=ts
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/22930.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MGM+
-URL: http://fortv.cc:8080/live/q8KuDU/354945/13214.ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/13214.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MGM+ Hits
-URL: http://fortv.cc:8080/live/q8KuDU/354945/12744.ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/12744.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MGM+ Drive-In
-URL: http://fl5.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+URL: http://1tv41.icu:8080/live/95135258/95135258/14193.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MGM+ Marquee
-URL: http://cord-cutter.net:8080/live/drmajones@gmail.com/J2cg4hzx4s/12730.m3u8
+URL: http://1tv41.icu:8080/live/95135258/95135258/12730.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MoviePlex
-URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134145&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/1829.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: IndiePlex
-URL: http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134138&extension=ts
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/22903.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: RetroPlex
+URL: http://1tv41.icu:8080/live/95135258/95135258/66379.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Sony Movie Channel
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552037&extension=ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/2214.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HDNET Movies
-URL: http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552040&extension=ts
+URL: http://cord-cutter.net:8080/live/JoanP@112/443@112/16265.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -21585,42 +21600,52 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Sky Action (UK)
-URL: http://supersonictv.live:8080/live/144264/661943/77462.ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/35254.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Sky Comedy (UK)
-URL: http://supersonictv.live:8080/live/144264/661943/77463.ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/35253.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Sky Cinema Hits (UK)
-URL: http://supersonictv.live:8080/live/144264/661943/77464.ts
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/77464.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Sky Drama (UK)
-URL: http://supersonictv.live:8080/live/144264/661943/77465.ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/35251.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Sky Family (UK)
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/77466.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Sky Greats (UK)
-URL: http://supersonictv.live:8080/live/144264/661943/77467.ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/35249.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Sky Premiere (UK)
-URL: http://supersonictv.live:8080/live/144264/661943/77468.ts
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/77468.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Sky Cinema Sci-Fi & Horror (UK)
-URL: http://supersonictv.live:8080/live/144264/661943/77469.ts
+URL: http://1tv41.icu:8080/live/95135258/95135258/35248.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Sky Cinema Select (UK)
-URL: http://supersonictv.live:8080/live/144264/661943/77470.ts
+URL: http://supersonictv.live:8080/live/Sheila/Sheila1/77470.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Sky Thriller (UK)
+URL: http://1tv41.icu:8080/live/95135258/95135258/35252.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
