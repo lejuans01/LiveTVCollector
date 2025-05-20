@@ -65,7 +65,7 @@ https://mifntechnology.github.io/siaranMy/radio/RiaFm/playlist.m3u8
 https://mifntechnology.github.io/siaranMy/radio/AsyikFm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png" group-title="radio",8Fm
 https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png" group-title="BUY DI SHOPEE ZAYANZACKTV",ID ORIGINAL DI SHOPEE ZAYANZACKTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKsJDpt/IMG-6210.png" group-title="BUY DI SHOPEE zayanzackstore",ID ORIGINAL DI SHOPEE zayanzackstore
 https://drive.usercontent.google.com/download?id=1d4pZdPQw_kZkdWx7AvGxElMP2GgiWbE6&export=download
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="Malaysia",101 TV1 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
@@ -111,6 +111,8 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sooka_Oh_My_Ceria.png" group-title="Malaysia",Oh My Ceria!
 https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia",103 TV3 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="MALAYSIA",146 TV Okey
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="Indian",221 Star Vijay HD
@@ -241,10 +243,10 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png" group-title="Brunei",group-title="Brunei",RTB GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png" group-title="Brunei",RIYO TEST ONLY
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png" group-title="Brunei",PRYMO TEST ONLY
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png" group-title="Brunei",Riyoo test only
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png" group-title="Brunei",Prymoo test only
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="Entertainment",703 Lifetime (MY)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="Entertainment",708 Food Network
