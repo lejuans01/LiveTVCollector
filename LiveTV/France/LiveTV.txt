@@ -3055,7 +3055,7 @@ Logo: https://i.ibb.co/Ln92Dj2/Ekoltv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: ULUSAL KANAL
-URL: https://trn03.tulix.tv/gt-ulusaltv/playlist.m3u8
+URL: http://116.202.238.88/ULUSALTV_TR/index.m3u8
 Logo: https://i.ibb.co/tXdf2YF/ulusal22.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3290,6 +3290,11 @@ Logo: https://i.ibb.co/tXdf2YF/ulusal22.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: ULUSAL KANAL (backup)
+URL: https://trn03.tulix.tv/gt-ulusaltv/playlist.m3u8
+Logo: https://i.ibb.co/tXdf2YF/ulusal22.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: ULUSAL KANAL (backup)
 URL: https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 Logo: https://i.ibb.co/tXdf2YF/ulusal22.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
@@ -3470,12 +3475,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=XDyflkdiw1zrfOkFtDwBIQ&e=1747891210
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=uUbubXmbA-ltfyE97rAM9A&e=1747941372
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=XDyflkdiw1zrfOkFtDwBIQ&e=1747891210
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=uUbubXmbA-ltfyE97rAM9A&e=1747941372
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -4145,12 +4150,7 @@ Logo: https://i.ibb.co/xSjB51j/aspor.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: BIS HABER
-URL: https://ythls-v3.onrender.com/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
-Logo: https://i.ibb.co/BfM21nC/beinhaber.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
-Name: BIS HABER
-URL: https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
+URL: https://apisaku.app.tc/playlist/71.m3u8
 Logo: https://i.ibb.co/BfM21nC/beinhaber.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -6116,6 +6116,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: MAD WORLD
 URL: https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
+Logo: https://i.ibb.co/W5DZtvt/madtv.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: MAD WORLD
+URL: https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 Logo: https://i.ibb.co/W5DZtvt/madtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
