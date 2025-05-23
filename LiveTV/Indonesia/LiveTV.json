@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 14:01:39",
+  "date": "2025-05-23 21:59:05",
   "channels": {
     "INDONESIA": [
       {
@@ -824,11 +824,11 @@
         "url": "https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd"
       },
       {
-        "name": "AXN East Asia",
-        "logo": "https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",
+        "name": "AXN",
+        "logo": "https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://fta2-cdn-flr.visionplus.id/out/v1/6c4cc0ea7bd2454eb9a42ee7b6da9c28/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd"
       },
       {
         "name": "Celestial Movies",
@@ -877,14 +877,14 @@
         "logo": "https://www.mncvision.id/userfiles/image/channel/channel_13.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        "url": "http://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd"
       },
       {
         "name": "Galaxy Premium",
         "logo": "https://www.mncvision.id/userfiles/image/channel/channel_12.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        "url": "http://202.147.193.244/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd"
       },
       {
         "name": "GEM",
@@ -905,7 +905,7 @@
         "logo": "https://www.mncvision.id/userfiles/image/channel/channel_14.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "http://202.147.193.244/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd"
+        "url": "https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd"
       },
       {
         "name": "Paramount",
@@ -919,35 +919,35 @@
         "logo": "https://github.com/eepunx/logo/raw/refs/heads/main/originals.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        "url": "https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd"
       },
       {
         "name": "group-title=\"Movies\",Cineedge",
         "logo": "https://github.com/eepunx/logo/raw/refs/heads/main/cineedge.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        "url": "https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd"
       },
       {
         "name": "Superrix",
         "logo": "https://github.com/eepunx/logo/raw/refs/heads/main/superrix.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        "url": "https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd"
       },
       {
         "name": "Uniques",
         "logo": "https://github.com/eepunx/logo/raw/refs/heads/main/Uniques.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        "url": "https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd"
       },
       {
         "name": "Buddy Star",
         "logo": "https://github.com/eepunx/logo/raw/refs/heads/main/buddystar.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        "url": "https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd"
       },
       {
         "name": "Cinemax",
@@ -1681,7 +1681,7 @@
         "logo": "https://i.imgur.com/OkQzNhc.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd"
+        "url": "https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8"
       },
       {
         "name": "Sportstars 2",
@@ -1695,7 +1695,7 @@
         "logo": "https://i.imgur.com/dIcTZj3.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://terabit.web.id/media.mpd?id=114&type=dash|Referer=https://www.visionplus.id"
+        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd"
       },
       {
         "name": "Sportstars 4",
@@ -4250,7 +4250,7 @@
         "logo": "https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/Indosiar.png",
         "group": "TV Nasional Indonesia",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "https://link.zozotv.xyz:443/live/usez37/zxy921/45.ts"
+        "url": "http://xtv.ooo:8080/live/387546/200900/350972.ts"
       },
       {
         "name": "RCTI",
@@ -6183,13 +6183,6 @@
     ],
     "OLAHRAGA LOKAL": [
       {
-        "name": "Sportstar 3",
-        "logo": "https://i.imgur.com/IQkwAXJ.jpeg",
-        "group": "OLAHRAGA LOKAL",
-        "source": "https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main",
-        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd"
-      },
-      {
         "name": "NBA TV (Indi)",
         "logo": "https://i.imgur.com/K3FXClz.jpeg ",
         "group": "OLAHRAGA LOKAL",
@@ -6239,13 +6232,6 @@
         "group": "FILM",
         "source": "https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main",
         "url": "https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd"
-      },
-      {
-        "name": "AXN 1 ON SUB INDO",
-        "logo": "https://i.imgur.com/Suy99cF.jpeg",
-        "group": "FILM",
-        "source": "https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main",
-        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd"
       },
       {
         "name": "AXN 2 ON SUB INDO",
