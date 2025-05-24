@@ -3,8 +3,6 @@
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/btv.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV World
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/btv_world.m3u8
-#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV News
-https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/btv_news.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/BugsfreeStreams/StreamsTV-BD/somoy_tv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV-[2]
