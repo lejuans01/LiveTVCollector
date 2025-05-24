@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 21:56:31",
+  "date": "2025-05-24 07:12:52",
   "channels": {
     "News": [
       {
@@ -275,13 +275,6 @@
         "url": "https://stream.ecable.tv/afrobeats/index.m3u8"
       },
       {
-        "name": "Clubbing TV (720p)",
-        "logo": "https://i.imgur.com/MyiA92q.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8"
-      },
-      {
         "name": "MTV Hits Europe",
         "logo": "https://i.imgur.com/zNscEST.png",
         "group": "Music",
@@ -329,13 +322,6 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8"
-      },
-      {
-        "name": "Qwest TV Mix (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/lO22nwk.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8"
       },
       {
         "name": "That's 70s (576p)",
@@ -676,13 +662,6 @@
         "group": "Education",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
-      },
-      {
-        "name": "PBS America (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8"
       }
     ],
     "Culture;Documentary": [
@@ -1236,13 +1215,6 @@
         "url": "https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8"
       },
       {
-        "name": "Fashion TV (England) (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/b4KYkyd.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://fashiontv-fashiontv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8"
-      },
-      {
         "name": "FashionTV Europe (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",
         "group": "Lifestyle",
@@ -1306,13 +1278,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://jmp2.uk/sam-GB25000016G.m3u8"
-      },
-      {
-        "name": "Teletubbies",
-        "logo": "https://i.imgur.com/J9iWjWL.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8"
       },
       {
         "name": "Tiny Pop (1080p)",
@@ -1389,13 +1354,6 @@
         "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8"
       },
       {
-        "name": "Filmstream",
-        "logo": "https://i.imgur.com/DTRPV6B.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
         "name": "GREAT! movies (1080p)",
         "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png",
         "group": "Movies",
@@ -1461,11 +1419,11 @@
     ],
     "Sports": [
       {
-        "name": "EDGEsport (1080p)",
+        "name": "EDGESport (1080p)",
         "logo": "https://i.imgur.com/bgQ6kz7.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8"
+        "url": "https://edgesports-sportstribal.amagi.tv/playlist.m3u8"
       },
       {
         "name": "FIFA+ (720p)",
@@ -1556,11 +1514,11 @@
         "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       },
       {
-        "name": "Real Stories",
+        "name": "Real Stories (1080p)",
         "logo": "https://i.imgur.com/PG15QKA.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8"
+        "url": "https://lds-realstories-plex.amagi.tv/playlist.m3u8"
       }
     ],
     "Shop": [
@@ -1648,15 +1606,6 @@
         "group": "Cooking",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8"
-      }
-    ],
-    "Documentary;News": [
-      {
-        "name": "The Guardian",
-        "logo": "https://i.imgur.com/o9AYq9V.png",
-        "group": "Documentary;News",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8"
       }
     ],
     "Family": [

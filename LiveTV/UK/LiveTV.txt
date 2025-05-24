@@ -96,16 +96,9 @@ URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4a
 Logo: https://i.imgur.com/MwuIHbX.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: Real Stories
-URL: https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
+Name: Real Stories (1080p)
+URL: https://lds-realstories-plex.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/PG15QKA.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
-
-Group: Documentary;News
-Name: The Guardian
-URL: https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/o9AYq9V.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 
@@ -113,11 +106,6 @@ Group: Education
 Name: Alhiwar TV (1080p) [Not 24/7]
 URL: https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 Logo: https://i.imgur.com/UjOxwdd.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
-Name: PBS America (720p)
-URL: https://pbs-samsunguk.amagi.tv/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 
@@ -425,11 +413,6 @@ URL: https://jmp2.uk/sam-GB25000016G.m3u8
 Logo: https://i.imgur.com/GdSotmS.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: Teletubbies
-URL: https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/J9iWjWL.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
 Name: Tiny Pop (1080p)
 URL: https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 Logo: https://i.imgur.com/zCTf71x.png
@@ -459,11 +442,6 @@ URL: https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
 Logo: https://i.imgur.com/gppwrJa.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: Fashion TV (England) (1080p) [Not 24/7]
-URL: https://fashiontv-fashiontv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
-Logo: https://i.imgur.com/b4KYkyd.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
 Name: FashionTV Europe (1080p)
 URL: https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png
@@ -479,11 +457,6 @@ Group: Movies
 Name: DiscoverFilm
 URL: https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/oMnpsQ5.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
-Name: Filmstream
-URL: https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/DTRPV6B.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 Name: GREAT! movies (1080p)
@@ -538,11 +511,6 @@ URL: https://stream.ecable.tv/afrobeats/index.m3u8
 Logo: https://i.imgur.com/232ndRK.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: Clubbing TV (720p)
-URL: https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/MyiA92q.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
 Name: MTV Hits Europe
 URL: http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 Logo: https://i.imgur.com/zNscEST.png
@@ -576,11 +544,6 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 Name: Qwest TV Jazz & Beyond (720p) [Geo-blocked]
 URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
 Logo: https://i.imgur.com/89yWH5L.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
-Name: Qwest TV Mix (720p) [Geo-blocked]
-URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
-Logo: https://i.imgur.com/lO22nwk.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 Name: That's 70s (576p)
@@ -855,8 +818,8 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 
 Group: Sports
-Name: EDGEsport (1080p)
-URL: https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+Name: EDGESport (1080p)
+URL: https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/bgQ6kz7.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------

@@ -228,12 +228,6 @@
     "img": "https://i.imgur.com/232ndRK.png"
   },
   {
-    "name": "Clubbing TV (720p)",
-    "type": "Music",
-    "url": "https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/MyiA92q.png"
-  },
-  {
     "name": "MTV Hits Europe",
     "type": "Music",
     "url": "http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test",
@@ -274,12 +268,6 @@
     "type": "Music",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8",
     "img": "https://i.imgur.com/89yWH5L.png"
-  },
-  {
-    "name": "Qwest TV Mix (720p) [Geo-blocked]",
-    "type": "Music",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8",
-    "img": "https://i.imgur.com/lO22nwk.png"
   },
   {
     "name": "That's 70s (576p)",
@@ -568,12 +556,6 @@
     "type": "Education",
     "url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
     "img": "https://i.imgur.com/UjOxwdd.png"
-  },
-  {
-    "name": "PBS America (720p)",
-    "type": "Education",
-    "url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png"
   },
   {
     "name": "BBC Four (540p) [Geo-blocked]",
@@ -1038,12 +1020,6 @@
     "img": "https://i.imgur.com/gppwrJa.png"
   },
   {
-    "name": "Fashion TV (England) (1080p) [Not 24/7]",
-    "type": "Lifestyle",
-    "url": "https://fashiontv-fashiontv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8",
-    "img": "https://i.imgur.com/b4KYkyd.png"
-  },
-  {
     "name": "FashionTV Europe (1080p)",
     "type": "Lifestyle",
     "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8",
@@ -1096,12 +1072,6 @@
     "type": "Kids",
     "url": "https://jmp2.uk/sam-GB25000016G.m3u8",
     "img": "https://i.imgur.com/GdSotmS.png"
-  },
-  {
-    "name": "Teletubbies",
-    "type": "Kids",
-    "url": "https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/J9iWjWL.png"
   },
   {
     "name": "Tiny Pop (1080p)",
@@ -1164,12 +1134,6 @@
     "img": "https://i.imgur.com/oMnpsQ5.png"
   },
   {
-    "name": "Filmstream",
-    "type": "Movies",
-    "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/DTRPV6B.png"
-  },
-  {
     "name": "GREAT! movies (1080p)",
     "type": "Movies",
     "url": "https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8",
@@ -1224,9 +1188,9 @@
     "img": "https://i.imgur.com/NJYEYE3.png"
   },
   {
-    "name": "EDGEsport (1080p)",
+    "name": "EDGESport (1080p)",
     "type": "Sports",
-    "url": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8",
+    "url": "https://edgesports-sportstribal.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/bgQ6kz7.png"
   },
   {
@@ -1302,9 +1266,9 @@
     "img": "https://i.imgur.com/MwuIHbX.png"
   },
   {
-    "name": "Real Stories",
+    "name": "Real Stories (1080p)",
     "type": "Documentary",
-    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8",
+    "url": "https://lds-realstories-plex.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/PG15QKA.png"
   },
   {
@@ -1372,12 +1336,6 @@
     "type": "Cooking",
     "url": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/xP7Ehn8.png"
-  },
-  {
-    "name": "The Guardian",
-    "type": "Documentary;News",
-    "url": "https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/o9AYq9V.png"
   },
   {
     "name": "The Pet Collective (720p)",
