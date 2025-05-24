@@ -398,11 +398,6 @@ URL: https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD
 Logo: https://i.imgur.com/Jy8lMOg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Canale Europa (720p)
-URL: https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/PjkzCKd.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
 Name: Canale Italia (720p)
 URL: https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playlist.m3u8
 Logo: https://i.imgur.com/ZqxOFkN.png
@@ -762,11 +757,6 @@ URL: https://jmp2.uk/sam-ESBC4700001GR.m3u8
 Logo: https://i.imgur.com/gRFQ35W.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Mondo TV Kids
-URL: https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/g7GXmFY.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
 Name: Rai Yoyo (1080p)
 URL: http://188.60.179.180:8000/play/xxRaiYoyo
 Logo: https://i.imgur.com/9gCxiDy.png
@@ -920,24 +910,9 @@ Source: https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.
 --------------------------------------------------
 
 Group: Movies
-Name: Bizzarro Movies
-URL: https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/kNGpFHX.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
 Name: Cine 34 [Geo-blocked]
 URL: https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/512px-Cine34_logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: Cinema Segreto
-URL: https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/CD0sMAa.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: Filmstream
-URL: https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/DTRPV6B.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: Pluto TV Cinema Italiano Italy (720p)
@@ -988,11 +963,6 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 Name: Rai Movie (1080p)
 URL: http://188.60.179.180:8000/play/xxRaiMOviexx
 Logo: https://i.imgur.com/0FjxXU9.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: Rakuten Spotlight
-URL: https://rakuten-spotlight-6-it.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/NJYEYE3.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: Rakuten TV Action Movies (1080p)
@@ -1211,13 +1181,6 @@ Group: News;Religious
 Name: Telepace News (720p)
 URL: https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8
 Logo: https://i.imgur.com/kC0c9Q6.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-
-Group: Outdoor
-Name: Italian Fishing TV
-URL: https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/qrn6tUO.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 

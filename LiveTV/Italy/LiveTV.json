@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 22:01:18",
+  "date": "2025-05-24 07:29:15",
   "channels": {
     "Music": [
       {
@@ -206,13 +206,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8"
-      },
-      {
-        "name": "Canale Europa (720p)",
-        "logo": "https://i.imgur.com/PjkzCKd.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8"
       },
       {
         "name": "Canale Italia (720p)",
@@ -2161,141 +2154,6 @@
         "url": "http://ott-cdn.ucom.am/s17/index.m3u8"
       }
     ],
-    "Movies": [
-      {
-        "name": "Bizzarro Movies",
-        "logo": "https://i.imgur.com/kNGpFHX.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
-        "name": "Cine 34 [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/512px-Cine34_logo.svg.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8"
-      },
-      {
-        "name": "Cinema Segreto",
-        "logo": "https://i.imgur.com/CD0sMAa.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
-        "name": "Filmstream",
-        "logo": "https://i.imgur.com/DTRPV6B.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
-        "name": "Pluto TV Cinema Italiano Italy (720p)",
-        "logo": "https://i.imgur.com/w3lUi4t.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      },
-      {
-        "name": "Pluto TV Film Azione Italy (720p)",
-        "logo": "https://i.imgur.com/aQ18r9x.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      },
-      {
-        "name": "Pluto TV Film Classici Italy (720p)",
-        "logo": "https://i.imgur.com/YEbc5EM.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      },
-      {
-        "name": "Pluto TV Film Commedia Italy (720p)",
-        "logo": "https://i.imgur.com/ADNrqKM.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      },
-      {
-        "name": "Pluto TV Film Drama Italy (720p)",
-        "logo": "https://i.imgur.com/dOxuHUn.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      },
-      {
-        "name": "Pluto TV Film Italy (720p)",
-        "logo": "https://i.imgur.com/aZverZQ.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      },
-      {
-        "name": "Pluto TV Film Romantici Italy (720p)",
-        "logo": "https://i.imgur.com/LAvRDve.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      },
-      {
-        "name": "Pluto TV Film Thriller Italy (720p)",
-        "logo": "https://i.imgur.com/3SWPIek.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      },
-      {
-        "name": "Pluto TV Sci-Fi Italy (720p)",
-        "logo": "https://i.imgur.com/vSzd5m7.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-      },
-      {
-        "name": "Rai Movie (1080p)",
-        "logo": "https://i.imgur.com/0FjxXU9.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "http://188.60.179.180:8000/play/xxRaiMOviexx"
-      },
-      {
-        "name": "Rakuten Spotlight",
-        "logo": "https://i.imgur.com/NJYEYE3.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://rakuten-spotlight-6-it.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
-        "name": "Rakuten TV Action Movies (1080p)",
-        "logo": "https://i.imgur.com/NJYEYE3.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
-      },
-      {
-        "name": "Rakuten TV Comedy Movies (1080p)",
-        "logo": "https://i.imgur.com/NJYEYE3.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
-      },
-      {
-        "name": "Rakuten TV Drama Movies (1080p)",
-        "logo": "https://i.imgur.com/NJYEYE3.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
-      },
-      {
-        "name": "Rakuten TV Top Movies (1080p)",
-        "logo": "https://i.imgur.com/NJYEYE3.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
-      }
-    ],
     "Business": [
       {
         "name": "Bloomberg TV EMEA Live Event (720p)",
@@ -2333,13 +2191,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://jmp2.uk/sam-ESBC4700001GR.m3u8"
-      },
-      {
-        "name": "Mondo TV Kids",
-        "logo": "https://i.imgur.com/g7GXmFY.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8"
       },
       {
         "name": "Rai Yoyo (1080p)",
@@ -2456,6 +2307,113 @@
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
+      }
+    ],
+    "Movies": [
+      {
+        "name": "Cine 34 [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/512px-Cine34_logo.svg.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8"
+      },
+      {
+        "name": "Pluto TV Cinema Italiano Italy (720p)",
+        "logo": "https://i.imgur.com/w3lUi4t.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      },
+      {
+        "name": "Pluto TV Film Azione Italy (720p)",
+        "logo": "https://i.imgur.com/aQ18r9x.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      },
+      {
+        "name": "Pluto TV Film Classici Italy (720p)",
+        "logo": "https://i.imgur.com/YEbc5EM.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      },
+      {
+        "name": "Pluto TV Film Commedia Italy (720p)",
+        "logo": "https://i.imgur.com/ADNrqKM.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      },
+      {
+        "name": "Pluto TV Film Drama Italy (720p)",
+        "logo": "https://i.imgur.com/dOxuHUn.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      },
+      {
+        "name": "Pluto TV Film Italy (720p)",
+        "logo": "https://i.imgur.com/aZverZQ.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      },
+      {
+        "name": "Pluto TV Film Romantici Italy (720p)",
+        "logo": "https://i.imgur.com/LAvRDve.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      },
+      {
+        "name": "Pluto TV Film Thriller Italy (720p)",
+        "logo": "https://i.imgur.com/3SWPIek.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      },
+      {
+        "name": "Pluto TV Sci-Fi Italy (720p)",
+        "logo": "https://i.imgur.com/vSzd5m7.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+      },
+      {
+        "name": "Rai Movie (1080p)",
+        "logo": "https://i.imgur.com/0FjxXU9.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "http://188.60.179.180:8000/play/xxRaiMOviexx"
+      },
+      {
+        "name": "Rakuten TV Action Movies (1080p)",
+        "logo": "https://i.imgur.com/NJYEYE3.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+      },
+      {
+        "name": "Rakuten TV Comedy Movies (1080p)",
+        "logo": "https://i.imgur.com/NJYEYE3.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
+      },
+      {
+        "name": "Rakuten TV Drama Movies (1080p)",
+        "logo": "https://i.imgur.com/NJYEYE3.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+      },
+      {
+        "name": "Rakuten TV Top Movies (1080p)",
+        "logo": "https://i.imgur.com/NJYEYE3.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8"
       }
     ],
     "Religious": [
@@ -2581,15 +2539,6 @@
         "group": "Outdoor;Shop",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://inwild-samsungau.amagi.tv/playlist.m3u8"
-      }
-    ],
-    "Outdoor": [
-      {
-        "name": "Italian Fishing TV",
-        "logo": "https://i.imgur.com/qrn6tUO.png",
-        "group": "Outdoor",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8"
       }
     ],
     "Travel": [
