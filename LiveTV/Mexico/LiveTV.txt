@@ -61,8 +61,8 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
 Group: Cooking
-Name: Tastemade en Español (1080p)
-URL: https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+Name: Tastemade en Espanol [Geo-blocked]
+URL: https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/8s6aRwv.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
@@ -851,11 +851,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: Filmex Clásico (1080p) [Geo-blocked]
 URL: https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/D3dj4mv.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Filmstream
-URL: https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/DTRPV6B.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: Golden Premier (576p)

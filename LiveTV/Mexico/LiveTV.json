@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 22:00:36",
+  "date": "2025-05-24 07:26:58",
   "channels": {
     "Uncategorized": [
       {
@@ -3586,13 +3586,6 @@
         "url": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8"
       },
       {
-        "name": "Filmstream",
-        "logo": "https://i.imgur.com/DTRPV6B.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
         "name": "Golden Premier (576p)",
         "logo": "https://i.imgur.com/JMa7jws.png",
         "group": "Movies",
@@ -5618,11 +5611,11 @@
     ],
     "Cooking": [
       {
-        "name": "Tastemade en Español (1080p)",
+        "name": "Tastemade en Espanol [Geo-blocked]",
         "logo": "https://i.imgur.com/8s6aRwv.png",
         "group": "Cooking",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8"
+        "url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
       }
     ],
     "Business": [
