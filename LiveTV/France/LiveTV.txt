@@ -358,13 +358,6 @@ Logo: https://i.imgur.com/yH7n2dF.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 
-Group: Family;Movies
-Name: Rakuten Family (720p)
-URL: https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/NJYEYE3.png
-Source: https://iptv-org.github.io/iptv/countries/fr.m3u
---------------------------------------------------
-
 Group: General
 Name: 20 Minutes TV (1080p)
 URL: https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
@@ -596,11 +589,6 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 
 Group: Movies
-Name: Filmstream
-URL: https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/DTRPV6B.png
-Source: https://iptv-org.github.io/iptv/countries/fr.m3u
---------------------------------------------------
 Name: Pluto TV Action
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055171-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c3b67254-4628-4f0e-8164-5a50e8969a42
 Logo: https://i.imgur.com/tDapGal.png
@@ -619,21 +607,6 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 Name: Pluto TV Sci-Fi
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b2680c6-291b-492d-a7cf-589b55d330d2
 Logo: https://i.imgur.com/vSzd5m7.png
-Source: https://iptv-org.github.io/iptv/countries/fr.m3u
---------------------------------------------------
-Name: Rakuten Action Movies (720p)
-URL: https://rakuten-actionmovies-7-fr.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/NJYEYE3.png
-Source: https://iptv-org.github.io/iptv/countries/fr.m3u
---------------------------------------------------
-Name: Rakuten Comedy Movies (720p)
-URL: https://rakuten-comedymovies-7-fr.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/NJYEYE3.png
-Source: https://iptv-org.github.io/iptv/countries/fr.m3u
---------------------------------------------------
-Name: Rakuten Spotlight (720p)
-URL: https://rakuten-spotlight-7-fr.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/NJYEYE3.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: TF1 Séries Films (720p) [Geo-blocked]
@@ -686,11 +659,6 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 Name: Qwest TV Jazz & Beyond (720p) [Geo-blocked]
 URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
 Logo: https://i.imgur.com/89yWH5L.png
-Source: https://iptv-org.github.io/iptv/countries/fr.m3u
---------------------------------------------------
-Name: Qwest TV Mix (720p) [Geo-blocked]
-URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
-Logo: https://i.imgur.com/lO22nwk.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: TRACE Brazuca (1080p)
@@ -3475,12 +3443,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=NXFodktxxmuIj8fbz0UU9Q&e=1747995636
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=DKDUvn3m-6H-PaY09iXH1Q&e=1748063816
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=NXFodktxxmuIj8fbz0UU9Q&e=1747995636
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=DKDUvn3m-6H-PaY09iXH1Q&e=1748063816
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -13024,11 +12992,6 @@ Group: Undefined
 Name: Bigtime (720p)
 URL: https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
 Logo: https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg
-Source: https://iptv-org.github.io/iptv/countries/fr.m3u
---------------------------------------------------
-Name: Caillou
-URL: https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/RgKaoe4.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: Car City Adventures (720p)
