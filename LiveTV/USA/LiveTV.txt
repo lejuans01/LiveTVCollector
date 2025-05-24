@@ -3712,8 +3712,8 @@ URL: https://bozztv.com/gusa/gusa-mwg/index.m3u8
 Logo: https://i.imgur.com/5QQy3aW.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Tastemade
-URL: https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
+Name: Tastemade International
+URL: https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
 Logo: https://i.imgur.com/xP7Ehn8.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4565,8 +4565,8 @@ URL: https://30a-tv.com/feeds/masters/30atv.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",A&E East [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/AEEast/index.m3u8
+Name: A&E East (720p)
+URL: https://tvpass.org/live/AEEast/hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4680,8 +4680,8 @@ URL: http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",Crime + Investigation [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/CrimePlusInvestigation/index.m3u8
+Name: Crime + Investigation (720p)
+URL: https://tvpass.org/live/CrimePlusInvestigation/hd
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4825,8 +4825,8 @@ URL: https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",KFMB-DT2 [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/index.m3u8
+Name: KFMB-DT2 (720p)
+URL: https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
 Logo: https://i.imgur.com/GCB3vun.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -4905,8 +4905,8 @@ URL: http://fl3.moveonjoy.com/LIFETIME/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",Logo East [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/LogoEast/index.m3u8
+Name: Logo East (720p)
+URL: https://tvpass.org/live/LogoEast/hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -5708,6 +5708,11 @@ URL: https://apollo.production-public.tubi.io/live/ac-ksaz.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: FOX 11 Los Angeles CA (KTTV) (720p)
+URL: https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: FOX 13 Salt Lake City UT (KSTU) (720p)
 URL: https://apollo.production-public.tubi.io/live/ac-kstu2.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png
@@ -5793,13 +5798,13 @@ URL: https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8
 Logo: https://i.imgur.com/2NM5HI0.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",KABC-DT1 [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/abc-kabc-los-angeles-ca/index.m3u8
+Name: KABC-DT1 (720p)
+URL: https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",KCBS-DT1 [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/index.m3u8
+Name: KCBS-DT1 (1080p)
+URL: https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 Logo: https://i.imgur.com/RIFC1Y6.jpg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -5838,8 +5843,8 @@ URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kmovnews
 Logo: https://static.wikia.nocookie.net/logopedia/images/9/91/KMOV_(2023).svg/revision/latest/scale-to-width-down/512
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",KNBC-DT1 [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/nbc-knbc-los-angeles-ca/index.m3u8
+Name: KNBC-DT1 (1080p)
+URL: https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -5891,11 +5896,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: KSMO-DT1 (720p)
 URL: https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 Logo: https://i.imgur.com/v58Froh.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",KTTV-DT1 [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/fox-kttv-los-angeles-ca/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: KTVO-DT1 (720p)
@@ -6415,8 +6415,8 @@ URL: http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",Disney XD East [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/DisneyXDEast/index.m3u8
+Name: Disney XD East (720p)
+URL: https://tvpass.org/live/DisneyXDEast/hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -6553,11 +6553,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Team Spirit
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2b8fbc7f-29d9-4732-92d1-24f50c0be761
 Logo: https://i.imgur.com/O1Mengf.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",TeenNick East
-URL: https://v16.thetvapp.to/hls/TeenNickEast/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Toon Goggles (720p)
@@ -10639,8 +10634,8 @@ URL: https://windnew.newkso.ru/wind/premium750/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/512px-C-SPAN_Logo_%282019%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",C-SPAN 2 [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/CSPAN2/index.m3u8
+Name: C-SPAN 2 (720p)
+URL: https://tvpass.org/live/CSPAN2/hd
 Logo: https://i.imgur.com/9B6XIQC.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -11161,14 +11156,14 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/FDxMMBb.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Revry
-URL: https://revry-revry-3-nz.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/XuTUaq4.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: Revry 2
 URL: https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
 Logo: https://i.imgur.com/bKpligT.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Revry (720p) [Not 24/7]
+URL: https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+Logo: https://i.imgur.com/XuTUaq4.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Revry Brasil
@@ -11196,8 +11191,8 @@ URL: https://cf-live29e5f8c.lwcdn.com/live/fallback/014dc067-4922-4168-bdcd-5278
 Logo: https://i.imgur.com/KShaqAp.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: The Design Network
-URL: https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
+Name: The Design Network (1080p)
+URL: https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/J5YJ3r3.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -11270,11 +11265,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Local Channels
-Name: KCBS-TV CBS 2 (Los Angeles CA)
-URL: https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
-Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: KNBC-TV NBC 4 (Los Angeles CA)
 URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/986
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
@@ -11718,11 +11708,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 Name: KFMB-TV CBS 8.1 (San Diego CA)
 URL: http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329149
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: KFMB-TV CW 8.2 (San Diego CA)
-URL: https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
-Logo: https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KGTV-TV ABC 10 (San Diego CA)
@@ -12302,11 +12287,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 Name: KABC-TV ABC 7 24/7 News (Los Angeles CA)
 URL: https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: KTTV-TV FOX 11 24/7 News (Los Angeles CA)
-URL: https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
-Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WNBC-TV NBC 4 24/7 News (New York NY)
@@ -13107,11 +13087,6 @@ URL: https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
 Logo: https://i.imgur.com/8j2npVc.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Filmstream
-URL: https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/DTRPV6B.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: Flicks of Fury
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=671a0e89-5b21-406b-95a9-b395c4ef4b07
 Logo: https://i.imgur.com/rtL5L81.png
@@ -13122,8 +13097,8 @@ URL: https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-f
 Logo: https://i.imgur.com/OM6BP37.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",FX Movie Channel [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/FXMovieChannel/index.m3u8
+Name: FX Movie Channel (720p)
+URL: https://tvpass.org/live/FXMovieChannel/hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13142,8 +13117,8 @@ URL: http://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 Logo: https://i.imgur.com/GPRGA9C.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",IFC East [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/IFCEast/index.m3u8
+Name: IFC East (720p)
+URL: https://tvpass.org/live/IFCEast/hd
 Logo: https://i.imgur.com/bQdkyF9.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -18603,6 +18578,11 @@ URL: https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
 Logo: https://i.imgur.com/Hb38BNo.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: MMC TV USA (720p)
+URL: https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8
+Logo: https://i.imgur.com/0MwrSYE.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Mohabat TV (540p)
 URL: http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 Logo: https://i.imgur.com/tucTC1O.jpg
@@ -19622,11 +19602,6 @@ URL: http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 Logo: https://i.imgur.com/A8CnA8g.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",ESPN Deportes [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/espn-deportes/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: ESPN U (720p)
 URL: http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 Logo: https://i.imgur.com/HiBrysh.png
@@ -19635,11 +19610,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: ESR 24x7 eSports Network (1080p)
 URL: https://eyeonesports.com/ES2RA-628g.m3u8
 Logo: https://satelliteprome.com/wp-content/uploads/2021/01/ESR-network.jpg
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: ESTV (1080p)
-URL: https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/qHNV0f5.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Fight
@@ -19692,11 +19662,6 @@ URL: https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 Logo: https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",Marquee Sports Network [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/marquee-sports-network/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: MLB
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
 Logo: https://i.imgur.com/ym3su2J.png
@@ -19722,24 +19687,19 @@ URL: https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",NBC Sports Bay Area [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8
+Name: NBC Sports Bay Area (720p)
+URL: https://tvpass.org/live/nbc-sports-bay-area/hd
 Logo: https://i.imgur.com/MTgUVKx.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",NBC Sports Boston [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/nbc-sports-boston/index.m3u8
+Name: NBC Sports Boston (1080p)
+URL: https://tvpass.org/live/nbc-sports-boston/hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",NBC Sports Philadelphia [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/nbc-sports-philadelphia/index.m3u8
+Name: NBC Sports Philadelphia (720p)
+URL: https://tvpass.org/live/nbc-sports-philadelphia/hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",NESN
-URL: https://v16.thetvapp.to/hls/new-england-sports-network/index.m3u8
-Logo: https://i.imgur.com/Lv1bUG5.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: NFL Channel
@@ -22176,11 +22136,6 @@ URL: https://stream6.scientology.org/master.m3u8
 Logo: https://i.imgur.com/HOYF8NA.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",SEC Network [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/SECN/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/512px-SEC_Network_logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
 Name: Séptimo arte
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8987-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1202ea23-d955-4016-bac1-563ea6638683
 Logo: https://i.imgur.com/GAIFeP2.png
@@ -22401,8 +22356,8 @@ URL: https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
 Logo: https://i.imgur.com/C4wIRxg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",WABC-DT1 [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/WABCDT1/index.m3u8
+Name: WABC-DT1 (720p)
+URL: https://tvpass.org/live/WABCDT1/hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -22566,8 +22521,8 @@ URL: http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/130.0.0.0 Safari/537.36",WNJU-DT1 [Geo-blocked]
-URL: https://v1.thetvapp.to/hls/TelemundoEast/index.m3u8
+Name: WNJU-DT1 (1080p)
+URL: https://tvpass.org/live/TelemundoEast/hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------

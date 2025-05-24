@@ -450,6 +450,12 @@
     "img": "https://i.imgur.com/Hb38BNo.png"
   },
   {
+    "name": "MMC TV USA (720p)",
+    "type": "Religious",
+    "url": "https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8",
+    "img": "https://i.imgur.com/0MwrSYE.png"
+  },
+  {
     "name": "Mohabat TV (540p)",
     "type": "Religious",
     "url": "http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
@@ -1182,6 +1188,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png"
   },
   {
+    "name": "FOX 11 Los Angeles CA (KTTV) (720p)",
+    "type": "General",
+    "url": "https://apollo.production-public.tubi.io/live/ac-kttv.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png"
+  },
+  {
     "name": "FOX 13 Salt Lake City UT (KSTU) (720p)",
     "type": "General",
     "url": "https://apollo.production-public.tubi.io/live/ac-kstu2.m3u8",
@@ -1284,15 +1296,15 @@
     "img": "https://i.imgur.com/2NM5HI0.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",KABC-DT1 [Geo-blocked]",
+    "name": "KABC-DT1 (720p)",
     "type": "General",
-    "url": "https://v1.thetvapp.to/hls/abc-kabc-los-angeles-ca/index.m3u8",
+    "url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",KCBS-DT1 [Geo-blocked]",
+    "name": "KCBS-DT1 (1080p)",
     "type": "General",
-    "url": "https://v1.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/index.m3u8",
+    "url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd",
     "img": "https://i.imgur.com/RIFC1Y6.jpg"
   },
   {
@@ -1338,9 +1350,9 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/9/91/KMOV_(2023).svg/revision/latest/scale-to-width-down/512"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",KNBC-DT1 [Geo-blocked]",
+    "name": "KNBC-DT1 (1080p)",
     "type": "General",
-    "url": "https://v1.thetvapp.to/hls/nbc-knbc-los-angeles-ca/index.m3u8",
+    "url": "https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"
   },
   {
@@ -1402,12 +1414,6 @@
     "type": "General",
     "url": "https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8",
     "img": "https://i.imgur.com/v58Froh.png"
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",KTTV-DT1 [Geo-blocked]",
-    "type": "General",
-    "url": "https://v1.thetvapp.to/hls/fox-kttv-los-angeles-ca/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png"
   },
   {
     "name": "KTVO-DT1 (720p)",
@@ -3060,12 +3066,6 @@
     "img": "https://i.imgur.com/8j2npVc.png"
   },
   {
-    "name": "Filmstream",
-    "type": "Movies",
-    "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/DTRPV6B.png"
-  },
-  {
     "name": "Flicks of Fury",
     "type": "Movies",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=671a0e89-5b21-406b-95a9-b395c4ef4b07",
@@ -3078,9 +3078,9 @@
     "img": "https://i.imgur.com/OM6BP37.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",FX Movie Channel [Geo-blocked]",
+    "name": "FX Movie Channel (720p)",
     "type": "Movies",
-    "url": "https://v1.thetvapp.to/hls/FXMovieChannel/index.m3u8",
+    "url": "https://tvpass.org/live/FXMovieChannel/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png"
   },
   {
@@ -3102,9 +3102,9 @@
     "img": "https://i.imgur.com/GPRGA9C.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",IFC East [Geo-blocked]",
+    "name": "IFC East (720p)",
     "type": "Movies",
-    "url": "https://v1.thetvapp.to/hls/IFCEast/index.m3u8",
+    "url": "https://tvpass.org/live/IFCEast/hd",
     "img": "https://i.imgur.com/bQdkyF9.png"
   },
   {
@@ -3558,12 +3558,6 @@
     "img": "https://i.imgur.com/A8CnA8g.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",ESPN Deportes [Geo-blocked]",
-    "type": "Sports",
-    "url": "https://v1.thetvapp.to/hls/espn-deportes/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png"
-  },
-  {
     "name": "ESPN U (720p)",
     "type": "Sports",
     "url": "http://fl3.moveonjoy.com/ESPN_U/index.m3u8",
@@ -3574,12 +3568,6 @@
     "type": "Sports",
     "url": "https://eyeonesports.com/ES2RA-628g.m3u8",
     "img": "https://satelliteprome.com/wp-content/uploads/2021/01/ESR-network.jpg"
-  },
-  {
-    "name": "ESTV (1080p)",
-    "type": "Sports",
-    "url": "https://estv-rakuten-samsung.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/qHNV0f5.png"
   },
   {
     "name": "Fight",
@@ -3642,12 +3630,6 @@
     "img": "https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Marquee Sports Network [Geo-blocked]",
-    "type": "Sports",
-    "url": "https://v1.thetvapp.to/hls/marquee-sports-network/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png"
-  },
-  {
     "name": "MLB",
     "type": "Sports",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a",
@@ -3678,28 +3660,22 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",NBC Sports Bay Area [Geo-blocked]",
+    "name": "NBC Sports Bay Area (720p)",
     "type": "Sports",
-    "url": "https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8",
+    "url": "https://tvpass.org/live/nbc-sports-bay-area/hd",
     "img": "https://i.imgur.com/MTgUVKx.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",NBC Sports Boston [Geo-blocked]",
+    "name": "NBC Sports Boston (1080p)",
     "type": "Sports",
-    "url": "https://v1.thetvapp.to/hls/nbc-sports-boston/index.m3u8",
+    "url": "https://tvpass.org/live/nbc-sports-boston/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",NBC Sports Philadelphia [Geo-blocked]",
+    "name": "NBC Sports Philadelphia (720p)",
     "type": "Sports",
-    "url": "https://v1.thetvapp.to/hls/nbc-sports-philadelphia/index.m3u8",
+    "url": "https://tvpass.org/live/nbc-sports-philadelphia/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png"
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",NESN",
-    "type": "Sports",
-    "url": "https://v16.thetvapp.to/hls/new-england-sports-network/index.m3u8",
-    "img": "https://i.imgur.com/Lv1bUG5.png"
   },
   {
     "name": "NFL Channel",
@@ -5142,16 +5118,16 @@
     "img": "https://i.imgur.com/FDxMMBb.png"
   },
   {
-    "name": "Revry",
-    "type": "Lifestyle",
-    "url": "https://revry-revry-3-nz.samsung.wurl.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/XuTUaq4.png"
-  },
-  {
     "name": "Revry 2",
     "type": "Lifestyle",
     "url": "https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8",
     "img": "https://i.imgur.com/bKpligT.png"
+  },
+  {
+    "name": "Revry (720p) [Not 24/7]",
+    "type": "Lifestyle",
+    "url": "https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8",
+    "img": "https://i.imgur.com/XuTUaq4.png"
   },
   {
     "name": "Revry Brasil",
@@ -5184,9 +5160,9 @@
     "img": "https://i.imgur.com/KShaqAp.png"
   },
   {
-    "name": "The Design Network",
+    "name": "The Design Network (1080p)",
     "type": "Lifestyle",
-    "url": "https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8",
+    "url": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/J5YJ3r3.png"
   },
   {
@@ -7542,9 +7518,9 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",A&E East [Geo-blocked]",
+    "name": "A&E East (720p)",
     "type": "Entertainment",
-    "url": "https://v1.thetvapp.to/hls/AEEast/index.m3u8",
+    "url": "https://tvpass.org/live/AEEast/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png"
   },
   {
@@ -7680,9 +7656,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Crime + Investigation [Geo-blocked]",
+    "name": "Crime + Investigation (720p)",
     "type": "Entertainment",
-    "url": "https://v1.thetvapp.to/hls/CrimePlusInvestigation/index.m3u8",
+    "url": "https://tvpass.org/live/CrimePlusInvestigation/hd",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png"
   },
   {
@@ -7854,9 +7830,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",KFMB-DT2 [Geo-blocked]",
+    "name": "KFMB-DT2 (720p)",
     "type": "Entertainment",
-    "url": "https://v1.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/index.m3u8",
+    "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd",
     "img": "https://i.imgur.com/GCB3vun.png"
   },
   {
@@ -7950,9 +7926,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Logo East [Geo-blocked]",
+    "name": "Logo East (720p)",
     "type": "Entertainment",
-    "url": "https://v1.thetvapp.to/hls/LogoEast/index.m3u8",
+    "url": "https://tvpass.org/live/LogoEast/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png"
   },
   {
@@ -9864,12 +9840,6 @@
     "img": "https://i.imgur.com/HOYF8NA.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",SEC Network [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://v1.thetvapp.to/hls/SECN/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/512px-SEC_Network_logo.svg.png"
-  },
-  {
     "name": "Séptimo arte",
     "type": "Undefined",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8987-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1202ea23-d955-4016-bac1-563ea6638683",
@@ -10134,9 +10104,9 @@
     "img": "https://i.imgur.com/C4wIRxg.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",WABC-DT1 [Geo-blocked]",
+    "name": "WABC-DT1 (720p)",
     "type": "Undefined",
-    "url": "https://v1.thetvapp.to/hls/WABCDT1/index.m3u8",
+    "url": "https://tvpass.org/live/WABCDT1/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png"
   },
   {
@@ -10332,9 +10302,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",WNJU-DT1 [Geo-blocked]",
+    "name": "WNJU-DT1 (1080p)",
     "type": "Undefined",
-    "url": "https://v1.thetvapp.to/hls/TelemundoEast/index.m3u8",
+    "url": "https://tvpass.org/live/TelemundoEast/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png"
   },
   {
@@ -10482,9 +10452,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/512px-C-SPAN_Logo_%282019%29.svg.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",C-SPAN 2 [Geo-blocked]",
+    "name": "C-SPAN 2 (720p)",
     "type": "Legislative",
-    "url": "https://v1.thetvapp.to/hls/CSPAN2/index.m3u8",
+    "url": "https://tvpass.org/live/CSPAN2/hd",
     "img": "https://i.imgur.com/9B6XIQC.png"
   },
   {
@@ -11094,9 +11064,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Disney XD East [Geo-blocked]",
+    "name": "Disney XD East (720p)",
     "type": "Kids",
-    "url": "https://v1.thetvapp.to/hls/DisneyXDEast/index.m3u8",
+    "url": "https://tvpass.org/live/DisneyXDEast/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png"
   },
   {
@@ -11262,12 +11232,6 @@
     "img": "https://i.imgur.com/O1Mengf.png"
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",TeenNick East",
-    "type": "Kids",
-    "url": "https://v16.thetvapp.to/hls/TeenNickEast/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png"
-  },
-  {
     "name": "Toon Goggles (720p)",
     "type": "Kids",
     "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37",
@@ -11364,9 +11328,9 @@
     "img": "https://i.imgur.com/5QQy3aW.png"
   },
   {
-    "name": "Tastemade",
+    "name": "Tastemade International",
     "type": "Cooking",
-    "url": "https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8",
     "img": "https://i.imgur.com/xP7Ehn8.png"
   },
   {
@@ -13500,12 +13464,6 @@
     "img": "https://canvas-lb.tubitv.com/opts/NrV8diK2c6dydA==/741d881e-657c-4a15-8ba8-847bab267f6e/CHgQeDoFMS4xLjJAAQ=="
   },
   {
-    "name": "KCBS-TV CBS 2 (Los Angeles CA)",
-    "type": "Local Channels",
-    "url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd",
-    "img": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png"
-  },
-  {
     "name": "KNBC-TV NBC 4 (Los Angeles CA)",
     "type": "Local Channels",
     "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/986",
@@ -14038,12 +13996,6 @@
     "type": "Local Channels",
     "url": "http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329149",
     "img": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png"
-  },
-  {
-    "name": "KFMB-TV CW 8.2 (San Diego CA)",
-    "type": "Local Channels",
-    "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd",
-    "img": "https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg"
   },
   {
     "name": "KGTV-TV ABC 10 (San Diego CA)",
@@ -14650,12 +14602,6 @@
     "type": "Local News 24/7",
     "url": "https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8",
     "img": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png"
-  },
-  {
-    "name": "KTTV-TV FOX 11 24/7 News (Los Angeles CA)",
-    "type": "Local News 24/7",
-    "url": "https://apollo.production-public.tubi.io/live/ac-kttv.m3u8",
-    "img": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png"
   },
   {
     "name": "WNBC-TV NBC 4 24/7 News (New York NY)",

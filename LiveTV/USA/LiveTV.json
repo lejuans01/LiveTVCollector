@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-23 21:51:58",
+  "date": "2025-05-24 06:52:37",
   "channels": {
     "Religious": [
       {
@@ -526,6 +526,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8"
+      },
+      {
+        "name": "MMC TV USA (720p)",
+        "logo": "https://i.imgur.com/0MwrSYE.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8"
       },
       {
         "name": "Mohabat TV (540p)",
@@ -1388,6 +1395,13 @@
         "url": "https://apollo.production-public.tubi.io/live/ac-ksaz.m3u8"
       },
       {
+        "name": "FOX 11 Los Angeles CA (KTTV) (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://apollo.production-public.tubi.io/live/ac-kttv.m3u8"
+      },
+      {
         "name": "FOX 13 Salt Lake City UT (KSTU) (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
         "group": "General",
@@ -1507,18 +1521,18 @@
         "url": "https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",KABC-DT1 [Geo-blocked]",
+        "name": "KABC-DT1 (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/abc-kabc-los-angeles-ca/index.m3u8"
+        "url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/hd"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",KCBS-DT1 [Geo-blocked]",
+        "name": "KCBS-DT1 (1080p)",
         "logo": "https://i.imgur.com/RIFC1Y6.jpg",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/index.m3u8"
+        "url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd"
       },
       {
         "name": "KCTV-DT1 [Geo-blocked]",
@@ -1570,11 +1584,11 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kmovnews4stlouis-vizious/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",KNBC-DT1 [Geo-blocked]",
+        "name": "KNBC-DT1 (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/nbc-knbc-los-angeles-ca/index.m3u8"
+        "url": "https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd"
       },
       {
         "name": "KOKI-DT1 (1080p)",
@@ -1645,13 +1659,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",KTTV-DT1 [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/fox-kttv-los-angeles-ca/index.m3u8"
       },
       {
         "name": "KTVO-DT1 (720p)",
@@ -3583,13 +3590,6 @@
         "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8"
       },
       {
-        "name": "Filmstream",
-        "logo": "https://i.imgur.com/DTRPV6B.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
         "name": "Flicks of Fury",
         "logo": "https://i.imgur.com/rtL5L81.png",
         "group": "Movies",
@@ -3604,11 +3604,11 @@
         "url": "https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",FX Movie Channel [Geo-blocked]",
+        "name": "FX Movie Channel (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/FXMovieChannel/index.m3u8"
+        "url": "https://tvpass.org/live/FXMovieChannel/hd"
       },
       {
         "name": "FXM East",
@@ -3632,11 +3632,11 @@
         "url": "http://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",IFC East [Geo-blocked]",
+        "name": "IFC East (720p)",
         "logo": "https://i.imgur.com/bQdkyF9.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/IFCEast/index.m3u8"
+        "url": "https://tvpass.org/live/IFCEast/hd"
       },
       {
         "name": "Lifetime Movies East",
@@ -4170,13 +4170,6 @@
         "url": "http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",ESPN Deportes [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/espn-deportes/index.m3u8"
-      },
-      {
         "name": "ESPN U (720p)",
         "logo": "https://i.imgur.com/HiBrysh.png",
         "group": "Sports",
@@ -4189,13 +4182,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://eyeonesports.com/ES2RA-628g.m3u8"
-      },
-      {
-        "name": "ESTV (1080p)",
-        "logo": "https://i.imgur.com/qHNV0f5.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://estv-rakuten-samsung.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Fight",
@@ -4268,13 +4254,6 @@
         "url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Marquee Sports Network [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/marquee-sports-network/index.m3u8"
-      },
-      {
         "name": "MLB",
         "logo": "https://i.imgur.com/ym3su2J.png",
         "group": "Sports",
@@ -4310,32 +4289,25 @@
         "url": "https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",NBC Sports Bay Area [Geo-blocked]",
+        "name": "NBC Sports Bay Area (720p)",
         "logo": "https://i.imgur.com/MTgUVKx.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8"
+        "url": "https://tvpass.org/live/nbc-sports-bay-area/hd"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",NBC Sports Boston [Geo-blocked]",
+        "name": "NBC Sports Boston (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/nbc-sports-boston/index.m3u8"
+        "url": "https://tvpass.org/live/nbc-sports-boston/hd"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",NBC Sports Philadelphia [Geo-blocked]",
+        "name": "NBC Sports Philadelphia (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/nbc-sports-philadelphia/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",NESN",
-        "logo": "https://i.imgur.com/Lv1bUG5.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v16.thetvapp.to/hls/new-england-sports-network/index.m3u8"
+        "url": "https://tvpass.org/live/nbc-sports-philadelphia/hd"
       },
       {
         "name": "NFL Channel",
@@ -6024,18 +5996,18 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6022bd17849c620007f43ae0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0db981e3-cabf-4589-ae4e-5696db28f9ea"
       },
       {
-        "name": "Revry",
-        "logo": "https://i.imgur.com/XuTUaq4.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://revry-revry-3-nz.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
         "name": "Revry 2",
         "logo": "https://i.imgur.com/bKpligT.png",
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "Revry (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/XuTUaq4.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8"
       },
       {
         "name": "Revry Brasil",
@@ -6073,11 +6045,11 @@
         "url": "https://cf-live29e5f8c.lwcdn.com/live/fallback/014dc067-4922-4168-bdcd-5278589269ed/playlist.m3u8"
       },
       {
-        "name": "The Design Network",
+        "name": "The Design Network (1080p)",
         "logo": "https://i.imgur.com/J5YJ3r3.png",
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8"
+        "url": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8"
       },
       {
         "name": "The Jamie Oliver Channel",
@@ -8830,11 +8802,11 @@
         "url": "https://30a-tv.com/feeds/masters/30atv.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",A&E East [Geo-blocked]",
+        "name": "A&E East (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/AEEast/index.m3u8"
+        "url": "https://tvpass.org/live/AEEast/hd"
       },
       {
         "name": "Ace TV (KCKS-LD3) (480p)",
@@ -8991,11 +8963,11 @@
         "url": "http://fl3.moveonjoy.com/COZI_TV/index.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Crime + Investigation [Geo-blocked]",
+        "name": "Crime + Investigation (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/CrimePlusInvestigation/index.m3u8"
+        "url": "https://tvpass.org/live/CrimePlusInvestigation/hd"
       },
       {
         "name": "Demand Africa",
@@ -9194,11 +9166,11 @@
         "url": "https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",KFMB-DT2 [Geo-blocked]",
+        "name": "KFMB-DT2 (720p)",
         "logo": "https://i.imgur.com/GCB3vun.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/index.m3u8"
+        "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
       },
       {
         "name": "KMBC-DT2 (720p)",
@@ -9306,11 +9278,11 @@
         "url": "http://fl3.moveonjoy.com/LIFETIME/index.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Logo East [Geo-blocked]",
+        "name": "Logo East (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/LogoEast/index.m3u8"
+        "url": "https://tvpass.org/live/LogoEast/hd"
       },
       {
         "name": "Logo Pluto TV",
@@ -11551,13 +11523,6 @@
         "url": "https://stream6.scientology.org/master.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",SEC Network [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/512px-SEC_Network_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/SECN/index.m3u8"
-      },
-      {
         "name": "Séptimo arte",
         "logo": "https://i.imgur.com/GAIFeP2.png",
         "group": "Undefined",
@@ -11866,11 +11831,11 @@
         "url": "https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",WABC-DT1 [Geo-blocked]",
+        "name": "WABC-DT1 (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/WABCDT1/index.m3u8"
+        "url": "https://tvpass.org/live/WABCDT1/hd"
       },
       {
         "name": "WBBJ (Jackson TN) (432p)",
@@ -12097,11 +12062,11 @@
         "url": "http://fl1.moveonjoy.com/NBC_EAST/index.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",WNJU-DT1 [Geo-blocked]",
+        "name": "WNJU-DT1 (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/TelemundoEast/index.m3u8"
+        "url": "https://tvpass.org/live/TelemundoEast/hd"
       },
       {
         "name": "WNYW-DT1",
@@ -12276,11 +12241,11 @@
         "url": "https://windnew.newkso.ru/wind/premium750/mono.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",C-SPAN 2 [Geo-blocked]",
+        "name": "C-SPAN 2 (720p)",
         "logo": "https://i.imgur.com/9B6XIQC.png",
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/CSPAN2/index.m3u8"
+        "url": "https://tvpass.org/live/CSPAN2/hd"
       },
       {
         "name": "CFM TV Channel 98 (360p)",
@@ -12994,11 +12959,11 @@
         "url": "http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",Disney XD East [Geo-blocked]",
+        "name": "Disney XD East (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v1.thetvapp.to/hls/DisneyXDEast/index.m3u8"
+        "url": "https://tvpass.org/live/DisneyXDEast/hd"
       },
       {
         "name": "Disney XD West (720p)",
@@ -13190,13 +13155,6 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2b8fbc7f-29d9-4732-92d1-24f50c0be761"
       },
       {
-        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\",TeenNick East",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://v16.thetvapp.to/hls/TeenNickEast/index.m3u8"
-      },
-      {
         "name": "Toon Goggles (720p)",
         "logo": "https://i.imgur.com/JMnxswq.png",
         "group": "Kids",
@@ -13311,11 +13269,11 @@
         "url": "https://bozztv.com/gusa/gusa-mwg/index.m3u8"
       },
       {
-        "name": "Tastemade",
+        "name": "Tastemade International",
         "logo": "https://i.imgur.com/xP7Ehn8.png",
         "group": "Cooking",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8"
+        "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8"
       },
       {
         "name": "Tastemade Travel [Geo-blocked]",
@@ -15915,13 +15873,6 @@
     ],
     "Local Channels": [
       {
-        "name": "KCBS-TV CBS 2 (Los Angeles CA)",
-        "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
-        "group": "Local Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd"
-      },
-      {
         "name": "KNBC-TV NBC 4 (Los Angeles CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels",
@@ -16543,13 +16494,6 @@
         "group": "Local Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329149"
-      },
-      {
-        "name": "KFMB-TV CW 8.2 (San Diego CA)",
-        "logo": "https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg",
-        "group": "Local Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd"
       },
       {
         "name": "KGTV-TV ABC 10 (San Diego CA)",
@@ -17259,13 +17203,6 @@
         "group": "Local News 24/7",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8"
-      },
-      {
-        "name": "KTTV-TV FOX 11 24/7 News (Los Angeles CA)",
-        "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
-        "group": "Local News 24/7",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://apollo.production-public.tubi.io/live/ac-kttv.m3u8"
       },
       {
         "name": "WNBC-TV NBC 4 24/7 News (New York NY)",
