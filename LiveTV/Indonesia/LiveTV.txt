@@ -4514,7 +4514,7 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 --------------------------------------------------
 Name: Galaxy
 URL: http://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
-Logo: https://www.mncvision.id/userfiles/image/channel/channel_13.png
+Logo: https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Galaxy Premium
@@ -4542,29 +4542,29 @@ URL: http://202.147.193.244/live/eds/Paramount/sa_dash/Paramount.mpd
 Logo: https://i.ibb.co/zrxvFLV/images-6-modified.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Originals
+Name: ORIGINALS
 URL: https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-Logo: https://github.com/eepunx/logo/raw/refs/heads/main/originals.png
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_7.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: group-title="Movies",Cineedge
+Name: Cineedge
 URL: https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-Logo: https://github.com/eepunx/logo/raw/refs/heads/main/cineedge.png
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_8.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Superrix
+Name: SUPERRIX
 URL: https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
-Logo: https://github.com/eepunx/logo/raw/refs/heads/main/superrix.png
+Logo: https://www.lyngsat.com/logo/tv/ss/superrix-uk.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Uniques
+Name: Uniquest
 URL: https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
-Logo: https://github.com/eepunx/logo/raw/refs/heads/main/Uniques.png
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_6.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Buddy Star
 URL: https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
-Logo: https://github.com/eepunx/logo/raw/refs/heads/main/buddystar.png
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_9.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Cinemax
