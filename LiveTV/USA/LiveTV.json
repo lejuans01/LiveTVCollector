@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-24 21:50:16",
+  "date": "2025-05-25 07:10:41",
   "channels": {
     "Religious": [
       {
@@ -1120,6 +1120,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8"
+      },
+      {
+        "name": "Binge",
+        "logo": "https://www.lyngsat.com/logo/tv/bb/binge-us.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8"
       },
       {
         "name": "Bloomberg Quicktake",
@@ -3471,7 +3478,7 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306"
       },
       {
-        "name": "AMC East (1080p)",
+        "name": "AMC (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -3956,6 +3963,13 @@
         "url": "https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8"
       },
       {
+        "name": "Great American Country",
+        "logo": "https://i.imgur.com/TzvnHDn.png",
+        "group": "Outdoor",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fl3.moveonjoy.com/Great_American_Country/index.m3u8"
+      },
+      {
         "name": "Hunt Channel (720p)",
         "logo": "https://i.imgur.com/uhEn9SF.png",
         "group": "Outdoor",
@@ -4182,6 +4196,20 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://eyeonesports.com/ES2RA-628g.m3u8"
+      },
+      {
+        "name": "FanDuel Sports Network",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/330px-FanDuel_Sports_Network_logo.svg.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fl3.moveonjoy.com/PAC_12/index.m3u8"
+      },
+      {
+        "name": "FanDuel TV",
+        "logo": "https://i.imgur.com/1xD0AMC.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fl3.moveonjoy.com/TVG/index.m3u8"
       },
       {
         "name": "Fight",
@@ -6150,6 +6178,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://hls.avang.live/hls/stream.m3u8"
+      },
+      {
+        "name": "AXS TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/512px-AXS_TV_logo.svg.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fl3.moveonjoy.com/Axs_TV/index.m3u8"
       },
       {
         "name": "California Music Channel (720p) [Not 24/7]",
@@ -8422,6 +8457,13 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8"
       },
       {
+        "name": "Comedy TV",
+        "logo": "https://i.imgur.com/KLfXnba.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fl3.moveonjoy.com/Comedy_TV/index.m3u8"
+      },
+      {
         "name": "Failarmy International",
         "logo": "https://i.imgur.com/VIpQJxL.png",
         "group": "Comedy",
@@ -8434,6 +8476,13 @@
         "group": "Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f174-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbaba395-2ecd-414c-971c-2d705e4b67d5"
+      },
+      {
+        "name": "Gagsnetwork",
+        "logo": "https://i.imgur.com/ENj5GIp.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://s7.merlive.am/gagsnetwork/index.m3u8"
       },
       {
         "name": "Humor Mill (1080p) [Not 24/7]",
@@ -8844,6 +8893,13 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268073-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6f5fd68-d238-461a-85d9-c326f4f63ae9"
       },
       {
+        "name": "Antenna TV",
+        "logo": "https://i.imgur.com/ocs2DeU.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fl3.moveonjoy.com/Antenna_TV/index.m3u8"
+      },
+      {
         "name": "Apple68 TV (1080p)",
         "logo": "https://i.imgur.com/xQct5s2.jpg",
         "group": "Entertainment",
@@ -9124,6 +9180,13 @@
         "url": "https://ign-sportstribal.amagi.tv/playlist.m3u8"
       },
       {
+        "name": "Impact Network",
+        "logo": "https://i.imgur.com/57NH9sS.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://51.75.94.167/impact/index.m3u8"
+      },
+      {
         "name": "Ind TV USA (720p)",
         "logo": "https://i.imgur.com/DibiJ1l.png",
         "group": "Entertainment",
@@ -9236,6 +9299,13 @@
         "url": "https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8"
       },
       {
+        "name": "KTIV-DT6",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c2/Outlaw_The_Western_Channel_2024.svg/revision/latest/scale-to-width-down/250?cb=20240103031057",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8"
+      },
+      {
         "name": "KTVO-DT3 (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png",
         "group": "Entertainment",
@@ -9304,6 +9374,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8"
+      },
+      {
+        "name": "MeTV",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fl3.moveonjoy.com/ME_TV/index.m3u8"
       },
       {
         "name": "Midnight Pulp",
@@ -9446,6 +9523,13 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f15e281b0b8840007324b55/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ce8925c1-262f-446f-9053-ee725639eda6"
       },
       {
+        "name": "Pop TV",
+        "logo": "https://i.imgur.com/XySNnh0.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fl3.moveonjoy.com/Pop_TV/index.m3u8"
+      },
+      {
         "name": "Popstar! TV (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/d4xEiXX.png",
         "group": "Entertainment",
@@ -9577,6 +9661,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://apollo.production-public.tubi.io/live/ac-tmz.m3u8"
+      },
+      {
+        "name": "TNT International",
+        "logo": "https://i.imgur.com/l0RGbRI.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cdn4.skygo.mn/live/disk1/THT/HLS-FTA/THT.m3u8"
       },
       {
         "name": "TV84 (480p)",
@@ -9763,6 +9854,13 @@
         "group": "Auto",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://30a-tv.com/feeds/vidaa/cars.m3u8"
+      },
+      {
+        "name": "Motor Trend",
+        "logo": "https://i.imgur.com/hKDccCL.png",
+        "group": "Auto",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_MOTOR_TREND/index.m3u8"
       },
       {
         "name": "Pluto TV Cars",
@@ -11691,6 +11789,13 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8"
       },
       {
+        "name": "The Cowboy Channel",
+        "logo": "https://i.imgur.com/0F1c7x4.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fl3.moveonjoy.com/Cowboy_Channel/index.m3u8"
+      },
+      {
         "name": "The CW (WCWN-DT1) Albamy NY (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png",
         "group": "Undefined",
@@ -12109,6 +12214,20 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8"
+      },
+      {
+        "name": "WPXN-DT3",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://72.46.118.193/CourtTvMystery/index.m3u8"
+      },
+      {
+        "name": "WPXN-DT7",
+        "logo": "https://i.imgur.com/UfN6aAi.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://72.46.118.193/Newsy/index.m3u8"
       },
       {
         "name": "WSB-DT1 (1080p)",
@@ -13071,6 +13190,13 @@
         "url": "https://jmp2.uk/plu-62bdb6a83c6e37000726823b.m3u8"
       },
       {
+        "name": "Nickelodeon",
+        "logo": "https://i.imgur.com/E84jnP8.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8"
+      },
+      {
         "name": "Nickelodeon en Español",
         "logo": "https://i.imgur.com/G1J4IsT.png",
         "group": "Kids",
@@ -13153,6 +13279,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2b8fbc7f-29d9-4732-92d1-24f50c0be761"
+      },
+      {
+        "name": "TeenNick",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fl3.moveonjoy.com/Teen_Nick/index.m3u8"
       },
       {
         "name": "Toon Goggles (720p)",
@@ -13839,6 +13972,13 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92392a3e6270007f562e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=053b9371-9f0f-4936-9aa9-ae27ee69ae5f"
       },
       {
+        "name": "History",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://23.237.104.106:8080/USA_HISTORY/index.m3u8"
+      },
+      {
         "name": "Ink Master",
         "logo": "https://i.imgur.com/DiBojYh.png",
         "group": "Documentary",
@@ -13858,6 +13998,13 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8"
+      },
+      {
+        "name": "Military History",
+        "logo": "https://i.imgur.com/S1SnpoA.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fl3.moveonjoy.com/Military_History/index.m3u8"
       },
       {
         "name": "National Geographic East",
@@ -14619,6 +14766,13 @@
         "group": "Education;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8"
+      },
+      {
+        "name": "PBS Kids",
+        "logo": "https://i.imgur.com/q4cUQKW.png",
+        "group": "Education;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8"
       },
       {
         "name": "PBS Kids Alaska (1080p)",
@@ -18827,13 +18981,6 @@
       }
     ],
     "Children Channels": [
-      {
-        "name": "PBS Kids #1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png",
-        "group": "Children Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8"
-      },
       {
         "name": "PBS Kids #2",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png",
