@@ -3810,6 +3810,12 @@
     "img": "https://i.imgur.com/TkzIqR2.jpg"
   },
   {
+    "name": "TELE 6",
+    "type": "General",
+    "url": "https://envivo.bolivia-link.com:3337/live/tele6live.m3u8",
+    "img": "https://i.imgur.com/p7tt72X.png"
+  },
+  {
     "name": "Tropical Moon Eventos TV (720p)",
     "type": "General",
     "url": "https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8",
@@ -4044,6 +4050,12 @@
     "img": "https://i.imgur.com/7MXF4Fd.png"
   },
   {
+    "name": "Sony Channel",
+    "type": "Undefined",
+    "url": "https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png"
+  },
+  {
     "name": "SQCS Canal 4 (720p)",
     "type": "Undefined",
     "url": "https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8",
@@ -4156,6 +4168,12 @@
     "type": "Undefined",
     "url": "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8",
     "img": "https://i.imgur.com/sjxVdPh.png"
+  },
+  {
+    "name": "USA Network Latin America",
+    "type": "Undefined",
+    "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png"
   },
   {
     "name": "24 Horas Internacional [Geo-blocked]",
@@ -4384,6 +4402,12 @@
     "type": "Music",
     "url": "https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8",
     "img": "https://i.imgur.com/euaoN1A.png"
+  },
+  {
+    "name": "HTV",
+    "type": "Music",
+    "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8",
+    "img": "https://i.imgur.com/NlKFNHS.png"
   },
   {
     "name": "La Imagen de Tierra Caliente (768p)",
@@ -4716,6 +4740,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png"
   },
   {
+    "name": "National Geographic Latin America",
+    "type": "Documentary",
+    "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
+  },
+  {
     "name": "Jalisco TV (720p)",
     "type": "Culture;Education",
     "url": "https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8",
@@ -4740,16 +4770,16 @@
     "img": "https://i.imgur.com/OSet4en.png"
   },
   {
+    "name": "PRIDEtv LATAM (720p)",
+    "type": "Entertainment;Lifestyle;Music",
+    "url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8",
+    "img": "https://neotv.cl/img/pridetv-512.png"
+  },
+  {
     "name": "Radio Suyai TV (1080p)",
     "type": "Culture;Music",
     "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe",
     "img": "https://radio.suyaitv.cl/wp-content/uploads/2024/04/cropped-radiosuyaitvcuadrado512.png"
-  },
-  {
-    "name": "Spectrum Channel (720p)",
-    "type": "Entertainment;Lifestyle;Music",
-    "url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8",
-    "img": "https://cdn.energeek.cl/logos/spectrumtv-512.png"
   },
   {
     "name": "Tastemade en Espanol [Geo-blocked]",

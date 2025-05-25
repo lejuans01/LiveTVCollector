@@ -238,6 +238,11 @@ URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
+Name: National Geographic Latin America
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
 
 Group: Education
 Name: Canal 15 ILCE Summa Sabres (720p)
@@ -341,9 +346,9 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
 Group: Entertainment;Lifestyle;Music
-Name: Spectrum Channel (720p)
+Name: PRIDEtv LATAM (720p)
 URL: https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
-Logo: https://cdn.energeek.cl/logos/spectrumtv-512.png
+Logo: https://neotv.cl/img/pridetv-512.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
@@ -663,6 +668,11 @@ URL: https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8
 Logo: https://i.imgur.com/TkzIqR2.jpg
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
+Name: TELE 6
+URL: https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
+Logo: https://i.imgur.com/p7tt72X.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
 Name: Tropical Moon Eventos TV (720p)
 URL: https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
 Logo: https://i.imgur.com/RklPmml.png
@@ -873,6 +883,11 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: EnerGeek Radio (1080p)
 URL: https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 Logo: https://i.imgur.com/euaoN1A.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
+Name: HTV
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
+Logo: https://i.imgur.com/NlKFNHS.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: La Imagen de Tierra Caliente (768p)
@@ -3947,6 +3962,11 @@ URL: https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 Logo: https://i.imgur.com/7MXF4Fd.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
+Name: Sony Channel
+URL: https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
 Name: SQCS Canal 4 (720p)
 URL: https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
 Logo: https://i.imgur.com/qnx8nBP.png
@@ -4040,6 +4060,11 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: UMTV (1080p) [Not 24/7]
 URL: https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
 Logo: https://i.imgur.com/sjxVdPh.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
+Name: USA Network Latin America
+URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 

@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-24 21:58:37",
+  "date": "2025-05-25 07:40:47",
   "channels": {
     "Uncategorized": [
       {
@@ -4458,6 +4458,13 @@
         "url": "https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8"
       },
       {
+        "name": "TELE 6",
+        "logo": "https://i.imgur.com/p7tt72X.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://envivo.bolivia-link.com:3337/live/tele6live.m3u8"
+      },
+      {
         "name": "Tropical Moon Eventos TV (720p)",
         "logo": "https://i.imgur.com/RklPmml.png",
         "group": "General",
@@ -4733,6 +4740,13 @@
         "url": "https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8"
       },
       {
+        "name": "Sony Channel",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8"
+      },
+      {
         "name": "SQCS Canal 4 (720p)",
         "logo": "https://i.imgur.com/qnx8nBP.png",
         "group": "Undefined",
@@ -4864,6 +4878,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8"
+      },
+      {
+        "name": "USA Network Latin America",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8"
       }
     ],
     "News": [
@@ -5142,6 +5163,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8"
+      },
+      {
+        "name": "HTV",
+        "logo": "https://i.imgur.com/NlKFNHS.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8"
       },
       {
         "name": "La Imagen de Tierra Caliente (768p)",
@@ -5553,6 +5581,13 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"
+      },
+      {
+        "name": "National Geographic Latin America",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
       }
     ],
     "Culture;Education": [
@@ -5591,6 +5626,15 @@
         "url": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
       }
     ],
+    "Entertainment;Lifestyle;Music": [
+      {
+        "name": "PRIDEtv LATAM (720p)",
+        "logo": "https://neotv.cl/img/pridetv-512.png",
+        "group": "Entertainment;Lifestyle;Music",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8"
+      }
+    ],
     "Culture;Music": [
       {
         "name": "Radio Suyai TV (1080p)",
@@ -5598,15 +5642,6 @@
         "group": "Culture;Music",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe"
-      }
-    ],
-    "Entertainment;Lifestyle;Music": [
-      {
-        "name": "Spectrum Channel (720p)",
-        "logo": "https://cdn.energeek.cl/logos/spectrumtv-512.png",
-        "group": "Entertainment;Lifestyle;Music",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8"
       }
     ],
     "Cooking": [

@@ -1269,6 +1269,8 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkzIqR2.jpg" group-title="General",TELE 4 Ojocaliente (720p)
 https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="General",TELE 6
+https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RklPmml.png" group-title="General",Tropical Moon Eventos TV (720p)
 https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dtrcnBL/Unnamed-41.jpg" group-title="General",TV5 Tu Canal (768p)
@@ -1347,6 +1349,8 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7MXF4Fd.png" group-title="Undefined",Sistema Michoacano de TV (1080p)
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Undefined",Sony Channel
+https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qnx8nBP.png" group-title="Undefined",SQCS Canal 4 (720p)
 https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="Undefined",Tele Yucatan [Geo-blocked]
@@ -1385,6 +1389,8 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="Undefined",UMTV (1080p) [Not 24/7]
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Undefined",USA Network Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News (North America) (1080p)
@@ -1461,6 +1467,8 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Music",EnerGeek Radio (1080p)
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Music",HTV
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HLyhpkR/Screenshot-20231201-163133.jpg" group-title="Music",La Imagen de Tierra Caliente (768p)
 https://stream.oursnetworktv.com/latin/encoder82/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nkgOsSv.jpg" group-title="Music",La Luperrona Ciudad Guzmán (240p)
@@ -1571,6 +1579,8 @@ https://pistream.ddns.net/hls/stream.m3u8
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Culture;Education",Jalisco TV (720p)
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Animation;Entertainment",Kanade (1080p)
@@ -1579,10 +1589,10 @@ https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OSet4en.png" group-title="Lifestyle",Plous TV (1080p)
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://neotv.cl/img/pridetv-512.png" group-title="Entertainment;Lifestyle;Music",PRIDEtv LATAM (720p)
+https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://radio.suyaitv.cl/wp-content/uploads/2024/04/cropped-radiosuyaitvcuadrado512.png" group-title="Culture;Music",Radio Suyai TV (1080p)
 https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/spectrumtv-512.png" group-title="Entertainment;Lifestyle;Music",Spectrum Channel (720p)
-https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Espanol [Geo-blocked]
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Business",Tevex (720p) [Not 24/7]
