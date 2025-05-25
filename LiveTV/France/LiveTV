@@ -2960,13 +2960,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=E4yE3zx1cHNv2atQc8elzg&e=1748113968",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=5DFuHCYlS-J_ZEEldYryVQ&e=1748151433",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=E4yE3zx1cHNv2atQc8elzg&e=1748113968",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=5DFuHCYlS-J_ZEEldYryVQ&e=1748151433",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -7974,6 +7974,12 @@
     "img": "https://i.ibb.co/pdd2VqB/chada.jpg"
   },
   {
+    "name": "TELE MAROC",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/telemaroc.m3u8",
+    "img": "https://i.ibb.co/rfwFbLk/telemaroc.gif"
+  },
+  {
     "name": "WATANIA 1",
     "type": "Uncategorized",
     "url": "http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8",
@@ -9358,6 +9364,18 @@
     "type": "Uncategorized",
     "url": "https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8",
     "img": "https://i.ibb.co/MG43H4H/hala.png"
+  },
+  {
+    "name": "AL MASRIYA TV",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/masriya.m3u8",
+    "img": "https://i.ibb.co/SYvz5YT/masriya.jpg"
+  },
+  {
+    "name": "NILE TV",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/niletv.m3u8",
+    "img": "https://i.ibb.co/qMm9t2ZK/niletv.png"
   },
   {
     "name": "A ONE",
@@ -12288,12 +12306,6 @@
     "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
   },
   {
-    "name": "ADJARA",
-    "type": "Uncategorized",
-    "url": "https://dvrfl05.tulix.tv/gin-adjara/index.m3u8",
-    "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
-  },
-  {
     "name": "MTAVARI ARKHI",
     "type": "Uncategorized",
     "url": "https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8",
@@ -12303,6 +12315,42 @@
     "name": "GDS TV",
     "type": "Uncategorized",
     "url": "http://31.146.5.178:8087/play/a00a/index.m3u8",
+    "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
+  },
+  {
+    "name": "ADJARA",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/adjara.m3u8",
+    "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
+  },
+  {
+    "name": "TV MZE",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/tvmze.m3u8",
+    "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
+  },
+  {
+    "name": "EURONEWS GE",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/euronewsgeorgia.m3u8",
+    "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
+  },
+  {
+    "name": "ERTSULOVNEBA",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/ertsulovneba.m3u8",
+    "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
+  },
+  {
+    "name": "TV25",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/tv25.m3u8",
+    "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
+  },
+  {
+    "name": "MAESTRO",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/maestro.m3u8",
     "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
   },
   {
@@ -12434,7 +12482,7 @@
   {
     "name": "XEZER TV",
     "type": "Uncategorized",
-    "url": "http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/az/xezer-tv.m3u8",
     "img": "https://i.ibb.co/VC7Q18V/azflag.png"
   },
   {

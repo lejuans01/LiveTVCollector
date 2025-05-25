@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-24 21:51:00",
+  "date": "2025-05-25 07:12:58",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3460,14 +3460,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=E4yE3zx1cHNv2atQc8elzg&e=1748113968"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=5DFuHCYlS-J_ZEEldYryVQ&e=1748151433"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=E4yE3zx1cHNv2atQc8elzg&e=1748113968"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=5DFuHCYlS-J_ZEEldYryVQ&e=1748151433"
       },
       {
         "name": "TV8",
@@ -9308,6 +9308,13 @@
         "url": "https://test-streamer.eagrpservices.com/video/live/720p/chada.m3u8"
       },
       {
+        "name": "TELE MAROC",
+        "logo": "https://i.ibb.co/rfwFbLk/telemaroc.gif",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/telemaroc.m3u8"
+      },
+      {
         "name": "WATANIA 1",
         "logo": "https://i.ibb.co/5M4CwmQ/watania1.png",
         "group": "Uncategorized",
@@ -10923,6 +10930,20 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8"
+      },
+      {
+        "name": "AL MASRIYA TV",
+        "logo": "https://i.ibb.co/SYvz5YT/masriya.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/masriya.m3u8"
+      },
+      {
+        "name": "NILE TV",
+        "logo": "https://i.ibb.co/qMm9t2ZK/niletv.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/niletv.m3u8"
       },
       {
         "name": "A ONE",
@@ -14341,13 +14362,6 @@
         "url": "https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8"
       },
       {
-        "name": "ADJARA",
-        "logo": "https://i.ibb.co/RN3dJQ7/geoflag.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://dvrfl05.tulix.tv/gin-adjara/index.m3u8"
-      },
-      {
         "name": "MTAVARI ARKHI",
         "logo": "https://i.ibb.co/RN3dJQ7/geoflag.png",
         "group": "Uncategorized",
@@ -14360,6 +14374,48 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "http://31.146.5.178:8087/play/a00a/index.m3u8"
+      },
+      {
+        "name": "ADJARA",
+        "logo": "https://i.ibb.co/RN3dJQ7/geoflag.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/adjara.m3u8"
+      },
+      {
+        "name": "TV MZE",
+        "logo": "https://i.ibb.co/RN3dJQ7/geoflag.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/tvmze.m3u8"
+      },
+      {
+        "name": "EURONEWS GE",
+        "logo": "https://i.ibb.co/RN3dJQ7/geoflag.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/euronewsgeorgia.m3u8"
+      },
+      {
+        "name": "ERTSULOVNEBA",
+        "logo": "https://i.ibb.co/RN3dJQ7/geoflag.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/ertsulovneba.m3u8"
+      },
+      {
+        "name": "TV25",
+        "logo": "https://i.ibb.co/RN3dJQ7/geoflag.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/tv25.m3u8"
+      },
+      {
+        "name": "MAESTRO",
+        "logo": "https://i.ibb.co/RN3dJQ7/geoflag.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/maestro.m3u8"
       },
       {
         "name": "H1 ARM Հանրային հեռուստաը",
@@ -14513,7 +14569,7 @@
         "logo": "https://i.ibb.co/VC7Q18V/azflag.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8"
+        "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/az/xezer-tv.m3u8"
       },
       {
         "name": "IRIB 2",

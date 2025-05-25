@@ -3443,12 +3443,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=E4yE3zx1cHNv2atQc8elzg&e=1748113968
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=5DFuHCYlS-J_ZEEldYryVQ&e=1748151433
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=E4yE3zx1cHNv2atQc8elzg&e=1748113968
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=5DFuHCYlS-J_ZEEldYryVQ&e=1748151433
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -7622,6 +7622,11 @@ URL: https://test-streamer.eagrpservices.com/video/live/720p/chada.m3u8
 Logo: https://i.ibb.co/pdd2VqB/chada.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: TELE MAROC
+URL: https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/telemaroc.m3u8
+Logo: https://i.ibb.co/rfwFbLk/telemaroc.gif
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: WATANIA 1
 URL: http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 Logo: https://i.ibb.co/5M4CwmQ/watania1.png
@@ -8775,6 +8780,16 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 Name: PANET 30 HALA
 URL: https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 Logo: https://i.ibb.co/MG43H4H/hala.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: AL MASRIYA TV
+URL: https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/masriya.m3u8
+Logo: https://i.ibb.co/SYvz5YT/masriya.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: NILE TV
+URL: https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/niletv.m3u8
+Logo: https://i.ibb.co/qMm9t2ZK/niletv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: A ONE
@@ -11217,11 +11232,6 @@ URL: https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
 Logo: https://i.ibb.co/RN3dJQ7/geoflag.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
-Name: ADJARA
-URL: https://dvrfl05.tulix.tv/gin-adjara/index.m3u8
-Logo: https://i.ibb.co/RN3dJQ7/geoflag.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
 Name: MTAVARI ARKHI
 URL: https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
 Logo: https://i.ibb.co/RN3dJQ7/geoflag.png
@@ -11229,6 +11239,36 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: GDS TV
 URL: http://31.146.5.178:8087/play/a00a/index.m3u8
+Logo: https://i.ibb.co/RN3dJQ7/geoflag.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: ADJARA
+URL: https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/adjara.m3u8
+Logo: https://i.ibb.co/RN3dJQ7/geoflag.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TV MZE
+URL: https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/tvmze.m3u8
+Logo: https://i.ibb.co/RN3dJQ7/geoflag.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: EURONEWS GE
+URL: https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/euronewsgeorgia.m3u8
+Logo: https://i.ibb.co/RN3dJQ7/geoflag.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: ERTSULOVNEBA
+URL: https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/ertsulovneba.m3u8
+Logo: https://i.ibb.co/RN3dJQ7/geoflag.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TV25
+URL: https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/tv25.m3u8
+Logo: https://i.ibb.co/RN3dJQ7/geoflag.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: MAESTRO
+URL: https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/maestro.m3u8
 Logo: https://i.ibb.co/RN3dJQ7/geoflag.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -11338,7 +11378,7 @@ Logo: https://i.ibb.co/VC7Q18V/azflag.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: XEZER TV
-URL: http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
+URL: https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/az/xezer-tv.m3u8
 Logo: https://i.ibb.co/VC7Q18V/azflag.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
