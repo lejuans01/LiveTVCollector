@@ -360,6 +360,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"
   },
   {
+    "name": "BBC One South West HD (720p)",
+    "type": "General",
+    "url": "https://stream.nexyl.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png"
+  },
+  {
     "name": "BBC One Wales (720p) [Geo-blocked]",
     "type": "General",
     "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd",
@@ -402,15 +408,21 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png"
   },
   {
+    "name": "BBC Three HD (720p)",
+    "type": "General",
+    "url": "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png"
+  },
+  {
     "name": "BBC Two",
     "type": "General",
     "url": "https://x.canlitvapp.com/u-bbc2/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"
   },
   {
-    "name": "BBC Two HD (720p) [Geo-blocked]",
+    "name": "BBC Two HD (720p)",
     "type": "General",
-    "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd",
+    "url": "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png"
   },
   {
@@ -492,12 +504,6 @@
     "img": "https://i.imgur.com/E8VwnK7.png"
   },
   {
-    "name": "ITV1",
-    "type": "General",
-    "url": "https://x.canlitvapp.com/u-itv1/index.m3u8",
-    "img": "https://i.imgur.com/xwPekCF.png"
-  },
-  {
     "name": "ITV2",
     "type": "General",
     "url": "https://x.canlitvapp.com/u-itv2/index.m3u8",
@@ -561,6 +567,12 @@
     "name": "BBC Four (540p) [Geo-blocked]",
     "type": "Culture;Documentary",
     "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png"
+  },
+  {
+    "name": "BBC Four UK HD",
+    "type": "Culture;Documentary",
+    "url": "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png"
   },
   {
