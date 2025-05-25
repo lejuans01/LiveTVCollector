@@ -3443,12 +3443,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=-99nh2poIrK0iGCAOh50_Q&e=1748168471
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=lH5M6j-cTGGOVE-kDityCw&e=1748200448
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=-99nh2poIrK0iGCAOh50_Q&e=1748168471
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=lH5M6j-cTGGOVE-kDityCw&e=1748200448
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -9633,7 +9633,7 @@ Logo: https://i.ibb.co/nzjbYfR/asharq.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: ROYA NEWS
-URL: https://raw.githubusercontent.com/MassinDV/Youtube-arabic-channels/main/live/ch39.m3u8
+URL: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/extr/py/royanews.m3u8
 Logo: https://i.ibb.co/84HtHzK/Roya-TV.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------

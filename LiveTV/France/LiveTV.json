@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-25 13:51:58",
+  "date": "2025-05-25 21:50:35",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3460,14 +3460,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=-99nh2poIrK0iGCAOh50_Q&e=1748168471"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=lH5M6j-cTGGOVE-kDityCw&e=1748200448"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=-99nh2poIrK0iGCAOh50_Q&e=1748168471"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=lH5M6j-cTGGOVE-kDityCw&e=1748200448"
       },
       {
         "name": "TV8",
@@ -12126,7 +12126,7 @@
         "logo": "https://i.ibb.co/84HtHzK/Roya-TV.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://raw.githubusercontent.com/MassinDV/Youtube-arabic-channels/main/live/ch39.m3u8"
+        "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/extr/py/royanews.m3u8"
       },
       {
         "name": "INEWS IQ",
