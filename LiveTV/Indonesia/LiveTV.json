@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-24 21:57:03",
+  "date": "2025-05-25 07:34:58",
   "channels": {
     "INDONESIA": [
       {
@@ -2575,6 +2575,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
         "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8"
+      },
+      {
+        "name": "Kids TV",
+        "logo": "https://i.imgur.com/B5YiUIP.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
+        "url": "http://origin5.mediacdn.ru/live/kidstv/index.m3u8"
       },
       {
         "name": "My Kidz (1080p) [Geo-blocked]",
