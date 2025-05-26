@@ -762,12 +762,6 @@
     "img": "https://i.imgur.com/M5j7y2N.png"
   },
   {
-    "name": "Перец",
-    "type": "Entertainment",
-    "url": "http://stream01.vnet.am/Perec/mono.m3u8",
-    "img": "https://i.imgur.com/On6ggLe.png"
-  },
-  {
     "name": "24 Horas Internacional [Geo-blocked]",
     "type": "News",
     "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8",

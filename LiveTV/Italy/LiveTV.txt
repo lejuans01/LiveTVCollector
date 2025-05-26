@@ -302,11 +302,6 @@ URL: https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 Logo: https://i.imgur.com/M5j7y2N.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Перец
-URL: http://stream01.vnet.am/Perec/mono.m3u8
-Logo: https://i.imgur.com/On6ggLe.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
 
 Group: Family
 Name: Pluto TV Family Italy (720p)

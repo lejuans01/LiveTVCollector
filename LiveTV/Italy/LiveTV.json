@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-25 22:00:07",
+  "date": "2025-05-26 07:37:34",
   "channels": {
     "Music": [
       {
@@ -896,13 +896,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8"
-      },
-      {
-        "name": "Перец",
-        "logo": "https://i.imgur.com/On6ggLe.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "http://stream01.vnet.am/Perec/mono.m3u8"
       }
     ],
     "News": [
