@@ -331,11 +331,6 @@ URL: https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 Logo: https://i.imgur.com/1eHNe91.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: Lifetime
-URL: https://streamer1.nexgen.bz/LIFETIME/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: Pluto TV MTV (Brazil) (720p)
 URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png
@@ -866,11 +861,6 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 Name: MTV Hits Europe
 URL: http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 Logo: https://i.imgur.com/zNscEST.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: VH1
-URL: https://streamer1.nexgen.bz/VH1/index.m3u8
-Logo: https://i.imgur.com/ZZEvehR.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 

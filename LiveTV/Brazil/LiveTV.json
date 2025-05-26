@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-25 21:42:15",
+  "date": "2025-05-26 06:27:26",
   "channels": {
     "": [
       {
@@ -5880,13 +5880,6 @@
         "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
       },
       {
-        "name": "Lifetime",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://streamer1.nexgen.bz/LIFETIME/index.m3u8"
-      },
-      {
         "name": "Pluto TV MTV (Brazil) (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
         "group": "Entertainment",
@@ -6144,13 +6137,6 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test"
-      },
-      {
-        "name": "VH1",
-        "logo": "https://i.imgur.com/ZZEvehR.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://streamer1.nexgen.bz/VH1/index.m3u8"
       }
     ],
     "Auto": [
