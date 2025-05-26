@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-25 13:51:17",
+  "date": "2025-05-26 06:57:39",
   "channels": {
     "Religious": [
       {
@@ -246,6 +246,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://ctntv.getstreamhosting.com:1936/CTNTV/CTNTV/playlist.m3u8"
+      },
+      {
+        "name": "Daystar TV",
+        "logo": "https://i.imgur.com/IjzCv8f.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live20.bozztv.com/dvrfl05/gin-daystar/index.m3u8"
       },
       {
         "name": "Dr. Gene Scott (1080p)",
@@ -882,6 +889,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8"
+      },
+      {
+        "name": "ABC",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://41.205.93.154/ABC/index.m3u8"
       },
       {
         "name": "ABC 3 Lafayette LA (KATC) (720p)",
@@ -1801,6 +1815,13 @@
         "url": "https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_004/playlist.m3u8"
       },
       {
+        "name": "NBC",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8"
+      },
+      {
         "name": "NBC 2 Tulsa OK (KJRH) (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
         "group": "General",
@@ -2594,13 +2615,6 @@
         "url": "https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8"
       },
       {
-        "name": "FOX 5 Atlanta GA (WAGA-TV) (720p)",
-        "logo": "https://i.imgur.com/DcZoeGw.jpg",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://apollo.production-public.tubi.io/live/ac-waga.m3u8"
-      },
-      {
         "name": "like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\",Fox News Channel (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
         "group": "News",
@@ -2811,13 +2825,6 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb"
       },
       {
-        "name": "Telefe Noticias (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/GwdSxzV.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8"
-      },
-      {
         "name": "TeleSUR English (1080p) [Not 24/7]",
         "logo": "https://comteco.com.bo/img/upload/canales/1yD2hc.png",
         "group": "News",
@@ -2893,6 +2900,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8"
+      },
+      {
+        "name": "WAGA-DT1",
+        "logo": "https://i.imgur.com/DcZoeGw.jpg",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live20.bozztv.com/dvrfl05/gin-fox5/index.m3u8"
       },
       {
         "name": "WBZ-DT1 (720p)",
@@ -6376,6 +6390,13 @@
         "url": "https://1826200335.rsc.cdn77.org/1826200335/index.m3u8"
       },
       {
+        "name": "Stryk TV (1080p)",
+        "logo": "https://i.imgur.com/rKkHhkX.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fffffff110156200.tvustream.com:8298/ryfy.m3u8"
+      },
+      {
         "name": "The Country Network (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
         "group": "Music",
@@ -9691,7 +9712,7 @@
         "url": "https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8"
       },
       {
-        "name": "W14DK-D 14.3 RetroTV",
+        "name": "W14DK-D3 (1280p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Retro_Television_Network.png/512px-Retro_Television_Network.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -11061,11 +11082,11 @@
         "url": "http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8"
       },
       {
-        "name": "Bravo",
+        "name": "Bravo East",
         "logo": "https://i.imgur.com/JmTIRLF.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://streamer1.nexgen.bz/BRAVO/index.m3u8"
+        "url": "http://fl3.moveonjoy.com/BRAVO/index.m3u8"
       },
       {
         "name": "BYU TV (720p)",
@@ -11472,6 +11493,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8"
+      },
+      {
+        "name": "PixL TV",
+        "logo": "https://i.imgur.com/ysRh3Nl.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07"
       },
       {
         "name": "Pluto TV Competencias (720p)",

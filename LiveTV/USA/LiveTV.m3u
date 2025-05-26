@@ -69,6 +69,8 @@ https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mHCabmJ.png" group-title="Religious",CTN (404p)
 https://ctntv.getstreamhosting.com:1936/CTNTV/CTNTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="Religious",Daystar TV
+https://live20.bozztv.com/dvrfl05/gin-daystar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Db3EI19.png" group-title="Religious",Dr. Gene Scott (1080p)
 https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b0Wx7pE.png" group-title="Religious",Elbeshara GTV (1080p) [Not 24/7]
@@ -249,6 +251,8 @@ https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMANZWk.png" group-title="General",23 ABC Bakersfield CA (KERO) (720p)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="General",ABC
+http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="General",ABC 3 Lafayette LA (KATC) (720p)
 https://aegis-cloudfront-1.tubi.video/28467730-4b65-4c85-8151-4c7d162c0896/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8vXRrRe.jpg" group-title="General",ABC 4 Seattle WA (KOMO-TV) (720p)
@@ -511,6 +515,8 @@ https://603591da64140.streamlock.net/live/mp4:MCTVtest_aac/playlist.m3u8
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/encinitas/G0322_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZF3wwW.png" group-title="General",Napa Valley TV Public Access Channel 28 (480p)
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="General",NBC
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="General",NBC 2 Tulsa OK (KJRH) (720p)
 https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="General",NBC 3 Sacramento CA (KCRA) (720p)
@@ -737,8 +743,6 @@ https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/elsegundo/G0014_002/playlist.m3u8
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="News",FOX 2 Detroit MI (WJBK) (720p)
 https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="News",FOX 5 Atlanta GA (WAGA-TV) (720p)
-https://apollo.production-public.tubi.io/live/ac-waga.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",Fox News Channel (720p)
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="News",Fox News Radio (720p)
@@ -799,8 +803,6 @@ https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/maste
 https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="News",Scripps News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GwdSxzV.png" group-title="News",Telefe Noticias (720p) [Not 24/7]
-https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/1yD2hc.png" group-title="News",TeleSUR English (1080p) [Not 24/7]
 https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mggN4mS.jpg" group-title="News",Tempo Afric TV (720p)
@@ -823,6 +825,8 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="News",W14DK-D 14.2 NEWSNET
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="News",WAGA-DT1
+https://live20.bozztv.com/dvrfl05/gin-fox5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NC5qL8u.png" group-title="News",WBZ-DT1 (720p)
 http://143.244.60.30/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YFFSEd9.png" group-title="News",WeatherNation New York
@@ -1813,6 +1817,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36
 https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjZpC1V.png" group-title="Music",Radio U TV (720p) [Not 24/7]
 https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rKkHhkX.png" group-title="Music",Stryk TV (1080p)
+https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",The Country Network (1080p)
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nr8mH8PQmt0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgQyhIMA8=&rs=AOn4CLAXqg6UODpKP2xNj-pbCndyv_qdDQ" group-title="Music",The Ultimate Music Channel (1080p)
@@ -2759,7 +2765,7 @@ https://cdn20.liveonlineservices.com/hls/tv84.m3u8
 https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-vintage-network.jpg" group-title="Entertainment",TVS Vintage Network (360p)
 https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Retro_Television_Network.png/512px-Retro_Television_Network.png" group-title="Entertainment",W14DK-D 14.3 RetroTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Retro_Television_Network.png/512px-Retro_Television_Network.png" group-title="Entertainment",W14DK-D3 (1280p)
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/512px-WeatherNation_Logo.svg.png" group-title="Entertainment",WeatherNation (KCKS-LD6) (480p) [Not 24/7]
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
@@ -3147,8 +3153,8 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="Undefined",Bounce
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Undefined",Bravo
-https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Undefined",Bravo East
+http://fl3.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mruGyuu.png" group-title="Undefined",BYU TV (720p)
 https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5uiIJo.png" group-title="Undefined",Calabasas Channel (480p)
@@ -3265,6 +3271,8 @@ https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png" group-title="Undefined",PIX11 (720p)
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ysRh3Nl.png" group-title="Undefined",PixL TV
+https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VNa7HX6.png" group-title="Undefined",Pluto TV Competencias (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7DOoBK.png" group-title="Undefined",Pluto TV El Reino Infantil (720p) [Not 24/7]

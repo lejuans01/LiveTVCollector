@@ -210,6 +210,12 @@
     "img": "https://i.imgur.com/mHCabmJ.png"
   },
   {
+    "name": "Daystar TV",
+    "type": "Religious",
+    "url": "https://live20.bozztv.com/dvrfl05/gin-daystar/index.m3u8",
+    "img": "https://i.imgur.com/IjzCv8f.png"
+  },
+  {
     "name": "Dr. Gene Scott (1080p)",
     "type": "Religious",
     "url": "https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8",
@@ -748,6 +754,12 @@
     "type": "General",
     "url": "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8",
     "img": "https://i.imgur.com/CMANZWk.png"
+  },
+  {
+    "name": "ABC",
+    "type": "General",
+    "url": "http://41.205.93.154/ABC/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png"
   },
   {
     "name": "ABC 3 Lafayette LA (KATC) (720p)",
@@ -1536,6 +1548,12 @@
     "img": "https://i.imgur.com/RZF3wwW.png"
   },
   {
+    "name": "NBC",
+    "type": "General",
+    "url": "https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"
+  },
+  {
     "name": "NBC 2 Tulsa OK (KJRH) (720p)",
     "type": "General",
     "url": "https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8",
@@ -2214,12 +2232,6 @@
     "img": "https://i.imgur.com/EL9Bwtf.png"
   },
   {
-    "name": "FOX 5 Atlanta GA (WAGA-TV) (720p)",
-    "type": "News",
-    "url": "https://apollo.production-public.tubi.io/live/ac-waga.m3u8",
-    "img": "https://i.imgur.com/DcZoeGw.jpg"
-  },
-  {
     "name": "like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\",Fox News Channel (720p)",
     "type": "News",
     "url": "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8",
@@ -2400,12 +2412,6 @@
     "img": "https://i.imgur.com/W0Jvi5o.png"
   },
   {
-    "name": "Telefe Noticias (720p) [Not 24/7]",
-    "type": "News",
-    "url": "https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8",
-    "img": "https://i.imgur.com/GwdSxzV.png"
-  },
-  {
     "name": "TeleSUR English (1080p) [Not 24/7]",
     "type": "News",
     "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8",
@@ -2470,6 +2476,12 @@
     "type": "News",
     "url": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png"
+  },
+  {
+    "name": "WAGA-DT1",
+    "type": "News",
+    "url": "https://live20.bozztv.com/dvrfl05/gin-fox5/index.m3u8",
+    "img": "https://i.imgur.com/DcZoeGw.jpg"
   },
   {
     "name": "WBZ-DT1 (720p)",
@@ -5442,6 +5454,12 @@
     "img": "https://i.imgur.com/HjZpC1V.png"
   },
   {
+    "name": "Stryk TV (1080p)",
+    "type": "Music",
+    "url": "https://fffffff110156200.tvustream.com:8298/ryfy.m3u8",
+    "img": "https://i.imgur.com/rKkHhkX.png"
+  },
+  {
     "name": "The Country Network (1080p)",
     "type": "Music",
     "url": "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8",
@@ -8280,7 +8298,7 @@
     "img": "https://www.watchyour.tv/channels/logo/tvs-vintage-network.jpg"
   },
   {
-    "name": "W14DK-D 14.3 RetroTV",
+    "name": "W14DK-D3 (1280p)",
     "type": "Entertainment",
     "url": "https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Retro_Television_Network.png/512px-Retro_Television_Network.png"
@@ -9444,9 +9462,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png"
   },
   {
-    "name": "Bravo",
+    "name": "Bravo East",
     "type": "Undefined",
-    "url": "https://streamer1.nexgen.bz/BRAVO/index.m3u8",
+    "url": "http://fl3.moveonjoy.com/BRAVO/index.m3u8",
     "img": "https://i.imgur.com/JmTIRLF.png"
   },
   {
@@ -9796,6 +9814,12 @@
     "type": "Undefined",
     "url": "https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png"
+  },
+  {
+    "name": "PixL TV",
+    "type": "Undefined",
+    "url": "https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+    "img": "https://i.imgur.com/ysRh3Nl.png"
   },
   {
     "name": "Pluto TV Competencias (720p)",
