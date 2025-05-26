@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-25 21:50:35",
+  "date": "2025-05-26 07:08:41",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3460,14 +3460,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=lH5M6j-cTGGOVE-kDityCw&e=1748200448"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=zlCWVN-x-qCat1jaQxZ8pw&e=1748236796"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=lH5M6j-cTGGOVE-kDityCw&e=1748200448"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=zlCWVN-x-qCat1jaQxZ8pw&e=1748236796"
       },
       {
         "name": "TV8",
@@ -17256,13 +17256,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/612e044c970e6f00083bcf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2371cf64-2e91-492c-9f0c-c88a7f973944"
-      },
-      {
-        "name": "Перец",
-        "logo": "https://i.imgur.com/On6ggLe.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://stream01.vnet.am/Perec/mono.m3u8"
       }
     ],
     "General": [
@@ -18497,6 +18490,15 @@
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8"
+      }
+    ],
+    "Music;Religious": [
+      {
+        "name": "Trace Gospel",
+        "logo": "https://i.imgur.com/X0UmU3K.png",
+        "group": "Music;Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://live20.bozztv.com/trn03/gin-tracegospel/index.m3u8"
       }
     ]
   }
