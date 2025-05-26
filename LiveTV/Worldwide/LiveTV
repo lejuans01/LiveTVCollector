@@ -1,9 +1,9 @@
 [
   {
-    "name": "黑龙江卫视",
-    "type": "📡卫视频道",
-    "url": "http://39.164.180.36:19901/tsfile/live/0143_1.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png"
+    "name": "CCTV-1",
+    "type": "📺央视频道",
+    "url": "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png"
   },
   {
     "name": "广东珠江",
@@ -26,14 +26,8 @@
   {
     "name": "湖州文化娱乐",
     "type": "☘️浙江频道",
-    "url": "http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&amp;amp;fbl=",
+    "url": "https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州文化娱乐.png"
-  },
-  {
-    "name": "绍兴电视台公共",
-    "type": "☘️浙江频道",
-    "url": "http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/绍兴电视台公共.png"
   },
   {
     "name": "湖州公共民生",
@@ -42,16 +36,16 @@
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州公共民生.png"
   },
   {
-    "name": "北京生活",
-    "type": "☘️北京频道",
-    "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png"
-  },
-  {
     "name": "第一财经",
     "type": "☘️上海频道",
     "url": "http://a1live.livecdn.yicai.com/live/radio_tv.m3u8",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png"
+  },
+  {
+    "name": "都市剧场",
+    "type": "☘️上海频道",
+    "url": "http://183.64.174.171:40123/ch1.m3u8?zzhongqd",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png"
   },
   {
     "name": "万州综合",
@@ -60,22 +54,16 @@
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/万州综合.png"
   },
   {
+    "name": "南通都市生活",
+    "type": "☘️江苏频道",
+    "url": "https://cm-live.ntjoy.com/live/4f3.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/南通都市生活.png"
+  },
+  {
     "name": "泗洪新闻综合",
     "type": "☘️江苏频道",
     "url": "http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/泗洪新闻综合.png"
-  },
-  {
-    "name": "睢宁三农",
-    "type": "☘️江苏频道",
-    "url": "http://3739115337.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=nwEAAJApyIx-AKAX&secondToken=secondToken%3AfyPrvACXUQ_VSZUu3Rxm-2py1fo&streamid=suining-tv%3Asuining-tv%2Fsuiningsn&v3=1",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/睢宁三农.png"
-  },
-  {
-    "name": "睢宁综合",
-    "type": "☘️江苏频道",
-    "url": "http://3739115311.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=TwMAAPjPskOkJ6kX&secondToken=secondToken%3AjegfwzYXwUE9HzG7kRfhCd81WMU&streamid=suining-tv%3Asuining-tv%2Fsuiningzh&v3=1&zjiangsd=#rtmp://221.229.243.45:1935/live/live1",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/睢宁综合.png"
   },
   {
     "name": "苏州4k",
@@ -108,12 +96,6 @@
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/桂林新闻.png"
   },
   {
-    "name": "井研综合",
-    "type": "☘️四川频道",
-    "url": "http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/井研综合.png"
-  },
-  {
     "name": "仁寿综合",
     "type": "☘️四川频道",
     "url": "https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef",
@@ -126,10 +108,22 @@
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剑阁综合.png"
   },
   {
+    "name": "双流综合",
+    "type": "☘️四川频道",
+    "url": "http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/双流综合.png"
+  },
+  {
     "name": "名山综合",
     "type": "☘️四川频道",
     "url": "https://m3u8channel-ms.yunxya.com:443/nmip-media/audiolive/audio100580/playlist.m3u8",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/名山综合.png"
+  },
+  {
+    "name": "青川综合",
+    "type": "☘️四川频道",
+    "url": "http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/青川综合.png"
   },
   {
     "name": "福建新闻",
@@ -148,12 +142,6 @@
     "type": "☘️河南频道",
     "url": "http://live.dxhmt.cn:9081/tv/11621-1.m3u8",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/周口扶沟.png"
-  },
-  {
-    "name": "淅川电视",
-    "type": "☘️河南频道",
-    "url": "http://live.dxhmt.cn:9081/tv/11326-1.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/淅川电视.png"
   },
   {
     "name": "邯郸新闻",
@@ -180,6 +168,18 @@
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/清镇新闻综合.png"
   },
   {
+    "name": "兵团五师双河新闻综合",
+    "type": "☘️新疆频道",
+    "url": "http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团五师双河新闻综合.png"
+  },
+  {
+    "name": "玛纳斯综合",
+    "type": "☘️新疆频道",
+    "url": "http://218.84.127.245:1026/hls/main1/playlist.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/玛纳斯综合.png"
+  },
+  {
     "name": "山东新闻",
     "type": "☘️山东频道",
     "url": "http://live.xmcdn.com/live/1440/64.m3u8",
@@ -198,28 +198,16 @@
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东体育.png"
   },
   {
-    "name": "济南综合",
-    "type": "☘️山东频道",
-    "url": "https://quehuamtyoutlive.ijntv.cn/qsrog5/0szz7q.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南综合.png"
-  },
-  {
     "name": "太谷新闻综合",
     "type": "☘️山西频道",
     "url": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/太谷新闻综合.png"
   },
   {
-    "name": "固镇新闻",
-    "type": "☘️安徽频道",
-    "url": "http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/固镇新闻.png"
-  },
-  {
-    "name": "涡阳新闻综合",
-    "type": "☘️安徽频道",
-    "url": "http://220.180.124.18:888/live/ch0.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/涡阳新闻综合.png"
+    "name": "长治公共",
+    "type": "☘️山西频道",
+    "url": "http://live.njgdmm.com/changzhi/cztv2.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/长治公共.png"
   },
   {
     "name": "延边-1",
@@ -240,28 +228,10 @@
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/磐石综合.png"
   },
   {
-    "name": "辉南新闻综合",
-    "type": "☘️吉林频道",
-    "url": "http://stream5.jlntv.cn/hn/sd/live.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/辉南新闻综合.png"
-  },
-  {
-    "name": "柳河综合",
-    "type": "☘️吉林频道",
-    "url": "http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/柳河综合.png"
-  },
-  {
     "name": "内蒙少儿",
     "type": "☘️内蒙古频道",
     "url": "https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙少儿.png"
-  },
-  {
-    "name": "内蒙文体",
-    "type": "☘️内蒙古频道",
-    "url": "https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙文体.png"
   },
   {
     "name": "内蒙农牧",
@@ -270,10 +240,10 @@
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙农牧.png"
   },
   {
-    "name": "贵南综合",
-    "type": "☘️青海频道",
-    "url": "http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵南综合.png"
+    "name": "西双版纳综合",
+    "type": "☘️云南频道",
+    "url": "http://m3u8channel.xsbnrtv.cn/nmip-media/channellive/channel106885/playlist.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/西双版纳综合.png"
   },
   {
     "name": "化隆综合",
@@ -286,6 +256,12 @@
     "type": "☘️青海频道",
     "url": "http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd#http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/民和综合.png"
+  },
+  {
+    "name": "哈尔滨影视",
+    "type": "☘️黑龙江频道",
+    "url": "http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/哈尔滨影视.png"
   },
   {
     "name": "哈尔滨生活",
@@ -846,12 +822,6 @@
     "img": "https://i.ibb.co/N9d4yXt/fr5bl.png"
   },
   {
-    "name": "FESTIVAL DE CANNES TV",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/festival-de-cannes.m3u8",
-    "img": "https://i.ibb.co/8rcTV8C/festcannes.jpg"
-  },
-  {
     "name": "FRANCE TV SÉRIES",
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8",
@@ -866,7 +836,7 @@
   {
     "name": "FRANCE TV ROLAND GARROS",
     "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg/rg.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg/rgcdirecttv.m3u8",
     "img": "https://i.ibb.co/kgMKnQVx/rolangarros.jpg"
   },
   {
@@ -3278,13 +3248,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=vksFY3O2EbYjtakiRUVXkw&e=1748222096",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=5VfQ_ICiTSDlRdO6FYC_BQ&e=1748254939",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=vksFY3O2EbYjtakiRUVXkw&e=1748222096",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=5VfQ_ICiTSDlRdO6FYC_BQ&e=1748254939",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -12302,20 +12272,80 @@
   {
     "name": "TVP POLONIA",
     "type": "Uncategorized",
-    "url": "http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/10094/hls/pl.m3u8",
-    "img": "https://i.ibb.co/yhjqqNQ/tvppol.png"
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvppolonia.m3u8",
+    "img": "https://i.ibb.co/6cPg4sDK/tvpolonia.png"
   },
   {
     "name": "TVP POLONIA",
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpol.m3u8",
-    "img": "https://i.ibb.co/yhjqqNQ/tvppol.png"
+    "img": "https://i.ibb.co/6cPg4sDK/tvpolonia.png"
+  },
+  {
+    "name": "TVP POLONIA",
+    "type": "Uncategorized",
+    "url": "http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/10094/hls/pl.m3u8",
+    "img": "https://i.ibb.co/6cPg4sDK/tvpolonia.png"
+  },
+  {
+    "name": "TVP INFO",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/tvpinfo.m3u8",
+    "img": "https://i.ibb.co/mCR9kjjf/tvpinf.png"
+  },
+  {
+    "name": "TVP INFO",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpinfo.m3u8",
+    "img": "https://i.ibb.co/mCR9kjjf/tvpinf.png"
   },
   {
     "name": "TVP INFO",
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpin.m3u8",
-    "img": "https://i.ibb.co/pxSC2HJ/tvpinfo.png"
+    "img": "https://i.ibb.co/mCR9kjjf/tvpinf.png"
+  },
+  {
+    "name": "TVP KULTURA",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpkultura.m3u8",
+    "img": "https://i.ibb.co/4wL8Hxgs/tvpkultu.png"
+  },
+  {
+    "name": "TVP KULTURA 2",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpkultura2.m3u8",
+    "img": "https://i.ibb.co/xtTSh70W/tvpkultu2.png"
+  },
+  {
+    "name": "TVP HISTORIA",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria.m3u8",
+    "img": "https://i.ibb.co/LdZttgv0/tvphist.png"
+  },
+  {
+    "name": "TVP HISTORIA 2",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria2.m3u8",
+    "img": "https://i.ibb.co/vvDGM62d/tvhist2.png"
+  },
+  {
+    "name": "TVP 1",
+    "type": "Uncategorized",
+    "url": "https://cdndai.pl/tvp1hd/index.m3u8",
+    "img": "https://i.ibb.co/46QnrG9/tvp1.png"
+  },
+  {
+    "name": "TVP 2",
+    "type": "Uncategorized",
+    "url": "https://cdndai.pl/tvp2hd/index.m3u8",
+    "img": "https://i.ibb.co/23wHr2St/tvp2.png"
+  },
+  {
+    "name": "TVP3 WARSZAWA",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp3warszawa.m3u8",
+    "img": "https://i.ibb.co/CpvvBMmp/tvp3.png"
   },
   {
     "name": "POLSAT NEWS",
@@ -12520,6 +12550,12 @@
     "type": "Uncategorized",
     "url": "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8",
     "img": "https://i.ibb.co/W4zhWby6/Zztv.png"
+  },
+  {
+    "name": "KAROLINA RD/TV",
+    "type": "Uncategorized",
+    "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8",
+    "img": "https://i.ibb.co/6cKjj4xT/karolinacr.png"
   },
   {
     "name": "TVCG 1",
@@ -12735,6 +12771,12 @@
     "name": "SONG ARM",
     "type": "Uncategorized",
     "url": "https://songtv.hls.iptvdc.com/web-armenia/index.m3u8",
+    "img": "https://i.ibb.co/tmkv6RC/armflag.png"
+  },
+  {
+    "name": "KENTRON TV",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/trn03/gin-kentron/index.m3u8",
     "img": "https://i.ibb.co/tmkv6RC/armflag.png"
   },
   {
@@ -14499,7 +14541,13 @@
     "name": "TVP WORLD",
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpwd.m3u8",
-    "img": "https://i.ibb.co/NrN5Gy2/tvpworld.png"
+    "img": "https://i.ibb.co/3y1gyyBD/tvpworld.png"
+  },
+  {
+    "name": "TVP WORLD",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpworld.m3u8",
+    "img": "https://i.ibb.co/3y1gyyBD/tvpworld.png"
   },
   {
     "name": "AL JAZEERA NEWS",
