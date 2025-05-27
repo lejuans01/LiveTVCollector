@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-26 21:51:49",
+  "date": "2025-05-27 06:54:43",
   "channels": {
     "Religious": [
       {
@@ -182,7 +182,7 @@
         "logo": "https://i.imgur.com/jbOkq8C.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8"
       },
       {
         "name": "Better Life TV (720p)",
@@ -619,6 +619,13 @@
         "url": "http://18.191.91.130:1935/live/safetv/playlist.m3u8"
       },
       {
+        "name": "SBN TV",
+        "logo": "https://i.imgur.com/tspT2dF.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live20.bozztv.com/trn03/gin-sbntv/index.m3u8"
+      },
+      {
         "name": "Shalom TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/qUjsV79.png",
         "group": "Religious",
@@ -638,6 +645,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8"
+      },
+      {
+        "name": "TBN Inspire",
+        "logo": "https://i.imgur.com/GSM0Pkr.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live20.bozztv.com/dvrfl05/gin-tbninspire/index.m3u8"
       },
       {
         "name": "TBN Smile (480p)",
@@ -1273,7 +1287,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/CBS_News/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/CBS_News/index.m3u8"
       },
       {
         "name": "CCTV-4 America (1080p)",
@@ -1955,6 +1969,13 @@
         "url": "https://edge-f.swagit.com/live/palmspringsca/live-1-a/playlist.m3u8"
       },
       {
+        "name": "Pars TV",
+        "logo": "https://i.imgur.com/RQ5DzEE.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live20.bozztv.com/dvrfl05/gin-parstv/index.m3u8"
+      },
+      {
         "name": "Payam-e-Afghan TV (480p) [Not 24/7]",
         "logo": "https://i.imgur.com/t9wYYY9.png",
         "group": "General",
@@ -2219,6 +2240,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://ss5.domint.net:3012/vgtv_str/visionglobaltv/playlist.m3u8"
+      },
+      {
+        "name": "WABE-DT1",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/PBS_1971_id.svg/432px-PBS_1971_id.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live20.bozztv.com/dvrfl05/gin-peachtree/index.m3u8"
       },
       {
         "name": "WCOT 13 (Tallahassee FL) (720p)",
@@ -3499,6 +3527,13 @@
         "url": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8"
       },
       {
+        "name": "AMC East (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8"
+      },
+      {
         "name": "American Horrors (480p)",
         "logo": "https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",
         "group": "Movies",
@@ -3636,7 +3671,7 @@
         "logo": "https://comteco.com.bo/img/upload/canales/svCJXa.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8"
       },
       {
         "name": "Hallmark Movies & More",
@@ -3650,7 +3685,7 @@
         "logo": "https://i.imgur.com/GPRGA9C.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8"
       },
       {
         "name": "IFC East (720p)",
@@ -3664,7 +3699,7 @@
         "logo": "https://i.imgur.com/BWmqYTO.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8"
       },
       {
         "name": "Made in Hollywood",
@@ -3685,14 +3720,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/EPIX/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/EPIX/index.m3u8"
       },
       {
         "name": "MGM+ Marquee",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
       },
       {
         "name": "Movies on Verizon",
@@ -3727,7 +3762,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8"
       },
       {
         "name": "Paramount Movie Channel",
@@ -3881,7 +3916,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/SUNDANCE/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/SUNDANCE/index.m3u8"
       },
       {
         "name": "The Film Detective",
@@ -4118,7 +4153,7 @@
         "logo": "https://i.imgur.com/TpCkbkT.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8"
       },
       {
         "name": "ACL Cornhole TV (1080p)",
@@ -4195,14 +4230,14 @@
         "logo": "https://i.imgur.com/A8CnA8g.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
       },
       {
         "name": "ESPN U (720p)",
         "logo": "https://i.imgur.com/HiBrysh.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/ESPN_U/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/ESPN_U/index.m3u8"
       },
       {
         "name": "ESR 24x7 eSports Network (1080p)",
@@ -4272,7 +4307,7 @@
         "logo": "https://i.imgur.com/Lgux6Ik.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8"
       },
       {
         "name": "IMPACT Plus! (1080p)",
@@ -4307,14 +4342,14 @@
         "logo": "https://i.imgur.com/sA5V39D.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8"
       },
       {
         "name": "MSG",
         "logo": "https://i.imgur.com/SEQFh0P.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/MSG/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/MSG/index.m3u8"
       },
       {
         "name": "MSG Plus (720p)",
@@ -4363,14 +4398,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8"
       },
       {
         "name": "NFL RedZone",
         "logo": "https://i.imgur.com/5lPqQj5.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8"
+        "url": "https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8"
       },
       {
         "name": "NHL",
@@ -4468,14 +4503,14 @@
         "logo": "https://i.imgur.com/CXauv8M.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8"
       },
       {
         "name": "SportsNet New York (540p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/SNY/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/SNY/index.m3u8"
       },
       {
         "name": "Stadium (720p)",
@@ -5866,13 +5901,6 @@
         "url": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8"
       },
       {
-        "name": "Cafe Trade TV (720p)",
-        "logo": "https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://cafetradehls.wns.live/hls/stream.m3u8"
-      },
-      {
         "name": "CNBC (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",
         "group": "Business",
@@ -5972,7 +6000,7 @@
         "logo": "https://i.imgur.com/US0T6DC.png",
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/Cleo_TV/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/Cleo_TV/index.m3u8"
       },
       {
         "name": "CTN Lifestyle (540p)",
@@ -5986,7 +6014,7 @@
         "logo": "https://i.imgur.com/PggQk7F.png",
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/FYI/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/FYI/index.m3u8"
       },
       {
         "name": "Global Fashion Channel (1080p)",
@@ -6219,7 +6247,7 @@
         "logo": "https://i.imgur.com/S7DOpdY.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/CMT/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/CMT/index.m3u8"
       },
       {
         "name": "CMT Equal Play",
@@ -6338,7 +6366,7 @@
         "logo": "https://i.imgur.com/3UByLqb.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8"
       },
       {
         "name": "MTV Spankin' New",
@@ -6359,7 +6387,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8"
       },
       {
         "name": "Pluto TV MTV Classic",
@@ -6513,7 +6541,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/VH1/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/VH1/index.m3u8"
       },
       {
         "name": "VH1 Hip Hop Family",
@@ -8454,7 +8482,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",
         "group": "Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/Comedy_Central/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/Comedy_Central/index.m3u8"
       },
       {
         "name": "Comedy Central en Español",
@@ -8939,7 +8967,7 @@
         "logo": "https://i.imgur.com/TOM5qO6.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/Aspire/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/Aspire/index.m3u8"
       },
       {
         "name": "Azteca Valle (KRGV 5.2)",
@@ -8953,7 +8981,7 @@
         "logo": "https://i.imgur.com/pTiiPz0.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8"
       },
       {
         "name": "Best of Dr. Phil",
@@ -8974,7 +9002,7 @@
         "logo": "https://i.imgur.com/oafsrlo.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/BET_HER/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/BET_HER/index.m3u8"
       },
       {
         "name": "BET Pluto TV",
@@ -9002,7 +9030,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/Buzzr/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/Buzzr/index.m3u8"
       },
       {
         "name": "CanelaTV",
@@ -9030,14 +9058,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/COMET/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/COMET/index.m3u8"
       },
       {
         "name": "Cozi TV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/COZI_TV/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/COZI_TV/index.m3u8"
       },
       {
         "name": "Crime + Investigation (720p)",
@@ -9058,7 +9086,7 @@
         "logo": "https://i.imgur.com/TWFDkap.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8"
       },
       {
         "name": "El Rey",
@@ -9107,21 +9135,21 @@
         "logo": "https://i.imgur.com/mijRpPQ.jpg",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/FUSE/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/FUSE/index.m3u8"
       },
       {
         "name": "FX East",
         "logo": "https://i.imgur.com/ZScwrpi.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl5.moveonjoy.com/FX/index.m3u8"
+        "url": "https://fl5.moveonjoy.com/FX/index.m3u8"
       },
       {
         "name": "FXX East",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/FXX/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/FXX/index.m3u8"
       },
       {
         "name": "Game Show Central",
@@ -9142,7 +9170,7 @@
         "logo": "https://i.imgur.com/evOWORd.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/GET_TV/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/GET_TV/index.m3u8"
       },
       {
         "name": "GlobalWorldTV (720p)",
@@ -9156,7 +9184,7 @@
         "logo": "https://i.imgur.com/6w1Wj3j.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/GRIT_TV/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/GRIT_TV/index.m3u8"
       },
       {
         "name": "Grit Xtra (1080p)",
@@ -9219,21 +9247,21 @@
         "logo": "https://i.imgur.com/YgOC51j.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/INSP/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/INSP/index.m3u8"
       },
       {
         "name": "ION Plus East (720p)",
         "logo": "https://i.imgur.com/1dgCvNE.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/ION_Plus/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/ION_Plus/index.m3u8"
       },
       {
         "name": "ION TV East",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/ION_TV/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/ION_TV/index.m3u8"
       },
       {
         "name": "K-Content by CJ ENM",
@@ -9310,7 +9338,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/ME_TV/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/ME_TV/index.m3u8"
       },
       {
         "name": "KSHB-DT2 (720p)",
@@ -9366,7 +9394,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/LIFETIME/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/LIFETIME/index.m3u8"
       },
       {
         "name": "Logo East (720p)",
@@ -9397,13 +9425,6 @@
         "url": "https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8"
       },
       {
-        "name": "MeTV",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://fl3.moveonjoy.com/ME_TV/index.m3u8"
-      },
-      {
         "name": "Midnight Pulp",
         "logo": "https://od.lk/s/MF8yMjQwMDkyNjVf/MidnightPulp_200x200.png",
         "group": "Entertainment",
@@ -9429,7 +9450,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/MTV/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/MTV/index.m3u8"
       },
       {
         "name": "MTV en Español",
@@ -9450,7 +9471,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/MTV_U/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/MTV_U/index.m3u8"
       },
       {
         "name": "Mundo Paranormal",
@@ -9492,7 +9513,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/OXYGEN/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/OXYGEN/index.m3u8"
       },
       {
         "name": "People are Awesome",
@@ -10121,7 +10142,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8"
       },
       {
         "name": "Happy Days",
@@ -10544,13 +10565,6 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c99b6b0-1ffa-4d78-9eeb-4c68d2978b86"
       },
       {
-        "name": "TVE Star HD (1080p)",
-        "logo": "https://i.imgur.com/zsCZHMh.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8"
-      },
-      {
         "name": "Universal Crime",
         "logo": "https://i.imgur.com/OwSlGMu.png",
         "group": "Series",
@@ -10641,7 +10655,7 @@
         "logo": "https://i.imgur.com/L6GjoS4.png",
         "group": "Classic",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8"
+        "url": "https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8"
       },
       {
         "name": "The Andy Griffith Show",
@@ -10669,7 +10683,7 @@
         "logo": "https://i.imgur.com/VNNS4mF.png",
         "group": "Classic",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/TV_Land/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/TV_Land/index.m3u8"
       },
       {
         "name": "TVS Cipher Network (360p)",
@@ -10818,7 +10832,7 @@
         "logo": "https://i.imgur.com/YIamDGn.png",
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8"
+        "url": "https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8"
       },
       {
         "name": "Hmong TV Network (720p)",
@@ -10888,7 +10902,7 @@
         "logo": "https://i.imgur.com/A3o9gvc.png",
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/Ovation/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/Ovation/index.m3u8"
       },
       {
         "name": "Pluto TV Cine Suspenso (720p)",
@@ -11037,21 +11051,21 @@
         "logo": "https://i.imgur.com/copIbc9.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/BET_EAST/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/BET_EAST/index.m3u8"
       },
       {
         "name": "BET Jams",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/BET_Jams/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/BET_Jams/index.m3u8"
       },
       {
         "name": "BET Soul",
         "logo": "https://i.imgur.com/VeuTWUb.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/BET_SOUL/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/BET_SOUL/index.m3u8"
       },
       {
         "name": "Beverly Hills Television 10 (720p)",
@@ -11072,21 +11086,21 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8"
       },
       {
         "name": "Bounce",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8"
       },
       {
         "name": "Bravo East",
         "logo": "https://i.imgur.com/JmTIRLF.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/BRAVO/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/BRAVO/index.m3u8"
       },
       {
         "name": "BYU TV (720p)",
@@ -11604,7 +11618,21 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8"
+      },
+      {
+        "name": "Rai Italia Americas",
+        "logo": "https://i.imgur.com/1nN4rEP.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8"
+      },
+      {
+        "name": "Rai World Premium",
+        "logo": "https://i.imgur.com/tDuKkh3.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8"
       },
       {
         "name": "Real America's Voice (720p)",
@@ -11625,7 +11653,7 @@
         "logo": "https://i.imgur.com/eaYnGpH.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/REVOLT/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/REVOLT/index.m3u8"
       },
       {
         "name": "RFD-TV",
@@ -11640,6 +11668,20 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Salaam TV",
+        "logo": "https://i.imgur.com/2LcMHOw.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live20.bozztv.com/dvrfl05/gin-salamtv/index.m3u8"
+      },
+      {
+        "name": "SBTN",
+        "logo": "https://i.imgur.com/Jatzg3J.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live20.bozztv.com/dvrfl05/gin-netviet/index.m3u8"
       },
       {
         "name": "Scientology Network (1080p)",
@@ -11667,35 +11709,35 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8"
       },
       {
         "name": "Showtime East",
         "logo": "https://i.imgur.com/Or0LKsu.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/SHOWTIME/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/SHOWTIME/index.m3u8"
       },
       {
         "name": "Showtime Next East",
         "logo": "https://i.imgur.com/1Ak2MX2.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8"
       },
       {
         "name": "Showtime West (1080p)",
         "logo": "https://i.imgur.com/Or0LKsu.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8"
       },
       {
         "name": "Showtime Women East",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8"
       },
       {
         "name": "SLO County Channel 21 (360p)",
@@ -11737,21 +11779,21 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/Start_Tv/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/Start_Tv/index.m3u8"
       },
       {
         "name": "Starz East",
         "logo": "https://i.imgur.com/N7oSm4d.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/STARZ/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/STARZ/index.m3u8"
       },
       {
         "name": "Starz West",
         "logo": "https://i.imgur.com/N7oSm4d.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/STARZ_WEST/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8"
       },
       {
         "name": "Story Television",
@@ -11772,7 +11814,7 @@
         "logo": "https://i.imgur.com/4fMWhUE.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/SYFY/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/SYFY/index.m3u8"
       },
       {
         "name": "TBN Pacific",
@@ -11905,7 +11947,7 @@
         "logo": "https://i.imgur.com/tthm8Q5.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/TV_ONE/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/TV_ONE/index.m3u8"
       },
       {
         "name": "TV Panou (720p) [Not 24/7]",
@@ -11913,13 +11955,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8"
-      },
-      {
-        "name": "TVE Internacional America (1080p)",
-        "logo": "https://i.imgur.com/iODADvi.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8"
       },
       {
         "name": "UALR TV",
@@ -11933,7 +11968,7 @@
         "logo": "https://i.imgur.com/AvR9LSn.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/Up_Tv/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/Up_Tv/index.m3u8"
       },
       {
         "name": "USA Network (720p)",
@@ -12038,7 +12073,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/512px-We_TV_logo_2014.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl1.moveonjoy.com/WE_TV/index.m3u8"
+        "url": "https://fl1.moveonjoy.com/WE_TV/index.m3u8"
       },
       {
         "name": "West Hollywood WeHoTV (West Hollywood CA) (360p)",
@@ -12074,6 +12109,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"
+      },
+      {
+        "name": "WGCL-DT1",
+        "logo": "https://i.imgur.com/1yYlLZg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live20.bozztv.com/dvrfl05/gin-cbs/index.m3u8"
       },
       {
         "name": "WGN Chicago IL (WGN-TV1) (720p)",
@@ -12192,7 +12234,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl1.moveonjoy.com/NBC_EAST/index.m3u8"
+        "url": "https://fl1.moveonjoy.com/NBC_EAST/index.m3u8"
       },
       {
         "name": "WNJU-DT1 (1080p)",
@@ -12206,7 +12248,7 @@
         "logo": "https://i.imgur.com/zZd9Tkt.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl1.moveonjoy.com/FOX_EAST/index.m3u8"
+        "url": "https://fl1.moveonjoy.com/FOX_EAST/index.m3u8"
       },
       {
         "name": "WOLO-DT1 ABC 25 (Columbia SC) (720p)",
@@ -12290,7 +12332,7 @@
         "logo": "https://i.imgur.com/wMQEeCF.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8"
       },
       {
         "name": "Yu-Gi-Oh! en espanol",
@@ -13096,14 +13138,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl5.moveonjoy.com/DISNEY/index.m3u8"
+        "url": "https://fl5.moveonjoy.com/DISNEY/index.m3u8"
       },
       {
         "name": "Disney Junior East",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8"
       },
       {
         "name": "Disney XD East (720p)",
@@ -13117,7 +13159,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8"
       },
       {
         "name": "Dora TV",
@@ -13201,7 +13243,7 @@
         "logo": "https://i.imgur.com/KT4tdQs.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/NICK_JR/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/NICK_JR/index.m3u8"
       },
       {
         "name": "Nick Jr. Pluto TV",
@@ -13534,14 +13576,14 @@
         "logo": "https://i.imgur.com/BGAGeIf.png",
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/FREE_FORM/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/FREE_FORM/index.m3u8"
       },
       {
         "name": "Hallmark Channel East",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png",
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8"
       },
       {
         "name": "Positiv (720p)",
@@ -14039,7 +14081,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/National_Geographic/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/National_Geographic/index.m3u8"
       },
       {
         "name": "National Geographic HD East (720p)",
@@ -14053,7 +14095,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
       },
       {
         "name": "National Geographic Wild HD East (720p)",
@@ -14327,6 +14369,13 @@
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://3649884182d1462a9cada0264c1a0d57.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TeleUp_WatchMojo/playlist.m3u8"
+      },
+      {
+        "name": "Pursuit Channel",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Documentary",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8"
       },
       {
         "name": "AHC (American Heroes Channel)",
@@ -14669,7 +14718,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png",
         "group": "News;Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8"
       }
     ],
     "Entertainment;Family": [
@@ -14846,7 +14895,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
         "group": "Movies;Series",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8"
       }
     ],
     "Science": [
@@ -14869,7 +14918,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png",
         "group": "Science",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8"
+        "url": "https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8"
       },
       {
         "name": "Smithsonian Channel Selects",
@@ -17851,6 +17900,13 @@
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66087"
       },
       {
+        "name": "Start TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://fl3.moveonjoy.com/Start_Tv/index.m3u8"
+      },
+      {
         "name": "DABL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
@@ -17863,6 +17919,13 @@
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/172481"
+      },
+      {
+        "name": "Get TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://fl3.moveonjoy.com/GET_TV/index.m3u8"
       },
       {
         "name": "Grit TV",
@@ -17912,6 +17975,13 @@
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://buzzrota-ono.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Bounce TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8"
       },
       {
         "name": "Bounce XL",
@@ -18122,6 +18192,13 @@
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://fl5.moveonjoy.com/REVOLT/index.m3u8"
+      },
+      {
+        "name": "Cleo TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://fl3.moveonjoy.com/Cleo_TV/index.m3u8"
       },
       {
         "name": "Shades of Black",
@@ -18437,6 +18514,13 @@
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8"
+      },
+      {
+        "name": "Ovation",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://fl3.moveonjoy.com/Ovation/index.m3u8"
       },
       {
         "name": "INSP",
@@ -20960,6 +21044,13 @@
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://cloudvideo.servers10.com:8081/8016/index.m3u8"
+      },
+      {
+        "name": "TVE Internacional America",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8"
       },
       {
         "name": "Curiosity Explora",

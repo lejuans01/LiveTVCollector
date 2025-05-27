@@ -152,7 +152,7 @@
   {
     "name": "BET Gospel",
     "type": "Religious",
-    "url": "http://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8",
     "img": "https://i.imgur.com/jbOkq8C.png"
   },
   {
@@ -528,6 +528,12 @@
     "img": "https://i.imgur.com/sDGZCpL.png"
   },
   {
+    "name": "SBN TV",
+    "type": "Religious",
+    "url": "https://live20.bozztv.com/trn03/gin-sbntv/index.m3u8",
+    "img": "https://i.imgur.com/tspT2dF.png"
+  },
+  {
     "name": "Shalom TV (720p) [Not 24/7]",
     "type": "Religious",
     "url": "https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8",
@@ -544,6 +550,12 @@
     "type": "Religious",
     "url": "https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/512px-TBN_logo_2015.jpg"
+  },
+  {
+    "name": "TBN Inspire",
+    "type": "Religious",
+    "url": "https://live20.bozztv.com/dvrfl05/gin-tbninspire/index.m3u8",
+    "img": "https://i.imgur.com/GSM0Pkr.png"
   },
   {
     "name": "TBN Smile (480p)",
@@ -1082,7 +1094,7 @@
   {
     "name": "CBS East (720p)",
     "type": "General",
-    "url": "http://fl3.moveonjoy.com/CBS_News/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/CBS_News/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png"
   },
   {
@@ -1668,6 +1680,12 @@
     "img": "https://i.imgur.com/TfBx8dp.png"
   },
   {
+    "name": "Pars TV",
+    "type": "General",
+    "url": "https://live20.bozztv.com/dvrfl05/gin-parstv/index.m3u8",
+    "img": "https://i.imgur.com/RQ5DzEE.png"
+  },
+  {
     "name": "Payam-e-Afghan TV (480p) [Not 24/7]",
     "type": "General",
     "url": "https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8",
@@ -1894,6 +1912,12 @@
     "type": "General",
     "url": "https://ss5.domint.net:3012/vgtv_str/visionglobaltv/playlist.m3u8",
     "img": "https://i.imgur.com/3FaNbYD.png"
+  },
+  {
+    "name": "WABE-DT1",
+    "type": "General",
+    "url": "https://live20.bozztv.com/dvrfl05/gin-peachtree/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/PBS_1971_id.svg/432px-PBS_1971_id.svg.png"
   },
   {
     "name": "WCOT 13 (Tallahassee FL) (720p)",
@@ -2988,6 +3012,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"
   },
   {
+    "name": "AMC East (1080p)",
+    "type": "Movies",
+    "url": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"
+  },
+  {
     "name": "American Horrors (480p)",
     "type": "Movies",
     "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
@@ -3104,7 +3134,7 @@
   {
     "name": "FXM East",
     "type": "Movies",
-    "url": "http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8",
     "img": "https://comteco.com.bo/img/upload/canales/svCJXa.png"
   },
   {
@@ -3116,7 +3146,7 @@
   {
     "name": "Hallmark Movies Mysteries East",
     "type": "Movies",
-    "url": "http://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
     "img": "https://i.imgur.com/GPRGA9C.png"
   },
   {
@@ -3128,7 +3158,7 @@
   {
     "name": "Lifetime Movies East",
     "type": "Movies",
-    "url": "http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
     "img": "https://i.imgur.com/BWmqYTO.png"
   },
   {
@@ -3146,13 +3176,13 @@
   {
     "name": "MGM+ East",
     "type": "Movies",
-    "url": "http://fl3.moveonjoy.com/EPIX/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/EPIX/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png"
   },
   {
     "name": "MGM+ Marquee",
     "type": "Movies",
-    "url": "http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png"
   },
   {
@@ -3182,7 +3212,7 @@
   {
     "name": "OuterMax East (720p)",
     "type": "Movies",
-    "url": "http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png"
   },
   {
@@ -3314,7 +3344,7 @@
   {
     "name": "Sundance TV East",
     "type": "Movies",
-    "url": "http://fl3.moveonjoy.com/SUNDANCE/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/SUNDANCE/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png"
   },
   {
@@ -3512,7 +3542,7 @@
   {
     "name": "ACCN (720p)",
     "type": "Sports",
-    "url": "http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8",
     "img": "https://i.imgur.com/TpCkbkT.png"
   },
   {
@@ -3578,13 +3608,13 @@
   {
     "name": "CBS Sports Network USA",
     "type": "Sports",
-    "url": "http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
     "img": "https://i.imgur.com/A8CnA8g.png"
   },
   {
     "name": "ESPN U (720p)",
     "type": "Sports",
-    "url": "http://fl3.moveonjoy.com/ESPN_U/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/ESPN_U/index.m3u8",
     "img": "https://i.imgur.com/HiBrysh.png"
   },
   {
@@ -3644,7 +3674,7 @@
   {
     "name": "Golf Channel",
     "type": "Sports",
-    "url": "http://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8",
     "img": "https://i.imgur.com/Lgux6Ik.png"
   },
   {
@@ -3674,13 +3704,13 @@
   {
     "name": "MLB Network",
     "type": "Sports",
-    "url": "http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8",
     "img": "https://i.imgur.com/sA5V39D.png"
   },
   {
     "name": "MSG",
     "type": "Sports",
-    "url": "http://fl3.moveonjoy.com/MSG/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/MSG/index.m3u8",
     "img": "https://i.imgur.com/SEQFh0P.png"
   },
   {
@@ -3722,13 +3752,13 @@
   {
     "name": "NFL Network",
     "type": "Sports",
-    "url": "http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png"
   },
   {
     "name": "NFL RedZone",
     "type": "Sports",
-    "url": "http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
+    "url": "https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
     "img": "https://i.imgur.com/5lPqQj5.png"
   },
   {
@@ -3812,13 +3842,13 @@
   {
     "name": "Sportsman Channel",
     "type": "Sports",
-    "url": "http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
     "img": "https://i.imgur.com/CXauv8M.png"
   },
   {
     "name": "SportsNet New York (540p)",
     "type": "Sports",
-    "url": "http://fl3.moveonjoy.com/SNY/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/SNY/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png"
   },
   {
@@ -5010,12 +5040,6 @@
     "img": "https://i.imgur.com/OuogLHx.png"
   },
   {
-    "name": "Cafe Trade TV (720p)",
-    "type": "Business",
-    "url": "https://cafetradehls.wns.live/hls/stream.m3u8",
-    "img": "https://i.ibb.co/GW4cMfc/cafe-trade-tv.png"
-  },
-  {
     "name": "CNBC (720p)",
     "type": "Business",
     "url": "https://ft.fbcdntv247.cfd/memfs/4268c138-3258-42b8-8192-f9a3873e7794_output_0.m3u8",
@@ -5096,7 +5120,7 @@
   {
     "name": "Cleo TV (720p)",
     "type": "Lifestyle",
-    "url": "http://fl3.moveonjoy.com/Cleo_TV/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/Cleo_TV/index.m3u8",
     "img": "https://i.imgur.com/US0T6DC.png"
   },
   {
@@ -5108,7 +5132,7 @@
   {
     "name": "FYI East",
     "type": "Lifestyle",
-    "url": "http://fl3.moveonjoy.com/FYI/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/FYI/index.m3u8",
     "img": "https://i.imgur.com/PggQk7F.png"
   },
   {
@@ -5306,7 +5330,7 @@
   {
     "name": "CMT East",
     "type": "Music",
-    "url": "http://fl3.moveonjoy.com/CMT/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/CMT/index.m3u8",
     "img": "https://i.imgur.com/S7DOpdY.png"
   },
   {
@@ -5408,7 +5432,7 @@
   {
     "name": "MTV Live",
     "type": "Music",
-    "url": "http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8",
     "img": "https://i.imgur.com/3UByLqb.png"
   },
   {
@@ -5426,7 +5450,7 @@
   {
     "name": "Nick Music (720p)",
     "type": "Music",
-    "url": "http://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png"
   },
   {
@@ -5558,7 +5582,7 @@
   {
     "name": "VH1 East",
     "type": "Music",
-    "url": "http://fl3.moveonjoy.com/VH1/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/VH1/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png"
   },
   {
@@ -7220,7 +7244,7 @@
   {
     "name": "Comedy Central East (720p)",
     "type": "Comedy",
-    "url": "http://fl3.moveonjoy.com/Comedy_Central/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/Comedy_Central/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png"
   },
   {
@@ -7634,7 +7658,7 @@
   {
     "name": "Aspire",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/Aspire/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/Aspire/index.m3u8",
     "img": "https://i.imgur.com/TOM5qO6.png"
   },
   {
@@ -7646,7 +7670,7 @@
   {
     "name": "BBC America East",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8",
     "img": "https://i.imgur.com/pTiiPz0.png"
   },
   {
@@ -7664,7 +7688,7 @@
   {
     "name": "BET Her East",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/BET_HER/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/BET_HER/index.m3u8",
     "img": "https://i.imgur.com/oafsrlo.png"
   },
   {
@@ -7688,7 +7712,7 @@
   {
     "name": "Buzzr",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/Buzzr/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/Buzzr/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png"
   },
   {
@@ -7712,13 +7736,13 @@
   {
     "name": "Comet (720p)",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/COMET/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/COMET/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png"
   },
   {
     "name": "Cozi TV",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/COZI_TV/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/COZI_TV/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png"
   },
   {
@@ -7736,7 +7760,7 @@
   {
     "name": "E! East",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8",
     "img": "https://i.imgur.com/TWFDkap.png"
   },
   {
@@ -7778,19 +7802,19 @@
   {
     "name": "Fuse East (720p)",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/FUSE/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/FUSE/index.m3u8",
     "img": "https://i.imgur.com/mijRpPQ.jpg"
   },
   {
     "name": "FX East",
     "type": "Entertainment",
-    "url": "http://fl5.moveonjoy.com/FX/index.m3u8",
+    "url": "https://fl5.moveonjoy.com/FX/index.m3u8",
     "img": "https://i.imgur.com/ZScwrpi.png"
   },
   {
     "name": "FXX East",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/FXX/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/FXX/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png"
   },
   {
@@ -7808,7 +7832,7 @@
   {
     "name": "GetTV (480p)",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/GET_TV/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/GET_TV/index.m3u8",
     "img": "https://i.imgur.com/evOWORd.png"
   },
   {
@@ -7820,7 +7844,7 @@
   {
     "name": "Grit",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/GRIT_TV/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/GRIT_TV/index.m3u8",
     "img": "https://i.imgur.com/6w1Wj3j.png"
   },
   {
@@ -7874,19 +7898,19 @@
   {
     "name": "INSP",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/INSP/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/INSP/index.m3u8",
     "img": "https://i.imgur.com/YgOC51j.png"
   },
   {
     "name": "ION Plus East (720p)",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/ION_Plus/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/ION_Plus/index.m3u8",
     "img": "https://i.imgur.com/1dgCvNE.png"
   },
   {
     "name": "ION TV East",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/ION_TV/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/ION_TV/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png"
   },
   {
@@ -7952,7 +7976,7 @@
   {
     "name": "KSAT-DT2 (720p)",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/ME_TV/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/ME_TV/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png"
   },
   {
@@ -8000,7 +8024,7 @@
   {
     "name": "Lifetime East",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/LIFETIME/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/LIFETIME/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png"
   },
   {
@@ -8028,12 +8052,6 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/1/1d/Merit_Street_Media_2024_1.svg/revision/latest/scale-to-width-down/512"
   },
   {
-    "name": "MeTV",
-    "type": "Entertainment",
-    "url": "https://fl3.moveonjoy.com/ME_TV/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png"
-  },
-  {
     "name": "Midnight Pulp",
     "type": "Entertainment",
     "url": "https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8",
@@ -8054,7 +8072,7 @@
   {
     "name": "MTV East",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/MTV/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/MTV/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png"
   },
   {
@@ -8072,7 +8090,7 @@
   {
     "name": "MTVU",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/MTV_U/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/MTV_U/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png"
   },
   {
@@ -8108,7 +8126,7 @@
   {
     "name": "Oxygen East",
     "type": "Entertainment",
-    "url": "http://fl3.moveonjoy.com/OXYGEN/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/OXYGEN/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png"
   },
   {
@@ -8642,7 +8660,7 @@
   {
     "name": "Hallmark Drama (720p)",
     "type": "Series",
-    "url": "http://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png"
   },
   {
@@ -9006,12 +9024,6 @@
     "img": "https://i.imgur.com/sXkluxg.png"
   },
   {
-    "name": "TVE Star HD (1080p)",
-    "type": "Series",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8",
-    "img": "https://i.imgur.com/zsCZHMh.png"
-  },
-  {
     "name": "Universal Crime",
     "type": "Series",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549341853fc9700083901ac/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc200-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f8ea05b6-c631-4463-8491-a4394e906d3c",
@@ -9086,7 +9098,7 @@
   {
     "name": "Starz Encore Classic East",
     "type": "Classic",
-    "url": "http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
+    "url": "https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
     "img": "https://i.imgur.com/L6GjoS4.png"
   },
   {
@@ -9110,7 +9122,7 @@
   {
     "name": "TV Land East",
     "type": "Classic",
-    "url": "http://fl3.moveonjoy.com/TV_Land/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/TV_Land/index.m3u8",
     "img": "https://i.imgur.com/VNNS4mF.png"
   },
   {
@@ -9236,7 +9248,7 @@
   {
     "name": "Fox Soul",
     "type": "Culture",
-    "url": "http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8",
+    "url": "https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8",
     "img": "https://i.imgur.com/YIamDGn.png"
   },
   {
@@ -9296,7 +9308,7 @@
   {
     "name": "Ovation (1080p)",
     "type": "Culture",
-    "url": "http://fl3.moveonjoy.com/Ovation/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/Ovation/index.m3u8",
     "img": "https://i.imgur.com/A3o9gvc.png"
   },
   {
@@ -9422,19 +9434,19 @@
   {
     "name": "BET East",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/BET_EAST/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/BET_EAST/index.m3u8",
     "img": "https://i.imgur.com/copIbc9.png"
   },
   {
     "name": "BET Jams",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/BET_Jams/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/BET_Jams/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png"
   },
   {
     "name": "BET Soul",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/BET_SOUL/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/BET_SOUL/index.m3u8",
     "img": "https://i.imgur.com/VeuTWUb.png"
   },
   {
@@ -9452,19 +9464,19 @@
   {
     "name": "Big Ten Network",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png"
   },
   {
     "name": "Bounce",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png"
   },
   {
     "name": "Bravo East",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/BRAVO/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/BRAVO/index.m3u8",
     "img": "https://i.imgur.com/JmTIRLF.png"
   },
   {
@@ -9908,8 +9920,20 @@
   {
     "name": "Pursuit Channel (720p)",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png"
+  },
+  {
+    "name": "Rai Italia Americas",
+    "type": "Undefined",
+    "url": "https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8",
+    "img": "https://i.imgur.com/1nN4rEP.png"
+  },
+  {
+    "name": "Rai World Premium",
+    "type": "Undefined",
+    "url": "https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8",
+    "img": "https://i.imgur.com/tDuKkh3.png"
   },
   {
     "name": "Real America's Voice (720p)",
@@ -9926,7 +9950,7 @@
   {
     "name": "Revolt",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/REVOLT/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/REVOLT/index.m3u8",
     "img": "https://i.imgur.com/eaYnGpH.png"
   },
   {
@@ -9940,6 +9964,18 @@
     "type": "Undefined",
     "url": "https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
     "img": "https://i.imgur.com/DWwequ0.png"
+  },
+  {
+    "name": "Salaam TV",
+    "type": "Undefined",
+    "url": "https://live20.bozztv.com/dvrfl05/gin-salamtv/index.m3u8",
+    "img": "https://i.imgur.com/2LcMHOw.png"
+  },
+  {
+    "name": "SBTN",
+    "type": "Undefined",
+    "url": "https://live20.bozztv.com/dvrfl05/gin-netviet/index.m3u8",
+    "img": "https://i.imgur.com/Jatzg3J.png"
   },
   {
     "name": "Scientology Network (1080p)",
@@ -9962,31 +9998,31 @@
   {
     "name": "Showtime 2 East",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png"
   },
   {
     "name": "Showtime East",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/SHOWTIME/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/SHOWTIME/index.m3u8",
     "img": "https://i.imgur.com/Or0LKsu.png"
   },
   {
     "name": "Showtime Next East",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
     "img": "https://i.imgur.com/1Ak2MX2.png"
   },
   {
     "name": "Showtime West (1080p)",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8",
     "img": "https://i.imgur.com/Or0LKsu.png"
   },
   {
     "name": "Showtime Women East",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png"
   },
   {
@@ -10022,19 +10058,19 @@
   {
     "name": "Start TV",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/Start_Tv/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/Start_Tv/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png"
   },
   {
     "name": "Starz East",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/STARZ/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/STARZ/index.m3u8",
     "img": "https://i.imgur.com/N7oSm4d.png"
   },
   {
     "name": "Starz West",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/STARZ_WEST/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8",
     "img": "https://i.imgur.com/N7oSm4d.png"
   },
   {
@@ -10052,7 +10088,7 @@
   {
     "name": "Syfy East",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/SYFY/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/SYFY/index.m3u8",
     "img": "https://i.imgur.com/4fMWhUE.png"
   },
   {
@@ -10166,7 +10202,7 @@
   {
     "name": "TV One",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/TV_ONE/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/TV_ONE/index.m3u8",
     "img": "https://i.imgur.com/tthm8Q5.png"
   },
   {
@@ -10174,12 +10210,6 @@
     "type": "Undefined",
     "url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
     "img": "https://i.imgur.com/zee6sWn.png"
-  },
-  {
-    "name": "TVE Internacional America (1080p)",
-    "type": "Undefined",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8",
-    "img": "https://i.imgur.com/iODADvi.png"
   },
   {
     "name": "UALR TV",
@@ -10190,7 +10220,7 @@
   {
     "name": "Up TV (1080p)",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/Up_Tv/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/Up_Tv/index.m3u8",
     "img": "https://i.imgur.com/AvR9LSn.png"
   },
   {
@@ -10280,7 +10310,7 @@
   {
     "name": "We TV East",
     "type": "Undefined",
-    "url": "http://fl1.moveonjoy.com/WE_TV/index.m3u8",
+    "url": "https://fl1.moveonjoy.com/WE_TV/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/512px-We_TV_logo_2014.svg.png"
   },
   {
@@ -10312,6 +10342,12 @@
     "type": "Undefined",
     "url": "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png"
+  },
+  {
+    "name": "WGCL-DT1",
+    "type": "Undefined",
+    "url": "https://live20.bozztv.com/dvrfl05/gin-cbs/index.m3u8",
+    "img": "https://i.imgur.com/1yYlLZg.png"
   },
   {
     "name": "WGN Chicago IL (WGN-TV1) (720p)",
@@ -10412,7 +10448,7 @@
   {
     "name": "WNBC-DT1",
     "type": "Undefined",
-    "url": "http://fl1.moveonjoy.com/NBC_EAST/index.m3u8",
+    "url": "https://fl1.moveonjoy.com/NBC_EAST/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png"
   },
   {
@@ -10424,7 +10460,7 @@
   {
     "name": "WNYW-DT1",
     "type": "Undefined",
-    "url": "http://fl1.moveonjoy.com/FOX_EAST/index.m3u8",
+    "url": "https://fl1.moveonjoy.com/FOX_EAST/index.m3u8",
     "img": "https://i.imgur.com/zZd9Tkt.png"
   },
   {
@@ -10496,7 +10532,7 @@
   {
     "name": "Yes Network",
     "type": "Undefined",
-    "url": "http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8",
     "img": "https://i.imgur.com/wMQEeCF.png"
   },
   {
@@ -11180,13 +11216,13 @@
   {
     "name": "Disney Channel East",
     "type": "Kids",
-    "url": "http://fl5.moveonjoy.com/DISNEY/index.m3u8",
+    "url": "https://fl5.moveonjoy.com/DISNEY/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png"
   },
   {
     "name": "Disney Junior East",
     "type": "Kids",
-    "url": "http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png"
   },
   {
@@ -11198,7 +11234,7 @@
   {
     "name": "Disney XD West (720p)",
     "type": "Kids",
-    "url": "http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png"
   },
   {
@@ -11270,7 +11306,7 @@
   {
     "name": "Nick Jr East",
     "type": "Kids",
-    "url": "http://fl3.moveonjoy.com/NICK_JR/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/NICK_JR/index.m3u8",
     "img": "https://i.imgur.com/KT4tdQs.png"
   },
   {
@@ -11552,13 +11588,13 @@
   {
     "name": "Free form East",
     "type": "Family",
-    "url": "http://fl3.moveonjoy.com/FREE_FORM/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/FREE_FORM/index.m3u8",
     "img": "https://i.imgur.com/BGAGeIf.png"
   },
   {
     "name": "Hallmark Channel East",
     "type": "Family",
-    "url": "http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png"
   },
   {
@@ -11978,7 +12014,7 @@
   {
     "name": "National Geographic East",
     "type": "Documentary",
-    "url": "http://fl3.moveonjoy.com/National_Geographic/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/National_Geographic/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
   },
   {
@@ -11990,7 +12026,7 @@
   {
     "name": "National Geographic Wild East",
     "type": "Documentary",
-    "url": "http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png"
   },
   {
@@ -12225,6 +12261,12 @@
     "name": "WatchMojo",
     "type": "Documentary",
     "url": "https://3649884182d1462a9cada0264c1a0d57.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TeleUp_WatchMojo/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Pursuit Channel",
+    "type": "Documentary",
+    "url": "http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12506,7 +12548,7 @@
   {
     "name": "ESPNews (720p)",
     "type": "News;Sports",
-    "url": "http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png"
   },
   {
@@ -12632,7 +12674,7 @@
   {
     "name": "Paramount Network East",
     "type": "Movies;Series",
-    "url": "http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png"
   },
   {
@@ -12650,7 +12692,7 @@
   {
     "name": "Smithsonian Channel East",
     "type": "Science",
-    "url": "http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8",
+    "url": "https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png"
   },
   {
@@ -15156,6 +15198,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Start TV",
+    "type": "Network Channels",
+    "url": "http://fl3.moveonjoy.com/Start_Tv/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "DABL",
     "type": "Network Channels",
     "url": "http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414882",
@@ -15165,6 +15213,12 @@
     "name": "fetv (Family Entertainment Television)",
     "type": "Network Channels",
     "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/172481",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Get TV",
+    "type": "Network Channels",
+    "url": "http://fl3.moveonjoy.com/GET_TV/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -15207,6 +15261,12 @@
     "name": "Buzzr #2",
     "type": "Network Channels",
     "url": "https://buzzrota-ono.amagi.tv/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bounce TV",
+    "type": "Network Channels",
+    "url": "http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -15387,6 +15447,12 @@
     "name": "Revolt",
     "type": "Network Channels",
     "url": "http://fl5.moveonjoy.com/REVOLT/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Cleo TV",
+    "type": "Network Channels",
+    "url": "http://fl3.moveonjoy.com/Cleo_TV/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -15657,6 +15723,12 @@
     "name": "TVS Western Movie",
     "type": "Network Channels",
     "url": "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Ovation",
+    "type": "Network Channels",
+    "url": "http://fl3.moveonjoy.com/Ovation/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -17811,6 +17883,12 @@
     "name": "Visión Televisión",
     "type": "Latino (Spanish)",
     "url": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "TVE Internacional America",
+    "type": "Latino (Spanish)",
+    "url": "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
