@@ -351,11 +351,6 @@ URL: https://x.canlitvapp.com/u-itv4/index.m3u8
 Logo: https://i.imgur.com/DYI4IA2.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: Kanal Jadid (720p)
-URL: https://kjhls.wns.live/hls/stream.m3u8
-Logo: https://i.imgur.com/7oGGgfD.png
-Source: https://iptv-org.github.io/iptv/countries/uk.m3u
---------------------------------------------------
 Name: Latest TV [Not 24/7]
 URL: https://5a0e89631aa14.streamlock.net/LatestTelevision/LatestTelevision/playlist.m3u8
 Logo: https://i.imgur.com/Cl1iGEb.jpeg
@@ -1015,6 +1010,11 @@ URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-
 Logo: https://i.imgur.com/fGUlCY3.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
+Name: Rai Italia
+URL: https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+Logo: https://i.imgur.com/1nN4rEP.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
 Name: Rakuten VIKI (720p)
 URL: https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 Logo: https://i.imgur.com/pbyd1g2.png
@@ -1138,6 +1138,11 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 Name: U&Yesterday
 URL: http://92.114.85.72:8000/play/aOb3
 Logo: https://i.imgur.com/r3pqSHl.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
+Name: Universal Somali TV
+URL: https://live20.bozztv.com/dvrfl05/gin-universalsomali/index.m3u8
+Logo: https://i.imgur.com/awa4oas.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 Name: VoxAfrica

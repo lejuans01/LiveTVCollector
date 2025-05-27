@@ -516,12 +516,6 @@
     "img": "https://i.imgur.com/DYI4IA2.png"
   },
   {
-    "name": "Kanal Jadid (720p)",
-    "type": "General",
-    "url": "https://kjhls.wns.live/hls/stream.m3u8",
-    "img": "https://i.imgur.com/7oGGgfD.png"
-  },
-  {
     "name": "Latest TV [Not 24/7]",
     "type": "General",
     "url": "https://5a0e89631aa14.streamlock.net/LatestTelevision/LatestTelevision/playlist.m3u8",
@@ -768,6 +762,12 @@
     "img": "https://i.imgur.com/fGUlCY3.png"
   },
   {
+    "name": "Rai Italia",
+    "type": "Undefined",
+    "url": "https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8",
+    "img": "https://i.imgur.com/1nN4rEP.png"
+  },
+  {
     "name": "Rakuten VIKI (720p)",
     "type": "Undefined",
     "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8",
@@ -916,6 +916,12 @@
     "type": "Undefined",
     "url": "http://92.114.85.72:8000/play/aOb3",
     "img": "https://i.imgur.com/r3pqSHl.png"
+  },
+  {
+    "name": "Universal Somali TV",
+    "type": "Undefined",
+    "url": "https://live20.bozztv.com/dvrfl05/gin-universalsomali/index.m3u8",
+    "img": "https://i.imgur.com/awa4oas.png"
   },
   {
     "name": "VoxAfrica",
