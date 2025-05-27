@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-26 21:44:03",
+  "date": "2025-05-27 06:27:26",
   "channels": {
     "STREAMING": [
       {
@@ -838,6 +838,13 @@
         "url": "https://rtvbn.tv:8080/live/index.m3u8"
       },
       {
+        "name": "Pink Plus",
+        "logo": "https://i.imgur.com/1O6LEcO.png",
+        "group": "Entertainment",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/pink_plus.m3u8"
+      },
+      {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Kurir TV",
         "logo": "https://i.imgur.com/EvJKarP.png",
         "group": "Entertainment",
@@ -885,15 +892,127 @@
         "group": "Entertainment",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8"
+      },
+      {
+        "name": "STAR Channel",
+        "logo": "https://i.imgur.com/XHv8xaT.png",
+        "group": "Entertainment",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8"
+      },
+      {
+        "name": "STAR Movies",
+        "logo": "https://i.imgur.com/F5Ikuik.png",
+        "group": "Entertainment",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/hls18/star_movies_1200.m3u8"
+      },
+      {
+        "name": "STAR Crime",
+        "logo": "https://i.imgur.com/OsYCEcj.png",
+        "group": "Entertainment",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/hls18/star_crime_1200.m3u8"
+      },
+      {
+        "name": "STAR Life",
+        "logo": "https://i.imgur.com/g8a7pZE.png",
+        "group": "Entertainment",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/hls18/star_life_1200.m3u8"
+      },
+      {
+        "name": "National Geographic",
+        "logo": "https://i.imgur.com/IhcfsOZ.png",
+        "group": "Entertainment",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/national_geographic.m3u8"
+      },
+      {
+        "name": "NAT GEO Wild",
+        "logo": "https://i.imgur.com/siSUvTM.png",
+        "group": "Entertainment",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8"
+      },
+      {
+        "name": "RTL (DE)",
+        "logo": "https://i.imgur.com/Nrl5ZFk.png",
+        "group": "Entertainment",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/rtl_de.m3u8"
+      },
+      {
+        "name": "Sat.1",
+        "logo": "https://i.imgur.com/5l6aMpx.png",
+        "group": "Entertainment",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/sat1.m3u8"
       }
     ],
     "General": [
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTS 1",
+        "logo": "https://i.imgur.com/S1pKHSR.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/rts1.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTS 2",
+        "logo": "https://i.imgur.com/jltAf5h.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/rts2.m3u8"
+      },
       {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTS Svet",
         "logo": "https://i.imgur.com/MZvnTav.png",
         "group": "General",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://webtvstream.bhtelecom.ba/rts_svet.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",K1 Info",
+        "logo": "https://i.imgur.com/SWx3OYT.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://677c038a28f30.streamlock.net/minacordmedia-secure/k1studio/playlist.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",HRT 1",
+        "logo": "https://i.imgur.com/Krcp3Wc.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/hrt1.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",HRT 2",
+        "logo": "https://i.imgur.com/4Z2MDwj.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/hrt2.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",HRT 3",
+        "logo": "https://i.imgur.com/nK7WEOM.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTRS Plus",
+        "logo": "https://i.imgur.com/wB2P0S3.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/rtrs_plus.m3u8"
+      },
+      {
+        "name": "TV Zepce",
+        "logo": "https://i.imgur.com/LTNaAmw.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://ssh101.bozztv.com/ssh101/tvzepcehd/playlist.m3u8"
       },
       {
         "name": "TV Belle Amie",
@@ -938,25 +1057,11 @@
         "url": "https://srv1.adriatelekom.com/TVAS/index.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",HRT 1",
-        "logo": "https://i.imgur.com/Krcp3Wc.png",
+        "name": "Z1",
+        "logo": "https://i.imgur.com/mFGwWH2.png",
         "group": "General",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "https://webtvstream.bhtelecom.ba/hrt1.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",HRT 2",
-        "logo": "https://i.imgur.com/4Z2MDwj.png",
-        "group": "General",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "https://webtvstream.bhtelecom.ba/hrt2.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",HRT 3",
-        "logo": "https://i.imgur.com/nK7WEOM.png",
-        "group": "General",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8"
+        "url": "https://stream.castr.com/677e935dd52df6c26274f169/live_07439d80cdd311ef8af99bfde92b2456/index.m3u8"
       },
       {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\"\",TV Zapad",
@@ -1015,6 +1120,20 @@
         "url": "https://stream.rtvze.ba/live/123/123.m3u8"
       },
       {
+        "name": "Tropik TV",
+        "logo": "https://i.imgur.com/9kVyHir.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/hls16/tropik_tv_1200.m3u8"
+      },
+      {
+        "name": "Baby TV",
+        "logo": "https://i.imgur.com/GH2o8Yu.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/baby_tv.m3u8"
+      },
+      {
         "name": "RTV Herceg-Bosne",
         "logo": "https://i.imgur.com/uy5qiIg.png",
         "group": "General",
@@ -1057,6 +1176,20 @@
         "url": "https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8"
       },
       {
+        "name": "TVCG MNE",
+        "logo": "https://i.imgur.com/8pTSXvZ.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/tvcg_mne.m3u8"
+      },
+      {
+        "name": "BHRT",
+        "logo": "https://i.imgur.com/Gg8NPvl.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8"
+      },
+      {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RT Balkan",
         "logo": "https://i.imgur.com/vpkQJZh.png",
         "group": "General",
@@ -1088,6 +1221,20 @@
       }
     ],
     "News": [
+      {
+        "name": "Euronews Serbia",
+        "logo": "https://i.imgur.com/smhVgxX.png",
+        "group": "News",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Informer TV",
+        "logo": "https://i.imgur.com/XWkorIV.png",
+        "group": "News",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://539745e629986.streamlock.net/informertv-secure/web/playlist.m3u8"
+      },
       {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Newsmax Balkans",
         "logo": "https://i.imgur.com/l0qicBM.png",
@@ -1366,13 +1513,6 @@
         "group": "Community",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-avc1_2500000=10002-mp4a_128000_deu=20000.m3u8"
-      },
-      {
-        "name": "Okto",
-        "logo": "https://i.imgur.com/azwM82Q.png",
-        "group": "Community",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/h1fps7bp/360/chunklist.m3u8"
       },
       {
         "name": "ServusTV",
