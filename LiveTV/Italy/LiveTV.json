@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-26 22:00:51",
+  "date": "2025-05-27 07:32:58",
   "channels": {
     "Music": [
       {
@@ -472,6 +472,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Rete 8",
+        "logo": "https://i.imgur.com/jojCxg3.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8"
       },
       {
         "name": "Rete 8 VGA (720p)",
@@ -1343,6 +1350,13 @@
         "url": "http://188.60.179.180:8000/play/xxRaiGulpxx"
       },
       {
+        "name": "Rai Italia",
+        "logo": "https://i.imgur.com/1nN4rEP.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8"
+      },
+      {
         "name": "Rai Premium (1080p)",
         "logo": "https://i.imgur.com/40g5Urz.png",
         "group": "Undefined",
@@ -1989,6 +2003,13 @@
         "url": "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8"
       },
       {
+        "name": "Inter TV",
+        "logo": "https://i.imgur.com/FUTqh2L.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8"
+      },
+      {
         "name": "MadeinBO TV (1080p)",
         "logo": "https://i.imgur.com/47X44DD.png",
         "group": "Sports",
@@ -2532,6 +2553,15 @@
         "group": "Outdoor;Shop",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://inwild-samsungau.amagi.tv/playlist.m3u8"
+      }
+    ],
+    "Outdoor": [
+      {
+        "name": "Italian Fishing TV",
+        "logo": "https://i.imgur.com/qrn6tUO.png",
+        "group": "Outdoor",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://fms.premio.link/fishingtv/playlist.m3u8"
       }
     ],
     "Travel": [

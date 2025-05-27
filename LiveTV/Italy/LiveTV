@@ -402,6 +402,12 @@
     "img": "https://i.imgur.com/XfNSWp0.png"
   },
   {
+    "name": "Rete 8",
+    "type": "General",
+    "url": "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8",
+    "img": "https://i.imgur.com/jojCxg3.png"
+  },
+  {
     "name": "Rete 8 VGA (720p)",
     "type": "General",
     "url": "https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8",
@@ -1140,6 +1146,12 @@
     "img": "https://i.imgur.com/irAhPJM.png"
   },
   {
+    "name": "Rai Italia",
+    "type": "Undefined",
+    "url": "https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8",
+    "img": "https://i.imgur.com/1nN4rEP.png"
+  },
+  {
     "name": "Rai Premium (1080p)",
     "type": "Undefined",
     "url": "http://188.60.179.180:8000/play/a0oy",
@@ -1692,6 +1704,12 @@
     "img": "https://i.imgur.com/9lctpnP.png"
   },
   {
+    "name": "Inter TV",
+    "type": "Sports",
+    "url": "https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8",
+    "img": "https://i.imgur.com/FUTqh2L.png"
+  },
+  {
     "name": "MadeinBO TV (1080p)",
     "type": "Sports",
     "url": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8",
@@ -2140,6 +2158,12 @@
     "type": "Outdoor;Shop",
     "url": "https://inwild-samsungau.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/48atMgj.png"
+  },
+  {
+    "name": "Italian Fishing TV",
+    "type": "Outdoor",
+    "url": "https://fms.premio.link/fishingtv/playlist.m3u8",
+    "img": "https://i.imgur.com/qrn6tUO.png"
   },
   {
     "name": "Love in Venice (480p)",
