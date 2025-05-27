@@ -1,3 +1,20 @@
+Group: AMovies
+Name: HBO2
+URL: http://190.60.37.154:45000/play/a052/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: WARNER HD OP2
+URL: http://200.59.188.3:8000/play/a00h
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: US CANAL 57
+URL: https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+
 Group: Animation
 Name: Anime Zone TV (480p)
 URL: http://animezonetv.net/hls/stream.m3u8
@@ -106,11 +123,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
 Group: DeCajon
-Name: Canal 4 Monclova
-URL: https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
 Name: LAS ESTRELLAS HD OP3
 URL: http://177.93.46.163:8000/play/a019
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -168,11 +180,6 @@ Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/
 --------------------------------------------------
 Name: ITV Deportes
 URL: https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: Love Nature
-URL: https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
@@ -759,13 +766,6 @@ Logo: https://i.imgur.com/QFI2OdJ.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
-Group: General;News
-Name: Canal 33 Tijuana (720p)
-URL: https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-Logo: https://iili.io/JCt1Nbn.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
 Group: Kids
 Name: Clan TVE Internacional (1080p)
 URL: https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
@@ -803,21 +803,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
 Group: Movies
-Name: HBO2
-URL: http://190.60.37.154:45000/play/a052/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: WARNER HD OP2
-URL: http://200.59.188.3:8000/play/a00h
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: US CANAL 57
-URL: https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
 Name: De Película (576p)
 URL: https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 Logo: https://i.imgur.com/aksM8pa.png
@@ -1796,11 +1781,6 @@ Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/
 --------------------------------------------------
 Name: Canal Sur 2
 URL: https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
---------------------------------------------------
-Name: Cantina TV
-URL: https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
@@ -3384,6 +3364,11 @@ URL: http://clubtv.link/my2505/phpcode/distro.php?c=pitufo-tv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
+Name: MovieSphere Canada (1080p)
+URL: https://apollo.production-public.tubi.io/live/ac-moviesphere-canada2.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
 
 Group: Outdoor
 Name: Agrotendencia TV (1080p)
@@ -3892,6 +3877,11 @@ URL: https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
 Logo: https://i.imgur.com/k0XbBp8.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
+Name: Rai Italia Americas
+URL: https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
+Logo: https://i.imgur.com/1nN4rEP.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
 Name: RCG TV 2 (360p) [Not 24/7]
 URL: https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
 Logo: https://i.imgur.com/hXs9b7v.png
@@ -3997,11 +3987,6 @@ URL: https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.
 Logo: https://i.imgur.com/q9p1Spj.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: TVE Internacional America (1080p)
-URL: https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
-Logo: https://i.imgur.com/iODADvi.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: TVMás (720p)
 URL: https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 Logo: https://i.imgur.com/lhI8Rs0.png
@@ -4021,5 +4006,27 @@ Name: USA Network Latin America
 URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
+
+Group: zNonGroup
+Name: BeIN SPORTS XTRA En Espanol
+URL: https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: Fox Sports en Espanol (720p)
+URL: https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: MovieSphere (720p)
+URL: https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
+--------------------------------------------------
+Name: Canal 33 Tijuana (720p)
+URL: https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U
 --------------------------------------------------
 
