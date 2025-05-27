@@ -2954,13 +2954,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=CBPRkAAK7f4en-myEzMu2g&e=1748286845",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Gg_mLPMQEWylUcCbOvRpug&e=1748323120",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=CBPRkAAK7f4en-myEzMu2g&e=1748286845",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Gg_mLPMQEWylUcCbOvRpug&e=1748323120",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -15390,6 +15390,12 @@
     "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg"
   },
   {
+    "name": "Rai Italia",
+    "type": "Undefined",
+    "url": "https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8",
+    "img": "https://i.imgur.com/1nN4rEP.png"
+  },
+  {
     "name": "Rakuten VIKI (720p)",
     "type": "Undefined",
     "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8",
@@ -15762,22 +15768,10 @@
     "img": "https://i.imgur.com/pLv0T3D.png"
   },
   {
-    "name": "Peer TV Alto Adige (1280p)",
-    "type": "Outdoor;Travel",
-    "url": "https://iptv.peer.biz/live/peertv-it.m3u8",
-    "img": "https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png"
-  },
-  {
-    "name": "Peer TV South Tyrol (1280p)",
-    "type": "Outdoor;Travel",
-    "url": "https://iptv.peer.biz/live/peertv-en.m3u8",
-    "img": "https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png"
-  },
-  {
-    "name": "Peer TV Südtirol (1080p)",
-    "type": "Outdoor;Travel",
-    "url": "https://iptv.peer.biz/live/peertv.m3u8",
-    "img": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png"
+    "name": "Nollywood TV",
+    "type": "Movies",
+    "url": "https://live20.bozztv.com/trn03/gin-nollywoodtv/index.m3u8",
+    "img": "https://i.imgur.com/29L2gbb.png"
   },
   {
     "name": "Pluto TV Action",
@@ -15814,6 +15808,24 @@
     "type": "Movies",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4d6c806ad2a00073b3108/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c0-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d329ef28-8c5a-4451-bc8a-ab7d7083f320",
     "img": "https://i.imgur.com/cQkfRhH.png"
+  },
+  {
+    "name": "Peer TV Alto Adige (1280p)",
+    "type": "Outdoor;Travel",
+    "url": "https://iptv.peer.biz/live/peertv-it.m3u8",
+    "img": "https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png"
+  },
+  {
+    "name": "Peer TV South Tyrol (1280p)",
+    "type": "Outdoor;Travel",
+    "url": "https://iptv.peer.biz/live/peertv-en.m3u8",
+    "img": "https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png"
+  },
+  {
+    "name": "Peer TV Südtirol (1080p)",
+    "type": "Outdoor;Travel",
+    "url": "https://iptv.peer.biz/live/peertv.m3u8",
+    "img": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png"
   },
   {
     "name": "Pluto TV Animaux",
