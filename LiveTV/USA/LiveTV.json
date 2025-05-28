@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-27 21:53:18",
+  "date": "2025-05-28 06:56:20",
   "channels": {
     "Religious": [
       {
@@ -1099,6 +1099,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8"
+      },
+      {
+        "name": "Armenia 2",
+        "logo": "https://i.imgur.com/AXmXw9X.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8"
       },
       {
         "name": "Arroyo Grande Gov't Access TV Channel 20 (432p)",
@@ -2282,13 +2289,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",Հ2 (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/AXmXw9X.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://ott-cdn.ucom.am/s2/index.m3u8"
       }
     ],
     "News": [

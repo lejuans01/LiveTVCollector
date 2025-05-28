@@ -5533,6 +5533,11 @@ URL: https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 Logo: https://i.imgur.com/NTlC6e7.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Armenia 2
+URL: https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+Logo: https://i.imgur.com/AXmXw9X.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Arroyo Grande Gov't Access TV Channel 20 (432p)
 URL: https://agp-nimble.streamguys1.com/AGCC/AGCC/playlist.m3u8
 Logo: https://i.imgur.com/ZTaEFWY.png
@@ -6376,11 +6381,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: РТР Планета США
 URL: https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: like Gecko) Mobile/15E148",Հ2 (480p) [Not 24/7]
-URL: http://ott-cdn.ucom.am/s2/index.m3u8
-Logo: https://i.imgur.com/AXmXw9X.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
