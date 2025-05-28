@@ -2954,13 +2954,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=ERWxtDFjnFENrR1A-tFkGw&e=1748373492",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=XqXyAhF8OyVKWUg4yZbQCQ&e=1748409765",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=ERWxtDFjnFENrR1A-tFkGw&e=1748373492",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=XqXyAhF8OyVKWUg4yZbQCQ&e=1748409765",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -14802,12 +14802,6 @@
     "img": "https://i.imgur.com/pyqZgU7.png"
   },
   {
-    "name": "C Star (1080p)",
-    "type": "Entertainment",
-    "url": "http://213.246.39.14:8070/cstar/index.m3u8",
-    "img": "https://i.imgur.com/w4kAX1V.png"
-  },
-  {
     "name": "Canal+ France [Geo-blocked]",
     "type": "Entertainment",
     "url": "http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8",
@@ -14824,6 +14818,12 @@
     "type": "Entertainment",
     "url": "http://213.246.39.14:8070/MTV/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png"
+  },
+  {
+    "name": "Peretz International",
+    "type": "Entertainment",
+    "url": "https://cdn4.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8",
+    "img": "https://i.imgur.com/On6ggLe.png"
   },
   {
     "name": "Y'a que la vérité qui compte",

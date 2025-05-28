@@ -315,11 +315,6 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/pyqZgU7.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
-Name: C Star (1080p)
-URL: http://213.246.39.14:8070/cstar/index.m3u8
-Logo: https://i.imgur.com/w4kAX1V.png
-Source: https://iptv-org.github.io/iptv/countries/fr.m3u
---------------------------------------------------
 Name: Canal+ France [Geo-blocked]
 URL: http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 Logo: https://i.imgur.com/5HcyMnW.png
@@ -333,6 +328,11 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 Name: MTV (1080p)
 URL: http://213.246.39.14:8070/MTV/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
+Name: Peretz International
+URL: https://cdn4.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
+Logo: https://i.imgur.com/On6ggLe.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: Y'a que la vérité qui compte
@@ -3445,12 +3445,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=ERWxtDFjnFENrR1A-tFkGw&e=1748373492
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=XqXyAhF8OyVKWUg4yZbQCQ&e=1748409765
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=ERWxtDFjnFENrR1A-tFkGw&e=1748373492
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=XqXyAhF8OyVKWUg4yZbQCQ&e=1748409765
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
