@@ -381,6 +381,11 @@ URL: https://tv.ondadigital.pe/ondadigital/index.m3u8
 Logo: https://i.imgur.com/3R2emx7.jpg
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
+Name: RadioTV Oriente
+URL: https://live.obslivestream.com/tvoriente/index.m3u8
+Logo: https://i.imgur.com/iHaFLHX.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: TELE 6
 URL: https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
 Logo: https://i.imgur.com/p7tt72X.png
@@ -678,6 +683,13 @@ Group: Kids
 Name: Clan TVE Internacional (1080p)
 URL: https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 Logo: https://i.imgur.com/03jFV68.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+
+Group: Legislative
+Name: JNE TV
+URL: https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
+Logo: https://i.imgur.com/b25XfCj.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 
