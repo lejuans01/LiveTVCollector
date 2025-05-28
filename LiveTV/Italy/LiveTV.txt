@@ -287,6 +287,11 @@ URL: http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
 Logo: https://i.imgur.com/jYmy4G5.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
+Name: Peretz International
+URL: https://cdn4.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
+Logo: https://i.imgur.com/On6ggLe.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
 Name: Pluto TV Anime Italy (720p)
 URL: https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Logo: https://i.imgur.com/bvbn8pa.png
