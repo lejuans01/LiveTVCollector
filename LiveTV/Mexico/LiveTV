@@ -492,12 +492,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Minuto Para Ganar",
-    "type": "NonGroup",
-    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Los archivos del FBI",
     "type": "NonGroup",
     "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
@@ -624,12 +618,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Lucha Libre AAA",
-    "type": "NonGroup",
-    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "MTV PTV",
     "type": "NonGroup",
     "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
@@ -645,12 +633,6 @@
     "name": "Yu-Gi-Oh",
     "type": "NonGroup",
     "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "PTV E-Sports",
-    "type": "NonGroup",
-    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -825,24 +807,6 @@
     "name": "La Familia del Barrio",
     "type": "NonGroup",
     "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN 4",
-    "type": "NonGroup",
-    "url": "http://177.93.46.163:8000/play/a01j",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "FOX SPORT 2",
-    "type": "NonGroup",
-    "url": "http://177.93.46.163:8000/play/a01a",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "FUTBOL NETWORK",
-    "type": "NonGroup",
-    "url": "https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1572,12 +1536,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "ADN 40 | MX",
-    "type": "NonGroup",
-    "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Canal 10 Cancun | MX",
     "type": "NonGroup",
     "url": "https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8?PlaylistM3UCL",
@@ -1611,12 +1569,6 @@
     "name": "Multimedios Monterrey | MX",
     "type": "NonGroup",
     "url": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "RCG 1 Saltillo | MX",
-    "type": "NonGroup",
-    "url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1752,12 +1704,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "CANAL 44 Chihuahua",
-    "type": "NonGroup",
-    "url": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "CHIAP CANAL 10",
     "type": "NonGroup",
     "url": "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8",
@@ -1797,12 +1743,6 @@
     "name": "VER RTV  VERACRUZ",
     "type": "NonGroup",
     "url": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MX CANELA DEPORTES",
-    "type": "NonGroup",
-    "url": "https://amg00658-amg00658c28-canelatv-international-5109.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesltta-canelatvinternational/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1944,18 +1884,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "E Sports",
-    "type": "NonGroup",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bein SportXtra",
-    "type": "NonGroup",
-    "url": "https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "La liga Inside",
     "type": "NonGroup",
     "url": "https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8",
@@ -2013,18 +1941,6 @@
     "name": "Rockola tv",
     "type": "NonGroup",
     "url": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/2.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ITV DEPORTES",
-    "type": "NonGroup",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "AYM Sports",
-    "type": "NonGroup",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2256,30 +2172,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "ESPN 2 HD",
-    "type": "NonGroup",
-    "url": "http://181.78.82.6:46090/play/a00i/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN 3 HD",
-    "type": "NonGroup",
-    "url": "http://181.78.82.6:46090/play/a00v/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN 6 HD",
-    "type": "NonGroup",
-    "url": "http://181.78.82.6:46090/play/a00w/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN ARG HD",
-    "type": "NonGroup",
-    "url": "http://181.78.82.6:46090/play/a00q/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "LCDLF 1",
     "type": "NonGroup",
     "url": "https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8",
@@ -2454,21 +2346,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "La Liga Inside",
-    "type": "NonGroup",
-    "url": "https://jmp2.uk/sam-ESBD3600001Q1.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "DFB Play TV",
     "type": "NonGroup",
     "url": "https://jmp2.uk/sam-ES3200003OC.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "FIFA+",
-    "type": "NonGroup",
-    "url": "https://jmp2.uk/sam-ESBC2700009B4.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2508,7 +2388,7 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "duckTV",
+    "name": "DuckTV",
     "type": "NonGroup",
     "url": "https://jmp2.uk/sam-ESBC4700001GR.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
@@ -2874,9 +2754,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "MovieSphere (720p)",
+    "type": "NonGroup",
+    "url": "https://livetv-fa.tubi.video/moviesphere/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "MovieSphere Canada (1080p)",
     "type": "NonGroup",
     "url": "https://apollo.production-public.tubi.io/live/ac-moviesphere-canada2.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Canal 33 Tijuana (720p)",
+    "type": "NonGroup",
+    "url": "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2922,6 +2814,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Minuto Para Ganar",
+    "type": "DeCajon",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "AMX Noticias",
     "type": "DeCajon",
     "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
@@ -2964,9 +2862,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ADN 40 | MX",
+    "type": "DeCajon",
+    "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Mexiquense TV | MX",
     "type": "DeCajon",
     "url": "https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "RCG 1 Saltillo | MX",
+    "type": "DeCajon",
+    "url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2982,9 +2892,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "MX TUBI FOX SPORTS",
+    "name": "CANAL 44 Chihuahua",
     "type": "DeCajon",
-    "url": "https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8",
+    "url": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3013,20 +2923,218 @@
   },
   {
     "name": "HBO2",
-    "type": "AMovies",
+    "type": "zMovies",
     "url": "http://190.60.37.154:45000/play/a052/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "WARNER HD OP2",
-    "type": "AMovies",
+    "type": "zMovies",
     "url": "http://200.59.188.3:8000/play/a00h",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "US CANAL 57",
-    "type": "AMovies",
+    "type": "zMovies",
     "url": "https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "DE PELICULA",
+    "type": "zMovies",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=48&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Hbo 2",
+    "type": "zMovies",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Lucha Libre AAA",
+    "type": "zDeportes",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "PTV E-Sports",
+    "type": "zDeportes",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN 4",
+    "type": "zDeportes",
+    "url": "http://177.93.46.163:8000/play/a01j",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FOX SPORT 2",
+    "type": "zDeportes",
+    "url": "http://177.93.46.163:8000/play/a01a",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FUTBOL NETWORK",
+    "type": "zDeportes",
+    "url": "https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MX TUBI FOX SPORTS",
+    "type": "zDeportes",
+    "url": "https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MX CANELA DEPORTES",
+    "type": "zDeportes",
+    "url": "https://amg00658-amg00658c28-canelatv-international-5109.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesltta-canelatvinternational/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "E Sports",
+    "type": "zDeportes",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bein SportXtra",
+    "type": "zDeportes",
+    "url": "https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ITV DEPORTES",
+    "type": "zDeportes",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "AYM Sports",
+    "type": "zDeportes",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN 2 HD",
+    "type": "zDeportes",
+    "url": "http://181.78.82.6:46090/play/a00i/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN 3 HD",
+    "type": "zDeportes",
+    "url": "http://181.78.82.6:46090/play/a00v/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN 6 HD",
+    "type": "zDeportes",
+    "url": "http://181.78.82.6:46090/play/a00w/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN ARG HD",
+    "type": "zDeportes",
+    "url": "http://181.78.82.6:46090/play/a00q/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "La Liga Inside",
+    "type": "zDeportes",
+    "url": "https://jmp2.uk/sam-ESBD3600001Q1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FIFA+",
+    "type": "zDeportes",
+    "url": "https://jmp2.uk/sam-ESBC2700009B4.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN 1 MX",
+    "type": "zDeportes",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=41&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN 2 MX",
+    "type": "zDeportes",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN 3 MX",
+    "type": "zDeportes",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=39&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FOX SPORTS 3 MX",
+    "type": "zDeportes",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=28&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "WWE NETWORK",
+    "type": "zDeportes",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=65&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "WIN SPORTS",
+    "type": "zDeportes",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=67&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN SUR",
+    "type": "zDeportes",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=77&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN 2 SUR",
+    "type": "zDeportes",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=79&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN 3 SUR",
+    "type": "zDeportes",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=78&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CLARO SPORTS",
+    "type": "zDeportes",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=82&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "fox sports 2 mx",
+    "type": "zDeportes",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=29&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Tigo Sport",
+    "type": "zDeportes",
+    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=62&token=Tecnoplus11&f=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "BeIN SPORTS XTRA En Espanol",
+    "type": "zDeportes",
+    "url": "https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Fox Sports en Espanol (720p)",
+    "type": "zDeportes",
+    "url": "https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3276,72 +3384,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "DE PELICULA",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=48&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN 1 MX",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=41&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN 2 MX",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN 3 MX",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=39&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "FOX SPORTS 3 MX",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=28&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "WWE NETWORK",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=65&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "WIN SPORTS",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=67&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN SUR",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=77&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN 2 SUR",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=79&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN 3 SUR",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=78&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CLARO SPORTS",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=82&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Az Cinema",
     "type": "Premium",
     "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=89&token=Tecnoplus11&f=.m3u8",
@@ -3360,57 +3402,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "fox sports 2 mx",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=29&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Hbo 2",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Nick",
     "type": "Premium",
     "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=92&token=Tecnoplus11&f=.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Tigo Sport",
-    "type": "Premium",
-    "url": "http://clubtv.link/my2505/phpcode/lista0.php?c=62&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Nickelodeon",
     "type": "Premium",
     "url": "http://clubtv.link/my2505/phpcode/lista3.php?c=a038&token=Tecnoplus11&f=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BeIN SPORTS XTRA En Espanol",
-    "type": "zNonGroup",
-    "url": "https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Fox Sports en Espanol (720p)",
-    "type": "zNonGroup",
-    "url": "https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MovieSphere (720p)",
-    "type": "zNonGroup",
-    "url": "https://livetv-fa.tubi.video/moviesphere/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Canal 33 Tijuana (720p)",
-    "type": "zNonGroup",
-    "url": "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
