@@ -4645,8 +4645,8 @@ URL: https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
 Logo: https://i.imgur.com/kTh2jgF.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: BBC America East
-URL: https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
+Name: BBC America
+URL: https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
 Logo: https://i.imgur.com/pTiiPz0.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -10694,6 +10694,11 @@ URL: https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m
 Logo: https://i.imgur.com/Z6lB0Ww.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Apple Valley Channel 180
+URL: https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8
+Logo: https://i.imgur.com/3h9RkFA.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Banning CityTV (Banning CA) (1080p)
 URL: https://vbfast-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8
 Logo: https://i.imgur.com/pKCvuDc.png
@@ -16026,6 +16031,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: America's Voice News
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268075-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c9b5079-e879-44e3-aa61-766a233fb604
 Logo: https://i.imgur.com/C4w0eYC.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Amu TV
+URL: https://live20.bozztv.com/gin-36bay4/gin-amutv/tracks-v1a1/mono.m3u8
+Logo: https://i.imgur.com/KXdvPum.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BBC News (North America) (1080p)

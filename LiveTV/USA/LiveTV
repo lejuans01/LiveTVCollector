@@ -2100,6 +2100,12 @@
     "img": "https://i.imgur.com/C4w0eYC.png"
   },
   {
+    "name": "Amu TV",
+    "type": "News",
+    "url": "https://live20.bozztv.com/gin-36bay4/gin-amutv/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/KXdvPum.png"
+  },
+  {
     "name": "BBC News (North America) (1080p)",
     "type": "News",
     "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
@@ -7668,9 +7674,9 @@
     "img": "https://i.imgur.com/kTh2jgF.png"
   },
   {
-    "name": "BBC America East",
+    "name": "BBC America",
     "type": "Entertainment",
-    "url": "https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8",
+    "url": "https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8",
     "img": "https://i.imgur.com/pTiiPz0.png"
   },
   {
@@ -10576,6 +10582,12 @@
     "type": "Legislative",
     "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8",
     "img": "https://i.imgur.com/Z6lB0Ww.png"
+  },
+  {
+    "name": "Apple Valley Channel 180",
+    "type": "Legislative",
+    "url": "https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8",
+    "img": "https://i.imgur.com/3h9RkFA.png"
   },
   {
     "name": "Banning CityTV (Banning CA) (1080p)",
