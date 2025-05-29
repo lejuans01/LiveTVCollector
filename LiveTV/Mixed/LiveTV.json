@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-28 21:43:41",
+  "date": "2025-05-29 06:28:38",
   "channels": {
     "STREAMING": [
       {
@@ -936,6 +936,13 @@
         "url": "https://webtvstream.bhtelecom.ba/nat_geo_wild.m3u8"
       },
       {
+        "name": "ProSieben",
+        "logo": "https://i.imgur.com/72cqcuv.png",
+        "group": "Entertainment",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "http://85.187.13.40:18000/ProSieben"
+      },
+      {
         "name": "RTL (DE)",
         "logo": "https://i.imgur.com/Nrl5ZFk.png",
         "group": "Entertainment",
@@ -1006,13 +1013,6 @@
         "group": "General",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://webtvstream.bhtelecom.ba/rtrs_plus.m3u8"
-      },
-      {
-        "name": "TV Zepce",
-        "logo": "https://i.imgur.com/LTNaAmw.png",
-        "group": "General",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "https://ssh101.bozztv.com/ssh101/tvzepcehd/playlist.m3u8"
       },
       {
         "name": "TV Belle Amie",
@@ -1286,6 +1286,13 @@
       }
     ],
     "Music": [
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",IDJTV",
+        "logo": "https://i.imgur.com/zhKxthr.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd"
+      },
       {
         "name": "CMC TV",
         "logo": "https://i.imgur.com/1AgOvn4.png",
