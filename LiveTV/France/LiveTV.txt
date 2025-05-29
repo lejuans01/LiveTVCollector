@@ -3445,12 +3445,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=sWDnXy_Ao7LF0OhveAUlbA&e=1748514255
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Y8_2C33DKSz53wRqpqfkLw&e=1748546159
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=sWDnXy_Ao7LF0OhveAUlbA&e=1748514255
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Y8_2C33DKSz53wRqpqfkLw&e=1748546159
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3705,7 +3705,7 @@ Logo: https://i.ibb.co/n1SCYqN/atv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: ATV (backup)
-URL: https://bozztv.com/gin-36bay4/gt-atv-tv3/playlist.m3u8
+URL: https://live20.bozztv.com/gin-36bay4/gt-atv-tv3/playlist.m3u8
 Logo: https://i.ibb.co/n1SCYqN/atv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -5814,6 +5814,11 @@ URL: https://live.tvkomala.com/live/komala/chunks.m3u8
 Logo: https://i.ibb.co/cXd3MBV/symkr.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: WELAT TV
+URL: http://stream.welattv.net:1935/welat/tv/.m3u8
+Logo: https://i.ibb.co/cXd3MBV/symkr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: JÎN TV
 URL: https://live.jintv.org/medialive/jintv.m3u8
 Logo: https://i.ibb.co/cXd3MBV/symkr.png
@@ -7634,6 +7639,11 @@ URL: https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms
 Logo: https://i.ibb.co/rfwFbLk/telemaroc.gif
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: TELE MAROC
+URL: https://live20.bozztv.com/gin-36bay3/ga-telemaroc/index.m3u8
+Logo: https://i.ibb.co/rfwFbLk/telemaroc.gif
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: WATANIA 1
 URL: http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 Logo: https://i.ibb.co/5M4CwmQ/watania1.png
@@ -7659,9 +7669,34 @@ URL: https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 Logo: https://i.ibb.co/8DxdBPf/Attessia9.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: ATTASIA 9
+URL: https://live20.bozztv.com/gin-36bay3/ga-attessiatv/index.m3u8
+Logo: https://i.ibb.co/8DxdBPf/Attessia9.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: NESSMA
 URL: https://edge66.magictvbox.com/liveApple/nessma/index.m3u8
 Logo: https://i.ibb.co/stZxQHF/nessma.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: NESSMA
+URL: https://live20.bozztv.com/gin-36bay4/ga-nessmatv/index.m3u8
+Logo: https://i.ibb.co/stZxQHF/nessma.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TUNISNA TV
+URL: https://live20.bozztv.com/gin-36bay3/ga-tunisna/index.m3u8
+Logo: https://i.ibb.co/svxJXfRv/tunisna.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: CARTHAGE TN
+URL: https://live20.bozztv.com/gin-36bay3/ga-carthageplus/index.m3u8
+Logo: https://i.ibb.co/Cs2t9hGC/carthage.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: HANNIBAL TN
+URL: https://live20.bozztv.com/gin-36bay3/ga-hannibaltv/index.m3u8
+Logo: https://i.ibb.co/C5bQvDyQ/hannibal.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TV2 ALGÉRIE
@@ -7680,8 +7715,18 @@ Logo: https://i.ibb.co/Gn19S8p/al24dz.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: ECHOROUK TV DZ
+URL: https://live20.bozztv.com/gin-36bay3/ga-echorouktv/index.m3u8
+Logo: https://i.ibb.co/yQmcHjz/echourouk.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: ECHOROUK TV DZ
 URL: https://hls-distrib-rlb1.dzsecurity.net/live/EchoroukTV/playlist.m3u8?e=&token=
 Logo: https://i.ibb.co/yQmcHjz/echourouk.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: ECHOROUK NEWS DZ
+URL: https://live20.bozztv.com/gin-36bay3/ga-echorouknews/index.m3u8
+Logo: https://i.ibb.co/1vH6q4L/echounws.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: ECHOROUK NEWS DZ
@@ -8909,6 +8954,31 @@ URL: https://media2.livaat.com/AL-Jaleyah/index.m3u8
 Logo: https://i.ibb.co/PFCf0SG/jaylia.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: KAHERA EG
+URL: https://live20.bozztv.com/gin-36bay3/ga-alkahera/index.m3u8
+Logo: https://i.ibb.co/N2H1qy00/kahera.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: AL HAYAH TV
+URL: https://live20.bozztv.com/gin-36bay4/ga-alhayah/index.m3u8
+Logo: https://i.ibb.co/rG6KzwsJ/hayah.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: AL HAYAH SERIES
+URL: https://live20.bozztv.com/gin-36bay4/ga-alhayahseries/index.m3u8
+Logo: https://i.ibb.co/xqPsDy1j/hayahseries.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: EL MEHWAR TV
+URL: https://live20.bozztv.com/gin-36bay4/ga-elmehwar/index.m3u8
+Logo: https://i.ibb.co/QFjyLpxc/mehwar.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: AL NAHAR TV
+URL: https://live20.bozztv.com/gin-36bay4/ga-alnahar/index.m3u8
+Logo: https://i.ibb.co/21jT7ywt/nahar.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: ETIHAD
 URL: https://live.alittihad.tv:444/ittihad/playlist.m3u8
 Logo: https://i.ibb.co/740Znb4/ittihad.png
@@ -9815,7 +9885,7 @@ Logo: https://i.ibb.co/k8Xbs2n/alshallal.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TEN WEYYAK
-URL: https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+URL: https://live20.bozztv.com/gin-36bay3/ga-tentv/index.m3u8
 Logo: https://i.ibb.co/Ch3FNj9/tenar.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -10277,6 +10347,21 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 Name: CBC SOFRA
 URL: https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
 Logo: https://i.ibb.co/0jpsxm7/cbcsofra.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: CBC DRAMA
+URL: https://live20.bozztv.com/gin-36bay4/ga-cbcdrama/index.m3u8
+Logo: https://i.ibb.co/21JHLXpk/cbcdrama.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: DMC DRAMA
+URL: https://live20.bozztv.com/gin-36bay4/ga-dmcdrama/index.m3u8
+Logo: https://i.ibb.co/N2msLHmY/dmcdrama.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: ON DRAMA
+URL: https://live20.bozztv.com/gin-36bay4/ga-ondrama/index.m3u8
+Logo: https://i.ibb.co/w9W05Dk/ondrama.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: DMC EGY

@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-29 13:55:54",
+  "date": "2025-05-29 21:53:19",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3453,14 +3453,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=sWDnXy_Ao7LF0OhveAUlbA&e=1748514255"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Y8_2C33DKSz53wRqpqfkLw&e=1748546159"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=sWDnXy_Ao7LF0OhveAUlbA&e=1748514255"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Y8_2C33DKSz53wRqpqfkLw&e=1748546159"
       },
       {
         "name": "TV8",
@@ -3817,7 +3817,7 @@
         "logo": "https://i.ibb.co/n1SCYqN/atv.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://bozztv.com/gin-36bay4/gt-atv-tv3/playlist.m3u8"
+        "url": "https://live20.bozztv.com/gin-36bay4/gt-atv-tv3/playlist.m3u8"
       },
       {
         "name": "ATV (backup)",
@@ -6767,6 +6767,13 @@
         "url": "https://live.tvkomala.com/live/komala/chunks.m3u8"
       },
       {
+        "name": "WELAT TV",
+        "logo": "https://i.ibb.co/cXd3MBV/symkr.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://stream.welattv.net:1935/welat/tv/.m3u8"
+      },
+      {
         "name": "JÎN TV",
         "logo": "https://i.ibb.co/cXd3MBV/symkr.png",
         "group": "Uncategorized",
@@ -9315,6 +9322,13 @@
         "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/telemaroc.m3u8"
       },
       {
+        "name": "TELE MAROC",
+        "logo": "https://i.ibb.co/rfwFbLk/telemaroc.gif",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay3/ga-telemaroc/index.m3u8"
+      },
+      {
         "name": "WATANIA 1",
         "logo": "https://i.ibb.co/5M4CwmQ/watania1.png",
         "group": "Uncategorized",
@@ -9350,11 +9364,46 @@
         "url": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8"
       },
       {
+        "name": "ATTASIA 9",
+        "logo": "https://i.ibb.co/8DxdBPf/Attessia9.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay3/ga-attessiatv/index.m3u8"
+      },
+      {
         "name": "NESSMA",
         "logo": "https://i.ibb.co/stZxQHF/nessma.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://edge66.magictvbox.com/liveApple/nessma/index.m3u8"
+      },
+      {
+        "name": "NESSMA",
+        "logo": "https://i.ibb.co/stZxQHF/nessma.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay4/ga-nessmatv/index.m3u8"
+      },
+      {
+        "name": "TUNISNA TV",
+        "logo": "https://i.ibb.co/svxJXfRv/tunisna.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay3/ga-tunisna/index.m3u8"
+      },
+      {
+        "name": "CARTHAGE TN",
+        "logo": "https://i.ibb.co/Cs2t9hGC/carthage.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay3/ga-carthageplus/index.m3u8"
+      },
+      {
+        "name": "HANNIBAL TN",
+        "logo": "https://i.ibb.co/C5bQvDyQ/hannibal.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay3/ga-hannibaltv/index.m3u8"
       },
       {
         "name": "TV2 ALGÉRIE",
@@ -9382,7 +9431,21 @@
         "logo": "https://i.ibb.co/yQmcHjz/echourouk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay3/ga-echorouktv/index.m3u8"
+      },
+      {
+        "name": "ECHOROUK TV DZ",
+        "logo": "https://i.ibb.co/yQmcHjz/echourouk.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://hls-distrib-rlb1.dzsecurity.net/live/EchoroukTV/playlist.m3u8?e=&token="
+      },
+      {
+        "name": "ECHOROUK NEWS DZ",
+        "logo": "https://i.ibb.co/1vH6q4L/echounws.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay3/ga-echorouknews/index.m3u8"
       },
       {
         "name": "ECHOROUK NEWS DZ",
@@ -11100,6 +11163,41 @@
         "url": "https://media2.livaat.com/AL-Jaleyah/index.m3u8"
       },
       {
+        "name": "KAHERA EG",
+        "logo": "https://i.ibb.co/N2H1qy00/kahera.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay3/ga-alkahera/index.m3u8"
+      },
+      {
+        "name": "AL HAYAH TV",
+        "logo": "https://i.ibb.co/rG6KzwsJ/hayah.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay4/ga-alhayah/index.m3u8"
+      },
+      {
+        "name": "AL HAYAH SERIES",
+        "logo": "https://i.ibb.co/xqPsDy1j/hayahseries.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay4/ga-alhayahseries/index.m3u8"
+      },
+      {
+        "name": "EL MEHWAR TV",
+        "logo": "https://i.ibb.co/QFjyLpxc/mehwar.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay4/ga-elmehwar/index.m3u8"
+      },
+      {
+        "name": "AL NAHAR TV",
+        "logo": "https://i.ibb.co/21jT7ywt/nahar.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay4/ga-alnahar/index.m3u8"
+      },
+      {
         "name": "ETIHAD",
         "logo": "https://i.ibb.co/740Znb4/ittihad.png",
         "group": "Uncategorized",
@@ -12371,7 +12469,7 @@
         "logo": "https://i.ibb.co/Ch3FNj9/tenar.jpg",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8"
+        "url": "https://live20.bozztv.com/gin-36bay3/ga-tentv/index.m3u8"
       },
       {
         "name": "IQRAA 1",
@@ -13016,6 +13114,27 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8"
+      },
+      {
+        "name": "CBC DRAMA",
+        "logo": "https://i.ibb.co/21JHLXpk/cbcdrama.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay4/ga-cbcdrama/index.m3u8"
+      },
+      {
+        "name": "DMC DRAMA",
+        "logo": "https://i.ibb.co/N2msLHmY/dmcdrama.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay4/ga-dmcdrama/index.m3u8"
+      },
+      {
+        "name": "ON DRAMA",
+        "logo": "https://i.ibb.co/w9W05Dk/ondrama.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay4/ga-ondrama/index.m3u8"
       },
       {
         "name": "DMC EGY",

@@ -2954,13 +2954,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=sWDnXy_Ao7LF0OhveAUlbA&e=1748514255",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Y8_2C33DKSz53wRqpqfkLw&e=1748546159",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=sWDnXy_Ao7LF0OhveAUlbA&e=1748514255",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Y8_2C33DKSz53wRqpqfkLw&e=1748546159",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -3266,7 +3266,7 @@
   {
     "name": "ATV (backup)",
     "type": "Uncategorized",
-    "url": "https://bozztv.com/gin-36bay4/gt-atv-tv3/playlist.m3u8",
+    "url": "https://live20.bozztv.com/gin-36bay4/gt-atv-tv3/playlist.m3u8",
     "img": "https://i.ibb.co/n1SCYqN/atv.png"
   },
   {
@@ -5796,6 +5796,12 @@
     "img": "https://i.ibb.co/cXd3MBV/symkr.png"
   },
   {
+    "name": "WELAT TV",
+    "type": "Uncategorized",
+    "url": "http://stream.welattv.net:1935/welat/tv/.m3u8",
+    "img": "https://i.ibb.co/cXd3MBV/symkr.png"
+  },
+  {
     "name": "JÎN TV",
     "type": "Uncategorized",
     "url": "https://live.jintv.org/medialive/jintv.m3u8",
@@ -7980,6 +7986,12 @@
     "img": "https://i.ibb.co/rfwFbLk/telemaroc.gif"
   },
   {
+    "name": "TELE MAROC",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay3/ga-telemaroc/index.m3u8",
+    "img": "https://i.ibb.co/rfwFbLk/telemaroc.gif"
+  },
+  {
     "name": "WATANIA 1",
     "type": "Uncategorized",
     "url": "http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8",
@@ -8010,10 +8022,40 @@
     "img": "https://i.ibb.co/8DxdBPf/Attessia9.png"
   },
   {
+    "name": "ATTASIA 9",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay3/ga-attessiatv/index.m3u8",
+    "img": "https://i.ibb.co/8DxdBPf/Attessia9.png"
+  },
+  {
     "name": "NESSMA",
     "type": "Uncategorized",
     "url": "https://edge66.magictvbox.com/liveApple/nessma/index.m3u8",
     "img": "https://i.ibb.co/stZxQHF/nessma.png"
+  },
+  {
+    "name": "NESSMA",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay4/ga-nessmatv/index.m3u8",
+    "img": "https://i.ibb.co/stZxQHF/nessma.png"
+  },
+  {
+    "name": "TUNISNA TV",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay3/ga-tunisna/index.m3u8",
+    "img": "https://i.ibb.co/svxJXfRv/tunisna.png"
+  },
+  {
+    "name": "CARTHAGE TN",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay3/ga-carthageplus/index.m3u8",
+    "img": "https://i.ibb.co/Cs2t9hGC/carthage.jpg"
+  },
+  {
+    "name": "HANNIBAL TN",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay3/ga-hannibaltv/index.m3u8",
+    "img": "https://i.ibb.co/C5bQvDyQ/hannibal.jpg"
   },
   {
     "name": "TV2 ALGÉRIE",
@@ -8036,8 +8078,20 @@
   {
     "name": "ECHOROUK TV DZ",
     "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay3/ga-echorouktv/index.m3u8",
+    "img": "https://i.ibb.co/yQmcHjz/echourouk.png"
+  },
+  {
+    "name": "ECHOROUK TV DZ",
+    "type": "Uncategorized",
     "url": "https://hls-distrib-rlb1.dzsecurity.net/live/EchoroukTV/playlist.m3u8?e=&token=",
     "img": "https://i.ibb.co/yQmcHjz/echourouk.png"
+  },
+  {
+    "name": "ECHOROUK NEWS DZ",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay3/ga-echorouknews/index.m3u8",
+    "img": "https://i.ibb.co/1vH6q4L/echounws.png"
   },
   {
     "name": "ECHOROUK NEWS DZ",
@@ -9510,6 +9564,36 @@
     "img": "https://i.ibb.co/PFCf0SG/jaylia.jpg"
   },
   {
+    "name": "KAHERA EG",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay3/ga-alkahera/index.m3u8",
+    "img": "https://i.ibb.co/N2H1qy00/kahera.jpg"
+  },
+  {
+    "name": "AL HAYAH TV",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay4/ga-alhayah/index.m3u8",
+    "img": "https://i.ibb.co/rG6KzwsJ/hayah.jpg"
+  },
+  {
+    "name": "AL HAYAH SERIES",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay4/ga-alhayahseries/index.m3u8",
+    "img": "https://i.ibb.co/xqPsDy1j/hayahseries.png"
+  },
+  {
+    "name": "EL MEHWAR TV",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay4/ga-elmehwar/index.m3u8",
+    "img": "https://i.ibb.co/QFjyLpxc/mehwar.jpg"
+  },
+  {
+    "name": "AL NAHAR TV",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay4/ga-alnahar/index.m3u8",
+    "img": "https://i.ibb.co/21jT7ywt/nahar.jpg"
+  },
+  {
     "name": "ETIHAD",
     "type": "Uncategorized",
     "url": "https://live.alittihad.tv:444/ittihad/playlist.m3u8",
@@ -10598,7 +10682,7 @@
   {
     "name": "TEN WEYYAK",
     "type": "Uncategorized",
-    "url": "https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8",
+    "url": "https://live20.bozztv.com/gin-36bay3/ga-tentv/index.m3u8",
     "img": "https://i.ibb.co/Ch3FNj9/tenar.jpg"
   },
   {
@@ -11152,6 +11236,24 @@
     "type": "Uncategorized",
     "url": "https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8",
     "img": "https://i.ibb.co/0jpsxm7/cbcsofra.png"
+  },
+  {
+    "name": "CBC DRAMA",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay4/ga-cbcdrama/index.m3u8",
+    "img": "https://i.ibb.co/21JHLXpk/cbcdrama.jpg"
+  },
+  {
+    "name": "DMC DRAMA",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay4/ga-dmcdrama/index.m3u8",
+    "img": "https://i.ibb.co/N2msLHmY/dmcdrama.png"
+  },
+  {
+    "name": "ON DRAMA",
+    "type": "Uncategorized",
+    "url": "https://live20.bozztv.com/gin-36bay4/ga-ondrama/index.m3u8",
+    "img": "https://i.ibb.co/w9W05Dk/ondrama.png"
   },
   {
     "name": "DMC EGY",
