@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-28 21:42:57",
+  "date": "2025-05-29 06:27:00",
   "channels": {
     "Uncategorized": [
       {
@@ -715,13 +715,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u",
         "url": "https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8"
-      },
-      {
-        "name": "Yanbian TV 1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u",
-        "url": "https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8"
       },
       {
         "name": "Yicai TV",
