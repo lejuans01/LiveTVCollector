@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-29 21:44:36",
+  "date": "2025-05-30 06:28:12",
   "channels": {
     "STREAMING": [
       {
@@ -1092,6 +1092,13 @@
         "url": "https://live.leveex.hr/hls/live.m3u8"
       },
       {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Diadora TV",
+        "logo": "https://i.imgur.com/bCtgVgT.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://diadoratv.stream/live/diadora/playlist.m3u8"
+      },
+      {
         "name": "TV Pi Kanal",
         "logo": "https://i.imgur.com/4qOQwjs.png",
         "group": "General",
@@ -1204,6 +1211,13 @@
         "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8"
       },
       {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Okto",
+        "logo": "https://i.imgur.com/azwM82Q.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8"
+      },
+      {
         "name": "W24 TV",
         "logo": "https://i.imgur.com/4j26Grp.png",
         "group": "General",
@@ -1283,6 +1297,13 @@
         "group": "News",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",OE24",
+        "logo": "https://i.imgur.com/EWKIonB.png",
+        "group": "News",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8"
       }
     ],
     "Music": [

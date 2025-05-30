@@ -2360,6 +2360,11 @@ URL: https://live.leveex.hr/hls/live.m3u8
 Logo: https://i.imgur.com/3QZSjFO.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",Diadora TV
+URL: https://diadoratv.stream/live/diadora/playlist.m3u8
+Logo: https://i.imgur.com/bCtgVgT.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
 Name: TV Pi Kanal
 URL: https://stream.pikanal.rs/pikanal/pgm.m3u8
 Logo: https://i.imgur.com/4qOQwjs.png
@@ -2438,6 +2443,11 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 Name: 3Sat
 URL: https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 Logo: https://i.imgur.com/B82f5Xd.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",Okto
+URL: https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+Logo: https://i.imgur.com/azwM82Q.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: W24 TV
@@ -4173,6 +4183,11 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",Deutsche Welle
 URL: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 Logo: https://i.imgur.com/U7P0eB8.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",OE24
+URL: https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
+Logo: https://i.imgur.com/EWKIonB.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 

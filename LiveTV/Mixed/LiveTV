@@ -906,6 +906,12 @@
     "img": "https://i.imgur.com/3QZSjFO.png"
   },
   {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Diadora TV",
+    "type": "General",
+    "url": "https://diadoratv.stream/live/diadora/playlist.m3u8",
+    "img": "https://i.imgur.com/bCtgVgT.png"
+  },
+  {
     "name": "TV Pi Kanal",
     "type": "General",
     "url": "https://stream.pikanal.rs/pikanal/pgm.m3u8",
@@ -1002,6 +1008,12 @@
     "img": "https://i.imgur.com/B82f5Xd.png"
   },
   {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Okto",
+    "type": "General",
+    "url": "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8",
+    "img": "https://i.imgur.com/azwM82Q.png"
+  },
+  {
     "name": "W24 TV",
     "type": "General",
     "url": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
@@ -1066,6 +1078,12 @@
     "type": "News",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8",
     "img": "https://i.imgur.com/U7P0eB8.png"
+  },
+  {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",OE24",
+    "type": "News",
+    "url": "https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8",
+    "img": "https://i.imgur.com/EWKIonB.png"
   },
   {
     "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",IDJTV",
