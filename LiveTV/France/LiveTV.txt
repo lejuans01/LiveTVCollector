@@ -1619,6 +1619,11 @@ URL: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/re
 Logo: https://i.ibb.co/BPpZPBn/arte.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: ARTE (backup)
+URL: https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/arte.m3u8
+Logo: https://i.ibb.co/BPpZPBn/arte.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: W9 (test)
 URL: https://joaquinito02.es/vavoo/128046615.m3u8
 Logo: https://i.ibb.co/LNRd253/w9.png
@@ -3450,12 +3455,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=b9b9JTBbG7dxkVKfvxNfCg&e=1748600504
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=R44no4z4nXhrCwgaEerm6A&e=1748632414
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=b9b9JTBbG7dxkVKfvxNfCg&e=1748600504
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=R44no4z4nXhrCwgaEerm6A&e=1748632414
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------

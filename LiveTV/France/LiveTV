@@ -756,6 +756,12 @@
     "img": "https://i.ibb.co/BPpZPBn/arte.png"
   },
   {
+    "name": "ARTE (backup)",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/arte.m3u8",
+    "img": "https://i.ibb.co/BPpZPBn/arte.png"
+  },
+  {
     "name": "W9 (test)",
     "type": "Uncategorized",
     "url": "https://joaquinito02.es/vavoo/128046615.m3u8",
@@ -2954,13 +2960,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=b9b9JTBbG7dxkVKfvxNfCg&e=1748600504",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=R44no4z4nXhrCwgaEerm6A&e=1748632414",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=b9b9JTBbG7dxkVKfvxNfCg&e=1748600504",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=R44no4z4nXhrCwgaEerm6A&e=1748632414",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
