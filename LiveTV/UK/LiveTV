@@ -132,6 +132,12 @@
     "img": "https://i.imgur.com/sua70RO.png"
   },
   {
+    "name": "Iqra TV",
+    "type": "Religious",
+    "url": "https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8",
+    "img": "https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png"
+  },
+  {
     "name": "Islam Channel (576p) [Not 24/7]",
     "type": "Religious",
     "url": "https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8",

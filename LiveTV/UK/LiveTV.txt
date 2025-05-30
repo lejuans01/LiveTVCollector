@@ -652,6 +652,11 @@ URL: https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 Logo: https://i.imgur.com/sua70RO.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
+Name: Iqra TV
+URL: https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
+Logo: https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
 Name: Islam Channel (576p) [Not 24/7]
 URL: https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 Logo: https://i.imgur.com/bJdFH7x.png
