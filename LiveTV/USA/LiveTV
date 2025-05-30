@@ -474,6 +474,12 @@
     "img": "https://i.imgur.com/2PL1Au7.png"
   },
   {
+    "name": "OCN TV",
+    "type": "Religious",
+    "url": "https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8",
+    "img": "https://i.imgur.com/iSB5Obl.png"
+  },
+  {
     "name": "Omid Javedan (720p) [Not 24/7]",
     "type": "Religious",
     "url": "http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8",
@@ -1746,9 +1752,9 @@
     "img": "https://i.imgur.com/4z0FiEA.png"
   },
   {
-    "name": "RVTV (1080p)",
+    "name": "RVTV",
     "type": "General",
-    "url": "https://rvtv-stirr.b-cdn.net/rvtv-on-stirr/playlist.m3u8",
+    "url": "https://sramsburg-hls.secdn.net/sramsburg-channel/play/s2bdf5.smil/playlist.m3u8",
     "img": "https://i.imgur.com/z6U7ClN.png"
   },
   {
@@ -1948,6 +1954,12 @@
     "type": "General",
     "url": "https://streams.helnix.com/autoHLS/ce3a40274f01c8fc/ce3a40274f01c8fc.m3u8",
     "img": "https://i.imgur.com/LfFPsEC.png"
+  },
+  {
+    "name": "Zarin TV",
+    "type": "General",
+    "url": "https://live20.bozztv.com/gin-36bay4/gf-zarintv/tracks-v1a1/mono.m3u8",
+    "img": "https://www.lyngsat.com/logo/tv/zz/zarin_tv.png"
   },
   {
     "name": "РТР Планета США",
@@ -2404,6 +2416,12 @@
     "type": "News",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1454-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40ed281a-4df6-4951-8bc0-abfa19c88be3",
     "img": "https://i.imgur.com/JdqA4r9.png"
+  },
+  {
+    "name": "Radio Farda TV",
+    "type": "News",
+    "url": "https://live20.bozztv.com/gin-36bay3/gp-radiofarda/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/t3MpSaP.png"
   },
   {
     "name": "Redseat The First (720p)",
@@ -8838,6 +8856,12 @@
     "img": "https://i.imgur.com/laupYwG.png"
   },
   {
+    "name": "Pluto TV Love Stories",
+    "type": "Series",
+    "url": "https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/playlist.m3u8",
+    "img": "https://i.imgur.com/BFESllF.png"
+  },
+  {
     "name": "Pluto TV Military",
     "type": "Series",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1453-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50b48d94-a9db-4b6e-9b51-1dab5c53dc35",
@@ -12534,6 +12558,18 @@
     "img": "https://i.imgur.com/PF71rdZ.png"
   },
   {
+    "name": "Channel One",
+    "type": "Culture;News",
+    "url": "https://live20.bozztv.com/gin-36bay3/gp-channelonehd/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/igskUo0.png"
+  },
+  {
+    "name": "Geb Tv (KBPX LD5) (1080p)",
+    "type": "Culture;News",
+    "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GEB_logo_blue.png/512px-GEB_logo_blue.png"
+  },
+  {
     "name": "Choppertown (720p)",
     "type": "Auto;Series",
     "url": "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8",
@@ -12580,12 +12616,6 @@
     "type": "Auto;Travel",
     "url": "http://104.143.4.5:2080/funroads.m3u8",
     "img": "https://i.imgur.com/2Q6TENm.png"
-  },
-  {
-    "name": "Geb Tv (KBPX LD5) (1080p)",
-    "type": "Culture;News",
-    "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GEB_logo_blue.png/512px-GEB_logo_blue.png"
   },
   {
     "name": "Gooder Nation Channel 32 (720p) [Not 24/7]",

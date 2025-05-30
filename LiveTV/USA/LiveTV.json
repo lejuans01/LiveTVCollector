@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-29 21:52:36",
+  "date": "2025-05-30 06:54:09",
   "channels": {
     "Religious": [
       {
@@ -554,6 +554,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8"
+      },
+      {
+        "name": "OCN TV",
+        "logo": "https://i.imgur.com/iSB5Obl.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8"
       },
       {
         "name": "Omid Javedan (720p) [Not 24/7]",
@@ -2046,11 +2053,11 @@
         "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8"
       },
       {
-        "name": "RVTV (1080p)",
+        "name": "RVTV",
         "logo": "https://i.imgur.com/z6U7ClN.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://rvtv-stirr.b-cdn.net/rvtv-on-stirr/playlist.m3u8"
+        "url": "https://sramsburg-hls.secdn.net/sramsburg-channel/play/s2bdf5.smil/playlist.m3u8"
       },
       {
         "name": "Santa Maria Community Television Public Access Channel (720p)",
@@ -2282,6 +2289,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://streams.helnix.com/autoHLS/ce3a40274f01c8fc/ce3a40274f01c8fc.m3u8"
+      },
+      {
+        "name": "Zarin TV",
+        "logo": "https://www.lyngsat.com/logo/tv/zz/zarin_tv.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay4/gf-zarintv/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "РТР Планета США",
@@ -2816,6 +2830,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1454-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40ed281a-4df6-4951-8bc0-abfa19c88be3"
+      },
+      {
+        "name": "Radio Farda TV",
+        "logo": "https://i.imgur.com/t3MpSaP.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay3/gp-radiofarda/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Redseat The First (720p)",
@@ -10348,6 +10369,13 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8beeb39b5d5d5f8c672530/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1452-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bffb5ed7-ddb0-4c7b-9457-e8614af008a2"
       },
       {
+        "name": "Pluto TV Love Stories",
+        "logo": "https://i.imgur.com/BFESllF.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/playlist.m3u8"
+      },
+      {
         "name": "Pluto TV Military",
         "logo": "https://i.imgur.com/O8VXZB4.png",
         "group": "Series",
@@ -14692,6 +14720,22 @@
         "url": "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8"
       }
     ],
+    "Culture;News": [
+      {
+        "name": "Channel One",
+        "logo": "https://i.imgur.com/igskUo0.png",
+        "group": "Culture;News",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay3/gp-channelonehd/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "Geb Tv (KBPX LD5) (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GEB_logo_blue.png/512px-GEB_logo_blue.png",
+        "group": "Culture;News",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
+      }
+    ],
     "Auto;Series": [
       {
         "name": "Choppertown (720p)",
@@ -14760,15 +14804,6 @@
         "group": "Auto;Travel",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://104.143.4.5:2080/funroads.m3u8"
-      }
-    ],
-    "Culture;News": [
-      {
-        "name": "Geb Tv (KBPX LD5) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GEB_logo_blue.png/512px-GEB_logo_blue.png",
-        "group": "Culture;News",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
       }
     ],
     "Animation;General": [

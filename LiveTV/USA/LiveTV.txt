@@ -3892,6 +3892,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 
 Group: Culture;News
+Name: Channel One
+URL: https://live20.bozztv.com/gin-36bay3/gp-channelonehd/tracks-v1a1/mono.m3u8
+Logo: https://i.imgur.com/igskUo0.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Geb Tv (KBPX LD5) (1080p)
 URL: https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GEB_logo_blue.png/512px-GEB_logo_blue.png
@@ -6208,8 +6213,8 @@ URL: https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
 Logo: https://i.imgur.com/4z0FiEA.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: RVTV (1080p)
-URL: https://rvtv-stirr.b-cdn.net/rvtv-on-stirr/playlist.m3u8
+Name: RVTV
+URL: https://sramsburg-hls.secdn.net/sramsburg-channel/play/s2bdf5.smil/playlist.m3u8
 Logo: https://i.imgur.com/z6U7ClN.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -6376,6 +6381,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: WPAA TV (Wallingford CT) (1080p)
 URL: https://streams.helnix.com/autoHLS/ce3a40274f01c8fc/ce3a40274f01c8fc.m3u8
 Logo: https://i.imgur.com/LfFPsEC.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Zarin TV
+URL: https://live20.bozztv.com/gin-36bay4/gf-zarintv/tracks-v1a1/mono.m3u8
+Logo: https://www.lyngsat.com/logo/tv/zz/zarin_tv.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: РТР Планета США
@@ -16288,6 +16298,11 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/JdqA4r9.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: Radio Farda TV
+URL: https://live20.bozztv.com/gin-36bay3/gp-radiofarda/tracks-v1a1/mono.m3u8
+Logo: https://i.imgur.com/t3MpSaP.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Redseat The First (720p)
 URL: https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
 Logo: https://i.imgur.com/t794qkT.png
@@ -18738,6 +18753,11 @@ URL: https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 Logo: https://i.imgur.com/2PL1Au7.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: OCN TV
+URL: https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
+Logo: https://i.imgur.com/iSB5Obl.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: Omid Javedan (720p) [Not 24/7]
 URL: http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
 Logo: https://i.imgur.com/K7502YG.png
@@ -19344,6 +19364,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Pluto TV Lives
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8beeb39b5d5d5f8c672530/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1452-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bffb5ed7-ddb0-4c7b-9457-e8614af008a2
 Logo: https://i.imgur.com/laupYwG.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Pluto TV Love Stories
+URL: https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/playlist.m3u8
+Logo: https://i.imgur.com/BFESllF.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Military
