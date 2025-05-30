@@ -101,6 +101,8 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="General",ONDA DIGITAL (720p)
 https://tv.ondadigital.pe/ondadigital/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wsJ8Ag2.png" group-title="General",Primavera 15
+https://servilive.com:3538/live/v6qe84b6flive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iHaFLHX.png" group-title="General",RadioTV Oriente
 https://live.obslivestream.com/tvoriente/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="General",TELE 6
