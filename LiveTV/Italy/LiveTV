@@ -474,6 +474,12 @@
     "img": "https://i.imgur.com/kQKzpYj.png"
   },
   {
+    "name": "Tele One 16",
+    "type": "General",
+    "url": "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8",
+    "img": "https://www.lyngsat.com/logo/tv/tt/tele-one-16-it.png"
+  },
+  {
     "name": "Tele Roma Uno (720p)",
     "type": "General",
     "url": "https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8",
