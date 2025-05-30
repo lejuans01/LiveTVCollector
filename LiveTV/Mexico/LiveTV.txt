@@ -332,6 +332,13 @@ Logo: https://neotv.cl/img/pridetv-512.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
+Group: Entertainment;News
+Name: PSN
+URL: https://srspsn.live/live/livestream.m3u8
+Logo: https://i.imgur.com/7i7GkSL.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
+
 Group: General
 Name: 8NTV (1080p)
 URL: https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8

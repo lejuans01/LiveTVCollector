@@ -4728,6 +4728,12 @@
     "img": "https://neotv.cl/img/pridetv-512.png"
   },
   {
+    "name": "PSN",
+    "type": "Entertainment;News",
+    "url": "https://srspsn.live/live/livestream.m3u8",
+    "img": "https://i.imgur.com/7i7GkSL.png"
+  },
+  {
     "name": "Radio Suyai TV (1080p)",
     "type": "Culture;Music",
     "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe",
