@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-30 21:54:15",
+  "date": "2025-05-31 06:56:22",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3460,14 +3460,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=R44no4z4nXhrCwgaEerm6A&e=1748632414"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=yE9S0Q-aLjAWb-Yj-sxg1g&e=1748668802"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=R44no4z4nXhrCwgaEerm6A&e=1748632414"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=yE9S0Q-aLjAWb-Yj-sxg1g&e=1748668802"
       },
       {
         "name": "TV8",
@@ -17524,162 +17524,6 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/612e044c970e6f00083bcf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2371cf64-2e91-492c-9f0c-c88a7f973944"
       }
     ],
-    "General": [
-      {
-        "name": "20 Minutes TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8"
-      },
-      {
-        "name": "Alpe d’Huez TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/090tCQ5.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8"
-      },
-      {
-        "name": "Antenne Réunion (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/EPIMMaB.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01"
-      },
-      {
-        "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\",BFM Alsace (1080p)",
-        "logo": "https://i.imgur.com/iRsbEpg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE"
-      },
-      {
-        "name": "Canal 32 (1080p)",
-        "logo": "https://i.imgur.com/lAsE6kN.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://livevideo.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8"
-      },
-      {
-        "name": "Chérie 25 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8"
-      },
-      {
-        "name": "D5tv (1080p)",
-        "logo": "https://i.imgur.com/FpNAT5b.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8"
-      },
-      {
-        "name": "France 2 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://69.64.57.208/france2/mono.m3u8"
-      },
-      {
-        "name": "France 3 (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8"
-      },
-      {
-        "name": "France 5 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://69.64.57.208/france5/mono.m3u8"
-      },
-      {
-        "name": "Nancy Web TV (394p) [Not 24/7]",
-        "logo": "https://i.imgur.com/a1OO1t6.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8"
-      },
-      {
-        "name": "Puissance TV",
-        "logo": "https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://edge12.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8"
-      },
-      {
-        "name": "Tébéo TV (1080p)",
-        "logo": "https://i.imgur.com/WdZWBEd.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://start-1.direct.live/hls/tebeo.m3u8"
-      },
-      {
-        "name": "TMC (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8"
-      },
-      {
-        "name": "TV3V (720p)",
-        "logo": "https://i.ibb.co/X2yd0zL/logo-tv3v.jpg",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8"
-      },
-      {
-        "name": "TV5Monde Europe (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/rPAbMSu.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8"
-      },
-      {
-        "name": "TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/WmRbudc.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8"
-      },
-      {
-        "name": "TV7 Colmar (576p)",
-        "logo": "https://i.imgur.com/kSdGi43.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8"
-      },
-      {
-        "name": "TV Tarn (720p)",
-        "logo": "https://i.imgur.com/MJdY1m3.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8"
-      },
-      {
-        "name": "TV Vendée (480p)",
-        "logo": "https://i.imgur.com/YW7JKcw.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVVendee.m3u8"
-      },
-      {
-        "name": "Wéo (Hauts-de-France) (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/qtpclVj.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8"
-      },
-      {
-        "name": "РТР Планета Евро",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603"
-      }
-    ],
     "News": [
       {
         "name": "24 Horas Internacional [Geo-blocked]",
@@ -17815,34 +17659,139 @@
         "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"
       }
     ],
-    "Animation": [
+    "General": [
       {
-        "name": "ADN TV+ (1080p) [Geo-Blocked]",
-        "logo": "https://i.imgur.com/HQZQyWt.png",
-        "group": "Animation",
+        "name": "Alpe d’Huez TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/090tCQ5.png",
+        "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://samsunguk-adn-samsung-fre-qfrlc.amagi.tv/playlist/samsunguk-adn-samsung-fre/playlist.m3u8"
+        "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8"
       },
       {
-        "name": "Gaming TV",
-        "logo": "https://i.imgur.com/Og6LBFc.png",
-        "group": "Animation",
+        "name": "Antenne Réunion (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/EPIMMaB.png",
+        "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eccd81062c300078a11df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050353-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1020d719-457b-4030-b4a2-b5301461d381"
+        "url": "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01"
       },
       {
-        "name": "South Park",
-        "logo": "https://i.imgur.com/qA3KsTh.png",
-        "group": "Animation",
+        "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\",BFM Alsace (1080p)",
+        "logo": "https://i.imgur.com/iRsbEpg.png",
+        "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/618e34ac4a270700077b1f32/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0662e4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0d7bbd81-5b0c-45a3-b97c-c2ac8161fb85"
+        "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE"
       },
       {
-        "name": "XilamTV (1080p)",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_k6spR1AVLZ0ISqrFP-Z9JeBMHPpAc9T-pmFlG6_lSkNw=s160-c-k-c0x00ffffff-no-rj",
-        "group": "Animation",
+        "name": "Canal 32 (1080p)",
+        "logo": "https://i.imgur.com/lAsE6kN.png",
+        "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8"
+        "url": "https://edge21.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8"
+      },
+      {
+        "name": "France 2 (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://69.64.57.208/france2/mono.m3u8"
+      },
+      {
+        "name": "France 3 (1080p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8"
+      },
+      {
+        "name": "France 5 (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://69.64.57.208/france5/mono.m3u8"
+      },
+      {
+        "name": "Nancy Web TV (394p) [Not 24/7]",
+        "logo": "https://i.imgur.com/a1OO1t6.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8"
+      },
+      {
+        "name": "Puissance TV",
+        "logo": "https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://edge12.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8"
+      },
+      {
+        "name": "Tébéo TV (1080p)",
+        "logo": "https://i.imgur.com/WdZWBEd.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://start-1.direct.live/hls/tebeo.m3u8"
+      },
+      {
+        "name": "TMC (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8"
+      },
+      {
+        "name": "TV3V (720p)",
+        "logo": "https://i.ibb.co/X2yd0zL/logo-tv3v.jpg",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8"
+      },
+      {
+        "name": "TV5Monde Europe (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/rPAbMSu.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8"
+      },
+      {
+        "name": "TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/WmRbudc.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8"
+      },
+      {
+        "name": "TV7 Colmar (576p)",
+        "logo": "https://i.imgur.com/kSdGi43.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8"
+      },
+      {
+        "name": "TV Tarn (720p)",
+        "logo": "https://i.imgur.com/MJdY1m3.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8"
+      },
+      {
+        "name": "TV Vendée (480p)",
+        "logo": "https://i.imgur.com/YW7JKcw.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVVendee.m3u8"
+      },
+      {
+        "name": "Wéo (Hauts-de-France) (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/qtpclVj.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8"
+      },
+      {
+        "name": "РТР Планета Евро",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603"
       }
     ],
     "Series": [
@@ -18137,25 +18086,11 @@
         "url": "https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8"
       },
       {
-        "name": "BIP TV (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/YQjm4U5.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://biptv.tv/live/biptvstream_orig/index.m3u8"
-      },
-      {
         "name": "Car City Adventures (720p)",
         "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b6397b24-18b0-49c2-80bf-0333ae568e37/5.m3u8"
-      },
-      {
-        "name": "Central TV (614p) [Not 24/7]",
-        "logo": "https://i.imgur.com/2DU22BN.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8"
       },
       {
         "name": "Generations TV (576p)",
@@ -18361,36 +18296,13 @@
         "url": "https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8"
       }
     ],
-    "Culture": [
-      {
-        "name": "CDirect (360p)",
-        "logo": "https://i.imgur.com/Zis4TRh.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://51.254.199.122:8080/cdirectTV/index.m3u8"
-      },
-      {
-        "name": "Souvenirs from Earth TV",
-        "logo": "https://i.ibb.co/Qf1Ys8S/SOUVENIRS-FROM-EARTH.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://stream.castr.com/615c867def76d75817460129/live_f3bc1800279a11ec89f80341acd6773a/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",НТВ Мир (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/pUcV46F.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://ott-cdn.ucom.am/s17/index.m3u8"
-      }
-    ],
     "Music": [
       {
-        "name": "DBM (1080p)",
+        "name": "DBM TV (1080p)",
         "logo": "https://i.imgur.com/ab6p2SW.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8"
+        "url": "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
       },
       {
         "name": "MCM",
@@ -18544,13 +18456,6 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05c6a5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aa2cd1f8-5f20-441d-97cb-63e4c1c5e4f6"
       },
       {
-        "name": "RMC Sport 1",
-        "logo": "https://i.imgur.com/NsFTG7u.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-        "url": "http://51.254.199.122:8080/SARMC1/index.m3u8"
-      },
-      {
         "name": "World Poker Tour (1080p)",
         "logo": "https://i.imgur.com/98kLMjj.png",
         "group": "Sports",
@@ -18662,6 +18567,29 @@
         "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8"
       }
     ],
+    "Animation": [
+      {
+        "name": "Gaming TV",
+        "logo": "https://i.imgur.com/Og6LBFc.png",
+        "group": "Animation",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eccd81062c300078a11df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050353-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1020d719-457b-4030-b4a2-b5301461d381"
+      },
+      {
+        "name": "South Park",
+        "logo": "https://i.imgur.com/qA3KsTh.png",
+        "group": "Animation",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/618e34ac4a270700077b1f32/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0662e4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0d7bbd81-5b0c-45a3-b97c-c2ac8161fb85"
+      },
+      {
+        "name": "XilamTV (1080p)",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_k6spR1AVLZ0ISqrFP-Z9JeBMHPpAc9T-pmFlG6_lSkNw=s160-c-k-c0x00ffffff-no-rj",
+        "group": "Animation",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8"
+      }
+    ],
     "Kids;Series": [
       {
         "name": "Inazuma Eleven",
@@ -18768,6 +18696,22 @@
         "group": "Auto",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/618d4ea306d23b0007356080/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0662e3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d7e5e82-392b-4e7e-84f2-2f5ce35e088d"
+      }
+    ],
+    "Culture": [
+      {
+        "name": "Souvenirs from Earth TV",
+        "logo": "https://i.ibb.co/Qf1Ys8S/SOUVENIRS-FROM-EARTH.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://stream.castr.com/615c867def76d75817460129/live_f3bc1800279a11ec89f80341acd6773a/index.m3u8"
+      },
+      {
+        "name": "like Gecko) Mobile/15E148\",НТВ Мир (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/pUcV46F.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://ott-cdn.ucom.am/s17/index.m3u8"
       }
     ],
     "Family": [
