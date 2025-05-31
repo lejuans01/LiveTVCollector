@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-30 21:53:01",
+  "date": "2025-05-31 06:54:15",
   "channels": {
     "Religious": [
       {
@@ -1136,11 +1136,11 @@
         "url": "https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8"
       },
       {
-        "name": "Atlanta Channel (720p)",
+        "name": "Atlanta Channel",
         "logo": "https://i.imgur.com/MOGQAns.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8"
+        "url": "https://live20.bozztv.com/dvrfl05/gin-atlantachannel/index.m3u8"
       },
       {
         "name": "AuroraTV (Aurora CO) (720p)",
@@ -19920,6 +19920,13 @@
         "group": "Public Access",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://video.oct.dc.gov/out/u/412.m3u8"
+      },
+      {
+        "name": "Atlanta Channel (Atlanta GA)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Public Access",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8"
       },
       {
         "name": "CobbTV (Atlanta GA)",

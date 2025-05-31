@@ -321,8 +321,8 @@ https://agp-nimble.streamguys1.com/AGCC/AGCC/playlist.m3u8
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="General",ARY Digital USA (720p) [Not 24/7]
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOGQAns.png" group-title="General",Atlanta Channel (720p)
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOGQAns.png" group-title="General",Atlanta Channel
+https://live20.bozztv.com/dvrfl05/gin-atlantachannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8Q1ASR.png" group-title="General",AuroraTV (Aurora CO) (720p)
 https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OjpCtGj.png" group-title="General",AWE (720p)
@@ -5641,6 +5641,8 @@ http://video.oct.dc.gov/out/u/120.m3u8
 http://video.oct.dc.gov/out/u/123.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Public Access",Room 412 (District of Columbia Channel)
 http://video.oct.dc.gov/out/u/412.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Public Access",Atlanta Channel (Atlanta GA)
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Public Access",CobbTV (Atlanta GA)
 https://stream2.earthchannel.com/CobbCoGALIVE/_definst_/CobbCoGALIVE.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Public Access",Newington Community Television Channel 14 (Newington CT)

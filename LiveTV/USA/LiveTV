@@ -966,9 +966,9 @@
     "img": "https://i.imgur.com/TVP7g03.png"
   },
   {
-    "name": "Atlanta Channel (720p)",
+    "name": "Atlanta Channel",
     "type": "General",
-    "url": "http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8",
+    "url": "https://live20.bozztv.com/dvrfl05/gin-atlantachannel/index.m3u8",
     "img": "https://i.imgur.com/MOGQAns.png"
   },
   {
@@ -16923,6 +16923,12 @@
     "name": "Room 412 (District of Columbia Channel)",
     "type": "Public Access",
     "url": "http://video.oct.dc.gov/out/u/412.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Atlanta Channel (Atlanta GA)",
+    "type": "Public Access",
+    "url": "http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
