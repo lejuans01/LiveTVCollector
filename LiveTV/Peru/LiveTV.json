@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-25 06:31:47",
+  "date": "2025-07-25 13:47:00",
   "channels": {
     "News": [
       {
@@ -2462,7 +2462,7 @@
       },
       {
         "name": "46.1 |  SUPER TV ᴴᴰ |",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "logo": "https://i.imgur.com/ITgwlL5.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://play.agenciastreaming.com:8081/superhits/tracks-v1a1/mono.m3u8"
