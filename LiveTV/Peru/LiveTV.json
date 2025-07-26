@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-26 13:45:07",
+  "date": "2025-07-26 21:43:39",
   "channels": {
     "News": [
       {
@@ -2931,7 +2931,7 @@
       },
       {
         "name": "141 | EDUCA SM ᴴᴰ |",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "logo": "https://i.imgur.com/uic3mEe.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://tv.perustream.com:3056/stream/play.m3u8"
